@@ -1,16 +1,41 @@
-### Hi there 👋
+# Dokyun Lim - @koremp
 
-<!--
-**koremp/koremp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Developer, Interested in FrontEnd
 
-Here are some ideas to get you started:
+I'm currently learning React.js in CodeSoom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* React.js
+* Jest, webpack, 
+* GitHub
+
+## Experience
+
+### VisionSemicon
+
+* 2018.10 ~ 2019.01 (3 months)
+* employee
+* Studying ROS
+* Make ROS package
+  * ENV : Ubuntu 16.04, ROS 1, ROS Kinetic Kame
+  * PURPOSE : communicate between ROS Turtle Bot and CAN Device
+  * WORK : set device and communicate digital IO
+
+### Amis Technology
+
+* 2018.1 ~ 2018.1 (1 month)
+* Internship
+* Make DBMS using C#, Windows Form
+
+## Education
+
+### KNOU
+
+* 2020 ~ now
+* MAJOR : Computer Science
+
+### Daedeok Software Meister Highschool
+
+* 2016.3 ~ 2019.1
+* MAJOR : Imbedded Software
