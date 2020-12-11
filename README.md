@@ -6,8 +6,11 @@ I'm currently learning React.js in CodeSoom
 
 ## Skills
 
+### FE
+
 * React.js
-* Jest, webpack, 
+* Jest, webpack
+* Python, C
 * GitHub
 
 ## Experience
