@@ -19,8 +19,8 @@ I'm currently learning React.js in CodeSoom
 
 * 2018.10 ~ 2019.01 (3 months)
 * employee
-* Studying ROS
-* Make ROS package
+* Studied ROS
+* Made ROS package
   * ENV : Ubuntu 16.04, ROS 1, ROS Kinetic Kame
   * PURPOSE : communicate between ROS Turtle Bot and CAN Device
   * WORK : set device and communicate digital IO
@@ -29,7 +29,7 @@ I'm currently learning React.js in CodeSoom
 
 * 2018.1 ~ 2018.1 (1 month)
 * Internship
-* Make DBMS using C#, Windows Form
+* Made DBMS using C#, Windows Form
 
 ## Education
 
