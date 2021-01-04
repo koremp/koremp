@@ -8,8 +8,7 @@ I'm currently learning React.js in CodeSoom
 
 ### FE
 
-* React.js
-* Jest, webpack
+* React.js, Jest, webpack
 * Python, C
 * GitHub
 
