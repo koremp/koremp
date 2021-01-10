@@ -6,10 +6,15 @@ I'm currently learning React.js in CodeSoom
 
 ## Skills
 
-### FE
+### Front-end
 
-* React.js, Jest, webpack
+* React.js, Jest, webpack, babel
+
+### Back-end
 * Python, C
+
+### etc
+
 * GitHub
 
 ## Experience
