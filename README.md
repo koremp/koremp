@@ -11,6 +11,7 @@ I'm currently learning React.js in CodeSoom
 * React.js, Jest, webpack, babel
 
 ### Back-end
+
 * Python, C
 
 ### etc
@@ -19,6 +20,12 @@ I'm currently learning React.js in CodeSoom
 * ROS
 
 ## Experience
+
+### SIA
+
+* 2021.03 ~ present
+* Front-End Intern
+* React.js
 
 ### VisionSemicon
 
