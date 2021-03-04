@@ -8,7 +8,7 @@ I'm currently working at [SIA](https://www.si-analytics.ai/)
 
 ### Front-end
 
-* React.js, Jest, webpack, babel
+* React.js, Jest, webpack, babel, TypeScript, JavaScript
 
 ### Back-end
 
@@ -21,13 +21,14 @@ I'm currently working at [SIA](https://www.si-analytics.ai/)
 
 ## Experience
 
-### SIA
+### [SIA](https://www.si-analytics.ai/)
 
-* 2021.03 ~ present
-* Front-End Intern
-* React.js
+* 2021.03 ~ 2021.06(expected)
+* Internship
+* Develop FrontEnd 
+* React.js, TypeScript, Yarn
 
-### VisionSemicon
+### [VisionSemicon](http://www.visionsemicon.co.kr/main)
 
 * 2018.10 ~ 2019.01 (3 months)
 * employee
@@ -37,7 +38,7 @@ I'm currently working at [SIA](https://www.si-analytics.ai/)
   * PURPOSE : communicate between ROS Turtle Bot and CAN Device
   * WORK : set device and communicate digital IO
 
-### Amis Technology
+### [Amis Technology](https://www.amistech.co.kr/)
 
 * 2018.1 ~ 2018.1 (1 month)
 * Internship
