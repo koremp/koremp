@@ -46,12 +46,12 @@ I'm currently working at [SIA](https://www.si-analytics.ai/)
 
 ## Education
 
-### KNOU
+### [KNOU](https://engknou.knou.ac.kr/engknou/index.do?epTicket=LOG)
 
 * 2020 ~ now
 * MAJOR : Computer Science
 
-### Daedeok Software Meister Highschool
+### [Daedeok Software Meister Highschool](https://www.entrydsm.hs.kr/)
 
 * 2016.3 ~ 2019.1
 * MAJOR : Imbedded Software
