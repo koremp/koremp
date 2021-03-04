@@ -2,7 +2,7 @@
 
 Junior Developer, Interested in FrontEnd
 
-I'm currently learning React.js in CodeSoom
+I'm currently working at [SIA](https://www.si-analytics.ai/)
 
 ## Skills
 
