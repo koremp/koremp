@@ -23,7 +23,7 @@ I'm currently working at [SIA](https://www.si-analytics.ai/)
 
 ### [SIA](https://www.si-analytics.ai/)
 
-* 2021.03 ~ 2021.06(expected)
+* 2021.03 ~ 2021.06(expected / 4 months)
 * Internship
 * Develop FrontEnd 
 * React.js, TypeScript, Yarn
