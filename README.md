@@ -47,7 +47,7 @@ Like Drinking stuff(alcohol, coffee, etc).
 ### Vision Semicon
 
 * 2018.10 ~ 2019.01 (3 months)
-* Studied Basic TensorFlow, DeepLearning <https://github.com/koremp/dl_from_scratch>
+* Studied Basic TensorFlow, DeepLearning - <https://github.com/koremp/dl_from_scratch>
 * Made ROS digital input/output library with ROS Kinetic Kame, C++, Python, Ubuntu 16.04 to use internal ROS project
 * Contributed to ROS Korean Tutorial/Wiki (personally)
 
@@ -85,8 +85,8 @@ Like Drinking stuff(alcohol, coffee, etc).
 * 2016.03 ~ 2019.01 (3 years)
 * Major: Imbedded Software Programming
 * Repos
- * <https://github.com/koremp/MCU_Study>
- * <https://github.com/koremp/Imbedded_TIL>
+  * <https://github.com/koremp/MCU_Study>
+  * <https://github.com/koremp/Imbedded_TIL>
 
 ## GitHub Stats
 
