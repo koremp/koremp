@@ -33,7 +33,7 @@ Big Fan of LCK, especially T1.
 
 Buy Books which are I like, and don't read many of them.
 
-Like drinking stuff.
+Like Drinking stuff(alcohol, coffee, etc).
 
 ## Experience
 
@@ -47,7 +47,7 @@ Like drinking stuff.
 ### Vision Semicon
 
 * 2018.10 ~ 2019.01 (3 months)
-* Studied Basic TensorFlow, DeepLearning
+* Studied Basic TensorFlow, DeepLearning <https://github.com/koremp/dl_from_scratch>
 * Made ROS digital input/output library with ROS Kinetic Kame, C++, Python, Ubuntu 16.04 to use internal ROS project
 * Contributed to ROS Korean Tutorial/Wiki (personally)
 
@@ -67,11 +67,26 @@ Like drinking stuff.
 
 * 2020.07 ~ 
 * Currently leave of absence
+* Repos
+  * <https://github.com/koremp/knou-study>
+
+### Smart Data Expert Course
+
+* 2019.06 ~ 2019.08 (quitted while studying)
+* Learning R, Statistic Analyses, Python
+* Repos
+  * <https://github.com/koremp/R_data_analsys>
+  * <https://github.com/koremp/r-stats-analsys>
+  * <https://github.com/koremp/ACADEMY_TIL>
+  * Crawling Naver Movie Reviews - <https://github.com/koremp/python-crawling>
 
 ### DSM - Daedeok Software Meister HighSchool
 
 * 2016.03 ~ 2019.01 (3 years)
 * Major: Imbedded Software Programming
+* Repos
+ * <https://github.com/koremp/MCU_Study>
+ * <https://github.com/koremp/Imbedded_TIL>
 
 ## GitHub Stats
 
