@@ -60,7 +60,7 @@ My Resume is on this [google docs link](https://docs.google.com/document/d/1TWhl
 
 [![koremp's GitHub stats](https://github-readme-stats.vercel.app/api?username=koremp&count_private=true)](https://github.com/kormep)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koremp&theme=dracula&exclude_repo=fe-roadmap-study&layout=compact&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koremp&theme=dracula&exclude_repo=fe-roadmap-study&langs_count=10)
 
 ## Solved.ac Profile
 
