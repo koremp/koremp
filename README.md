@@ -12,10 +12,6 @@ Junior Software Engineer
 
 Interested in Front-end, especially React.js, TypeScript.
 
-Currently studying [프론트엔드 학습 로드맵
- (Front-end Study Roadmap)](https://euncho.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%99%EC%8A%B5-%EB%A1%9C%EB%93%9C%EB%A7%B5-91c3bc11dec0)
-and writing logs to my [fe-roadmap-study](https://github.com/koremp/fe-roadmap-study)  repository. Also trying to solve alrogithm problems everyday and also writing logs to my [algorithm study](https://github.com/koremp/algorithm) repository
-
 My Resume is on this [google docs link](https://docs.google.com/document/d/1TWhlM0nXuYhc6Ii9N7ndwBhOMTOU_DK-PYdTf8NQS58/edit?usp=sharing)
 
 ### Personally
