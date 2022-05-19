@@ -12,6 +12,8 @@ Junior Software Engineer
 
 Interested in Front-end, especially React.js, TypeScript.
 
+Currently Re-studying CodeSoom React.js Courses for re-learning TDD stuff.
+
 My Resume is on this [google docs link](https://docs.google.com/document/d/1TWhlM0nXuYhc6Ii9N7ndwBhOMTOU_DK-PYdTf8NQS58/edit?usp=sharing)
 
 ### Personally
