@@ -46,8 +46,8 @@ Like Drinking stuff(alcohol, coffee, etc).
 
 * 2018.10 ~ 2019.01 (3 months)
 * Studied Basic TensorFlow, DeepLearning - <https://github.com/koremp/dl_from_scratch>
-* Made ROS digital input/output library with ROS Kinetic Kame, C++, Python, Ubuntu 16.04 to use internal ROS project
-* Contributed to ROS Korean Tutorial/Wiki (personally)
+* Made ROS digital input/output library with ROS Kinetic Kame, C++, Python, Ubuntu 16.04 to use internal ROS project - <https://github.com/ros-industrial/ros_canopen>
+* Contributed to ROS Korean Tutorial/Wiki (personally) - <https://wiki.ros.org/>, Dovidy
 
 ### Amis Techknowledge
 
@@ -60,6 +60,9 @@ Like Drinking stuff(alcohol, coffee, etc).
 
 * 2020.09 ~ 2020.12
 * Studying TDD, JavaScript, React.js, WebPack, Redux, GitHub, etc
+* https://www.codesoom.com/courses/react
+* Repos
+  * study again in this repo - <https://github.com/koremp/cs-react>
 
 ### KNOU - Korean National Open University
 
@@ -85,6 +88,23 @@ Like Drinking stuff(alcohol, coffee, etc).
 * Repos
   * <https://github.com/koremp/MCU_Study>
   * <https://github.com/koremp/Imbedded_TIL>
+
+## Projects
+
+### FanCheer V2 with Next.js, TypeScript
+
+* <https://github.com/koremp/fancheer-ts-2>
+* 2022.1 ~ 2022.2
+* Street Woman Fighter Fan Page
+* React.js, Next.js, TypeScript, Ant Design, GitHub Pages, GitHub Actions
+
+### FanCheer 
+
+* <https://github.com/kormep/fancheer>
+* 2020.12 ~ 2021.2
+* (G)I-DLE Fan Page
+* React.js, Webpack, JavaScript, Jest, TDD, Pure CSS, GitHub Pages, GitHub Actions
+* First React.js and Web Frontend Project
 
 ## GitHub Stats
 
