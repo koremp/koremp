@@ -21,6 +21,8 @@ My Resume is on this [Google Docs - Updated 20220524](https://docs.google.com/do
 
 Proudly queer(ally) intersectional feminist. Adopting to veganism, and trying vegan.
 
+I trying to manage my todo-list in issues on [this repo](https://github.com/koremp/koremp/issues)
+
 My Music Taste is mainly Classical Music, Rock, K-POP, Musical Theatre. 
 
 My Youtube Music Playlist
