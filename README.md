@@ -12,9 +12,10 @@ Junior Software Engineer
 
 Interested in Front-end, especially React.js, TypeScript.
 
-Currently Re-studying CodeSoom React.js Courses for re-learning TDD stuff.
+Currently Re-studying CodeSoom React.js Courses for re-learning TDD stuff. <https://github.com/koremp/cs-react>
 
-My Resume is on this [google docs link](https://docs.google.com/document/d/1TWhlM0nXuYhc6Ii9N7ndwBhOMTOU_DK-PYdTf8NQS58/edit?usp=sharing)
+My Resume is on this [Google Docs - Updated 20220524](https://docs.google.com/document/d/14g4BvO9lmZV_1bZ7aQs5fPXBB2g5mngz7dfLm16bskc/edit?usp=sharing)
+
 
 ### Personally
 
@@ -29,27 +30,25 @@ My Youtube Music Playlist
 
 Big Fan of LCK, especially T1. 
 
-Buy Books which are I like, and don't read many of them.
-
-Like Drinking stuff(alcohol, coffee, etc).
+Like Drinking stuff(alcohol, coffee, etc). 
 
 ## Experience
 
-### SI Analytics
+### SI Analytics - Frontend Engineer Internship
 
 * 2021.03 ~ 06 (4 months)
 * Made desktop client with React.js, TypeScript, Ant Design, Azure DevOps/Pipelines, Git, Redux-Toolkit, Electron, Canvas, SASS.
 * Communicate Backend(built by Armeria) with gRPC
 * Cooperated with 8+ members(designer, backend developers, machine learning engineers, etc)
 
-### Vision Semicon
+### Vision Semicon - SW Engineer
 
 * 2018.10 ~ 2019.01 (3 months)
 * Studied Basic TensorFlow, DeepLearning - <https://github.com/koremp/dl_from_scratch>
 * Made ROS digital input/output library with ROS Kinetic Kame, C++, Python, Ubuntu 16.04 to use internal ROS project - <https://github.com/ros-industrial/ros_canopen>
 * Contributed to ROS Korean Tutorial/Wiki (personally) - <https://wiki.ros.org/>, Dovidy
 
-### Amis Techknowledge
+### Amis Techknowledge - SW Engineer Internship
 
 * 2018.01 (1 month)
 * Made DBMS with C#, Windows Form, Visual Studio to magement supplied database to hospitals  
@@ -70,6 +69,13 @@ Like Drinking stuff(alcohol, coffee, etc).
 * Currently leave of absence
 * Repos
   * <https://github.com/koremp/knou-study>
+
+### FastCampus Frontend Lecture
+
+* 2019.07 ~
+* Git, HTML, CSS, JavaScript, React, CRA
+* Repos
+  * <https://github.com/koremp/front-lec>
 
 ### Smart Data Expert Course
 
@@ -94,6 +100,7 @@ Like Drinking stuff(alcohol, coffee, etc).
 ### FanCheer V2 with Next.js, TypeScript
 
 * <https://github.com/koremp/fancheer-ts-2>
+* <https://koremp.github.io/fancheer-ts-2/>
 * 2022.1 ~ 2022.2
 * Street Woman Fighter Fan Page
 * React.js, Next.js, TypeScript, Ant Design, GitHub Pages, GitHub Actions
@@ -101,6 +108,7 @@ Like Drinking stuff(alcohol, coffee, etc).
 ### FanCheer 
 
 * <https://github.com/kormep/fancheer>
+* <https://koremp.github.io/FanCheer/>
 * 2020.12 ~ 2021.2
 * (G)I-DLE Fan Page
 * React.js, Webpack, JavaScript, Jest, TDD, Pure CSS, GitHub Pages, GitHub Actions
