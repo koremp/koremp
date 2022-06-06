@@ -133,7 +133,3 @@ Like Drinking stuff(alcohol, coffee, etc).
 ## Velog Article
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=koremp&slug=주니어-프론트엔드-개발자-면접-20개-광탈-후기)](https://velog.io/@koremp/jr-fe-interview-failure-rewind)
-
-## Contribution Snakes
-
-![github-contribution-grid-snake](https://github.com/koremp/koremp/blob/snake/github-contribution-grid-snake-dark.svg)
