@@ -123,8 +123,6 @@ Like Drinking stuff(alcohol, coffee, etc).
 
 ## Solved.ac Profile
 
-[![koremp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koremp)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koremp)](https://solved.ac/koremp)
 
