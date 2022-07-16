@@ -14,7 +14,7 @@ Interested in Front-end, especially React.js, TypeScript.
 
 Currently Re-studying CodeSoom React.js Courses for re-learning TDD stuff. <https://github.com/koremp/cs-react>
 
-[Dokyun Lim's Resume - 2022.06 - KR](https://docs.google.com/document/d/1I6o2f1MHbEYJFK1WTtRPqVhi74EFtDa1ZWoQ5zyhpuQ/edit?usp=sharing)
+[Dokyun Lim's Resume - 2022.06 - KR](https://docs.google.com/document/d/1iyGFnnO9edH90EulLr20ojNi9lSrF0-Z5_UvQKXK2_E/edit?usp=sharing)
 
 ### Personally
 
