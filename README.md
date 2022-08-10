@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7pEDK9bqpFIrcFpV7bIUU9eeSJ680UtBNHwfGfVfVXozPGDZUhgGcNjeuKDwPK9W-nwwP7MliEu8u2gu3Q">](https://music.youtube.com/watch?v=73ouhDibImA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ovliqKLKC869hmw_yC7-Tki1aKnhowp5Ne2Grx7bYV2B18VZUh7nTFnIDHfLWbz3X6YihUs8kfg82GQ">](https://music.youtube.com/watch?v=HCv86jWOsKc)
 
-조나스 브라더스 - Sucker
+LSD - Genius(feat. Labrinth, Sia(시아), Diplo)
 
-**Albums**: Sucker
+**Albums**: Genius
 
-Last updated at 08/10/2022 17:18
+Last updated at 08/10/2022 17:22
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
