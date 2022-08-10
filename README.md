@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=4ds2sR2Ftcc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=dC6BQD4NiVI)
 
-두아 리파 - New Love
+두아 리파 - Bad Together
 
 **Albums**: Dua Lipa (Deluxe)
 
-Last updated at 08/10/2022 18:15
+Last updated at 08/10/2022 18:21
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
