@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsKRGdJdubNmpx-f5r1GSL9vknmVtv1tAYu4WGmKZYoke-g0i5SKxRFnPY8HxIx9TEkAqMIPX6JkBplG">](https://music.youtube.com/watch?v=NaaiI1y9QIo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=zvrAn5ZdL6Y)
 
-두아 리파 - Break My Heart
+두아 리파 - Genesis
 
-**Albums**: Future Nostalgia
+**Albums**: Dua Lipa (Deluxe)
 
-Last updated at 08/10/2022 17:24
+Last updated at 08/10/2022 17:28
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
