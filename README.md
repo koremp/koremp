@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=ZdnA9ZCM0Hk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=FYBcUuOUleI)
 
-두아 리파 - No Goodbyes
+두아 리파 - Thinking 'Bout You
 
 **Albums**: Dua Lipa (Deluxe)
 
-Last updated at 08/10/2022 17:51
+Last updated at 08/10/2022 17:55
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
