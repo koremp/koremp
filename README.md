@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ovliqKLKC869hmw_yC7-Tki1aKnhowp5Ne2Grx7bYV2B18VZUh7nTFnIDHfLWbz3X6YihUs8kfg82GQ">](https://music.youtube.com/watch?v=HCv86jWOsKc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsKRGdJdubNmpx-f5r1GSL9vknmVtv1tAYu4WGmKZYoke-g0i5SKxRFnPY8HxIx9TEkAqMIPX6JkBplG">](https://music.youtube.com/watch?v=NaaiI1y9QIo)
 
-LSD - Genius(feat. Labrinth, Sia(시아), Diplo)
+두아 리파 - Break My Heart
 
-**Albums**: Genius
+**Albums**: Future Nostalgia
 
-Last updated at 08/10/2022 17:22
+Last updated at 08/10/2022 17:24
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
