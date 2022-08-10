@@ -1,11 +1,11 @@
 # Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsKRGdJdubNmpx-f5r1GSL9vknmVtv1tAYu4WGmKZYoke-g0i5SKxRFnPY8HxIx9TEkAqMIPX6JkBplG">](https://music.youtube.com/watch?v=Yegn0dZ-BfY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XNEmm81IV32mGxlJKcXaz10bSkF0ehKGpYWk2kzh2QzGioFIUHVr9rZh0ktPybBzok9CNAKL3fWGjYWt">](https://music.youtube.com/watch?v=GJY8OMJXRAk)
 
-두아 리파 - Physical
+Panic! At The Disco(패닉 앳 더 디스코) - High Hopes
 
-**Albums**: Future Nostalgia
+**Albums**: Pray for the Wicked
 
-Last updated at 08/10/2022 15:58
+Last updated at 08/10/2022 16:00
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
