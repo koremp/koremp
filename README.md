@@ -1,5 +1,15 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
+## Now Playing on {CURRENT_PLAYING_SOURCE}
+
+[<img align="left" width="100" src="{CURRENT_PLAYING_ALBUM_SRC}">]({CURRENT_PLAYING_URL})
+
+{CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}
+
+**Albums**: {CURRENT_PLAYING_ALBUM}
+
+Last updated at {CURRENT_PLAYING_LAST_UPDATED}
+
 ## Badges
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoremp%2Fkormep&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://velog.io/@koremp"><img src="https://img.shields.io/badge/koremp.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://koremp.github.io"><img src="https://img.shields.io/badge/koremp.github.io-blog-orange?style=flat-square&logo=Blogger"/></a> <a href="https://www.linkedin.com/in/koremp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
