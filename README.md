@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P40AFqu8aMn1KsONRp63llwR9wWc2FKjm-QbK2nzhQgpIEFsWu0hzYDr67WIJClBNzG4mb6prv6Eooj6Bg">](https://music.youtube.com/watch?v=ipkaSc30uXw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/watch?v=KPM_BYl-EaQ)
 
-코난 그레이 - Maniac
+Harry Styles(해리 스타일스) - Watermelon Sugar
 
-**Albums**: Kid Krow
+**Albums**: Fine Line
 
-Last updated at 08/10/2022 16:20
+Last updated at 08/10/2022 16:22
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
