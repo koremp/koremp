@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HodF4oBFTW0aexJdyNshmWRc1m2LcLtSD6DXhqsJQ_0Ujg4aHfpCqf-hYR5nVMzvxpsmElYL4c2IcxcJ">](https://music.youtube.com/watch?v=iak9FaU3-TA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7pEDK9bqpFIrcFpV7bIUU9eeSJ680UtBNHwfGfVfVXozPGDZUhgGcNjeuKDwPK9W-nwwP7MliEu8u2gu3Q">](https://music.youtube.com/watch?v=73ouhDibImA)
 
-Bebe Rexha(비비 렉사) - Last Hurrah
+조나스 브라더스 - Sucker
 
-**Albums**: Last Hurrah
+**Albums**: Sucker
 
-Last updated at 08/10/2022 17:16
+Last updated at 08/10/2022 17:18
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
