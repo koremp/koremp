@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=L0yOCIqqBWM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=RL_KbUyqM-8)
 
-두아 리파 - Begging
+두아 리파 - Homesick(feat. Chris Martin)
 
 **Albums**: Dua Lipa (Deluxe)
 
-Last updated at 08/10/2022 18:01
+Last updated at 08/10/2022 18:05
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
