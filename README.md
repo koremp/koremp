@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/watch?v=KPM_BYl-EaQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FDVENfp9o2ZBI71yLhMhx0SKsXb0Vj5WPyr6QdJdaAloMbRA6SX1Ex762XQymp1Rb8ra1muujV1A-2U">](https://music.youtube.com/watch?v=nUHqotBuVUU)
 
-Harry Styles(해리 스타일스) - Watermelon Sugar
+Camila Cabello(카밀라 카베요) - Real Friends
 
-**Albums**: Fine Line
+**Albums**: Real Friends
 
-Last updated at 08/10/2022 16:22
+Last updated at 08/10/2022 16:26
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
