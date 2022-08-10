@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ds4HZUl-Cziy9wW0zGv5_rRw0fGc01a3rMZ6mB27HkSTtVLaPwUpPaXdoISHAH3XprkYyPfIEcSpmPy-">](https://music.youtube.com/watch?v=lS9Kgp6PsWY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P40AFqu8aMn1KsONRp63llwR9wWc2FKjm-QbK2nzhQgpIEFsWu0hzYDr67WIJClBNzG4mb6prv6Eooj6Bg">](https://music.youtube.com/watch?v=ipkaSc30uXw)
 
-The Weeknd 및 Ariana Grande - Save Your Tears ((Remix) Bonus Track)
+코난 그레이 - Maniac
 
-**Albums**: After Hours (Deluxe)
+**Albums**: Kid Krow
 
-Last updated at 08/10/2022 16:06
+Last updated at 08/10/2022 16:20
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
