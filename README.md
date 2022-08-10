@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=JC208IVyghQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=-3gkan9wSaQ)
 
-두아 리파 - Hotter Than Hell
+두아 리파 - Be the One
 
 **Albums**: Dua Lipa (Deluxe)
 
-Last updated at 08/10/2022 17:34
+Last updated at 08/10/2022 17:37
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
