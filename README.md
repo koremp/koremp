@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/watch?v=rFtrb2NzjAk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HodF4oBFTW0aexJdyNshmWRc1m2LcLtSD6DXhqsJQ_0Ujg4aHfpCqf-hYR5nVMzvxpsmElYL4c2IcxcJ">](https://music.youtube.com/watch?v=iak9FaU3-TA)
 
-Avicii(아비치) - Lonely Together(feat. Rita Ora)
+Bebe Rexha(비비 렉사) - Last Hurrah
 
-**Albums**: AVĪCI (01)
+**Albums**: Last Hurrah
 
-Last updated at 08/10/2022 16:28
+Last updated at 08/10/2022 17:16
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
