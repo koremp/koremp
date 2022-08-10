@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=zvrAn5ZdL6Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=0GqdudfQlcw)
 
-두아 리파 - Genesis
+두아 리파 - Lost In Your Light(feat. Miguel)
 
 **Albums**: Dua Lipa (Deluxe)
 
-Last updated at 08/10/2022 17:28
+Last updated at 08/10/2022 17:32
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
