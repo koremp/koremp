@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/SVaBJLJXOzISeMkpudva5XN6bBw_Eau_X-MpdnIchdhxCp7Mvg09qgYrFZsSyew1S5wP_aMh7Z8=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCkHCFYazoDQyBdOopGGQnwg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/soFyZYOggw-Ae05b91WiVDnq9ahXLOrNJiR4wWiQemfclVliG_BHht1bH6f0cjLB0KzKlyGBTsPrtQEn">](https://music.youtube.com/watch?v=m2zUrruKjDQ)
 
-BoA - My Name
+The Killers - Mr. Brightside
 
-**Albums**: Not supported
+**Albums**: Hot Fuss
 
-Last updated at 08/11/2022 15:38
+Last updated at 08/11/2022 15:46
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
