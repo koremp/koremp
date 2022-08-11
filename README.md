@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/s3mW88McCJzfDa-rCPSHsQoBIpCLzLPJoCXPscdxFtATDs_zAx3E9efsPJVm50bYKDDvaOnS-7WtIZ-3">](https://music.youtube.com/watch?v=VRpptE7F9I0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RcPMBngw0AHzk2CL1A72UKHJNzIVyPxCtmgebW5Csjkz10wLTZBO5-VDwRobkELaLj0oB57ZFXnQFgl1">](https://music.youtube.com/watch?v=N-_mHedypEU)
 
-Panic! At The Disco(패닉 앳 더 디스코) - I Write Sins Not Tragedies
+Muse(뮤즈) - Supermassive Black Hole
 
-**Albums**: A Fever You Can't Sweat Out
+**Albums**: Black Holes And Revelations
 
-Last updated at 08/11/2022 15:48
+Last updated at 08/11/2022 15:56
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
