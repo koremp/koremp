@@ -10,47 +10,51 @@
 
 Last updated at {CURRENT_PLAYING_LAST_UPDATED}
 
-**Generated with [20chan/github-now](https://github.com/20chan/github-now)**
-
 ## Badges
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoremp%2Fkormep&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://velog.io/@koremp"><img src="https://img.shields.io/badge/koremp.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://koremp.github.io"><img src="https://img.shields.io/badge/koremp.github.io-blog-orange?style=flat-square&logo=Blogger"/></a> <a href="https://www.linkedin.com/in/koremp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoremp%2Fkormep&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://velog.io/@koremp"><img src="https://img.shields.io/badge/koremp.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://koremp.github.io"><img src="https://img.shields.io/badge/koremp.github.io-blog-orange?style=flat-square&logo=Blogger"/></a> <a href="https://www.linkedin.com/in/koremp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a><a href="https://dev.to/koremp"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://twitter.com/claire_lim_dk"><img src="https://img.shields.io/badge/Twitter(EN)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 ## Informations
 
 ### About Programming
 
-Junior Software Engineer
+Jr Front-end Software Engineer
 
-Interested in Front-end, especially React.js, TypeScript.
+Interested in React.js, TypeScript.
 
-Currently Re-studying CodeSoom React.js Courses for re-learning TDD stuff. <https://github.com/koremp/cs-react>
+Currently following [fe-roadmap](https://euncho.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%99%EC%8A%B5-%EB%A1%9C%EB%93%9C%EB%A7%B5-91c3bc11dec0)
 
-[Dokyun Lim's Resume - 2022.06 - KR](https://docs.google.com/document/d/1iyGFnnO9edH90EulLr20ojNi9lSrF0-Z5_UvQKXK2_E/edit?usp=sharing)
+Working on [pride-profile](https://github.com/koremp/pride-profile)
+
+[Learning vim](https://dev.to/koremp/decision-to-vim-1-buy-m1-air-255h)
+
+
+### Resume
+
+* [Dokyun Lim's Resume - 2022.08 - KR](https://docs.google.com/document/d/1r9XLlzQ26mHWY3s0EMFtxAvLgcSiahizcKAVA6i9d8c/edit)
+* [Dokyun Lim's Resume - 2022.08 - EN](https://docs.google.com/document/d/1LoNoqn7I6ZHLONrlGT0KinQadcWyTy8VMsWPNnhc4sw/edit?usp=sharing)
 
 ### Personally
 
-Proudly queer(ally) intersectional feminist. Adopting to veganism, and trying vegan.
-
-I trying to manage my todo-list in issues on [this repo](https://github.com/koremp/koremp/issues)
+Proudly queer(ally) intersectional feminist. Trying vegan.
 
 My Music Taste is mainly Classical Music, Rock, K-POP, Musical Theatre. 
 
 My Youtube Music Playlist
 
-* My Type Musics <https://youtube.com/playlist?list=PLA8UnQkZ80qjY4xo6bCoX0uREdFwTLtRA>
-* Mainly Piano, Classical Music <https://youtube.com/playlist?list=PLA8UnQkZ80qj4MRsXp6DHVsbXRTKna8lD>
+* [My Type Musics - Youtube Playlist](https://youtube.com/playlist?list=PLA8UnQkZ80qjY4xo6bCoX0uREdFwTLtRA)
+* [Mainly Piano, Classical Music - Youtube Playlist](https://youtube.com/playlist?list=PLA8UnQkZ80qj4MRsXp6DHVsbXRTKna8lD)
 
-Big Fan of LCK, especially T1. 
+Big Fan of LCK.
 
 Like Drinking stuff(alcohol, coffee, etc). 
 
 ## Experience
 
-### SI Analytics - Frontend Engineer Internship
+### [SI Analytics](https://www.si-analytics.ai/) - Frontend Engineer Internship
 
 * 2021.03 ~ 06 (4 months)
-* Made desktop client with React.js, TypeScript, Ant Design, Azure DevOps/Pipelines, Git, Redux-Toolkit, Electron, Canvas, SASS.
+* Made desktop client with React.js, TypeScript, Ant Design, Azure DevOps/Pipeline, Git, Redux-Toolkit, Electron, Canvas, SASS.
 * Communicate Backend(built by Armeria) with gRPC
 * Cooperated with 8+ members(designer, backend developers, machine learning engineers, etc)
 
@@ -59,7 +63,7 @@ Like Drinking stuff(alcohol, coffee, etc).
 * 2018.10 ~ 2019.01 (3 months)
 * Studied Basic TensorFlow, DeepLearning - <https://github.com/koremp/dl_from_scratch>
 * Made ROS digital input/output library with ROS Kinetic Kame, C++, Python, Ubuntu 16.04 to use internal ROS project - <https://github.com/ros-industrial/ros_canopen>
-* Contributed to ROS Korean Tutorial/Wiki (personally) - <https://wiki.ros.org/>, Dovidy
+* Contributed to ROS Korean Tutorial, [Wiki](https://wiki.ros.org/) - Dovidy, personally)
 
 ### Amis Techknowledge - SW Engineer Internship
 
@@ -68,24 +72,22 @@ Like Drinking stuff(alcohol, coffee, etc).
 
 ## Study
 
-### CodeSoom React.js 2nd
+### [CodeSoom React.js](https://www.codesoom.com/courses/react) 2nd
 
-* 2020.09 ~ 2020.12
-* Studying TDD, JavaScript, React.js, WebPack, Redux, GitHub, etc
-* https://www.codesoom.com/courses/react
+* 2020.09 ~ 2020.12 
+* TDD, JavaScript, React.js, WebPack, Redux, GitHub, etc
 * Repos
-  * study again in this repo - <https://github.com/koremp/cs-react>
+  * <https://github.com/koremp/cs-react>
 
-### KNOU - Korean National Open University
+### [KNOU - Korean National Open University](https://knou.ac.kr) - leave of absence
 
 * 2020.07 ~ 
-* Currently leave of absence
 * Repos
   * <https://github.com/koremp/knou-study>
 
 ### FastCampus Frontend Lecture
 
-* 2019.07 ~
+* 2019.07
 * Git, HTML, CSS, JavaScript, React, CRA
 * Repos
   * <https://github.com/koremp/front-lec>
@@ -95,18 +97,18 @@ Like Drinking stuff(alcohol, coffee, etc).
 * 2019.06 ~ 2019.08 (quitted while studying)
 * Learning R, Statistic Analyses, Python
 * Repos
-  * <https://github.com/koremp/R_data_analsys>
-  * <https://github.com/koremp/r-stats-analsys>
-  * <https://github.com/koremp/ACADEMY_TIL>
-  * Crawling Naver Movie Reviews - <https://github.com/koremp/python-crawling>
+  * <https://github.com/koremp/r-data-analysis>
+  * <https://github.com/koremp/r-stats-analysis>
+  * <https://github.com/koremp/smart-data-til>
+  * Crawling Naver Movie Reviews - <https://github.com/koremp/naver-movie-review-crawl>
 
-### DSM - Daedeok Software Meister HighSchool
+### [DSM - Daedeok Software Meister HighSchool](https://dsmhs.djsch.kr/main.do)
 
 * 2016.03 ~ 2019.01 (3 years)
 * Major: Imbedded Software Programming
 * Repos
-  * <https://github.com/koremp/MCU_Study>
-  * <https://github.com/koremp/Imbedded_TIL>
+  * <https://github.com/koremp/dsm-mcu-study>
+  * <https://github.com/koremp/dsm-imbedded-til>
 
 ## Projects
 
@@ -126,22 +128,3 @@ Like Drinking stuff(alcohol, coffee, etc).
 * (G)I-DLE Fan Page
 * React.js, Webpack, JavaScript, Jest, TDD, Pure CSS, GitHub Pages, GitHub Actions
 * First React.js and Web Frontend Project
-
-## GitHub Stats
-
-[![koremp's GitHub stats](https://github-readme-stats.vercel.app/api?username=koremp&count_private=true)](https://github.com/kormep)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koremp&theme=dracula&exclude_repo=fe-roadmap-study&langs_count=10)
-
-## Solved.ac Profile
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koremp)](https://solved.ac/koremp)
-
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=koremp)](https://solved.ac/koremp)
-
-## Velog Article
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=koremp&slug=주니어-프론트엔드-개발자-면접-20개-광탈-후기)](https://velog.io/@koremp/jr-fe-interview-failure-rewind)
-
-
