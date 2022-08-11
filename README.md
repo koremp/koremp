@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/YuRHl_4murHobFsrHDkpJANVHzXYTgP68zysfrsNPIRMr8fKSzEP_4y6cFeE5WfpWOdxVH4sO-8=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCRw0x9_EfawqmgDI2IgQLLg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCPaJMRVqhoPwsBqhfOzf1bQ)
 
-Adele - Make You Feel My Love
+Rachael Yamagata - Be Be Your Love
 
 **Albums**: Not supported
 
-Last updated at 08/11/2022 15:18
+Last updated at 08/11/2022 15:22
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
