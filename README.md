@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=dC6BQD4NiVI)
+[<img align="left" width="100" src="https://yt3.ggpht.com/9OsqoGmOaLWJ9Ke7NAqY-b5HGOh1g6AvjD0qNqPAIOaop6djqn9QLUdwOMHzf8hA5Q7qT5k9Mw=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCNrTdctAV0JMT7RBQvpA5lw)
 
-두아 리파 - Bad Together
+The 1975 - Happiness (Dance Floor Edit)
 
-**Albums**: Dua Lipa (Deluxe)
+**Albums**: Not supported
 
-Last updated at 08/10/2022 18:21
+Last updated at 08/11/2022 15:06
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
