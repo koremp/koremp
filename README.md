@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7vAsuVmMb0SBsFYbVcVZiSFoM6sXnsg06F3PQNfEc8u-8qVYYzWFcTpS8J3ZdASVr1ZmmXduRsebLytvzg">](https://music.youtube.com/watch?v=mFgkRcuCuMM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vm08-sNn24v4F9qG-8Hm-NGfy4hoxsQp2uYjakPsLYRmPaKc-Aqu7xggh5pYQLUE_hn8oWcndEWol_GD">](https://music.youtube.com/watch?v=XS3KMbe9AEI)
 
-김뜻돌 - 비 오는 거리에서 춤을 추자
+이고도 - People like us
 
-**Albums**: COBALT
+**Albums**: People like us
 
-Last updated at 08/11/2022 16:20
+Last updated at 08/11/2022 16:22
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
