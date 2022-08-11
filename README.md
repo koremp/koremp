@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCPaJMRVqhoPwsBqhfOzf1bQ)
+[<img align="left" width="100" src="https://yt3.ggpht.com/mMxjHPSM6z6uVnlKupgd1LBsZmS-rlgc4dWykeIIIu3wh6MJe7ujSqZxvOcbBSjAE4q2caA9NA=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCgpBsaDW2n_6ruzht3wvP0A)
 
-Rachael Yamagata - Be Be Your Love
+SAM SMITH - I'm Not The Only One
 
 **Albums**: Not supported
 
-Last updated at 08/11/2022 15:22
+Last updated at 08/11/2022 15:26
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
