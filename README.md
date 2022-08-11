@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vm08-sNn24v4F9qG-8Hm-NGfy4hoxsQp2uYjakPsLYRmPaKc-Aqu7xggh5pYQLUE_hn8oWcndEWol_GD">](https://music.youtube.com/watch?v=XS3KMbe9AEI)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ghDFQP90MLBC-Nw5aF5Htq-o-4biMksr1ODnXkxh119yTIDpXPrmaV4X5YVx1TDrN8XPDnLHlw=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/HyunSangHA_OFFICIAL)
 
-이고도 - People like us
+하현상 HA HYUN SANG - [Playlist] Cover by 하현상 모음 | 2020.05 ~ 2021.12
 
-**Albums**: People like us
+**Albums**: Not supported
 
-Last updated at 08/11/2022 16:22
+Last updated at 08/11/2022 16:30
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
