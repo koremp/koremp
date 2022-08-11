@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/officialcharlixcx)
+[<img align="left" width="100" src="https://yt3.ggpht.com/SVaBJLJXOzISeMkpudva5XN6bBw_Eau_X-MpdnIchdhxCp7Mvg09qgYrFZsSyew1S5wP_aMh7Z8=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCkHCFYazoDQyBdOopGGQnwg)
 
-Charli XCX - Boom Clap (The Fault In Our Stars Soundtrack) [Official Video]
+BoA - My Name
 
 **Albums**: Not supported
 
-Last updated at 08/11/2022 15:34
+Last updated at 08/11/2022 15:38
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
