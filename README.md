@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCNAbUat5xDtp6FeBphe2V_Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/officialcharlixcx)
 
-James Arthur - Say You Won't Let Go
+Charli XCX - Boys [Official Video]
 
 **Albums**: Not supported
 
-Last updated at 08/11/2022 15:30
+Last updated at 08/11/2022 15:32
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
