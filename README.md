@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/soFyZYOggw-Ae05b91WiVDnq9ahXLOrNJiR4wWiQemfclVliG_BHht1bH6f0cjLB0KzKlyGBTsPrtQEn">](https://music.youtube.com/watch?v=m2zUrruKjDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/s3mW88McCJzfDa-rCPSHsQoBIpCLzLPJoCXPscdxFtATDs_zAx3E9efsPJVm50bYKDDvaOnS-7WtIZ-3">](https://music.youtube.com/watch?v=VRpptE7F9I0)
 
-The Killers - Mr. Brightside
+Panic! At The Disco(패닉 앳 더 디스코) - I Write Sins Not Tragedies
 
-**Albums**: Hot Fuss
+**Albums**: A Fever You Can't Sweat Out
 
-Last updated at 08/11/2022 15:46
+Last updated at 08/11/2022 15:48
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
