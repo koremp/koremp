@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RcPMBngw0AHzk2CL1A72UKHJNzIVyPxCtmgebW5Csjkz10wLTZBO5-VDwRobkELaLj0oB57ZFXnQFgl1">](https://music.youtube.com/watch?v=N-_mHedypEU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=5_mD78Of53g)
 
-Muse(뮤즈) - Supermassive Black Hole
+김뜻돌 - 꿈에서 걸려온 전화
 
-**Albums**: Black Holes And Revelations
+**Albums**: 꿈에서 걸려온 전화
 
-Last updated at 08/11/2022 15:56
+Last updated at 08/11/2022 16:14
 
 **Generated with [20chan/github-now](https://github.com/20chan/github-now)**
 
