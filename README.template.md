@@ -28,6 +28,7 @@ Working on [pride-profile](https://github.com/koremp/pride-profile)
 
 [Learning vim](https://dev.to/koremp/decision-to-vim-1-buy-m1-air-255h)
 
+my favorite artist, [Yujin Sol](https://instagram.com/ujin_26)
 
 ### Resume
 
