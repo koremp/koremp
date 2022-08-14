@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ghDFQP90MLBC-Nw5aF5Htq-o-4biMksr1ODnXkxh119yTIDpXPrmaV4X5YVx1TDrN8XPDnLHlw=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCs8JR1ngAf-t8wZkidmHEPA)
 
-하현상 HA HYUN SANG - [Playlist] Cover by 하현상 모음 | 2020.05 ~ 2021.12
+Seong-Jin Cho - Chopin: Scherzo No. 2 in B Flat Minor, Op. 31
 
 **Albums**: Not supported
 
-Last updated at 08/11/2022 18:12
+Last updated at 08/14/2022 23:19
 
 ## Badges
 
@@ -28,6 +28,7 @@ Working on [pride-profile](https://github.com/koremp/pride-profile)
 
 [Learning vim](https://dev.to/koremp/decision-to-vim-1-buy-m1-air-255h)
 
+my favorite artist, [Yujin Sol](https://instagram.com/ujin_26)
 
 ### Resume
 
