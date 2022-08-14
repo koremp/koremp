@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCs8JR1ngAf-t8wZkidmHEPA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCuM1r9XZFz_DamU6neXZQVQ)
 
-Seong-Jin Cho - Chopin: Scherzo No. 2 in B Flat Minor, Op. 31
+Benjamin Grosvenor - Chopin: Nocturne No. 19 in E Minor, Op. 72, No. 1
 
 **Albums**: Not supported
 
-Last updated at 08/14/2022 23:19
+Last updated at 08/14/2022 23:29
 
 ## Badges
 
