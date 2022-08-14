@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCuM1r9XZFz_DamU6neXZQVQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCUKFCbZ8ccEcH9RmbJ3OOeA)
 
-Benjamin Grosvenor - Chopin: Nocturne No. 19 in E Minor, Op. 72, No. 1
+Alice Sara Ott - Chopin: Waltz No. 7 in C-Sharp Minor, Op. 64 No. 2
 
 **Albums**: Not supported
 
-Last updated at 08/14/2022 23:29
+Last updated at 08/14/2022 23:33
 
 ## Badges
 
