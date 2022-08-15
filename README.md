@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/tHD1_SzHpqs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=tHD1_SzHpqs)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/iPIoKGnWhnM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=iPIoKGnWhnM)
 
-유진솔 - 유진솔-장모의 고양이
+유진솔 - 유진솔 마지막 휴양지
 
-**Albums**: 조회수 174회
+**Albums**: 조회수 119회
 
-Last updated at 08/15/2022 23:10
+Last updated at 08/15/2022 23:14
 
 ## Badges
 
