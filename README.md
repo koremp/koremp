@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8FdLan4ykV8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8FdLan4ykV8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YxX28x7Tfyo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YxX28x7Tfyo)
 
-유진솔 - 유진솔-해가 지기 전에 mv
+유진솔 - 지영 - 가끔 (유진솔 cover)
 
-**Albums**: 조회수 156회
+**Albums**: 조회수 111회
 
-Last updated at 08/15/2022 23:00
+Last updated at 08/15/2022 23:06
 
 ## Badges
 
