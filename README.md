@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S0hhSN3peE1gdD_Orw7zhilp_o5b_uUGf0b45YEG8A6DVRmSpYpDHkNlSdsIxI9kNax73FvRAWWVbtc">](https://music.youtube.com/watch?v=YvtwhVevzhA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9qGfz836dwTa4e3MBHVB3wtaWcQlXftF6N9WHjekQh4mr3NtOr4YLAClwpAF5xR3-LsDmncqZilhyIgH">](https://music.youtube.com/watch?v=q_7b7Vv36-g)
 
-Nakamori Akina - TANGO NOIR (2012 Remastered)
+Wink - 愛が止まらない ～TURN IT INTO LOVE～
 
-**Albums**: Best II
+**Albums**: 愛が止まらない ～TURN IT INTO LOVE～
 
-Last updated at 08/15/2022 22:54
+Last updated at 08/15/2022 22:58
 
 ## Badges
 
