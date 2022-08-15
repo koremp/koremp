@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S0hhSN3peE1gdD_Orw7zhilp_o5b_uUGf0b45YEG8A6DVRmSpYpDHkNlSdsIxI9kNax73FvRAWWVbtc">](https://music.youtube.com/watch?v=_ytAJBUCxRE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S0hhSN3peE1gdD_Orw7zhilp_o5b_uUGf0b45YEG8A6DVRmSpYpDHkNlSdsIxI9kNax73FvRAWWVbtc">](https://music.youtube.com/watch?v=YvtwhVevzhA)
 
-Nakamori Akina - Fin (2012 Remastered)
+Nakamori Akina - TANGO NOIR (2012 Remastered)
 
 **Albums**: Best II
 
-Last updated at 08/15/2022 22:50
+Last updated at 08/15/2022 22:54
 
 ## Badges
 
