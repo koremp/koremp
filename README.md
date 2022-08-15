@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9qGfz836dwTa4e3MBHVB3wtaWcQlXftF6N9WHjekQh4mr3NtOr4YLAClwpAF5xR3-LsDmncqZilhyIgH">](https://music.youtube.com/watch?v=q_7b7Vv36-g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/8FdLan4ykV8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8FdLan4ykV8)
 
-Wink - 愛が止まらない ～TURN IT INTO LOVE～
+유진솔 - 유진솔-해가 지기 전에 mv
 
-**Albums**: 愛が止まらない ～TURN IT INTO LOVE～
+**Albums**: 조회수 156회
 
-Last updated at 08/15/2022 22:58
+Last updated at 08/15/2022 23:00
 
 ## Badges
 
