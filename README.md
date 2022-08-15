@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/18ZXIp1D8lY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=18ZXIp1D8lY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/tHD1_SzHpqs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=tHD1_SzHpqs)
 
-유진솔 - 유진솔-달님에게 (동요 cover)
+유진솔 - 유진솔-장모의 고양이
 
-**Albums**: 조회수 201회
+**Albums**: 조회수 174회
 
-Last updated at 08/15/2022 23:08
+Last updated at 08/15/2022 23:10
 
 ## Badges
 
