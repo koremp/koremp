@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/YxX28x7Tfyo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YxX28x7Tfyo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/18ZXIp1D8lY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=18ZXIp1D8lY)
 
-유진솔 - 지영 - 가끔 (유진솔 cover)
+유진솔 - 유진솔-달님에게 (동요 cover)
 
-**Albums**: 조회수 111회
+**Albums**: 조회수 201회
 
-Last updated at 08/15/2022 23:06
+Last updated at 08/15/2022 23:08
 
 ## Badges
 
