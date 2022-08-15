@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCUKFCbZ8ccEcH9RmbJ3OOeA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S0hhSN3peE1gdD_Orw7zhilp_o5b_uUGf0b45YEG8A6DVRmSpYpDHkNlSdsIxI9kNax73FvRAWWVbtc">](https://music.youtube.com/watch?v=_ytAJBUCxRE)
 
-Alice Sara Ott - Chopin: Waltz No. 7 in C-Sharp Minor, Op. 64 No. 2
+Nakamori Akina - Fin (2012 Remastered)
 
-**Albums**: Not supported
+**Albums**: Best II
 
-Last updated at 08/14/2022 23:33
+Last updated at 08/15/2022 22:50
 
 ## Badges
 
