@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/D1_kSJlOV4M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=D1_kSJlOV4M)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5-10tEcMSOk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5-10tEcMSOk)
 
-유진솔 - 신승은 잘못된 걸 잘못됐다 cover
+유진솔 - 장혜영님 노래 cover (무사히 할머니가 될 수 있을까, 연약하다는 것은 약하다는 것이 아냐)
 
-**Albums**: 조회수 240회
+**Albums**: 조회수 366회
 
-Last updated at 08/15/2022 23:18
+Last updated at 08/15/2022 23:28
 
 ## Badges
 
