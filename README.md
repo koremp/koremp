@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5-10tEcMSOk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5-10tEcMSOk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OObRXRm243Zvkx--hDxP9DchOTsJ8vCaEAclY2tQdgemVm1ay6cKihtRnLPggoZuvPv55zs9xADX77Fg">](https://music.youtube.com/watch?v=PY5LQQlvWLE)
 
-유진솔 - 장혜영님 노래 cover (무사히 할머니가 될 수 있을까, 연약하다는 것은 약하다는 것이 아냐)
+사카모토 류이치 - Rain
 
-**Albums**: 조회수 366회
+**Albums**: 1996 (Re-Mastered)
 
-Last updated at 08/15/2022 23:28
+Last updated at 08/15/2022 23:56
 
 ## Badges
 
