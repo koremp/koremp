@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iPIoKGnWhnM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=iPIoKGnWhnM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/AtTdXMGtuMk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AtTdXMGtuMk)
 
-유진솔 - 유진솔 마지막 휴양지
+유진솔 - 여유와 설빈-먼훗날 당신과 나 cover
 
-**Albums**: 조회수 119회
+**Albums**: 조회수 209회
 
-Last updated at 08/15/2022 23:14
+Last updated at 08/15/2022 23:16
 
 ## Badges
 
