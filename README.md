@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OObRXRm243Zvkx--hDxP9DchOTsJ8vCaEAclY2tQdgemVm1ay6cKihtRnLPggoZuvPv55zs9xADX77Fg">](https://music.youtube.com/watch?v=PY5LQQlvWLE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-tdq58fAgaawQcx744mZUP67379plUJcWvzPSyfRy305ZmNcYii54WboN9OBa4I-cEdzu7u5yW4nSFlBQA">](https://music.youtube.com/watch?v=dk22oBpplKA)
 
-사카모토 류이치 - Rain
+아이유(IU) - Coin
 
-**Albums**: 1996 (Re-Mastered)
+**Albums**: IU 5th Album 'LILAC'
 
-Last updated at 08/15/2022 23:56
+Last updated at 08/16/2022 22:34
 
 ## Badges
 
