@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-tdq58fAgaawQcx744mZUP67379plUJcWvzPSyfRy305ZmNcYii54WboN9OBa4I-cEdzu7u5yW4nSFlBQA">](https://music.youtube.com/watch?v=dk22oBpplKA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H_38-e4HrAlzwTfdOMao0UKuQ8RZc6UA13_1QTq0epX8i1RbD72cYzM1-O_I7RADDjdnqSzCD0Yp0ls">](https://music.youtube.com/watch?v=i0CkURe3dMA)
 
-아이유(IU) - Coin
+유진솔 - 해가 지기 전에
 
-**Albums**: IU 5th Album 'LILAC'
+**Albums**: 만달라
 
-Last updated at 08/16/2022 22:34
+Last updated at 08/17/2022 10:24
 
 ## Badges
 
