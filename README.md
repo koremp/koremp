@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H_38-e4HrAlzwTfdOMao0UKuQ8RZc6UA13_1QTq0epX8i1RbD72cYzM1-O_I7RADDjdnqSzCD0Yp0ls">](https://music.youtube.com/watch?v=i0CkURe3dMA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H_38-e4HrAlzwTfdOMao0UKuQ8RZc6UA13_1QTq0epX8i1RbD72cYzM1-O_I7RADDjdnqSzCD0Yp0ls">](https://music.youtube.com/watch?v=ie7gA4vX_I0)
 
-유진솔 - 해가 지기 전에
+유진솔 - 만달라
 
 **Albums**: 만달라
 
-Last updated at 08/17/2022 10:24
+Last updated at 08/17/2022 10:28
 
 ## Badges
 
