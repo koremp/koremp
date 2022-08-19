@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H_38-e4HrAlzwTfdOMao0UKuQ8RZc6UA13_1QTq0epX8i1RbD72cYzM1-O_I7RADDjdnqSzCD0Yp0ls">](https://music.youtube.com/watch?v=ie7gA4vX_I0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0pZdRROWxUtQpPmmrsxkr1t8-5dpxH5mWMmno4BLxvK3e7UEGa5I6zTB5fQcHLqY8vtpLcKWzamhUS2">](https://music.youtube.com/watch?v=aTL4twfslyk)
 
-유진솔 - 만달라
+Freddie Mercury - Love Me Like There's No Tomorrow (Special Edition)
 
-**Albums**: 만달라
+**Albums**: Love Me Like There's No Tomorrow
 
-Last updated at 08/17/2022 10:28
+Last updated at 08/19/2022 15:40
 
 ## Badges
 
