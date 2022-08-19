@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0pZdRROWxUtQpPmmrsxkr1t8-5dpxH5mWMmno4BLxvK3e7UEGa5I6zTB5fQcHLqY8vtpLcKWzamhUS2">](https://music.youtube.com/watch?v=aTL4twfslyk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=zvrAn5ZdL6Y)
 
-Freddie Mercury - Love Me Like There's No Tomorrow (Special Edition)
+두아 리파 - Genesis
 
-**Albums**: Love Me Like There's No Tomorrow
+**Albums**: Dua Lipa (Deluxe)
 
-Last updated at 08/19/2022 15:40
+Last updated at 08/19/2022 15:42
 
 ## Badges
 
