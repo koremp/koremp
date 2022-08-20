@@ -26,7 +26,7 @@ Currently following [fe-roadmap](https://euncho.medium.com/%ED%94%84%EB%A1%A0%ED
 
 Working on [pride-profile](https://github.com/koremp/pride-profile)
 
-[Learning vim](https://dev.to/koremp/decision-to-vim-1-buy-m1-air-255h)
+Writing blog articles during learning Vim - [Decision to Vim](https://dev.to/koremp/decision-to-vim-1-buy-m1-air-255h)
 
 my favorite artist, [Yujin Sol](https://instagram.com/ujin_26)
 
@@ -58,18 +58,6 @@ Like Drinking stuff(alcohol, coffee, etc).
 * Made desktop client with React.js, TypeScript, Ant Design, Azure DevOps/Pipeline, Git, Redux-Toolkit, Electron, Canvas, SASS.
 * Communicate Backend(built by Armeria) with gRPC
 * Cooperated with 8+ members(designer, backend developers, machine learning engineers, etc)
-
-### Vision Semicon - SW Engineer
-
-* 2018.10 ~ 2019.01 (3 months)
-* Studied Basic TensorFlow, DeepLearning - <https://github.com/koremp/dl_from_scratch>
-* Made ROS digital input/output library with ROS Kinetic Kame, C++, Python, Ubuntu 16.04 to use internal ROS project - <https://github.com/ros-industrial/ros_canopen>
-* Contributed to ROS Korean Tutorial, [Wiki](https://wiki.ros.org/) - Dovidy, personally)
-
-### Amis Techknowledge - SW Engineer Internship
-
-* 2018.01 (1 month)
-* Made DBMS with C#, Windows Form, Visual Studio to magement supplied database to hospitals  
 
 ## Study
 
