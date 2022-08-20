@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=JC208IVyghQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=Kgp7rqzGe4w)
 
-두아 리파 - Hotter Than Hell
+LUCY - Knowhow
 
-**Albums**: Dua Lipa (Deluxe)
+**Albums**: Childhood
 
-Last updated at 08/19/2022 15:48
+Last updated at 08/20/2022 15:59
 
 ## Badges
 
