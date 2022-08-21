@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=OlS_tE9yy2s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=sTjqxQMEEY0)
 
-LUCY - 10sec
+LUCY - 넌 혹시, 난 괜히
 
 **Albums**: Childhood
 
-Last updated at 08/21/2022 12:49
+Last updated at 08/21/2022 12:53
 
 ## Badges
 
