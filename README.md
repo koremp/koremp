@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sYSHcaLqbew0uzeAfBm-aF4UslRZLGuDBsI0XRqlU-sqNi70dfpspjmPZU35If2mnLpWnR-RWmg_1mhjdg">](https://music.youtube.com/watch?v=_5cF5LjoJ6I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=Kgp7rqzGe4w)
 
-유진솔 - 장모의 고양이
+LUCY - Knowhow
 
-**Albums**: 장모의 고양이
+**Albums**: Childhood
 
-Last updated at 08/21/2022 12:37
+Last updated at 08/21/2022 12:39
 
 ## Badges
 
