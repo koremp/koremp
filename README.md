@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=NC0pVi9MJq4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Zn8agMqhJwGzUjG_2eXgWfhD1B83uTD8lAwp2w1OQqEDLvyzexNGmBIw47ylPW0NLiBdgM-uqSS3AWR">](https://music.youtube.com/watch?v=3d-QZBwMMq8)
 
-LUCY - Domino )(feat. 디핵(D-Hack))
+보수동쿨러 및 해서웨이 - 월드투어
 
-**Albums**: Childhood
+**Albums**: LOVE SAND
 
-Last updated at 08/21/2022 12:57
+Last updated at 08/21/2022 14:19
 
 ## Badges
 
