@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/40AyOaByJjuvOgTwFOEnYwcgyTzsCuAwm1v2RQr63HDQ-6lhx3vYXKyif82caAyGFFrXr1Bgf4gZ6QV8">](https://music.youtube.com/watch?v=EQhJVjgtdmQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/l7EQ_uoNQBE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=l7EQ_uoNQBE)
 
-정우 - 전야 Send My Love
+에픽하이(EPIK HIGH) - 그래서 그래(feat. 윤하)
 
-**Albums**: 제비다방 컴필레이션 Jebidabang Compilation 2019/2020
+**Albums**: 조회수 82만회
 
-Last updated at 08/21/2022 23:09
+Last updated at 08/21/2022 23:11
 
 ## Badges
 
