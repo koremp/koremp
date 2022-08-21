@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=fit0LpVC3sY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8d2hewJvppoCHyZVDe1TuDryRTPFmsykZEwWP7py1yn5zrVkIMVZaIrOe9MDRkSTyJRfYde_jTpWMe0YJg">](https://music.youtube.com/watch?v=tvcA8CLMuiQ)
 
-LUCY - 놀이
+Wiener Philharmoniker (Vienna Philharmonic) - Mahler: Symphony No.2 in C minor - "Resurrection" / 1st Movement - Allegro maestoso (Totenfeier) - Allegro maestoso
 
-**Albums**: Childhood
+**Albums**: Mahler: Symphony No. 2
 
-Last updated at 08/20/2022 16:07
+Last updated at 08/21/2022 12:09
 
 ## Badges
 
