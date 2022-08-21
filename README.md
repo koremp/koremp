@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Zn8agMqhJwGzUjG_2eXgWfhD1B83uTD8lAwp2w1OQqEDLvyzexNGmBIw47ylPW0NLiBdgM-uqSS3AWR">](https://music.youtube.com/watch?v=3d-QZBwMMq8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RsmmRB7Vwd78xygf5OHBCr1Jq5tuh-BNCRNn_XdY4l-0RkshyQHZFHyB-NAuiHzN5m5ySsAuJxjOdY_v">](https://music.youtube.com/watch?v=NLF-OpGH-u4)
 
-보수동쿨러 및 해서웨이 - 월드투어
+글렌 굴드 - Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro
 
-**Albums**: LOVE SAND
+**Albums**: Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058
 
-Last updated at 08/21/2022 14:19
+Last updated at 08/21/2022 14:21
 
 ## Badges
 
