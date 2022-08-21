@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RsmmRB7Vwd78xygf5OHBCr1Jq5tuh-BNCRNn_XdY4l-0RkshyQHZFHyB-NAuiHzN5m5ySsAuJxjOdY_v">](https://music.youtube.com/watch?v=jXW2Saf8n6w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/40AyOaByJjuvOgTwFOEnYwcgyTzsCuAwm1v2RQr63HDQ-6lhx3vYXKyif82caAyGFFrXr1Bgf4gZ6QV8">](https://music.youtube.com/watch?v=EQhJVjgtdmQ)
 
-글렌 굴드 - Keyboard Concerto No. 1 in D Minor, BWV 1052: II. Adagio
+정우 - 전야 Send My Love
 
-**Albums**: Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058
+**Albums**: 제비다방 컴필레이션 Jebidabang Compilation 2019/2020
 
-Last updated at 08/21/2022 14:29
+Last updated at 08/21/2022 23:09
 
 ## Badges
 
