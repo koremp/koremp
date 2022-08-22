@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8d2hewJvppoCHyZVDe1TuDryRTPFmsykZEwWP7py1yn5zrVkIMVZaIrOe9MDRkSTyJRfYde_jTpWMe0YJg">](https://music.youtube.com/watch?v=zMhe0GKuj6s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=MxV25hAREJM)
 
-Wiener Philharmoniker (Vienna Philharmonic) - Mahler: Symphony No.2 in C minor - "Resurrection" / 1st Movement - Allegro maestoso (Totenfeier) - Sehr getragen (Trumpet & trombone)
+제이클레프 - FLAW, FLAW
 
-**Albums**: Mahler: Symphony No. 2
+**Albums**: flaw, flaw
 
-Last updated at 08/22/2022 20:04
+Last updated at 08/22/2022 20:06
 
 ## Badges
 
