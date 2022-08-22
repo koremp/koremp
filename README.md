@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fz2Jj_pNlKuIIkyIvwONMEtjZ8rRaFbrRx86-c9vRR-ujSheD3W4i2RSt5IV6ZbJyJQGVvWWIuu6BpY">](https://music.youtube.com/watch?v=iEObA4lyBZ0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fSGkiQ4dUPbjQuEa8Gw__oALBeGJMwnBJWM6uiEIY_7Uqj-DRGbQDj3I_ISYHvZsJN6N89Vl_Q54EQ">](https://music.youtube.com/watch?v=hq7uG0EwYOg)
 
-Yoon Jiyoung - Dream 꿈
+민수 (MINSU) - 민수는 혼란스럽다 Minsu is confused
 
-**Albums**: Dream 꿈
+**Albums**: 민수는 혼란스럽다 Minsu is confused
 
-Last updated at 08/22/2022 20:58
+Last updated at 08/22/2022 21:02
 
 ## Badges
 
