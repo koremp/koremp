@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=AnS96xdZ_7o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=U7yCEqKSs0U)
 
-The Weeknd (위켄드) - Hardest To Love
+The Weeknd (위켄드) - Scared To Live
 
 **Albums**: After Hours
 
-Last updated at 08/22/2022 21:24
+Last updated at 08/22/2022 21:28
 
 ## Badges
 
