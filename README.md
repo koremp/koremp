@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=N2OCkGRRDQ4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dcxXIIlest09vnvKznWM9VWQXu1EL7lKxBzXGzwgmVjmMNBm1dEWT_0qn1xrEZYyKF_qRE1TLq8P_JY_mQ">](https://music.youtube.com/watch?v=qPRNIHxLhmc)
 
-The Weeknd (위켄드) - Until I Bleed Out
+The Weeknd - I Feel It Coming(feat. Daft Punk)
 
-**Albums**: After Hours
+**Albums**: Starboy
 
-Last updated at 08/22/2022 22:10
+Last updated at 08/22/2022 22:12
 
 ## Badges
 
