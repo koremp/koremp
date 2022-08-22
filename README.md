@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">](https://music.youtube.com/watch?v=5rnawnfK2sQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LDjFD-70y9c3aYL3-2zTUXkmlWfNlryJllQpHZLxZgi0i73pGx9JaJkNzDTo2LO9cGBDJx7E4eWdytMA">](https://music.youtube.com/watch?v=G1ej5up7JG0)
 
-Justin Bieber - Peaches(feat. Daniel Caesar, Giveon)
+Ed Sheeran - Shivers
 
-**Albums**: Justice
+**Albums**: Shivers
 
-Last updated at 08/22/2022 22:44
+Last updated at 08/22/2022 22:46
 
 ## Badges
 
