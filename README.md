@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=KMVxfIkYXoM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=UC_DEFT1CYs)
 
-제이클레프 - 프리-퀄
+김뜻돌 - 삐뽀삐뽀
 
-**Albums**: flaw, flaw
+**Albums**: 꿈에서 걸려온 전화
 
-Last updated at 08/22/2022 20:48
+Last updated at 08/22/2022 20:52
 
 ## Badges
 
