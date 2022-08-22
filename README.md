@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hChcdJkpKRDaaowWQhFxc4ZK7_jcDqQydpG8NUXbyPQUxMNYzpgLhVdU-csAFhcGhi-mYPiFZGR3cQmK">](https://music.youtube.com/watch?v=N5SC0seO8jg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6jetNWBJejniXZ2I027RnuGmp7vYRNO5BsiVesCc7DSQpdIbz7iQuig0zXYopAuEbwPLaTVIooLH1FY">](https://music.youtube.com/watch?v=_mumcOISqco)
 
-DJ Snake (DJ 스네이크) - Middle(feat. 비폴라 선샤인)
+DJ Khaled(디제이 칼리드) - POPSTAR(feat. Drake(드레이크))
 
-**Albums**: Encore
+**Albums**: POPSTAR
 
-Last updated at 08/22/2022 23:02
+Last updated at 08/22/2022 23:06
 
 ## Badges
 
