@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5teqUPmWiFmagN0RggBKRXSW1zUj5_fVCEhbVhN6qt519EyHj6njy1x8dnJcRWNhQ5cl4dZgGaxbyqgv">](https://music.youtube.com/watch?v=QapLVyAi1zs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsKRGdJdubNmpx-f5r1GSL9vknmVtv1tAYu4WGmKZYoke-g0i5SKxRFnPY8HxIx9TEkAqMIPX6JkBplG">](https://music.youtube.com/watch?v=NaaiI1y9QIo)
 
-The Weeknd - Gasoline
+두아 리파 - Break My Heart
 
-**Albums**: Dawn FM
+**Albums**: Future Nostalgia
 
-Last updated at 08/22/2022 22:54
+Last updated at 08/22/2022 22:58
 
 ## Badges
 
