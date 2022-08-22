@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xNlCgsu62xKVVQK0DyNELXAF0sK6_lZQRrTBfCngQZN7aZjtLT-JenZD-b6Wt248gH5re8g4xw80cCs">](https://music.youtube.com/watch?v=g_bZVz2bAgg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=i8r4zJC1i70)
 
-So!YoON! (황소윤) - Fntsy(feat. Jvcki Wai)
+The Weeknd (위켄드) - Alone Again
 
-**Albums**: So!YoON!
+**Albums**: After Hours
 
-Last updated at 08/22/2022 21:12
+Last updated at 08/22/2022 21:16
 
 ## Badges
 
