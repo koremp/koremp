@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=jZm7qRb26C4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=JWhPoChBS-A)
 
-제이클레프 - 나는 생각이 너무 많아(feat. 원슈타인)
+제이클레프 - DIVE IN ISLAND
 
 **Albums**: flaw, flaw
 
-Last updated at 08/22/2022 20:22
+Last updated at 08/22/2022 20:24
 
 ## Badges
 
