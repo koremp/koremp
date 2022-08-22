@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tq4_iYTC_CnabD6-KdyA4naJrEEESx9ont-d3n-7CI0PqIVRNVeqBP6p0PJZ5LTRMNPnzMGah-M0H4jlkg">](https://music.youtube.com/watch?v=1-3xmSxjweM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=t9xovoZQpCU)
 
-제이클레프 - mama, see
+제이클레프 - 동행자
 
-**Albums**: mama, see
+**Albums**: flaw, flaw
 
-Last updated at 08/22/2022 12:46
+Last updated at 08/22/2022 14:59
 
 ## Badges
 
