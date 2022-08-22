@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">](https://music.youtube.com/watch?v=ui7M7j7caHA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DGK8biglnJ3JUCw-lnUmElEf-F7VFeUguJZdGhEjuOz0_I5H0-5_ugRfzRoeEiP0jkpHoAD8Y5X0x0L0">](https://music.youtube.com/watch?v=inCm3ByI17o)
 
-Doja Cat - Kiss Me More(feat. SZA)
+캘빈 해리스 - This Is What You Came For(feat. Rihanna(리아나))
 
-**Albums**: Planet Her
+**Albums**: This Is What You Came For
 
-Last updated at 08/22/2022 22:28
+Last updated at 08/22/2022 22:32
 
 ## Badges
 
