@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hz2BttTb7vdsVevAwdSTi-KSS8zLXo-2_ZSKM2uktkXSOuvnbziHpgMn2mRPpUcryTu54fRVYO0iZDYN">](https://music.youtube.com/watch?v=P5g15bHBxXM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW0lRQG6Chm3nfZZ3WGHZxWJCxaVDiXVLR7GaW5MuE-ubL5TaUpteJl6B6t1TNooiy59xDBe9TPMnY3P">](https://music.youtube.com/watch?v=CL34af5Y7cc)
 
-유라(youra) - 깜빡(feat. The Garden, Car)
+dosii(도시) - lovememore.
 
-**Albums**: B side
+**Albums**: dosii
 
-Last updated at 08/22/2022 21:06
+Last updated at 08/22/2022 21:08
 
 ## Badges
 
