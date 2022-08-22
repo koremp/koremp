@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uPO5wTii0XwkGKTm9HVJ6FWcE6ffxr0loVVIO1tP4V4cs8025cFzqE6u8OqXHwpIz9GUMN_NJ9UcFtMG">](https://music.youtube.com/watch?v=sgurd59DEPM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5teqUPmWiFmagN0RggBKRXSW1zUj5_fVCEhbVhN6qt519EyHj6njy1x8dnJcRWNhQ5cl4dZgGaxbyqgv">](https://music.youtube.com/watch?v=QapLVyAi1zs)
 
-The Chainsmokers - Cyanide
+The Weeknd - Gasoline
 
-**Albums**: So Far So Good
+**Albums**: Dawn FM
 
-Last updated at 08/22/2022 22:50
+Last updated at 08/22/2022 22:54
 
 ## Badges
 
