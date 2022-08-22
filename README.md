@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=awKObM21obQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=0a_UdVzdwNM)
 
-제이클레프 - THE UNCERTAINS' CLUB(feat. Meego)
+제이클레프 - 으악!
 
 **Albums**: flaw, flaw
 
-Last updated at 08/22/2022 20:34
+Last updated at 08/22/2022 20:40
 
 ## Badges
 
