@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DGK8biglnJ3JUCw-lnUmElEf-F7VFeUguJZdGhEjuOz0_I5H0-5_ugRfzRoeEiP0jkpHoAD8Y5X0x0L0">](https://music.youtube.com/watch?v=inCm3ByI17o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/a36isbIbmOGd6VYH6j61aatMj94BUftO-xeBfeUAv0yUNGZME6Arcfk10cjJTq6D5UFgRWZl9MX8aax9">](https://music.youtube.com/watch?v=K1FlAphL2p8)
 
-캘빈 해리스 - This Is What You Came For(feat. Rihanna(리아나))
+트웬티 원 파일럿츠 - Stressed Out
 
-**Albums**: This Is What You Came For
+**Albums**: Blurryface
 
-Last updated at 08/22/2022 22:32
+Last updated at 08/22/2022 22:36
 
 ## Badges
 
