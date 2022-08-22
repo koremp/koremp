@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=2ru92T7Y5z0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=yRVotpLaCD4)
 
-The Weeknd (위켄드) - Blinding Lights
+The Weeknd (위켄드) - In Your Eyes
 
 **Albums**: After Hours
 
-Last updated at 08/22/2022 21:50
+Last updated at 08/22/2022 21:52
 
 ## Badges
 
