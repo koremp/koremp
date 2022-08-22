@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/l7EQ_uoNQBE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=l7EQ_uoNQBE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=NVCAmm5BXHA)
 
-에픽하이(EPIK HIGH) - 그래서 그래(feat. 윤하)
+제이클레프 - 주스 온더 락(feat. Ohiorabbit)
 
-**Albums**: 조회수 82만회
+**Albums**: flaw, flaw
 
-Last updated at 08/21/2022 23:11
+Last updated at 08/22/2022 12:20
 
 ## Badges
 
