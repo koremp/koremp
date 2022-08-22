@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xe9bE6n-eibnXPIlc-UEemlqsMMcz-S100IjrclFeaKrw1ATP9rbPrNy9jLA1zA02Zc-3YAFROuNEFKA">](https://music.youtube.com/watch?v=H3Kzh6RrnMc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">](https://music.youtube.com/watch?v=5rnawnfK2sQ)
 
-Coldplay(콜드플레이) - Hymn for the Weekend
+Justin Bieber - Peaches(feat. Daniel Caesar, Giveon)
 
-**Albums**: A Head Full of Dreams
+**Albums**: Justice
 
-Last updated at 08/22/2022 22:40
+Last updated at 08/22/2022 22:44
 
 ## Badges
 
