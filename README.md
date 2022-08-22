@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=oju5I2CXt_Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=lgNlFmsn4c8)
 
-The Weeknd (위켄드) - Snowchild
+The Weeknd (위켄드) - Escape From LA
 
 **Albums**: After Hours
 
-Last updated at 08/22/2022 21:32
+Last updated at 08/22/2022 21:36
 
 ## Badges
 
