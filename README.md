@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fSGkiQ4dUPbjQuEa8Gw__oALBeGJMwnBJWM6uiEIY_7Uqj-DRGbQDj3I_ISYHvZsJN6N89Vl_Q54EQ">](https://music.youtube.com/watch?v=hq7uG0EwYOg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hz2BttTb7vdsVevAwdSTi-KSS8zLXo-2_ZSKM2uktkXSOuvnbziHpgMn2mRPpUcryTu54fRVYO0iZDYN">](https://music.youtube.com/watch?v=P5g15bHBxXM)
 
-민수 (MINSU) - 민수는 혼란스럽다 Minsu is confused
+유라(youra) - 깜빡(feat. The Garden, Car)
 
-**Albums**: 민수는 혼란스럽다 Minsu is confused
+**Albums**: B side
 
-Last updated at 08/22/2022 21:02
+Last updated at 08/22/2022 21:06
 
 ## Badges
 
