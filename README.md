@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=UC_DEFT1CYs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wO6emzWji6wZF1Dsa1TVIWDI9phReT5Ag1stwnM1rildwuUTysb64nm_CrdG2JPYv0o1jnqc6tDiIdI">](https://music.youtube.com/watch?v=Mw0D9JdgQa4)
 
-김뜻돌 - 삐뽀삐뽀
+제이클레프 - multiply(feat. 프리든)
 
-**Albums**: 꿈에서 걸려온 전화
+**Albums**: multiply
 
-Last updated at 08/22/2022 20:52
+Last updated at 08/22/2022 20:54
 
 ## Badges
 
