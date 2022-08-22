@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5-ERoZhdQodo2v83lwIXCv5F1gcVS9sHIgBsBy9p4zZ0hqivOasuiKzXlhY3p3y95wm0TTuLdLaQHsAH">](https://music.youtube.com/watch?v=ytiqx4Qrias)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/a36isbIbmOGd6VYH6j61aatMj94BUftO-xeBfeUAv0yUNGZME6Arcfk10cjJTq6D5UFgRWZl9MX8aax9">](https://music.youtube.com/watch?v=w1Smzzw_w7Q)
 
-Miley Cyrus(마일리 사이러스) - Midnight Sky
+트웬티 원 파일럿츠 - Ride
 
-**Albums**: Plastic Hearts
+**Albums**: Blurryface
 
-Last updated at 08/22/2022 23:10
+Last updated at 08/22/2022 23:12
 
 ## Badges
 
