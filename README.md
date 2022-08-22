@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsKRGdJdubNmpx-f5r1GSL9vknmVtv1tAYu4WGmKZYoke-g0i5SKxRFnPY8HxIx9TEkAqMIPX6JkBplG">](https://music.youtube.com/watch?v=NaaiI1y9QIo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hChcdJkpKRDaaowWQhFxc4ZK7_jcDqQydpG8NUXbyPQUxMNYzpgLhVdU-csAFhcGhi-mYPiFZGR3cQmK">](https://music.youtube.com/watch?v=N5SC0seO8jg)
 
-두아 리파 - Break My Heart
+DJ Snake (DJ 스네이크) - Middle(feat. 비폴라 선샤인)
 
-**Albums**: Future Nostalgia
+**Albums**: Encore
 
-Last updated at 08/22/2022 22:58
+Last updated at 08/22/2022 23:02
 
 ## Badges
 
