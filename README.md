@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3wOl_OCk8jhI_TKKkIYZ5yP8oSyE-MOchuTX_GqmJ6Jxd1Aq6t_COg_iiePziNF5aXrGePLwlTXizuM">](https://music.youtube.com/watch?v=Faq-ODnfIPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ypdNk7bnPvTOncf37ouy1VMB2Vxw9xn-0skCywRD9bVTMEyXK4QcE0w3RQaosQ6dZ2NmIC3rp2j5NV4J">](https://music.youtube.com/watch?v=Fc8d4Mb8m1A)
 
-Ariana Grande(아리아나 그란데) - Into You
+Katy Perry(케이티 페리) - Chained To The Rhythm(feat. Skip Marley)
 
-**Albums**: Dangerous Woman
+**Albums**: Witness (Deluxe)
 
-Last updated at 08/22/2022 22:20
+Last updated at 08/22/2022 22:24
 
 ## Badges
 
