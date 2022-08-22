@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/a36isbIbmOGd6VYH6j61aatMj94BUftO-xeBfeUAv0yUNGZME6Arcfk10cjJTq6D5UFgRWZl9MX8aax9">](https://music.youtube.com/watch?v=K1FlAphL2p8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xe9bE6n-eibnXPIlc-UEemlqsMMcz-S100IjrclFeaKrw1ATP9rbPrNy9jLA1zA02Zc-3YAFROuNEFKA">](https://music.youtube.com/watch?v=H3Kzh6RrnMc)
 
-트웬티 원 파일럿츠 - Stressed Out
+Coldplay(콜드플레이) - Hymn for the Weekend
 
-**Albums**: Blurryface
+**Albums**: A Head Full of Dreams
 
-Last updated at 08/22/2022 22:36
+Last updated at 08/22/2022 22:40
 
 ## Badges
 
