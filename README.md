@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=a9ZIUiG_ILk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=MxV25hAREJM)
 
-제이클레프 - NO ONE SEES ME LIKE YOU
+제이클레프 - FLAW, FLAW
 
 **Albums**: flaw, flaw
 
-Last updated at 08/22/2022 15:03
+Last updated at 08/22/2022 15:05
 
 ## Badges
 
