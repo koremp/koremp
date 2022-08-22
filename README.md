@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ypdNk7bnPvTOncf37ouy1VMB2Vxw9xn-0skCywRD9bVTMEyXK4QcE0w3RQaosQ6dZ2NmIC3rp2j5NV4J">](https://music.youtube.com/watch?v=Fc8d4Mb8m1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">](https://music.youtube.com/watch?v=ui7M7j7caHA)
 
-Katy Perry(케이티 페리) - Chained To The Rhythm(feat. Skip Marley)
+Doja Cat - Kiss Me More(feat. SZA)
 
-**Albums**: Witness (Deluxe)
+**Albums**: Planet Her
 
-Last updated at 08/22/2022 22:24
+Last updated at 08/22/2022 22:28
 
 ## Badges
 
