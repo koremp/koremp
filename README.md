@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6jetNWBJejniXZ2I027RnuGmp7vYRNO5BsiVesCc7DSQpdIbz7iQuig0zXYopAuEbwPLaTVIooLH1FY">](https://music.youtube.com/watch?v=_mumcOISqco)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5-ERoZhdQodo2v83lwIXCv5F1gcVS9sHIgBsBy9p4zZ0hqivOasuiKzXlhY3p3y95wm0TTuLdLaQHsAH">](https://music.youtube.com/watch?v=ytiqx4Qrias)
 
-DJ Khaled(디제이 칼리드) - POPSTAR(feat. Drake(드레이크))
+Miley Cyrus(마일리 사이러스) - Midnight Sky
 
-**Albums**: POPSTAR
+**Albums**: Plastic Hearts
 
-Last updated at 08/22/2022 23:06
+Last updated at 08/22/2022 23:10
 
 ## Badges
 
