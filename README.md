@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8d2hewJvppoCHyZVDe1TuDryRTPFmsykZEwWP7py1yn5zrVkIMVZaIrOe9MDRkSTyJRfYde_jTpWMe0YJg">](https://music.youtube.com/watch?v=7B8HbIVn3gE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8d2hewJvppoCHyZVDe1TuDryRTPFmsykZEwWP7py1yn5zrVkIMVZaIrOe9MDRkSTyJRfYde_jTpWMe0YJg">](https://music.youtube.com/watch?v=Yff_BbdoYs4)
 
-Wiener Philharmoniker (Vienna Philharmonic) - Mahler: Symphony No.2 in C minor - "Resurrection" / 1st Movement - Allegro maestoso (Totenfeier) - Wie zu Anfang
+Wiener Philharmoniker (Vienna Philharmonic) - Mahler: Symphony No.2 in C minor - "Resurrection" / 1st Movement - Allegro maestoso (Totenfeier) - Sehr mässig und zurückhaltend
 
 **Albums**: Mahler: Symphony No. 2
 
-Last updated at 08/22/2022 15:13
+Last updated at 08/22/2022 15:15
 
 ## Badges
 
