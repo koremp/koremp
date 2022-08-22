@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW0lRQG6Chm3nfZZ3WGHZxWJCxaVDiXVLR7GaW5MuE-ubL5TaUpteJl6B6t1TNooiy59xDBe9TPMnY3P">](https://music.youtube.com/watch?v=CL34af5Y7cc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xNlCgsu62xKVVQK0DyNELXAF0sK6_lZQRrTBfCngQZN7aZjtLT-JenZD-b6Wt248gH5re8g4xw80cCs">](https://music.youtube.com/watch?v=g_bZVz2bAgg)
 
-dosii(도시) - lovememore.
+So!YoON! (황소윤) - Fntsy(feat. Jvcki Wai)
 
-**Albums**: dosii
+**Albums**: So!YoON!
 
-Last updated at 08/22/2022 21:08
+Last updated at 08/22/2022 21:12
 
 ## Badges
 
