@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=lgNlFmsn4c8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">](https://music.youtube.com/watch?v=rbb-_YU2S4c)
 
-The Weeknd (위켄드) - Escape From LA
+The Weeknd (위켄드) - Heartless
 
 **Albums**: After Hours
 
-Last updated at 08/22/2022 21:36
+Last updated at 08/22/2022 21:42
 
 ## Badges
 
