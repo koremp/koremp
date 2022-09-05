@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=k-U9sQpCfeI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=kJ5lmkbGQdg)
 
-이랑 - 환란의 세대
+이랑 - 잘 듣고 있어요
 
 **Albums**: 늑대가 나타났다
 
-Last updated at 09/05/2022 16:14
+Last updated at 09/05/2022 16:18
 
 ## Badges
 
