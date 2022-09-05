@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hQoIVtSPFu4p-Z6Ri8v9uWwyytXbBp8XPza-utNYtx1VfTGwNhpph77ePCiMioNpAle1yyZU29olT1cu">](https://music.youtube.com/watch?v=B2CjltfS210)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=hli4rPa67ho)
 
-이랑 - 잘 알지도 못하면서
+이랑 - 대화
 
-**Albums**: 욘욘슨
+**Albums**: 늑대가 나타났다
 
-Last updated at 09/05/2022 16:37
+Last updated at 09/05/2022 16:39
 
 ## Badges
 
