@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=PHysvSNkctc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hQoIVtSPFu4p-Z6Ri8v9uWwyytXbBp8XPza-utNYtx1VfTGwNhpph77ePCiMioNpAle1yyZU29olT1cu">](https://music.youtube.com/watch?v=7KFVY7qVNM0)
 
-이랑 - 세상 모든 사람들이 나를 미워하기 시작했다
+이랑 - 너의 리듬
 
-**Albums**: 신의 놀이
+**Albums**: 욘욘슨
 
-Last updated at 09/05/2022 16:22
+Last updated at 09/05/2022 16:29
 
 ## Badges
 
