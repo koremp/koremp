@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/a36isbIbmOGd6VYH6j61aatMj94BUftO-xeBfeUAv0yUNGZME6Arcfk10cjJTq6D5UFgRWZl9MX8aax9">](https://music.youtube.com/watch?v=w1Smzzw_w7Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=vx7-mBCUFnk)
 
-트웬티 원 파일럿츠 - Ride
+이랑 - 늑대가 나타났다
 
-**Albums**: Blurryface
+**Albums**: 늑대가 나타났다
 
-Last updated at 08/22/2022 23:12
+Last updated at 09/05/2022 16:12
 
 ## Badges
 
