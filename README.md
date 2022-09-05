@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yleThbjCb3FEj9Pb4NDFc7mgcIfVHZiLocmg-AnMMcQdTXvlhrXAYebSLNZfDErtaV91YbD2C9uDWYwz">](https://music.youtube.com/watch?v=-GXmNrCtZVc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=K1bUDu_cLR0)
 
-이랑 - The Generation of Tribulation(feat. Unnie Choir)
+이랑 - 나는 왜 알아요
 
-**Albums**: The Generation of Tribulation
+**Albums**: 신의 놀이
 
-Last updated at 09/05/2022 16:50
+Last updated at 09/05/2022 16:54
 
 ## Badges
 
