@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu-RRmwus870wk7Q538nvZFLkI7yQWvGt4dpxMu2=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aoYnLxb6XTmWRd6aUKZ2vZsjd6owCK6rLu9QWa0DmF-d96U9x5qrEi3x9SqlN1dpr2IGGb1SNULc0bUliQ">](https://music.youtube.com/watch?v=MRNV0wouFhU)
 
-Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
+Krystian Zimerman - 라흐마니노프 : 피아노 협주곡 1번 올림 바단조 작품번호 1: 1. Vivace
 
-**Albums**: Not supported
+**Albums**: 라흐마니노프: 피아노 협주곡 1,2번
 
-Last updated at 09/07/2022 20:00
+Last updated at 09/07/2022 20:42
 
 ## Badges
 
