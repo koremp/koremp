@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=K1bUDu_cLR0)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu-RRmwus870wk7Q538nvZFLkI7yQWvGt4dpxMu2=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
 
-이랑 - 나는 왜 알아요
+Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
 
-**Albums**: 신의 놀이
+**Albums**: Not supported
 
-Last updated at 09/05/2022 16:54
+Last updated at 09/07/2022 20:00
 
 ## Badges
 
