@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aoYnLxb6XTmWRd6aUKZ2vZsjd6owCK6rLu9QWa0DmF-d96U9x5qrEi3x9SqlN1dpr2IGGb1SNULc0bUliQ">](https://music.youtube.com/watch?v=MRNV0wouFhU)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YfjB-HF4RVw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YfjB-HF4RVw)
 
-Krystian Zimerman - 라흐마니노프 : 피아노 협주곡 1번 올림 바단조 작품번호 1: 1. Vivace
+Music John - Yuja Wang: Rachmaninov Piano Concerto No. 1 in F-sharp minor, Op. 1
 
-**Albums**: 라흐마니노프: 피아노 협주곡 1,2번
+**Albums**: 조회수 4.8만회
 
-Last updated at 09/07/2022 20:42
+Last updated at 09/07/2022 20:44
 
 ## Badges
 
