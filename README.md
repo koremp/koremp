@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/YfjB-HF4RVw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YfjB-HF4RVw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
-Music John - Yuja Wang: Rachmaninov Piano Concerto No. 1 in F-sharp minor, Op. 1
+NewJeans - Hype Boy
 
-**Albums**: 조회수 4.8만회
+**Albums**: Not supported
 
-Last updated at 09/07/2022 20:44
+Last updated at 09/10/2022 18:32
 
 ## Badges
 
