@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8d2hewJvppoCHyZVDe1TuDryRTPFmsykZEwWP7py1yn5zrVkIMVZaIrOe9MDRkSTyJRfYde_jTpWMe0YJg">](https://music.youtube.com/watch?v=2ZXpkxifyJM)
 
-LE SSERAFIM - Blue Flame
+Wiener Philharmoniker (Vienna Philharmonic) - Mahler: Symphony No.2 in C minor - "Resurrection" / 5th Movement - Ritenuto
 
-**Albums**: Not supported
+**Albums**: Mahler: Symphony No. 2
 
-Last updated at 09/11/2022 18:01
+Last updated at 09/11/2022 18:19
 
 ## Badges
 
