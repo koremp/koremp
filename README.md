@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pELi2BJDTQZiXJ5jGSPjGk-HXnl4uXQzc-2lWdJa05tNkKQyxji7tNVrJfOrRTr_bRN6JKs7GLafeow">](https://music.youtube.com/watch?v=JNWC3GUYgQw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pELi2BJDTQZiXJ5jGSPjGk-HXnl4uXQzc-2lWdJa05tNkKQyxji7tNVrJfOrRTr_bRN6JKs7GLafeow">](https://music.youtube.com/watch?v=J2ECNLziz64)
 
-조성진 - Debussy: Images II, L. 111 - 3. Poissons d'or
+조성진 - Debussy: Children's Corner, L. 113 - 1. Doctor Gradus Ad Parnassum
 
 **Albums**: Debussy
 
-Last updated at 09/12/2022 23:49
+Last updated at 09/12/2022 23:53
 
 ## Badges
 
