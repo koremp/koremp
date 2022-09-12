@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCGn8T3PmIkow87GeZC9mW7g)
 
-LE SSERAFIM - Blue Flame
+GIRLS' GENERATION - FOREVER 1
 
 **Albums**: Not supported
 
-Last updated at 09/12/2022 22:05
+Last updated at 09/12/2022 23:13
 
 ## Badges
 
