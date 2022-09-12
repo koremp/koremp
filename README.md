@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
-NewJeans - Hype Boy
+LE SSERAFIM - Blue Flame
 
 **Albums**: Not supported
 
-Last updated at 09/12/2022 22:03
+Last updated at 09/12/2022 22:05
 
 ## Badges
 
