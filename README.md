@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8d2hewJvppoCHyZVDe1TuDryRTPFmsykZEwWP7py1yn5zrVkIMVZaIrOe9MDRkSTyJRfYde_jTpWMe0YJg">](https://music.youtube.com/watch?v=2ZXpkxifyJM)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCGn8T3PmIkow87GeZC9mW7g)
 
-Wiener Philharmoniker (Vienna Philharmonic) - Mahler: Symphony No.2 in C minor - "Resurrection" / 5th Movement - Ritenuto
+GIRLS' GENERATION - FOREVER 1
 
-**Albums**: Mahler: Symphony No. 2
+**Albums**: Not supported
 
-Last updated at 09/11/2022 18:19
+Last updated at 09/12/2022 21:59
 
 ## Badges
 
