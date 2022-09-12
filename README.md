@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCGn8T3PmIkow87GeZC9mW7g)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
-GIRLS' GENERATION - FOREVER 1
+NewJeans - Hype Boy
 
 **Albums**: Not supported
 
-Last updated at 09/12/2022 21:59
+Last updated at 09/12/2022 22:03
 
 ## Badges
 
