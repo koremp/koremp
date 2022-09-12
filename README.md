@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pELi2BJDTQZiXJ5jGSPjGk-HXnl4uXQzc-2lWdJa05tNkKQyxji7tNVrJfOrRTr_bRN6JKs7GLafeow">](https://music.youtube.com/watch?v=J2ECNLziz64)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pELi2BJDTQZiXJ5jGSPjGk-HXnl4uXQzc-2lWdJa05tNkKQyxji7tNVrJfOrRTr_bRN6JKs7GLafeow">](https://music.youtube.com/watch?v=rEFYa2eLK30)
 
-조성진 - Debussy: Children's Corner, L. 113 - 1. Doctor Gradus Ad Parnassum
+조성진 - Debussy: Children's Corner, L. 113 - 2. Jimbo's Lullaby
 
 **Albums**: Debussy
 
-Last updated at 09/12/2022 23:53
+Last updated at 09/12/2022 23:55
 
 ## Badges
 
