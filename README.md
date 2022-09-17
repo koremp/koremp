@@ -4,11 +4,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/FvO6Ve8KNuCInJgR3Ubae9EGekEU4kaYelH8uDMjtZikfmbJBfrCAja7PYepF0aBMJfVnxQi=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
-NewJeans - Hype Boy
+NewJeans - Attention
 
 **Albums**: Not supported
 
-Last updated at 09/17/2022 16:06
+Last updated at 09/17/2022 16:08
 
 ## Badges
 
