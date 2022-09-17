@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pELi2BJDTQZiXJ5jGSPjGk-HXnl4uXQzc-2lWdJa05tNkKQyxji7tNVrJfOrRTr_bRN6JKs7GLafeow">](https://music.youtube.com/watch?v=rEFYa2eLK30)
+[<img align="left" width="100" src="https://yt3.ggpht.com/mGIS9352z_O1V5m6rBoV76OTkoj3hsEjY7LL3UKwmoX30PHQe3TX8Uk7bZVxyrBe6uqiyj2YKA=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UC_4Y1QqJr60C5Z7-eQWy-mw)
 
-조성진 - Debussy: Children's Corner, L. 113 - 2. Jimbo's Lullaby
+IVE - LOVE DIVE (LOVE DIVE)
 
-**Albums**: Debussy
+**Albums**: Not supported
 
-Last updated at 09/12/2022 23:55
+Last updated at 09/17/2022 15:58
 
 ## Badges
 
