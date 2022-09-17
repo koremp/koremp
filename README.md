@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/mGIS9352z_O1V5m6rBoV76OTkoj3hsEjY7LL3UKwmoX30PHQe3TX8Uk7bZVxyrBe6uqiyj2YKA=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UC_4Y1QqJr60C5Z7-eQWy-mw)
+[<img align="left" width="100" src="https://yt3.ggpht.com/FvO6Ve8KNuCInJgR3Ubae9EGekEU4kaYelH8uDMjtZikfmbJBfrCAja7PYepF0aBMJfVnxQi=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
-IVE - LOVE DIVE (LOVE DIVE)
+NewJeans - Hype Boy
 
 **Albums**: Not supported
 
-Last updated at 09/17/2022 15:58
+Last updated at 09/17/2022 16:06
 
 ## Badges
 
