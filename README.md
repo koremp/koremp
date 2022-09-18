@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/FvO6Ve8KNuCInJgR3Ubae9EGekEU4kaYelH8uDMjtZikfmbJBfrCAja7PYepF0aBMJfVnxQi=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/X2kfzgtEgxTT8eQBomEXGVKI_gqJ_EW2zO46Odb-0txR-NOv16amtfHVFfut_szZfLNnYMKN9QT7mJ1p">](https://music.youtube.com/watch?v=Ko_OlR9oIqU)
 
-NewJeans - Attention
+아르투로 베네데티 미켈란젤리 - Doctor Gradus And Parnassum
 
-**Albums**: Not supported
+**Albums**: Arturo Benedetti Michelangeli 4 - Debussy
 
-Last updated at 09/17/2022 16:08
+Last updated at 09/18/2022 17:59
 
 ## Badges
 
