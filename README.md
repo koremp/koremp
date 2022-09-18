@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TF48ihem24HPDJXJdF-fgiHxTXmDnD5giydn6C_90MTJEJ28O6_nHCbn_Tgyl-DpQJJ9Bp2aNz0g2sKT4w">](https://music.youtube.com/watch?v=CQCpQBOBXnQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbRv5LyWTi7gP-ND9iHBTVRFHjYJmaG6UIYIUpjPuZmhMmPRyxquQFGibwPwrX5dJ9elIDaRfHyyibI">](https://music.youtube.com/watch?v=aCphwVnD_hM)
 
-아르투로 베네데티 미켈란젤리 - 전주곡 1권 L.117: 1. 델피의 무희들
+베를린 필하모니 관현악단 및 클라우디오 아바도 - Debussy: Prélude à l'après-midi d'un faune
 
-**Albums**: Debussy: Piano Works
+**Albums**: Debussy: Prélude à l'aprés-midi d'un faune; Trois Nocturnes; Pelléas et Mélisande Suite
 
-Last updated at 09/18/2022 18:19
+Last updated at 09/18/2022 18:31
 
 ## Badges
 
