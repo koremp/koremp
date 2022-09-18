@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbRv5LyWTi7gP-ND9iHBTVRFHjYJmaG6UIYIUpjPuZmhMmPRyxquQFGibwPwrX5dJ9elIDaRfHyyibI">](https://music.youtube.com/watch?v=aCphwVnD_hM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbRv5LyWTi7gP-ND9iHBTVRFHjYJmaG6UIYIUpjPuZmhMmPRyxquQFGibwPwrX5dJ9elIDaRfHyyibI">](https://music.youtube.com/watch?v=nlLbAUX43PM)
 
-베를린 필하모니 관현악단 및 클라우디오 아바도 - Debussy: Prélude à l'après-midi d'un faune
+베를린 필하모니 관현악단 및 클라우디오 아바도 - Debussy: Nocturnes, L. 91 - 1. Nuages
 
 **Albums**: Debussy: Prélude à l'aprés-midi d'un faune; Trois Nocturnes; Pelléas et Mélisande Suite
 
-Last updated at 09/18/2022 18:31
+Last updated at 09/18/2022 18:41
 
 ## Badges
 
