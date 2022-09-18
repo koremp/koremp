@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RjUDLrLcw-_PK-3lqsU0s7c-_oPaC30SZGNoHo2mTk10C7Pheq5KZtyVkMUqWjvbksAzwySyf8RRxWA">](https://music.youtube.com/watch?v=DgSgVktjd4g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TF48ihem24HPDJXJdF-fgiHxTXmDnD5giydn6C_90MTJEJ28O6_nHCbn_Tgyl-DpQJJ9Bp2aNz0g2sKT4w">](https://music.youtube.com/watch?v=CQCpQBOBXnQ)
 
-아르투로 베네데티 미켈란젤리 - Debussy: Préludes / Book 2, L. 123 - 12. Feux d'artifice
+아르투로 베네데티 미켈란젤리 - 전주곡 1권 L.117: 1. 델피의 무희들
 
-**Albums**: Debussy: Préludes (Book 2)
+**Albums**: Debussy: Piano Works
 
-Last updated at 09/18/2022 18:13
+Last updated at 09/18/2022 18:19
 
 ## Badges
 
