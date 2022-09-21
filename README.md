@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TeapKjpaTr4amNAWQw9AGUoDdUlPySbcLVLt3k07TtCCHMMLAaM5Shjg6SvoGjcAhzNczHCEasALl3o">](https://music.youtube.com/watch?v=8zUT18Zi6iw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TeapKjpaTr4amNAWQw9AGUoDdUlPySbcLVLt3k07TtCCHMMLAaM5Shjg6SvoGjcAhzNczHCEasALl3o">](https://music.youtube.com/watch?v=tI_f2Z6CFPc)
 
-사이먼 래틀 - Symphony No. 2, "Resurrection": I. Allegro maestoso
+사이먼 래틀 - Symphony No. 2, "Resurrection": II. Andante moderato
 
 **Albums**: Mahler: Symphony No.2, "Resurrection"
 
-Last updated at 09/21/2022 14:05
+Last updated at 09/21/2022 15:08
 
 ## Badges
 
