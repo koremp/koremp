@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TeapKjpaTr4amNAWQw9AGUoDdUlPySbcLVLt3k07TtCCHMMLAaM5Shjg6SvoGjcAhzNczHCEasALl3o">](https://music.youtube.com/watch?v=TFGRwBavDOQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TeapKjpaTr4amNAWQw9AGUoDdUlPySbcLVLt3k07TtCCHMMLAaM5Shjg6SvoGjcAhzNczHCEasALl3o">](https://music.youtube.com/watch?v=3zwHwwcSpWs)
 
-사이먼 래틀 - Symphony No. 2, "Resurrection": V. (b) Wieder sehr breit - Etwas energischer im Tempo -(feat. 크리스토프 프랭크)
+사이먼 래틀 - Symphony No. 2, "Resurrection": V. (c) Maestoso, sehr züruckhaltend - Allegro energico - Kräftig - Wieder etwas gehaltener - Mit einem Male etwas wuchtiger -
 
 **Albums**: Mahler: Symphony No.2, "Resurrection"
 
-Last updated at 09/21/2022 15:42
+Last updated at 09/21/2022 15:46
 
 ## Badges
 
