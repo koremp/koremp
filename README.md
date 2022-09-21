@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on SoundCloud
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbRv5LyWTi7gP-ND9iHBTVRFHjYJmaG6UIYIUpjPuZmhMmPRyxquQFGibwPwrX5dJ9elIDaRfHyyibI">](https://music.youtube.com/watch?v=nlLbAUX43PM)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000099650071-fzqpvk-t120x120.jpg">](https://soundcloud.com/zoopasoo-odaeri/14-odaeri-gookppong-mix-14)
 
-베를린 필하모니 관현악단 및 클라우디오 아바도 - Debussy: Nocturnes, L. 91 - 1. Nuages
+Zoopasoo Odaeri - 오대리 국뽕믹스 '14  Odaeri Gookppong Mix '14
 
-**Albums**: Debussy: Prélude à l'aprés-midi d'un faune; Trois Nocturnes; Pelléas et Mélisande Suite
+**Albums**: Not supported
 
-Last updated at 09/18/2022 18:41
+Last updated at 09/21/2022 13:59
 
 ## Badges
 
