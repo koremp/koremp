@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on SoundCloud
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000099650071-fzqpvk-t120x120.jpg">](https://soundcloud.com/zoopasoo-odaeri/14-odaeri-gookppong-mix-14)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TeapKjpaTr4amNAWQw9AGUoDdUlPySbcLVLt3k07TtCCHMMLAaM5Shjg6SvoGjcAhzNczHCEasALl3o">](https://music.youtube.com/watch?v=8zUT18Zi6iw)
 
-Zoopasoo Odaeri - 오대리 국뽕믹스 '14  Odaeri Gookppong Mix '14
+사이먼 래틀 - Symphony No. 2, "Resurrection": I. Allegro maestoso
 
-**Albums**: Not supported
+**Albums**: Mahler: Symphony No.2, "Resurrection"
 
-Last updated at 09/21/2022 13:59
+Last updated at 09/21/2022 14:05
 
 ## Badges
 
