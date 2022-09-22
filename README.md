@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TeapKjpaTr4amNAWQw9AGUoDdUlPySbcLVLt3k07TtCCHMMLAaM5Shjg6SvoGjcAhzNczHCEasALl3o">](https://music.youtube.com/watch?v=3zwHwwcSpWs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TeapKjpaTr4amNAWQw9AGUoDdUlPySbcLVLt3k07TtCCHMMLAaM5Shjg6SvoGjcAhzNczHCEasALl3o">](https://music.youtube.com/watch?v=8zUT18Zi6iw)
 
-사이먼 래틀 - Symphony No. 2, "Resurrection": V. (c) Maestoso, sehr züruckhaltend - Allegro energico - Kräftig - Wieder etwas gehaltener - Mit einem Male etwas wuchtiger -
+사이먼 래틀 - Symphony No. 2, "Resurrection": I. Allegro maestoso
 
 **Albums**: Mahler: Symphony No.2, "Resurrection"
 
-Last updated at 09/21/2022 15:46
+Last updated at 09/22/2022 18:12
 
 ## Badges
 
