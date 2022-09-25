@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8y_WmQ6-RgfcekEN8aZ8DJsjgELMkPBeTvXcPbW1q4zaVxD-RnwTF6FjpULka8eQpe5iGWcr0P8WyPA">](https://music.youtube.com/watch?v=W5QgWXfBaeY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Sg-YEkpvLa8L-xLlIy_2SfNRPkrOhre_JNxpXa_eSUhoWsh8Oz9JqJLD_0R0N6S0yfLaQErhEEuAg2cDgQ">](https://music.youtube.com/watch?v=LwSnYGXZ808)
 
-우재 (WOOJAE) - 우주 왈츠 (With 정우)
+장기하 - Cheap Coffee 싸구려 커피
 
-**Albums**: 우주 왈츠 (With 정우)
+**Albums**: Cheap Coffee 싸구려 커피
 
-Last updated at 09/25/2022 16:21
+Last updated at 09/25/2022 16:25
 
 ## Badges
 
