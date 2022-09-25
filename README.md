@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8y_WmQ6-RgfcekEN8aZ8DJsjgELMkPBeTvXcPbW1q4zaVxD-RnwTF6FjpULka8eQpe5iGWcr0P8WyPA">](https://music.youtube.com/watch?v=W5QgWXfBaeY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/k2Zo-9AKuU8wKD_BhZH7tv61zRHLW0wt58p9FUW0b2m9P8aAQDrvbolKmOTON5jvF61oddPWemrQd_Fl">](https://music.youtube.com/watch?v=13SDka5sGbE)
 
-우재 (WOOJAE) - 우주 왈츠 (With 정우)
+LUCY - Blue Voyage
 
-**Albums**: 우주 왈츠 (With 정우)
+**Albums**: Trip:Tape #03
 
-Last updated at 09/25/2022 13:42
+Last updated at 09/25/2022 13:46
 
 ## Badges
 
