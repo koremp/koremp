@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aZcmLYDxjIZEz1zH9vwiWkkDgO3YE7dd_YjHa1lYzRU4AhrJv8FNKkVHt7TIUBJbAb6oVCaWbNWW1WlLJw">](https://music.youtube.com/watch?v=OL36d-0g0mc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8y_WmQ6-RgfcekEN8aZ8DJsjgELMkPBeTvXcPbW1q4zaVxD-RnwTF6FjpULka8eQpe5iGWcr0P8WyPA">](https://music.youtube.com/watch?v=W5QgWXfBaeY)
 
-완태 Wantae - 제주도 있잖아 Jeju Island, You Know
+우재 (WOOJAE) - 우주 왈츠 (With 정우)
 
-**Albums**: 노을이 Nouri - Evening Glow
+**Albums**: 우주 왈츠 (With 정우)
 
-Last updated at 09/25/2022 16:18
+Last updated at 09/25/2022 16:21
 
 ## Badges
 
