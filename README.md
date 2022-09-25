@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iwsjfgoc9shBY4SZZGk-wjrtT--klYIJqVNSrI1tMAmTxkKMlrj9tgYs1L2cA9SfEg4HKVKGQChEt-bU">](https://music.youtube.com/watch?v=fb35D_jwfnE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aZcmLYDxjIZEz1zH9vwiWkkDgO3YE7dd_YjHa1lYzRU4AhrJv8FNKkVHt7TIUBJbAb6oVCaWbNWW1WlLJw">](https://music.youtube.com/watch?v=OL36d-0g0mc)
 
-Wantae - Chai's Sai
+완태 Wantae - 제주도 있잖아 Jeju Island, You Know
 
-**Albums**: Hapziphap
+**Albums**: 노을이 Nouri - Evening Glow
 
-Last updated at 09/25/2022 16:13
+Last updated at 09/25/2022 16:18
 
 ## Badges
 
