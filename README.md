@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/k2Zo-9AKuU8wKD_BhZH7tv61zRHLW0wt58p9FUW0b2m9P8aAQDrvbolKmOTON5jvF61oddPWemrQd_Fl">](https://music.youtube.com/watch?v=13SDka5sGbE)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu_gwM_4q9yRygPDAqF0v0p35iqES-04cf9R6BlS=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/user/Perfume)
 
-LUCY - Blue Voyage
+Perfume - [Official Music Video] Perfume 「FLASH」
 
-**Albums**: Trip:Tape #03
+**Albums**: Not supported
 
-Last updated at 09/25/2022 13:46
+Last updated at 09/25/2022 15:48
 
 ## Badges
 
