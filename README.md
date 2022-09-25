@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=jyBeAwKL0GU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=y2ZYZePW_94)
 
-Labrinth - The Angels
+Labrinth - I'm Tired (Long Version)
 
 **Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
 
-Last updated at 09/25/2022 16:28
+Last updated at 09/25/2022 16:30
 
 ## Badges
 
