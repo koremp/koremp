@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TeapKjpaTr4amNAWQw9AGUoDdUlPySbcLVLt3k07TtCCHMMLAaM5Shjg6SvoGjcAhzNczHCEasALl3o">](https://music.youtube.com/watch?v=8zUT18Zi6iw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8y_WmQ6-RgfcekEN8aZ8DJsjgELMkPBeTvXcPbW1q4zaVxD-RnwTF6FjpULka8eQpe5iGWcr0P8WyPA">](https://music.youtube.com/watch?v=W5QgWXfBaeY)
 
-사이먼 래틀 - Symphony No. 2, "Resurrection": I. Allegro maestoso
+우재 (WOOJAE) - 우주 왈츠 (With 정우)
 
-**Albums**: Mahler: Symphony No.2, "Resurrection"
+**Albums**: 우주 왈츠 (With 정우)
 
-Last updated at 09/22/2022 18:12
+Last updated at 09/25/2022 13:42
 
 ## Badges
 
