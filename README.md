@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu_gwM_4q9yRygPDAqF0v0p35iqES-04cf9R6BlS=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/user/Perfume)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iwsjfgoc9shBY4SZZGk-wjrtT--klYIJqVNSrI1tMAmTxkKMlrj9tgYs1L2cA9SfEg4HKVKGQChEt-bU">](https://music.youtube.com/watch?v=wzj1DiZtBqg)
 
-Perfume - [Official Music Video] Perfume 「FLASH」
+Wantae - Churak
 
-**Albums**: Not supported
+**Albums**: Hapziphap
 
-Last updated at 09/25/2022 15:48
+Last updated at 09/25/2022 15:57
 
 ## Badges
 
