@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Sg-YEkpvLa8L-xLlIy_2SfNRPkrOhre_JNxpXa_eSUhoWsh8Oz9JqJLD_0R0N6S0yfLaQErhEEuAg2cDgQ">](https://music.youtube.com/watch?v=LwSnYGXZ808)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=jyBeAwKL0GU)
 
-장기하 - Cheap Coffee 싸구려 커피
+Labrinth - The Angels
 
-**Albums**: Cheap Coffee 싸구려 커피
+**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
 
-Last updated at 09/25/2022 16:25
+Last updated at 09/25/2022 16:28
 
 ## Badges
 
