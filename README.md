@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=uncUb8OhJvE)
+[<img align="left" width="100" src="https://yt3.ggpht.com/iGWTxAf6tokq9e2cVapQL6D1qgbtD-oFkVLqcUGF24WjUwX68qCm-iN4mMqqJEz_4eRSi-EyEQ=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCr_iyUANcn9OX_yy9piYoLw)
 
-Labrinth - She Certainly Looks the Part
+Radiohead - Bullet Proof ... I Wish I Was
 
-**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
+**Albums**: Not supported
 
-Last updated at 09/25/2022 16:37
+Last updated at 09/27/2022 11:14
 
 ## Badges
 
@@ -32,7 +32,7 @@ my favorite artist, [Yujin Sol](https://instagram.com/ujin_26)
 
 ### Resume
 
-* [Dokyun Lim's Resume - 2022.09 - KR](https://docs.google.com/document/d/1r8__w9frdlUIcpJtEnbj1jV5z8q_jZTQILYB1GlY6cY/edit?usp=sharing)
+* [Dokyun Lim's Resume - 2022.08 - KR](https://docs.google.com/document/d/1r9XLlzQ26mHWY3s0EMFtxAvLgcSiahizcKAVA6i9d8c/edit)
 * [Dokyun Lim's Resume - 2022.08 - EN](https://docs.google.com/document/d/1LoNoqn7I6ZHLONrlGT0KinQadcWyTy8VMsWPNnhc4sw/edit?usp=sharing)
 
 ### Personally
