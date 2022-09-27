@@ -32,7 +32,7 @@ my favorite artist, [Yujin Sol](https://instagram.com/ujin_26)
 
 ### Resume
 
-* [Dokyun Lim's Resume - 2022.08 - KR](https://docs.google.com/document/d/1r9XLlzQ26mHWY3s0EMFtxAvLgcSiahizcKAVA6i9d8c/edit)
+* [Dokyun Lim's Resume - 2022.09 - KR](https://docs.google.com/document/d/1r8__w9frdlUIcpJtEnbj1jV5z8q_jZTQILYB1GlY6cY/edit?usp=sharing)
 * [Dokyun Lim's Resume - 2022.08 - EN](https://docs.google.com/document/d/1LoNoqn7I6ZHLONrlGT0KinQadcWyTy8VMsWPNnhc4sw/edit?usp=sharing)
 
 ### Personally
