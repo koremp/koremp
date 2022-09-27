@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/iGWTxAf6tokq9e2cVapQL6D1qgbtD-oFkVLqcUGF24WjUwX68qCm-iN4mMqqJEz_4eRSi-EyEQ=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCr_iyUANcn9OX_yy9piYoLw)
+[<img align="left" width="100" src="https://yt3.ggpht.com/nA0CLHqnHIRVEn_J8ySbkEWMBJeoVXRx7VncPDPhQ3HIdZq8TjFTjC2_F77PQ9f6JZbAUh-wFg=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCI3EFb2lvZyBMykNd64JDhg)
 
-Radiohead - No Surprises (Remastered)
+Blur - Sweet Song
 
 **Albums**: Not supported
 
-Last updated at 09/27/2022 11:56
+Last updated at 09/27/2022 12:00
 
 ## Badges
 
