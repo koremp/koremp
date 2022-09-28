@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCr_iyUANcn9OX_yy9piYoLw)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu_4zPQ4HTl_dkfclSIvpGqzOx4NeUH6QIMgLjzv3Q=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/user/BEBEREXHA)
 
-Radiohead - My Iron Lung
+Bebe Rexha - 'Grace' (Official Lyric Video)
 
 **Albums**: Not supported
 
-Last updated at 09/28/2022 11:01
+Last updated at 09/28/2022 11:05
 
 ## Badges
 
