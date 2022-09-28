@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu_4zPQ4HTl_dkfclSIvpGqzOx4NeUH6QIMgLjzv3Q=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/user/BEBEREXHA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCwzCuKxyMY_sT7hr1E8G1XA)
 
-Bebe Rexha - 'Grace' (Official Lyric Video)
+TAEYEON Official - Gravity
 
 **Albums**: Not supported
 
-Last updated at 09/28/2022 11:05
+Last updated at 09/28/2022 11:09
 
 ## Badges
 
