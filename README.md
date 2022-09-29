@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LSMdyd7T2RNpZw2iCkWju-mdr2ba9u13e1bFoFcUgE4xA1JImWjGNhC3tW7EWGNx0U428BPxiTYuCdJJVw">](https://music.youtube.com/watch?v=xRg58BMg8dA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LXwcLiYgeVLXuBFNakvDY1OQk-peMmgVldpwpuvWes2iUIuUbzBgAwpgBUd2btCfav_jxlBqvHa2XPU">](https://music.youtube.com/watch?v=2MAEoiCGxlQ)
 
-David Guetta(데이빗 게타) - The Alphabeat
+Fall Out Boy(폴 아웃 보이) - The Mighty Fall(feat. Big Sean)
 
 **Albums**: Not supported
 
-Last updated at 09/29/2022 18:19
+Last updated at 09/29/2022 18:21
 
 ## Badges
 
