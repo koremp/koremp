@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LXwcLiYgeVLXuBFNakvDY1OQk-peMmgVldpwpuvWes2iUIuUbzBgAwpgBUd2btCfav_jxlBqvHa2XPU">](https://music.youtube.com/watch?v=2MAEoiCGxlQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FdE61Eneuq7U5LzwzmKTZtyCt9GDnHB0JX7RRO-y2wM8Qj8jG8g-SQk6yNefnHNEDSpKW470KtR5-DMw">](https://music.youtube.com/watch?v=DXGY5bXBzhg)
 
-Fall Out Boy(폴 아웃 보이) - The Mighty Fall(feat. Big Sean)
+Skrillex(스크릴렉스) - Scary Monsters and Nice Sprites
 
-**Albums**: Not supported
+**Albums**: Scary Monsters and Nice Sprites EP
 
-Last updated at 09/29/2022 18:21
+Last updated at 09/29/2022 23:09
 
 ## Badges
 
