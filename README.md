@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=u1emSyZCcbk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hemZTEDDCGFUPdHST8YbodZ81tmgd-VkjI6S32albLKZeVhM1AG1BHV3Hp_Ydy0OWVEVtUg15cqPKRJP">](https://music.youtube.com/watch?v=wSmXuELXnkw)
 
-이랑 - 의식적으로 잠을 자야겠다
+콘세르트헤바우 관현악단 및 리카르도 샤이 - Debussy: Pour le piano, L. 95 - Orch. Ravel - Sarabande
 
-**Albums**: 늑대가 나타났다
+**Albums**: Mussorgsky: Pictures at an Exhibition / Ravel: Boléro etc
 
-Last updated at 09/30/2022 23:48
+Last updated at 09/30/2022 23:52
 
 ## Badges
 
