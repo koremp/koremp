@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Rqh2HDAD-Fj1-oHYqVklPGklMHIV3r6SMPMZmFE3FlLiWeBBnP3SCESfgeNdzQ-DmpCIvOGE4J0hzVxa">](https://music.youtube.com/watch?v=5qZQEq_C3vc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Vlwl9HVTK-fs_ve6Sj7tqZnAQQ09kfyaz4Jsjsi5H2019RFWYKJz4nU2SG-vyFBbkgfou2fuadMCQAs">](https://music.youtube.com/watch?v=elzNAv6p9d0)
 
-Linkin Park(린킨 파크) - Numb
+이루리 Lulileela - Light Beside You
 
-**Albums**: Meteora (Bonus Edition)
+**Albums**: Not supported
 
-Last updated at 09/30/2022 19:49
+Last updated at 09/30/2022 20:02
 
 ## Badges
 
