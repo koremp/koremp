@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/eBqA-0M-xbSUodVXYg_qLuPZHM1Ck7bBrn5ZIlFBYAUl4DZspPeRQKvx2VCV5uFe1YNP2Sim=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/bomsori)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xZ-2CcN1ifP5VeKAxCxRU1vdD-bjNLD1vqfjyFCJz7JrFsLRbiiI3ijYeCOhDBfVVd70SjK_yFQw9O0g">](https://music.youtube.com/watch?v=awoFZaSuko4)
 
-Bomsori 김봄소리 - 모차르트 바이올린 협주곡 5번 가장조, KV.219, 1악장 - 김봄소리
+티어스 포 피어스 - Everybody Wants To Rule The World
 
-**Albums**: Not supported
+**Albums**: Songs From The Big Chair (Deluxe)
 
-Last updated at 09/30/2022 16:34
+Last updated at 09/30/2022 17:02
 
 ## Badges
 
