@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/XdBR-SrP6uU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XdBR-SrP6uU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=EQW8P9CIF2M)
 
-juliaplaysgroove - Dua Lipa - Don't Start Now (Bass Cover)
+이랑 - 신의 놀이
 
-**Albums**: 조회수 1267만회
+**Albums**: 신의 놀이
 
-Last updated at 09/30/2022 20:06
+Last updated at 09/30/2022 23:18
 
 ## Badges
 
