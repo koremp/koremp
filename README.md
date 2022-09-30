@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J5dMAagvA1aoHW0wn5pZALZYfsaII4TuOeJh9JzxFVoGYdxno0g4DrTL77ESFFCP4OOvq8MqQROXxCM">](https://music.youtube.com/watch?v=n3TVjV3fvR8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/J5dMAagvA1aoHW0wn5pZALZYfsaII4TuOeJh9JzxFVoGYdxno0g4DrTL77ESFFCP4OOvq8MqQROXxCM">](https://music.youtube.com/watch?v=7iqmMvsb-kc)
 
-브로큰발렌타인 - 난 여기 이곳에 있겠지
+브로큰발렌타인 - Everything
 
 **Albums**: Aluminium
 
-Last updated at 09/30/2022 19:28
+Last updated at 09/30/2022 19:32
 
 ## Badges
 
