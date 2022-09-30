@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=8HCPNIVZJLw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=_oOYKuMnJ60)
 
-하현상 - 파랑 골목
+하현상 - 죽은 새
 
 **Albums**: Calibrate
 
-Last updated at 09/30/2022 19:07
+Last updated at 09/30/2022 19:10
 
 ## Badges
 
