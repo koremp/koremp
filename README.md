@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aI2V9m2K9SyOFQiCrFqp2rgqYF5GwqJsn3YfzKvvjvCMpkY9q-59xCgx2wpWJJt6J-6puNrgVekALpYIXw">](https://music.youtube.com/watch?v=Ub8Yd42YMqE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aI2V9m2K9SyOFQiCrFqp2rgqYF5GwqJsn3YfzKvvjvCMpkY9q-59xCgx2wpWJJt6J-6puNrgVekALpYIXw">](https://music.youtube.com/watch?v=Dcbyv-x8P9A)
 
-Seoul Philharmonic Orchestra - Debussy: La Mer: 1. De l’aube à midi sur la mer
+Seoul Philharmonic Orchestra - Debussy: La Mer: 2. Jeux de vagues
 
 **Albums**: Debussy: La Mer / Ravel: Ma Mere L'oye, La Valse
 
-Last updated at 09/30/2022 23:54
+Last updated at 10/01/2022 00:03
 
 ## Badges
 
