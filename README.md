@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hemZTEDDCGFUPdHST8YbodZ81tmgd-VkjI6S32albLKZeVhM1AG1BHV3Hp_Ydy0OWVEVtUg15cqPKRJP">](https://music.youtube.com/watch?v=wSmXuELXnkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aI2V9m2K9SyOFQiCrFqp2rgqYF5GwqJsn3YfzKvvjvCMpkY9q-59xCgx2wpWJJt6J-6puNrgVekALpYIXw">](https://music.youtube.com/watch?v=Ub8Yd42YMqE)
 
-콘세르트헤바우 관현악단 및 리카르도 샤이 - Debussy: Pour le piano, L. 95 - Orch. Ravel - Sarabande
+Seoul Philharmonic Orchestra - Debussy: La Mer: 1. De l’aube à midi sur la mer
 
-**Albums**: Mussorgsky: Pictures at an Exhibition / Ravel: Boléro etc
+**Albums**: Debussy: La Mer / Ravel: Ma Mere L'oye, La Valse
 
-Last updated at 09/30/2022 23:52
+Last updated at 09/30/2022 23:54
 
 ## Badges
 
