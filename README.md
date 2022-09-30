@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/of6jW6Ruio4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=of6jW6Ruio4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/uuFkm95ts4c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uuFkm95ts4c)
 
-KBS클래식 Classic - [양인모] 카미유 생상 / 죽음의 무도, 작품40 [안디무지크/An Die Musik]
+김봄소리 - Saint-Saëns Introduction and Rondo Capriccioso, Op.28 - Bomsori Kim 김봄소리
 
-**Albums**: 조회수 25만회
+**Albums**: 조회수 211만회
 
-Last updated at 09/30/2022 18:47
+Last updated at 09/30/2022 18:53
 
 ## Badges
 
