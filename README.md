@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M4tkwcaofJe-x8YPwzOGItVWL-pEl_6-ssejMrnukuPw84AEDvE0Nq8pymjOsFdV1KXI54DeCjUJvkY">](https://music.youtube.com/watch?v=MK_Su-gQ7SQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w">](https://music.youtube.com/watch?v=ljUtuoFt-8c)
 
-보수동쿨러 - Kill Me 죽여줘
+Nirvana - Smells Like Teen Spirit
 
-**Albums**: Kill Me 죽여줘
+**Albums**: Nevermind
 
-Last updated at 09/30/2022 19:35
+Last updated at 09/30/2022 19:37
 
 ## Badges
 
