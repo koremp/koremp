@@ -4,11 +4,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/eBqA-0M-xbSUodVXYg_qLuPZHM1Ck7bBrn5ZIlFBYAUl4DZspPeRQKvx2VCV5uFe1YNP2Sim=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/bomsori)
 
-Bomsori 김봄소리 - 생상 서주와 론도 카프리치오소, 작품 28 - 김봄소리
+Bomsori 김봄소리 - 차이콥스키 명상곡 - 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 09/30/2022 16:15
+Last updated at 09/30/2022 16:24
 
 ## Badges
 
