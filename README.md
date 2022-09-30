@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=5xkD13Rk7EE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/J5dMAagvA1aoHW0wn5pZALZYfsaII4TuOeJh9JzxFVoGYdxno0g4DrTL77ESFFCP4OOvq8MqQROXxCM">](https://music.youtube.com/watch?v=qe2aquBoXgE)
 
-하현상 - 어떤 이의 편지
+브로큰발렌타인 - 알루미늄
 
-**Albums**: Calibrate
+**Albums**: Aluminium
 
-Last updated at 09/30/2022 19:18
+Last updated at 09/30/2022 19:22
 
 ## Badges
 
