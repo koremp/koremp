@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J5dMAagvA1aoHW0wn5pZALZYfsaII4TuOeJh9JzxFVoGYdxno0g4DrTL77ESFFCP4OOvq8MqQROXxCM">](https://music.youtube.com/watch?v=7iqmMvsb-kc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M4tkwcaofJe-x8YPwzOGItVWL-pEl_6-ssejMrnukuPw84AEDvE0Nq8pymjOsFdV1KXI54DeCjUJvkY">](https://music.youtube.com/watch?v=MK_Su-gQ7SQ)
 
-브로큰발렌타인 - Everything
+보수동쿨러 - Kill Me 죽여줘
 
-**Albums**: Aluminium
+**Albums**: Kill Me 죽여줘
 
-Last updated at 09/30/2022 19:32
+Last updated at 09/30/2022 19:35
 
 ## Badges
 
