@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xZ-2CcN1ifP5VeKAxCxRU1vdD-bjNLD1vqfjyFCJz7JrFsLRbiiI3ijYeCOhDBfVVd70SjK_yFQw9O0g">](https://music.youtube.com/watch?v=awoFZaSuko4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/7ynGhn-YLmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7ynGhn-YLmM)
 
-티어스 포 피어스 - Everybody Wants To Rule The World
+TV예술무대 - 고소현│몬티, 차르다시(V.Monti, Czardas) Vn.SoHyun Ko & Pf.James Jae-Won Moon MBC220125 방송
 
-**Albums**: Songs From The Big Chair (Deluxe)
+**Albums**: 조회수 53만회
 
-Last updated at 09/30/2022 17:02
+Last updated at 09/30/2022 18:43
 
 ## Badges
 
