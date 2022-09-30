@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Vlwl9HVTK-fs_ve6Sj7tqZnAQQ09kfyaz4Jsjsi5H2019RFWYKJz4nU2SG-vyFBbkgfou2fuadMCQAs">](https://music.youtube.com/watch?v=elzNAv6p9d0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XdBR-SrP6uU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XdBR-SrP6uU)
 
-이루리 Lulileela - Light Beside You
+juliaplaysgroove - Dua Lipa - Don't Start Now (Bass Cover)
 
-**Albums**: Not supported
+**Albums**: 조회수 1267만회
 
-Last updated at 09/30/2022 20:02
+Last updated at 09/30/2022 20:06
 
 ## Badges
 
