@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w">](https://music.youtube.com/watch?v=_oWUgfpGi0M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RcPMBngw0AHzk2CL1A72UKHJNzIVyPxCtmgebW5Csjkz10wLTZBO5-VDwRobkELaLj0oB57ZFXnQFgl1">](https://music.youtube.com/watch?v=2G9_5ZQYXVY)
 
-Nirvana - Lithium
+Muse(뮤즈) - Starlight
 
-**Albums**: Nevermind
+**Albums**: Black Holes And Revelations
 
-Last updated at 09/30/2022 19:41
+Last updated at 09/30/2022 19:45
 
 ## Badges
 
