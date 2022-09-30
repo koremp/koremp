@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aI2V9m2K9SyOFQiCrFqp2rgqYF5GwqJsn3YfzKvvjvCMpkY9q-59xCgx2wpWJJt6J-6puNrgVekALpYIXw">](https://music.youtube.com/watch?v=Dcbyv-x8P9A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aI2V9m2K9SyOFQiCrFqp2rgqYF5GwqJsn3YfzKvvjvCMpkY9q-59xCgx2wpWJJt6J-6puNrgVekALpYIXw">](https://music.youtube.com/watch?v=WRAOolJCwaI)
 
-Seoul Philharmonic Orchestra - Debussy: La Mer: 2. Jeux de vagues
+Myung-Whun Chung - Debussy: La Mer: 3. Dialogue du vent et de la mer
 
 **Albums**: Debussy: La Mer / Ravel: Ma Mere L'oye, La Valse
 
-Last updated at 10/01/2022 00:03
+Last updated at 10/01/2022 08:39
 
 ## Badges
 
