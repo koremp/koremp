@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RcPMBngw0AHzk2CL1A72UKHJNzIVyPxCtmgebW5Csjkz10wLTZBO5-VDwRobkELaLj0oB57ZFXnQFgl1">](https://music.youtube.com/watch?v=2G9_5ZQYXVY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Rqh2HDAD-Fj1-oHYqVklPGklMHIV3r6SMPMZmFE3FlLiWeBBnP3SCESfgeNdzQ-DmpCIvOGE4J0hzVxa">](https://music.youtube.com/watch?v=5qZQEq_C3vc)
 
-Muse(뮤즈) - Starlight
+Linkin Park(린킨 파크) - Numb
 
-**Albums**: Black Holes And Revelations
+**Albums**: Meteora (Bonus Edition)
 
-Last updated at 09/30/2022 19:45
+Last updated at 09/30/2022 19:49
 
 ## Badges
 
