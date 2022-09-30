@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=kJ5lmkbGQdg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=u1emSyZCcbk)
 
-이랑 - 잘 듣고 있어요
+이랑 - 의식적으로 잠을 자야겠다
 
 **Albums**: 늑대가 나타났다
 
-Last updated at 09/30/2022 23:43
+Last updated at 09/30/2022 23:48
 
 ## Badges
 
