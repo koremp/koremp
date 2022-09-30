@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=uZ1MK9in9kk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=EQW8P9CIF2M)
 
-이랑 - 좋은 소식, 나쁜 소식
+이랑 - 신의 놀이
 
 **Albums**: 신의 놀이
 
-Last updated at 09/30/2022 23:20
+Last updated at 09/30/2022 23:24
 
 ## Badges
 
