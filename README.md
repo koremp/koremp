@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FdE61Eneuq7U5LzwzmKTZtyCt9GDnHB0JX7RRO-y2wM8Qj8jG8g-SQk6yNefnHNEDSpKW470KtR5-DMw">](https://music.youtube.com/watch?v=DXGY5bXBzhg)
+[<img align="left" width="100" src="https://yt3.ggpht.com/eBqA-0M-xbSUodVXYg_qLuPZHM1Ck7bBrn5ZIlFBYAUl4DZspPeRQKvx2VCV5uFe1YNP2Sim=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/bomsori)
 
-Skrillex(스크릴렉스) - Scary Monsters and Nice Sprites
+Bomsori 김봄소리 - 생상 서주와 론도 카프리치오소, 작품 28 - 김봄소리
 
-**Albums**: Scary Monsters and Nice Sprites EP
+**Albums**: Not supported
 
-Last updated at 09/29/2022 23:09
+Last updated at 09/30/2022 16:15
 
 ## Badges
 
