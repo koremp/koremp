@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=EQW8P9CIF2M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=_ZMPDdBxjys)
 
-이랑 - 신의 놀이
+이랑 - 가족을 찾아서
 
 **Albums**: 신의 놀이
 
-Last updated at 10/02/2022 17:47
+Last updated at 10/02/2022 17:49
 
 ## Badges
 
