@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aI2V9m2K9SyOFQiCrFqp2rgqYF5GwqJsn3YfzKvvjvCMpkY9q-59xCgx2wpWJJt6J-6puNrgVekALpYIXw">](https://music.youtube.com/watch?v=WRAOolJCwaI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=EQW8P9CIF2M)
 
-Myung-Whun Chung - Debussy: La Mer: 3. Dialogue du vent et de la mer
+이랑 - 신의 놀이
 
-**Albums**: Debussy: La Mer / Ravel: Ma Mere L'oye, La Valse
+**Albums**: 신의 놀이
 
-Last updated at 10/01/2022 08:39
+Last updated at 10/02/2022 17:47
 
 ## Badges
 
