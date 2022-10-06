@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCwzCuKxyMY_sT7hr1E8G1XA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
-TAEYEON Official - INVU
+NewJeans - Hype Boy
 
 **Albums**: Not supported
 
-Last updated at 10/06/2022 16:02
+Last updated at 10/06/2022 16:06
 
 ## Badges
 
