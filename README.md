@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/XCGGavEoAAGF1JOjNE7SCR24K3rjcPDAqTj_QtLNvpZyZiUtQyVhxfuJLq060kWmau-YteHN=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCmeskqhmPRuteGVH4yCXT0A)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu8Z5GXRn3igvpGikt5GZpVswAZ6YlaVxY3JWdkY=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/c/IDIOTAPE)
 
-선미 - Heroine (주인공)
+IDIOTAPE - [Official Audio] Melodie (11111101)
 
 **Albums**: Not supported
 
-Last updated at 10/06/2022 20:28
+Last updated at 10/06/2022 20:30
 
 ## Badges
 
