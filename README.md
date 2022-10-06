@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/hZDUwjoeQqigphL4A1tkg9c6hVp5yXmbboBR7PYFUSFj5PIJSA483NB5v7b0XVoTN9GCku3tqQ=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
+[<img align="left" width="100" src="https://yt3.ggpht.com/XCGGavEoAAGF1JOjNE7SCR24K3rjcPDAqTj_QtLNvpZyZiUtQyVhxfuJLq060kWmau-YteHN=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCmeskqhmPRuteGVH4yCXT0A)
 
-BLACKPINK - Shut Down
+선미 - Heroine (주인공)
 
 **Albums**: Not supported
 
-Last updated at 10/06/2022 20:26
+Last updated at 10/06/2022 20:28
 
 ## Badges
 
