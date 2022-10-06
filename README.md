@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_4Y1QqJr60C5Z7-eQWy-mw)
 
-BLACKPINK - Shut Down
+IVE - ELEVEN (ELEVEN)
 
 **Albums**: Not supported
 
-Last updated at 10/06/2022 16:15
+Last updated at 10/06/2022 16:17
 
 ## Badges
 
