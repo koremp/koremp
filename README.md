@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
 
-NewJeans - Hype Boy
+BLACKPINK - Pink Venom
 
 **Albums**: Not supported
 
-Last updated at 10/06/2022 16:06
+Last updated at 10/06/2022 16:08
 
 ## Badges
 
