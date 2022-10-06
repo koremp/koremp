@@ -2,28 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/AsSq27Ed0mQg5nkXPKMFurMWRakUujyspvg2B_t03dg7nkyIn11GeKRRKSLwK57zyUV11vVT=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/arcticmonkeys)
+[<img align="left" width="100" src="https://yt3.ggpht.com/hZDUwjoeQqigphL4A1tkg9c6hVp5yXmbboBR7PYFUSFj5PIJSA483NB5v7b0XVoTN9GCku3tqQ=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
 
-
-  
-    Official Arctic Monkeys
-  
-  
-  
-    Official Arctic Monkeys
-  
-
-
-
-
-  공식 아티스트 채널
-
-
- - Arctic Monkeys - Do I Wanna Know? (Official Video)
+BLACKPINK - Shut Down
 
 **Albums**: Not supported
 
-Last updated at 10/06/2022 19:47
+Last updated at 10/06/2022 20:26
 
 ## Badges
 
