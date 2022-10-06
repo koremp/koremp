@@ -2,13 +2,28 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
+[<img align="left" width="100" src="https://yt3.ggpht.com/AsSq27Ed0mQg5nkXPKMFurMWRakUujyspvg2B_t03dg7nkyIn11GeKRRKSLwK57zyUV11vVT=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/arcticmonkeys)
 
-NewJeans - Cookie
+
+  
+    Official Arctic Monkeys
+  
+  
+  
+    Official Arctic Monkeys
+  
+
+
+
+
+  공식 아티스트 채널
+
+
+ - Arctic Monkeys - Do I Wanna Know? (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 10/06/2022 16:28
+Last updated at 10/06/2022 19:47
 
 ## Badges
 
