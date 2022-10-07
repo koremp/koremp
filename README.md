@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=6q2nlcffVWM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=b4GwIWtaDik)
 
-나씽 벗 띠브즈 - Wake Up Call
+나씽 벗 띠브즈 - Itch
 
 **Albums**: Nothing But Thieves (Deluxe)
 
-Last updated at 10/07/2022 13:55
+Last updated at 10/07/2022 13:59
 
 ## Badges
 
