@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZKINUFCtfMUKB4CH4wJcQyHi6-bmuHz2exRBV6SORUd96KsC1jo2nrDImg2zlLnvHgJPGBxreYVjunGycg">](https://music.youtube.com/watch?v=u7rKGj13pAs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/t3vTeHRMSf8XXYbo_ymwklJLJ_r9yxtpl0B4tnhzaOBZHTWPQ159w6ihdEJXFYM4BnnXemLSPuXinJw">](https://music.youtube.com/watch?v=WWPrIxH4Wvo)
 
-BLACKPINK - Crazy Over You
+브로콜리너마저 - 속좁은 여학생(feat. 김뜻돌)
 
-**Albums**: THE ALBUM
+**Albums**: 이른열대야
 
-Last updated at 10/07/2022 13:22
+Last updated at 10/07/2022 13:24
 
 ## Badges
 
