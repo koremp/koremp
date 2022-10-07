@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t3vTeHRMSf8XXYbo_ymwklJLJ_r9yxtpl0B4tnhzaOBZHTWPQ159w6ihdEJXFYM4BnnXemLSPuXinJw">](https://music.youtube.com/watch?v=WWPrIxH4Wvo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XgA4TJYFK6Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XgA4TJYFK6Q)
 
-브로콜리너마저 - 속좁은 여학생(feat. 김뜻돌)
+하현상 - Etham - 12:45 (Stripped) (Cover by 하현상 Ha Hyunsang)
 
-**Albums**: 이른열대야
+**Albums**: 조회수 121만회
 
-Last updated at 10/07/2022 13:24
+Last updated at 10/07/2022 13:28
 
 ## Badges
 
