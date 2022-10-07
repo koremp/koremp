@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/iGWTxAf6tokq9e2cVapQL6D1qgbtD-oFkVLqcUGF24WjUwX68qCm-iN4mMqqJEz_4eRSi-EyEQ=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/Radiohead)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9tISiTL3YHewnkMldfxoYF1dadpsMl1NaOhmKqH74mHaF_OvU59x-NMen7duMHF5jLHek5R1JfDFU24u">](https://music.youtube.com/watch?v=NPjAquYV5BQ)
 
-Radiohead - There, There
+Several Spirits - Blue Coast (Red Eye Mix)
 
-**Albums**: Not supported
+**Albums**: Blue Coast
 
-Last updated at 10/06/2022 20:54
+Last updated at 10/07/2022 11:27
 
 ## Badges
 
