@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9tISiTL3YHewnkMldfxoYF1dadpsMl1NaOhmKqH74mHaF_OvU59x-NMen7duMHF5jLHek5R1JfDFU24u">](https://music.youtube.com/watch?v=NPjAquYV5BQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=AORhMBF9kLQ)
 
-Several Spirits - Blue Coast (Red Eye Mix)
+Labrinth - I Don't Know If I'm a Good Person
 
-**Albums**: Blue Coast
+**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
 
-Last updated at 10/07/2022 11:27
+Last updated at 10/07/2022 11:33
 
 ## Badges
 
