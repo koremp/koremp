@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LjeQ08Jjr6Ws6AvTc04D-XtmfjEH-jpB1inpXdkx-csKgWB7Xnp5GRJxI4C3j_4jdAHT0O2Ib9bvboo">](https://music.youtube.com/watch?v=wYeVcdm6zvg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/G_BYjnopO6U/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=G_BYjnopO6U)
 
-유진솔, 시와 - 금요일에 만날까요
+SMTOWN - SEULGI 슬기 '28 Reasons' MV
 
-**Albums**: 사랑과 존경을 담아
+**Albums**: 조회수 508만회
 
-Last updated at 10/07/2022 12:19
+Last updated at 10/07/2022 12:23
 
 ## Badges
 
