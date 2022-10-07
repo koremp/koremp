@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=t9xovoZQpCU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=NVCAmm5BXHA)
 
-제이클레프 - 동행자
+제이클레프 - 주스 온더 락(feat. Ohiorabbit)
 
 **Albums**: flaw, flaw
 
-Last updated at 10/07/2022 11:53
+Last updated at 10/07/2022 11:57
 
 ## Badges
 
