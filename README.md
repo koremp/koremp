@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/XgA4TJYFK6Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XgA4TJYFK6Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5r9P5GrZM-A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5r9P5GrZM-A)
 
-하현상 - Etham - 12:45 (Stripped) (Cover by 하현상 Ha Hyunsang)
+AwesomeMusicTV - Blues Saraceno - Evil Ways (Glitch Hop Remix)
 
-**Albums**: 조회수 121만회
+**Albums**: 조회수 10만회
 
-Last updated at 10/07/2022 13:28
+Last updated at 10/07/2022 13:30
 
 ## Badges
 
