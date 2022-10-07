@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=I6g-FUVDdxw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=a5uh1McvwNk)
 
-나씽 벗 띠브즈 - Honey Whiskey
+나씽 벗 띠브즈 - Excuse Me
 
 **Albums**: Nothing But Thieves (Deluxe)
 
-Last updated at 10/07/2022 13:46
+Last updated at 10/07/2022 13:49
 
 ## Badges
 
