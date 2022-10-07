@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9tISiTL3YHewnkMldfxoYF1dadpsMl1NaOhmKqH74mHaF_OvU59x-NMen7duMHF5jLHek5R1JfDFU24u">](https://music.youtube.com/watch?v=NPjAquYV5BQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=I6g-FUVDdxw)
 
-Several Spirits - Blue Coast (Red Eye Mix)
+나씽 벗 띠브즈 - Honey Whiskey
 
-**Albums**: Blue Coast
+**Albums**: Nothing But Thieves (Deluxe)
 
-Last updated at 10/07/2022 13:32
+Last updated at 10/07/2022 13:46
 
 ## Badges
 
