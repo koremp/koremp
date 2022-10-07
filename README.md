@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=qCDPprTDkJE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=950BdJKBhGo)
 
-블랙핑크 - Pink Venom
+블랙핑크 - Shut Down
 
 **Albums**: BORN PINK
 
-Last updated at 10/07/2022 12:41
+Last updated at 10/07/2022 12:45
 
 ## Badges
 
