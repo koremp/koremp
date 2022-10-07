@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9nUT4PqZR4YK4swryPO4jqTjVuK_b5CsQCVNMIDW6R_qx2K6B4c5A1k6vT1l3il8mybO89KmYzRt6bc">](https://music.youtube.com/watch?v=xqnWLDkjjwc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-JqvsdsCIkRxHZwd14bU7rZ9qZbtlc6kEqa-CIuKlzFOjVGqVdqHpAFzyQiy5aLVoW55bBhki6ZtraYp">](https://music.youtube.com/watch?v=lJZve3zkD6Y)
 
-IVE (아이브) - After LIKE
+크리스토퍼 - Bad
 
-**Albums**: After LIKE
+**Albums**: Under the Surface
 
-Last updated at 10/07/2022 13:10
+Last updated at 10/07/2022 13:12
 
 ## Badges
 
