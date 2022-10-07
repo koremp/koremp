@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=ghrlZIMDzbM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/phZ4cPFxIODWhcgKNSXJytX1VkCIQmvvnX-T0O9Z8f3wSCWc3a1tSub_mER10UaTyE8gziB_9BUVQKSq">](https://music.youtube.com/watch?v=Wk3Vxt3knnI)
 
-NewJeans - Hype Boy
+LE SSERAFIM - FEARLESS
 
-**Albums**: NewJeans 1st EP 'New Jeans'
+**Albums**: FEARLESS
 
-Last updated at 10/07/2022 13:16
+Last updated at 10/07/2022 13:18
 
 ## Badges
 
