@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_wv8AcuL5VdOHAblkYID3WIakfAM4OqkPiUrdnTT6P1XdQF8Hk3kMh6DEJeyb-f9pu51GE3AaZxGuw0">](https://music.youtube.com/watch?v=_GX3D32b3TI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9nUT4PqZR4YK4swryPO4jqTjVuK_b5CsQCVNMIDW6R_qx2K6B4c5A1k6vT1l3il8mybO89KmYzRt6bc">](https://music.youtube.com/watch?v=xqnWLDkjjwc)
 
-Lil Nas X - STAR WALKIN' (League of Legends Worlds Anthem)
+IVE (아이브) - After LIKE
 
-**Albums**: STAR WALKIN' (League of Legends Worlds Anthem)
+**Albums**: After LIKE
 
-Last updated at 10/07/2022 13:06
+Last updated at 10/07/2022 13:10
 
 ## Badges
 
