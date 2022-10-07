@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/G_BYjnopO6U/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=G_BYjnopO6U)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=321WHZC0KKM)
 
-SMTOWN - SEULGI 슬기 '28 Reasons' MV
+SEULGI - Dead Man Runnin’
 
-**Albums**: 조회수 508만회
+**Albums**: 28 Reasons - The 1st Mini Album
 
-Last updated at 10/07/2022 12:23
+Last updated at 10/07/2022 12:25
 
 ## Badges
 
