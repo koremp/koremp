@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=950BdJKBhGo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=oMsizmQ9l5c)
 
-블랙핑크 - Shut Down
+블랙핑크 - Typa Girl
 
 **Albums**: BORN PINK
 
-Last updated at 10/07/2022 12:45
+Last updated at 10/07/2022 12:47
 
 ## Badges
 
