@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=1V6eoYdwS-I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_wv8AcuL5VdOHAblkYID3WIakfAM4OqkPiUrdnTT6P1XdQF8Hk3kMh6DEJeyb-f9pu51GE3AaZxGuw0">](https://music.youtube.com/watch?v=_GX3D32b3TI)
 
-블랙핑크 - Ready For Love
+Lil Nas X - STAR WALKIN' (League of Legends Worlds Anthem)
 
-**Albums**: BORN PINK
+**Albums**: STAR WALKIN' (League of Legends Worlds Anthem)
 
-Last updated at 10/07/2022 13:04
+Last updated at 10/07/2022 13:06
 
 ## Badges
 
