@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-JqvsdsCIkRxHZwd14bU7rZ9qZbtlc6kEqa-CIuKlzFOjVGqVdqHpAFzyQiy5aLVoW55bBhki6ZtraYp">](https://music.youtube.com/watch?v=lJZve3zkD6Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=ghrlZIMDzbM)
 
-크리스토퍼 - Bad
+NewJeans - Hype Boy
 
-**Albums**: Under the Surface
+**Albums**: NewJeans 1st EP 'New Jeans'
 
-Last updated at 10/07/2022 13:12
+Last updated at 10/07/2022 13:16
 
 ## Badges
 
