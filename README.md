@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5r9P5GrZM-A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5r9P5GrZM-A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9tISiTL3YHewnkMldfxoYF1dadpsMl1NaOhmKqH74mHaF_OvU59x-NMen7duMHF5jLHek5R1JfDFU24u">](https://music.youtube.com/watch?v=NPjAquYV5BQ)
 
-AwesomeMusicTV - Blues Saraceno - Evil Ways (Glitch Hop Remix)
+Several Spirits - Blue Coast (Red Eye Mix)
 
-**Albums**: 조회수 10만회
+**Albums**: Blue Coast
 
-Last updated at 10/07/2022 13:30
+Last updated at 10/07/2022 13:32
 
 ## Badges
 
