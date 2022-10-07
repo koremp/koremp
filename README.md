@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=AORhMBF9kLQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/yY0t2hAI3NE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=yY0t2hAI3NE)
 
-Labrinth - I Don't Know If I'm a Good Person
+John W - Beethoven/Liszt: Symphony No. 5 - Glenn Gould
 
-**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
+**Albums**: 조회수 5.4만회
 
-Last updated at 10/07/2022 11:33
+Last updated at 10/07/2022 11:35
 
 ## Badges
 
