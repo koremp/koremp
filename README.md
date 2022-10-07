@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=x2yF3MrXjXI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=dG2RLSoGe44)
 
-SEULGI - Bad Boy, Sad Girl(feat. BE’O)
+SEULGI - Anywhere But Home
 
 **Albums**: 28 Reasons - The 1st Mini Album
 
-Last updated at 10/07/2022 12:29
+Last updated at 10/07/2022 12:31
 
 ## Badges
 
