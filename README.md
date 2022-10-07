@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/phZ4cPFxIODWhcgKNSXJytX1VkCIQmvvnX-T0O9Z8f3wSCWc3a1tSub_mER10UaTyE8gziB_9BUVQKSq">](https://music.youtube.com/watch?v=Wk3Vxt3knnI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZKINUFCtfMUKB4CH4wJcQyHi6-bmuHz2exRBV6SORUd96KsC1jo2nrDImg2zlLnvHgJPGBxreYVjunGycg">](https://music.youtube.com/watch?v=u7rKGj13pAs)
 
-LE SSERAFIM - FEARLESS
+BLACKPINK - Crazy Over You
 
-**Albums**: FEARLESS
+**Albums**: THE ALBUM
 
-Last updated at 10/07/2022 13:18
+Last updated at 10/07/2022 13:22
 
 ## Badges
 
