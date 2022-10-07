@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/24O_weUeOe4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=24O_weUeOe4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LjeQ08Jjr6Ws6AvTc04D-XtmfjEH-jpB1inpXdkx-csKgWB7Xnp5GRJxI4C3j_4jdAHT0O2Ib9bvboo">](https://music.youtube.com/watch?v=wYeVcdm6zvg)
 
-온스테이지ONSTAGE - [온스테이지] 334. KIRARA(키라라) - ct14074
+유진솔, 시와 - 금요일에 만날까요
 
-**Albums**: 조회수 2.3만회
+**Albums**: 사랑과 존경을 담아
 
-Last updated at 10/07/2022 12:13
+Last updated at 10/07/2022 12:19
 
 ## Badges
 
