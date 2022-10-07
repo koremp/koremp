@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=NVCAmm5BXHA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=D4VPGBBmEJI)
 
-제이클레프 - 주스 온더 락(feat. Ohiorabbit)
+윤하 - 나는 계획이 있다
 
-**Albums**: flaw, flaw
+**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
 
-Last updated at 10/07/2022 11:57
+Last updated at 10/07/2022 12:01
 
 ## Badges
 
