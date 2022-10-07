@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/yY0t2hAI3NE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=yY0t2hAI3NE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=t9xovoZQpCU)
 
-John W - Beethoven/Liszt: Symphony No. 5 - Glenn Gould
+제이클레프 - 동행자
 
-**Albums**: 조회수 5.4만회
+**Albums**: flaw, flaw
 
-Last updated at 10/07/2022 11:35
+Last updated at 10/07/2022 11:53
 
 ## Badges
 
