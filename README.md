@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=9geaXIpn1J0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=qCDPprTDkJE)
 
-SEULGI - Crown
+블랙핑크 - Pink Venom
 
-**Albums**: 28 Reasons - The 1st Mini Album
+**Albums**: BORN PINK
 
-Last updated at 10/07/2022 12:39
+Last updated at 10/07/2022 12:41
 
 ## Badges
 
