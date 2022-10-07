@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=Mvw8ySMNsV4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=j1uXcHwLhHM)
 
-Labrinth - At Least I'm Loved
+윤하 - 사건의 지평선
 
-**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
+**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
 
-Last updated at 10/07/2022 12:05
+Last updated at 10/07/2022 12:07
 
 ## Badges
 
