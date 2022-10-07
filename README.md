@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=LmHT3gQsckU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=6q2nlcffVWM)
 
-나씽 벗 띠브즈 - Ban All the Music
+나씽 벗 띠브즈 - Wake Up Call
 
 **Albums**: Nothing But Thieves (Deluxe)
 
-Last updated at 10/07/2022 13:52
+Last updated at 10/07/2022 13:55
 
 ## Badges
 
