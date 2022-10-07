@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=oMsizmQ9l5c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=cA6XDR90RKU)
 
-블랙핑크 - Typa Girl
+블랙핑크 - Yeah Yeah Yeah
 
 **Albums**: BORN PINK
 
-Last updated at 10/07/2022 12:47
+Last updated at 10/07/2022 12:51
 
 ## Badges
 
