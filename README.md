@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=cA6XDR90RKU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xfJMXx4_XvAfkvKm_XcPazcmOI4kehGuhnheCCmzjkEMlJwx_pIJ_BmzCpX_2IXRl5WHud-vTGpOvPKBg">](https://music.youtube.com/watch?v=POqmmUNX4lA)
 
-블랙핑크 - Yeah Yeah Yeah
+블랙핑크 - Hard to Love
 
 **Albums**: BORN PINK
 
-Last updated at 10/07/2022 12:51
+Last updated at 10/07/2022 12:53
 
 ## Badges
 
