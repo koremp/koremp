@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/SultanOfTheDisco)
 
-Jaurim - Beeswax Angel (밀랍천사)
+Sultan Of The Disco - [M/V] 술탄 오브 더 디스코 - 사라지는 꿈
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 15:21
+Last updated at 10/08/2022 15:29
 
 ## Badges
 
