@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=kJ5lmkbGQdg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/j-UclHWpEC9wHk_ztC1DqFJtaY5TNAEvsP3X2E990h2Cbz-GmgknHAKuT6Elebd1UdbMfdAmK838we8">](https://music.youtube.com/watch?v=vY6B8uj1plY)
 
-이랑 - 잘 듣고 있어요
+Skrillex & Damian "Jr Gong" Marley 및 Damian Marley - Make It Bun Dem
 
-**Albums**: 늑대가 나타났다
+**Albums**: Make It Bun Dem
 
-Last updated at 10/08/2022 21:32
+Last updated at 10/08/2022 21:34
 
 ## Badges
 
