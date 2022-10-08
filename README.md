@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/daftpunk)
+[<img align="left" width="100" src="">](https://www.youtube.com/user/JohnNewmanVEVO)
 
-Daft Punk - Something About Us (Official Video)
+John Newman - Love Me Again
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 15:05
+Last updated at 10/08/2022 15:07
 
 ## Badges
 
