@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/porterrobinson)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zsMm5fGi9_tB0fiPpPX3U1A6fFUFYvMUKHr4Cm3Qf1ZPJL66kAtzWlBmryJLP9iPjdQyb4Z5CT9b8Dw">](https://music.youtube.com/watch?v=PHysvSNkctc)
 
-Porter Robinson - Everything Goes On (Official Lyric Video) | Star Guardian 2022
+이랑 - 세상 모든 사람들이 나를 미워하기 시작했다
 
-**Albums**: Not supported
+**Albums**: 신의 놀이
 
-Last updated at 10/08/2022 15:51
+Last updated at 10/08/2022 21:13
 
 ## Badges
 
