@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu8Z5GXRn3igvpGikt5GZpVswAZ6YlaVxY3JWdkY=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/c/IDIOTAPE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/yY0t2hAI3NE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=yY0t2hAI3NE)
 
-IDIOTAPE - [Official Audio] Melodie (11111101)
+John W - Beethoven/Liszt: Symphony No. 5 - Glenn Gould
 
-**Albums**: Not supported
+**Albums**: 조회수 5.4만회
 
-Last updated at 10/08/2022 12:18
+Last updated at 10/08/2022 12:37
 
 ## Badges
 
