@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/IDIOTAPE)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/porterrobinson)
 
-IDIOTAPE - [Official Audio] 080509 (11111101)
+Porter Robinson - Everything Goes On (Official Lyric Video) | Star Guardian 2022
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 15:41
+Last updated at 10/08/2022 15:51
 
 ## Badges
 
