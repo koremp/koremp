@@ -1,14 +1,29 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gZKGbOe8pK_z9PDN9FA6JjG2o6VZM_jNlXlQ_tSblfH1RD83Mam9NDzlGtpbdmk7sEJ9mz3CzV9NoHo">](https://music.youtube.com/watch?v=heO5qCZTZIk)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu9tIeeDu8mkXaEDndLiSPg-dKUCvKsHKy0qXQqWfA=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/c/gidleofficial)
 
-Jhayco 및 Skrillex - En Mi Cuarto
 
-**Albums**: Timelezz
+  
+    (G)I-DLE (여자)아이들 (Official YouTube Channel)
+  
+  
+  
+    (G)I-DLE (여자)아이들 (Official YouTube Channel)
+  
 
-Last updated at 10/08/2022 13:56
+
+
+
+  공식 아티스트 채널
+
+
+ - (여자)아이들((G)I-DLE) - 'POP/STARS' Stage Cam @ MYONGJI UNIVERSITY
+
+**Albums**: Not supported
+
+Last updated at 10/08/2022 14:12
 
 ## Badges
 
