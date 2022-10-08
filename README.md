@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=k-U9sQpCfeI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hQoIVtSPFu4p-Z6Ri8v9uWwyytXbBp8XPza-utNYtx1VfTGwNhpph77ePCiMioNpAle1yyZU29olT1cu">](https://music.youtube.com/watch?v=7KFVY7qVNM0)
 
-이랑 - 환란의 세대
+이랑 - 너의 리듬
 
-**Albums**: 늑대가 나타났다
+**Albums**: 욘욘슨
 
-Last updated at 10/08/2022 21:19
+Last updated at 10/08/2022 21:23
 
 ## Badges
 
