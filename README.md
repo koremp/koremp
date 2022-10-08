@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_4b2xkgL7r-3Qi1CmhjRBLMWKv8DYlT7wR9blvaAmxhGSRlcQ4e3uJTvqxcPLtQOfwebeyMJZNUBG_4YIA">](https://music.youtube.com/watch?v=buz6wnviE28)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5">](https://music.youtube.com/watch?v=V7hbIzqxhaE)
 
-J Balvin 및 Skrillex - In Da Getto
+Skrillex(스크릴렉스) - Bangarang(feat. Sirah)
 
-**Albums**: JOSE
+**Albums**: Bangarang
 
-Last updated at 10/08/2022 13:40
+Last updated at 10/08/2022 13:42
 
 ## Badges
 
