@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/user/JohnNewmanVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/user/FallOutBoyVEVO)
 
-John Newman - Love Me Again
+Fall Out Boy - The Phoenix (Official Video) - Part 2 of 11
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 15:07
+Last updated at 10/08/2022 15:11
 
 ## Badges
 
