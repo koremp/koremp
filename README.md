@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/yY0t2hAI3NE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=yY0t2hAI3NE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/h5ad4jy6tM8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=h5ad4jy6tM8)
 
-John W - Beethoven/Liszt: Symphony No. 5 - Glenn Gould
+하현상 - Justin Bieber - Holy (Feat. Chance The Rapper) (Cover by 하현상 Ha Hyunsang)
 
-**Albums**: 조회수 5.4만회
+**Albums**: 조회수 30만회
 
-Last updated at 10/08/2022 12:37
+Last updated at 10/08/2022 12:39
 
 ## Badges
 
