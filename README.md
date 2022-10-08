@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI">](https://music.youtube.com/watch?v=YcJaYkamg5Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gZKGbOe8pK_z9PDN9FA6JjG2o6VZM_jNlXlQ_tSblfH1RD83Mam9NDzlGtpbdmk7sEJ9mz3CzV9NoHo">](https://music.youtube.com/watch?v=heO5qCZTZIk)
 
-Skrillex(스크릴렉스) - First of the Year (Equinox)
+Jhayco 및 Skrillex - En Mi Cuarto
 
-**Albums**: More Monsters and Sprites
+**Albums**: Timelezz
 
-Last updated at 10/08/2022 13:52
+Last updated at 10/08/2022 13:56
 
 ## Badges
 
