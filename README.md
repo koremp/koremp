@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/h5ad4jy6tM8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=h5ad4jy6tM8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XsA_1jlWk5s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XsA_1jlWk5s)
 
-하현상 - Justin Bieber - Holy (Feat. Chance The Rapper) (Cover by 하현상 Ha Hyunsang)
+하현상 - Anne-Marie - To Be Young (feat. Doja Cat) (Cover by 하현상 Ha Hyunsang)
 
-**Albums**: 조회수 30만회
+**Albums**: 조회수 36만회
 
-Last updated at 10/08/2022 12:39
+Last updated at 10/08/2022 12:41
 
 ## Badges
 
