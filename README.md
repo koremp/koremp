@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hl6B6lJb6pwx6aXnsqT5Vn0mtOFGcrvuYkRK7Z3S66hiQnNQa9kLU2Mxi87N71rjFUvZmVqyqbtsGxg">](https://music.youtube.com/watch?v=yzvILaed98Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI">](https://music.youtube.com/watch?v=YcJaYkamg5Y)
 
-Skrillex - Purple Lamborghini
+Skrillex(스크릴렉스) - First of the Year (Equinox)
 
-**Albums**: Suicide Squad: The Album
+**Albums**: More Monsters and Sprites
 
-Last updated at 10/08/2022 13:48
+Last updated at 10/08/2022 13:52
 
 ## Badges
 
