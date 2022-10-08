@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu8Z5GXRn3igvpGikt5GZpVswAZ6YlaVxY3JWdkY=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/c/IDIOTAPE)
+[<img align="left" width="100" src="">](https://www.youtube.com/user/FallOutBoyVEVO)
 
-IDIOTAPE - [Official Audio] Pluto (11111101)
+Fall Out Boy - Centuries (Official Music Video)
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 14:23
+Last updated at 10/08/2022 14:36
 
 ## Badges
 
