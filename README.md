@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iBEndKUeklHOaZ52-eW4JAF2nw8uHaRnH3mXCRnF1wCQoVEzQOkYOMS-5CHTwh5fdVngRLR9g4TZN3s1">](https://music.youtube.com/watch?v=izzXil297rk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hl6B6lJb6pwx6aXnsqT5Vn0mtOFGcrvuYkRK7Z3S66hiQnNQa9kLU2Mxi87N71rjFUvZmVqyqbtsGxg">](https://music.youtube.com/watch?v=yzvILaed98Q)
 
-Diplo, Jack Ü 및 Skrillex(스크릴렉스) - Where Are Ü Now (with Justin Bieber)(feat. Justin Bieber(저스틴 비버))
+Skrillex - Purple Lamborghini
 
-**Albums**: Fitness Beats 2016
+**Albums**: Suicide Squad: The Album
 
-Last updated at 10/08/2022 13:44
+Last updated at 10/08/2022 13:48
 
 ## Badges
 
