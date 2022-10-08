@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/SultanOfTheDisco)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/IDIOTAPE)
 
-Sultan Of The Disco - [M/V] 술탄 오브 더 디스코 - 사라지는 꿈
+IDIOTAPE - 가지마오 / Don't Go (Official Music Video)
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 15:29
+Last updated at 10/08/2022 15:33
 
 ## Badges
 
