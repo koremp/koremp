@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/XsA_1jlWk5s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XsA_1jlWk5s)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KDExhmBIDWk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KDExhmBIDWk)
 
-하현상 - Anne-Marie - To Be Young (feat. Doja Cat) (Cover by 하현상 Ha Hyunsang)
+하현상 - Justin Bieber - Anyone (Cover by 하현상 Ha Hyunsang)
 
-**Albums**: 조회수 36만회
+**Albums**: 조회수 22만회
 
-Last updated at 10/08/2022 12:41
+Last updated at 10/08/2022 12:43
 
 ## Badges
 
