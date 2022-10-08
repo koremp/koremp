@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UClYV6hHlupm_S_ObS1W-DYw)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/mychemicalromance)
 
-The Weeknd - Blinding Lights
+My Chemical Romance - Welcome To The Black Parade [Official Music Video] [HD]
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 14:40
+Last updated at 10/08/2022 14:48
 
 ## Badges
 
