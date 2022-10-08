@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/j-UclHWpEC9wHk_ztC1DqFJtaY5TNAEvsP3X2E990h2Cbz-GmgknHAKuT6Elebd1UdbMfdAmK838we8">](https://music.youtube.com/watch?v=vY6B8uj1plY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_4b2xkgL7r-3Qi1CmhjRBLMWKv8DYlT7wR9blvaAmxhGSRlcQ4e3uJTvqxcPLtQOfwebeyMJZNUBG_4YIA">](https://music.youtube.com/watch?v=buz6wnviE28)
 
-Skrillex & Damian "Jr Gong" Marley 및 Damian Marley - Make It Bun Dem
+J Balvin 및 Skrillex - In Da Getto
 
-**Albums**: Make It Bun Dem
+**Albums**: JOSE
 
-Last updated at 10/08/2022 13:36
+Last updated at 10/08/2022 13:40
 
 ## Badges
 
