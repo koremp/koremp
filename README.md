@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/KDExhmBIDWk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KDExhmBIDWk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/6ogordmL2tM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6ogordmL2tM)
 
-하현상 - Justin Bieber - Anyone (Cover by 하현상 Ha Hyunsang)
+하현상 HA HYUN SANG - [Playlist] Cover by 하현상 모음 | 2020.05 ~ 2021.12
 
-**Albums**: 조회수 22만회
+**Albums**: 조회수 20만회
 
-Last updated at 10/08/2022 12:43
+Last updated at 10/08/2022 12:46
 
 ## Badges
 
