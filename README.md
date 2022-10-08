@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/user/FallOutBoyVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UClYV6hHlupm_S_ObS1W-DYw)
 
-Fall Out Boy - Centuries (Official Music Video)
+The Weeknd - Blinding Lights
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 14:36
+Last updated at 10/08/2022 14:40
 
 ## Badges
 
