@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/user/EarthWindandFireVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/IDIOTAPE)
 
-Earth Wind & Fire - Earth, Wind & Fire - September (Official HD Video)
+IDIOTAPE - [Official Audio] 080509 (11111101)
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 15:37
+Last updated at 10/08/2022 15:41
 
 ## Badges
 
