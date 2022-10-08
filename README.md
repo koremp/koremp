@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/user/FallOutBoyVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCmMUZbaYdNH0bEd1PAlAqsA)
 
-Fall Out Boy - The Phoenix (Official Video) - Part 2 of 11
+Oasis - Don't Look Back In Anger (Remastered)
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 15:11
+Last updated at 10/08/2022 15:17
 
 ## Badges
 
