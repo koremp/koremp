@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCmMUZbaYdNH0bEd1PAlAqsA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
 
-Oasis - Don't Look Back In Anger (Remastered)
+Jaurim - Beeswax Angel (밀랍천사)
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 15:17
+Last updated at 10/08/2022 15:21
 
 ## Badges
 
