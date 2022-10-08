@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/mychemicalromance)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-My Chemical Romance - Welcome To The Black Parade [Official Music Video] [HD]
+Green Day - Wake Me up When September Ends
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 14:48
+Last updated at 10/08/2022 14:52
 
 ## Badges
 
