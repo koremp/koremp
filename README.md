@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=b4GwIWtaDik)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu8Z5GXRn3igvpGikt5GZpVswAZ6YlaVxY3JWdkY=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/c/IDIOTAPE)
 
-나씽 벗 띠브즈 - Itch
+IDIOTAPE - [Official Audio] Melodie (11111101)
 
-**Albums**: Nothing But Thieves (Deluxe)
+**Albums**: Not supported
 
-Last updated at 10/07/2022 13:59
+Last updated at 10/08/2022 12:18
 
 ## Badges
 
