@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/IDIOTAPE)
+[<img align="left" width="100" src="">](https://www.youtube.com/user/EarthWindandFireVEVO)
 
-IDIOTAPE - 가지마오 / Don't Go (Official Music Video)
+Earth Wind & Fire - Earth, Wind & Fire - September (Official HD Video)
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 15:33
+Last updated at 10/08/2022 15:37
 
 ## Badges
 
