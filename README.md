@@ -2,28 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu9tIeeDu8mkXaEDndLiSPg-dKUCvKsHKy0qXQqWfA=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/c/gidleofficial)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu8Z5GXRn3igvpGikt5GZpVswAZ6YlaVxY3JWdkY=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/c/IDIOTAPE)
 
-
-  
-    (G)I-DLE (여자)아이들 (Official YouTube Channel)
-  
-  
-  
-    (G)I-DLE (여자)아이들 (Official YouTube Channel)
-  
-
-
-
-
-  공식 아티스트 채널
-
-
- - (여자)아이들((G)I-DLE) - 'POP/STARS' Stage Cam @ MYONGJI UNIVERSITY
+IDIOTAPE - [Official Audio] Melodie (11111101)
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 14:12
+Last updated at 10/08/2022 14:14
 
 ## Badges
 
