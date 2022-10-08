@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://yt3.ggpht.com/FvO6Ve8KNuCInJgR3Ubae9EGekEU4kaYelH8uDMjtZikfmbJBfrCAja7PYepF0aBMJfVnxQi=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
-Green Day - Wake Me up When September Ends
+NewJeans - Attention
 
 **Albums**: Not supported
 
-Last updated at 10/08/2022 14:52
+Last updated at 10/08/2022 14:57
 
 ## Badges
 
