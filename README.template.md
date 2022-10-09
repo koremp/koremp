@@ -32,7 +32,7 @@ my favorite artist, [Yujin Sol](https://instagram.com/ujin_26)
 
 ### Resume
 
-* [Dokyun Lim's Resume - 2022.08 - KR](https://docs.google.com/document/d/1r9XLlzQ26mHWY3s0EMFtxAvLgcSiahizcKAVA6i9d8c/edit)
+* [Dokyun Lim's Resume - 2022.09 - KR](https://docs.google.com/document/d/1r8__w9frdlUIcpJtEnbj1jV5z8q_jZTQILYB1GlY6cY/edit?usp=sharing)
 * [Dokyun Lim's Resume - 2022.08 - EN](https://docs.google.com/document/d/1LoNoqn7I6ZHLONrlGT0KinQadcWyTy8VMsWPNnhc4sw/edit?usp=sharing)
 
 ### Personally
@@ -59,7 +59,8 @@ Like Drinking stuff(alcohol, coffee, etc).
 * Communicate Backend(built by Armeria) with gRPC
 * Cooperated with 8+ members(designer, backend developers, machine learning engineers, etc)
 
-## Study
+
+## Courses
 
 ### [CodeSoom React.js](https://www.codesoom.com/courses/react) 2nd
 
@@ -68,30 +69,15 @@ Like Drinking stuff(alcohol, coffee, etc).
 * Repos
   * <https://github.com/koremp/cs-react>
 
-### [KNOU - Korean National Open University](https://knou.ac.kr) - leave of absence
+## Educations
+
+#### [KNOU - Korean National Open University](https://knou.ac.kr) - leave of absence
 
 * 2020.07 ~ 
 * Repos
   * <https://github.com/koremp/knou-study>
 
-### FastCampus Frontend Lecture
-
-* 2019.07
-* Git, HTML, CSS, JavaScript, React, CRA
-* Repos
-  * <https://github.com/koremp/front-lec>
-
-### Smart Data Expert Course
-
-* 2019.06 ~ 2019.08 (quitted while studying)
-* Learning R, Statistic Analyses, Python
-* Repos
-  * <https://github.com/koremp/r-data-analysis>
-  * <https://github.com/koremp/r-stats-analysis>
-  * <https://github.com/koremp/smart-data-til>
-  * Crawling Naver Movie Reviews - <https://github.com/koremp/naver-movie-review-crawl>
-
-### [DSM - Daedeok Software Meister HighSchool](https://dsmhs.djsch.kr/main.do)
+#### [DSM - Daedeok Software Meister HighSchool](https://dsmhs.djsch.kr/main.do)
 
 * 2016.03 ~ 2019.01 (3 years)
 * Major: Imbedded Software Programming
