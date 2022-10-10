@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Weqhn8MNgzFXufg-Giqr9Olk2TTc9J-YrNfJdR4ZyYDAra3oCLLC47dtlWhGYG3_KkE0PgUFVnyyuH4">](https://music.youtube.com/watch?v=jqJX_FEDI3s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=usWZz-MMeP0)
 
-Måneskin - THE LONELIEST
+SEULGI - 28 Reasons
 
-**Albums**: THE LONELIEST
+**Albums**: 28 Reasons - The 1st Mini Album
 
-Last updated at 10/10/2022 18:29
+Last updated at 10/10/2022 18:53
 
 ## Badges
 
