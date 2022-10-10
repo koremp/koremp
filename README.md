@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bOZdEyVS-xy9cvfKUpgqH0BXAX4N7a5GTQS7IRdJ2FnxdjU1q-ICMrzps9KzyuvB7PqPGnAMgeDgsMQ_">](https://music.youtube.com/watch?v=90TW4dLw6GY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3cwPSwDF4WxNidPKqCa_7NifTqtj_BFOM13TSmKMaOizWIDCmq67D5IEdBXBM6gj1vU7d-0tcSRLft0F">](https://music.youtube.com/watch?v=QNt7KUUk_d8)
 
-윤하 - 비밀번호 486
+윤하 - 기다리다
 
-**Albums**: 고백하기 좋은 날
+**Albums**: Audition (Time2Rock)
 
-Last updated at 10/10/2022 17:01
+Last updated at 10/10/2022 17:03
 
 ## Badges
 
