@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3cwPSwDF4WxNidPKqCa_7NifTqtj_BFOM13TSmKMaOizWIDCmq67D5IEdBXBM6gj1vU7d-0tcSRLft0F">](https://music.youtube.com/watch?v=QNt7KUUk_d8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hDGlI84YywTonpshmlh_myHj-4U_iffDaZhlAV2-lKF2SuaXs3mliSjMu53YkDwerPMGJASyIwaXkuYx">](https://music.youtube.com/watch?v=BoTVJvvXNnc)
 
-윤하 - 기다리다
+윤하(Younha) - PARADE
 
-**Albums**: Audition (Time2Rock)
+**Albums**: RescuE
 
-Last updated at 10/10/2022 17:03
+Last updated at 10/10/2022 17:07
 
 ## Badges
 
