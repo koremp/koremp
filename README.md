@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ABEfsJ48FwPUsOllIOBJhCvk6fAMs_8dW_hRjPBNFHsPGUo_9HE_JIgGu0hW4-Wgw5dfcMj-n-yG7Iig">](https://music.youtube.com/watch?v=D-WEeTsh-ls)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x6TGX5MPHCpsqWqm2H2vMVy_RI9VdSZVVAco7Olhgg01OrTnJX9zMaHUgHPsK6ZCjlF6BHC7idF_b9M">](https://music.youtube.com/watch?v=f8ymKHxUV_8)
 
-윤하(Younha) - WINTER FLOWER(雪中梅)(feat. RM)
+윤하(Younha) - 오늘 헤어졌어요
 
-**Albums**: UNSTABLE MINDSET
+**Albums**: Growing Season
 
-Last updated at 10/10/2022 17:12
+Last updated at 10/10/2022 17:14
 
 ## Badges
 
