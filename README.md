@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hDGlI84YywTonpshmlh_myHj-4U_iffDaZhlAV2-lKF2SuaXs3mliSjMu53YkDwerPMGJASyIwaXkuYx">](https://music.youtube.com/watch?v=BoTVJvvXNnc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_moOYcUoZHlAeCNdBfjOL92yRxac2Ft2sTBrzPPRoL1WcX7-NPakR3VZnzLyGnLN_Zg61uZ6USpskpFrYg">](https://music.youtube.com/watch?v=2GmHoydATxA)
 
-윤하(Younha) - PARADE
+윤하(Younha) - I Believe
 
-**Albums**: RescuE
+**Albums**: 신데렐라와 네 명의 기사들, Pt. 5 (Original Soundtrack)
 
-Last updated at 10/10/2022 17:07
+Last updated at 10/10/2022 17:10
 
 ## Badges
 
