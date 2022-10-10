@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x6TGX5MPHCpsqWqm2H2vMVy_RI9VdSZVVAco7Olhgg01OrTnJX9zMaHUgHPsK6ZCjlF6BHC7idF_b9M">](https://music.youtube.com/watch?v=f8ymKHxUV_8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Weqhn8MNgzFXufg-Giqr9Olk2TTc9J-YrNfJdR4ZyYDAra3oCLLC47dtlWhGYG3_KkE0PgUFVnyyuH4">](https://music.youtube.com/watch?v=jqJX_FEDI3s)
 
-윤하(Younha) - 오늘 헤어졌어요
+Måneskin - THE LONELIEST
 
-**Albums**: Growing Season
+**Albums**: THE LONELIEST
 
-Last updated at 10/10/2022 17:14
+Last updated at 10/10/2022 18:29
 
 ## Badges
 
