@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xVjohX2D0CKfZXvE3mjqVSkkGK8wR1OF1bMrvDgi1_sBO16V1lj5zdG1jzyElwydyJKEqUMpvcoV-3HkEw">](https://music.youtube.com/watch?v=SHWbDmyJ1uY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n5asd-AJWHmdsUFuCUy-a3alhRwLtju6dVqHDBp7SiPR0ARotn0RimSem4DvhQJ8nX8XgOXoETfaiq4">](https://music.youtube.com/watch?v=Q62BG1hTpRg)
 
-NCT 127 - Summer127
+EXO-K - Thunder
 
-**Albums**: CHERRY BOMB - The 3rd Mini Album
+**Albums**: The 2nd Mini Album '중독 Overdose'
 
-Last updated at 10/12/2022 14:27
+Last updated at 10/12/2022 14:31
 
 ## Badges
 
