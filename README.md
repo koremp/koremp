@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=9geaXIpn1J0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/haX-Ufe0DL_Vn1G78cTA3rgLuaHzTFwd4Yb_jDdyzPaGFDe7tfXf5s7SqIX72HP2BK231Zlb1naN_h-kIg">](https://music.youtube.com/watch?v=kwQ0wFgcK5g)
 
-SEULGI - Crown
+샤이니 - Excuse Me Miss
 
-**Albums**: 28 Reasons - The 1st Mini Album
+**Albums**: SHINee The 3rd Album Chapter 2. 'Why So Serious? - The Misconceptions of Me'
 
-Last updated at 10/10/2022 19:05
+Last updated at 10/12/2022 13:59
 
 ## Badges
 
