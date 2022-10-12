@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DIjCTGuhbuNKI8slAX68ps1TjL_FEd2W3InuL2in9oeefbw-GJseOdylIsRz2rj_uRSm_rzj1KcelfI">](https://music.youtube.com/watch?v=ZyL7ZxkCQIQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0uRMEcB2JG3C9pT2k9rI4ZRZlPgtQzlM-Ju8vMIP91IsTsbhtOHT07-GsRTAy29AzYvWNFPsdmh5uWE9">](https://music.youtube.com/watch?v=hMJo19DmKw0)
 
-EXO-CBX (첸백시) - 花요일 (Blooming Day)
+KAI - 음 Mmmh
 
-**Albums**: Blooming Days - The 2nd Mini Album
+**Albums**: KAI - The 1st Mini Album
 
-Last updated at 10/12/2022 14:05
+Last updated at 10/12/2022 14:09
 
 ## Badges
 
