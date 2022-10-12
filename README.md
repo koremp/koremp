@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UWaG0-p-cG1BAJCZ79z73XHjRk4avPJPKdf-yOYzKmNkA0mcCd64HZLW-4vvK4IhxkrhV14__zjpIN8x">](https://music.youtube.com/watch?v=4kYC8YSuAps)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1qjLFC3lL94Kt9oTXPA_pcjgUBj3ZAYq3bdkJ-g-bFAFaTHms5hKRx1PR5Fysu3lCFucAx1xDERBavLcgg">](https://music.youtube.com/watch?v=uQiwJAUmoW8)
 
-EXO - Artificial Love
+태민(TAEMIN) - Press Your Number
 
-**Albums**: EX'ACT
+**Albums**: Press It - The 1st Album
 
-Last updated at 10/12/2022 14:13
+Last updated at 10/12/2022 14:17
 
 ## Badges
 
