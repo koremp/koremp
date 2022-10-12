@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1qjLFC3lL94Kt9oTXPA_pcjgUBj3ZAYq3bdkJ-g-bFAFaTHms5hKRx1PR5Fysu3lCFucAx1xDERBavLcgg">](https://music.youtube.com/watch?v=uQiwJAUmoW8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/raYmhH77U_wfarPC8fIYADdVplBuxnI8E44GvxhtMN0-IxVQ0IpNMoM6WkSwVwiUNrWbDgImBwgu5A">](https://music.youtube.com/watch?v=Db-HQjY2dKg)
 
-태민(TAEMIN) - Press Your Number
+SuperM - So Long
 
-**Albums**: Press It - The 1st Album
+**Albums**: Super One
 
-Last updated at 10/12/2022 14:17
+Last updated at 10/12/2022 14:21
 
 ## Badges
 
