@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hZNpVAdJ6qCFUFfle5Q2KTHTCeTctbgTo5INwQbhq4462METfFztoG-NLAuG-4nwfSVU2gXI6ru2LDxk">](https://music.youtube.com/watch?v=MYtpZoJRs5A)
+[<img align="left" width="100" src="https://yt3.ggpht.com/eDxHO9vWh1ODmWJhb_vF--3J67hqW90YFiA_rWBL_sLT6l8DcXNgDhYuqWZB20nwSKCokDY=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/Skrillex)
 
-BAEKHYUN - Bambi
+Skrillex - Hikaru Utada & Face My Fears [Official Video]
 
-**Albums**: Bambi
+**Albums**: Not supported
 
-Last updated at 10/12/2022 14:58
+Last updated at 10/13/2022 01:42
 
 ## Badges
 
