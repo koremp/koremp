@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jx9UXUQ3Df_sn0lKCFxCeWicGHGXj1tJkTBMyot0j_n3UlTyaWJjbKHL17oB4n7T5BlmxgQl3oGfnXI-">](https://music.youtube.com/watch?v=oO1iYiZRD44)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/C87GyuHNtkyac7DTB0n1x5opfWn0y2Q7acBSk-O-7RGFuGT6eyXSpoyY-7-NVlXo7szdVN-KI9s627imLw">](https://music.youtube.com/watch?v=LV3vxkZpUjk)
 
-NCT U - 일곱 번째 감각 The 7th Sense
+샤이니 - 투명 우산 Don’t Let Me Go
 
-**Albums**: NCT 2018 EMPATHY
+**Albums**: 1 of 1 - The 5th Album
 
-Last updated at 10/12/2022 14:45
+Last updated at 10/12/2022 14:49
 
 ## Badges
 
