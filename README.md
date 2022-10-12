@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0uRMEcB2JG3C9pT2k9rI4ZRZlPgtQzlM-Ju8vMIP91IsTsbhtOHT07-GsRTAy29AzYvWNFPsdmh5uWE9">](https://music.youtube.com/watch?v=hMJo19DmKw0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UWaG0-p-cG1BAJCZ79z73XHjRk4avPJPKdf-yOYzKmNkA0mcCd64HZLW-4vvK4IhxkrhV14__zjpIN8x">](https://music.youtube.com/watch?v=4kYC8YSuAps)
 
-KAI - 음 Mmmh
+EXO - Artificial Love
 
-**Albums**: KAI - The 1st Mini Album
+**Albums**: EX'ACT
 
-Last updated at 10/12/2022 14:09
+Last updated at 10/12/2022 14:13
 
 ## Badges
 
