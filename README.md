@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/C87GyuHNtkyac7DTB0n1x5opfWn0y2Q7acBSk-O-7RGFuGT6eyXSpoyY-7-NVlXo7szdVN-KI9s627imLw">](https://music.youtube.com/watch?v=pGfRL4ckTV0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DIjCTGuhbuNKI8slAX68ps1TjL_FEd2W3InuL2in9oeefbw-GJseOdylIsRz2rj_uRSm_rzj1KcelfI">](https://music.youtube.com/watch?v=ZyL7ZxkCQIQ)
 
-샤이니 - Feel Good
+EXO-CBX (첸백시) - 花요일 (Blooming Day)
 
-**Albums**: 1 of 1 - The 5th Album
+**Albums**: Blooming Days - The 2nd Mini Album
 
-Last updated at 10/12/2022 14:01
+Last updated at 10/12/2022 14:05
 
 ## Badges
 
