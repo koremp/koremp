@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nhDW4rikR7TMoO0LuGcCKtDKr6bq00SXq3m-nG1OEpIQCdLzFX3PVureOyGShZV90xxpkYFDs4aVEzIJuw">](https://music.youtube.com/watch?v=Sl4JDHHLVOk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZhTKuN8sz8_VI1pgbxQ-j6u5SL5iCMvXxe5UhWS_x-uTsdLzNlz4-S68SzzI01-0Ln8KbdVqO2PYVz17Rw">](https://music.youtube.com/watch?v=omasuy9POzM)
 
-종현(JONGHYUN) - 환상통 (Only One You Need)
+키 - 센 척 안 해 (One of Those Nights)(feat. 크러쉬(Crush))
 
-**Albums**: Poet ᛁ Artist
+**Albums**: FACE - The 1st Album
 
-Last updated at 10/12/2022 14:39
+Last updated at 10/12/2022 14:41
 
 ## Badges
 
