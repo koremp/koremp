@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-aB03JZvL8GfZ9gKAbMl6GvMKK43f6-ICu8EX2Pi7gB6s3L73SVzrAjeu3p0iEzmt6Lzi9jKo3NDa3P_">](https://music.youtube.com/watch?v=KltW7c7RUsI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nhDW4rikR7TMoO0LuGcCKtDKr6bq00SXq3m-nG1OEpIQCdLzFX3PVureOyGShZV90xxpkYFDs4aVEzIJuw">](https://music.youtube.com/watch?v=Sl4JDHHLVOk)
 
-DEAN - D (Half Moon)(feat. Gaeko)
+종현(JONGHYUN) - 환상통 (Only One You Need)
 
-**Albums**: 130 Mood : TRBL
+**Albums**: Poet ᛁ Artist
 
-Last updated at 10/12/2022 14:35
+Last updated at 10/12/2022 14:39
 
 ## Badges
 
