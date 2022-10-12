@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K2IXFZyXsC1bAzf66c8OWVCvB08Sd3htOJBSCJV_5AKrdNgqiwNMGwwNt3GmL_La3S1cihoLcNMaFhh3">](https://music.youtube.com/watch?v=U3XsXjDK8yk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RsopsBMvdDMytheHrFYo7e_gl79HBh7h5-tOakoHjGipwJlKzYfWWzy2JoxKmctVghrQzcMkdGjzfA">](https://music.youtube.com/watch?v=T_n9m8snvug)
 
-NCT DREAM - 맛 Hot Sauce
+LUNA - Free Somebody
 
-**Albums**: Hot Sauce - The 1st Album
+**Albums**: Free Somebody - The 1st Mini Album
 
-Last updated at 10/12/2022 14:53
+Last updated at 10/12/2022 14:55
 
 ## Badges
 
