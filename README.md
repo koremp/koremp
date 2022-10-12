@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n5asd-AJWHmdsUFuCUy-a3alhRwLtju6dVqHDBp7SiPR0ARotn0RimSem4DvhQJ8nX8XgOXoETfaiq4">](https://music.youtube.com/watch?v=Q62BG1hTpRg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-aB03JZvL8GfZ9gKAbMl6GvMKK43f6-ICu8EX2Pi7gB6s3L73SVzrAjeu3p0iEzmt6Lzi9jKo3NDa3P_">](https://music.youtube.com/watch?v=KltW7c7RUsI)
 
-EXO-K - Thunder
+DEAN - D (Half Moon)(feat. Gaeko)
 
-**Albums**: The 2nd Mini Album '중독 Overdose'
+**Albums**: 130 Mood : TRBL
 
-Last updated at 10/12/2022 14:31
+Last updated at 10/12/2022 14:35
 
 ## Badges
 
