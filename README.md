@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/C87GyuHNtkyac7DTB0n1x5opfWn0y2Q7acBSk-O-7RGFuGT6eyXSpoyY-7-NVlXo7szdVN-KI9s627imLw">](https://music.youtube.com/watch?v=LV3vxkZpUjk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K2IXFZyXsC1bAzf66c8OWVCvB08Sd3htOJBSCJV_5AKrdNgqiwNMGwwNt3GmL_La3S1cihoLcNMaFhh3">](https://music.youtube.com/watch?v=U3XsXjDK8yk)
 
-샤이니 - 투명 우산 Don’t Let Me Go
+NCT DREAM - 맛 Hot Sauce
 
-**Albums**: 1 of 1 - The 5th Album
+**Albums**: Hot Sauce - The 1st Album
 
-Last updated at 10/12/2022 14:49
+Last updated at 10/12/2022 14:53
 
 ## Badges
 
