@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/haX-Ufe0DL_Vn1G78cTA3rgLuaHzTFwd4Yb_jDdyzPaGFDe7tfXf5s7SqIX72HP2BK231Zlb1naN_h-kIg">](https://music.youtube.com/watch?v=kwQ0wFgcK5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/C87GyuHNtkyac7DTB0n1x5opfWn0y2Q7acBSk-O-7RGFuGT6eyXSpoyY-7-NVlXo7szdVN-KI9s627imLw">](https://music.youtube.com/watch?v=pGfRL4ckTV0)
 
-샤이니 - Excuse Me Miss
+샤이니 - Feel Good
 
-**Albums**: SHINee The 3rd Album Chapter 2. 'Why So Serious? - The Misconceptions of Me'
+**Albums**: 1 of 1 - The 5th Album
 
-Last updated at 10/12/2022 13:59
+Last updated at 10/12/2022 14:01
 
 ## Badges
 
