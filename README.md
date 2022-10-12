@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/raYmhH77U_wfarPC8fIYADdVplBuxnI8E44GvxhtMN0-IxVQ0IpNMoM6WkSwVwiUNrWbDgImBwgu5A">](https://music.youtube.com/watch?v=Db-HQjY2dKg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/m0gfslJci6TX-1rBL9c7CncaL_KIaJt-KWzxdoKlzoyi0yzPcD7Gc5OLsPPmOSa2uJPU-a4GtUhBYR4k">](https://music.youtube.com/watch?v=-xw8ePRkyDE)
 
-SuperM - So Long
+Red Velvet - 다시, 여름 Hello, Sunset
 
-**Albums**: Super One
+**Albums**: Queendom: The 6th Mini Album
 
-Last updated at 10/12/2022 14:21
+Last updated at 10/12/2022 14:23
 
 ## Badges
 
