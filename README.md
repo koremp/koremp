@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZhTKuN8sz8_VI1pgbxQ-j6u5SL5iCMvXxe5UhWS_x-uTsdLzNlz4-S68SzzI01-0Ln8KbdVqO2PYVz17Rw">](https://music.youtube.com/watch?v=omasuy9POzM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jx9UXUQ3Df_sn0lKCFxCeWicGHGXj1tJkTBMyot0j_n3UlTyaWJjbKHL17oB4n7T5BlmxgQl3oGfnXI-">](https://music.youtube.com/watch?v=oO1iYiZRD44)
 
-키 - 센 척 안 해 (One of Those Nights)(feat. 크러쉬(Crush))
+NCT U - 일곱 번째 감각 The 7th Sense
 
-**Albums**: FACE - The 1st Album
+**Albums**: NCT 2018 EMPATHY
 
-Last updated at 10/12/2022 14:41
+Last updated at 10/12/2022 14:45
 
 ## Badges
 
