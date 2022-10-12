@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/m0gfslJci6TX-1rBL9c7CncaL_KIaJt-KWzxdoKlzoyi0yzPcD7Gc5OLsPPmOSa2uJPU-a4GtUhBYR4k">](https://music.youtube.com/watch?v=-xw8ePRkyDE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xVjohX2D0CKfZXvE3mjqVSkkGK8wR1OF1bMrvDgi1_sBO16V1lj5zdG1jzyElwydyJKEqUMpvcoV-3HkEw">](https://music.youtube.com/watch?v=SHWbDmyJ1uY)
 
-Red Velvet - 다시, 여름 Hello, Sunset
+NCT 127 - Summer127
 
-**Albums**: Queendom: The 6th Mini Album
+**Albums**: CHERRY BOMB - The 3rd Mini Album
 
-Last updated at 10/12/2022 14:23
+Last updated at 10/12/2022 14:27
 
 ## Badges
 
