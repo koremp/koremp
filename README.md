@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RsopsBMvdDMytheHrFYo7e_gl79HBh7h5-tOakoHjGipwJlKzYfWWzy2JoxKmctVghrQzcMkdGjzfA">](https://music.youtube.com/watch?v=T_n9m8snvug)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hZNpVAdJ6qCFUFfle5Q2KTHTCeTctbgTo5INwQbhq4462METfFztoG-NLAuG-4nwfSVU2gXI6ru2LDxk">](https://music.youtube.com/watch?v=MYtpZoJRs5A)
 
-LUNA - Free Somebody
+BAEKHYUN - Bambi
 
-**Albums**: Free Somebody - The 1st Mini Album
+**Albums**: Bambi
 
-Last updated at 10/12/2022 14:55
+Last updated at 10/12/2022 14:58
 
 ## Badges
 
