@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
-YOUNHA OFFICIAL - Oort Cloud (오르트구름)
+NewJeans - Cookie
 
 **Albums**: Not supported
 
-Last updated at 10/13/2022 19:48
+Last updated at 10/13/2022 19:52
 
 ## Badges
 
