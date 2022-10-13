@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
 
-BLACKPINK - Pink Venom
+YOUNHA OFFICIAL - Oort Cloud (오르트구름)
 
 **Albums**: Not supported
 
-Last updated at 10/13/2022 19:46
+Last updated at 10/13/2022 19:48
 
 ## Badges
 
