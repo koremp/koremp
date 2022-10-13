@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/jQq2YC6CxI82cb54SCLCVKgrL7AHhaccGr8JQcFMBagJ64URg5UNpYNmlIqQ7i7ODdSOUENjSg=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCTP45_DE3fMLujU8sZ-MBzw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_4Y1QqJr60C5Z7-eQWy-mw)
 
-ITZY - 365
+IVE - After LIKE (After LIKE)
 
 **Albums**: Not supported
 
-Last updated at 10/13/2022 19:26
+Last updated at 10/13/2022 19:38
 
 ## Badges
 
