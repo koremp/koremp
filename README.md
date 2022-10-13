@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on SoundCloud
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-3XiNZ1Y2cBG3blFb-b4LEgA-t120x120.jpg">](https://soundcloud.com/sunisrising/les-champs-elysees-cover)
+[<img align="left" width="100" src="https://yt3.ggpht.com/jQq2YC6CxI82cb54SCLCVKgrL7AHhaccGr8JQcFMBagJ64URg5UNpYNmlIqQ7i7ODdSOUENjSg=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCTP45_DE3fMLujU8sZ-MBzw)
 
-DAHYUN KIM - Les Champs-Elysées cover
+ITZY - 365
 
 **Albums**: Not supported
 
-Last updated at 10/13/2022 13:03
+Last updated at 10/13/2022 19:26
 
 ## Badges
 
