@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on SoundCloud
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/eDxHO9vWh1ODmWJhb_vF--3J67hqW90YFiA_rWBL_sLT6l8DcXNgDhYuqWZB20nwSKCokDY=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCibXKvuw5PoJVmyZJ4qhDIw)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-3XiNZ1Y2cBG3blFb-b4LEgA-t120x120.jpg">](https://soundcloud.com/sunisrising/les-champs-elysees-cover)
 
-Skrillex - Recess
+DAHYUN KIM - Les Champs-Elysées cover
 
 **Albums**: Not supported
 
-Last updated at 10/13/2022 10:03
+Last updated at 10/13/2022 13:03
 
 ## Badges
 
