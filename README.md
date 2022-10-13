@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
-NewJeans - Cookie
+LE SSERAFIM - FEARLESS
 
 **Albums**: Not supported
 
-Last updated at 10/13/2022 19:52
+Last updated at 10/13/2022 19:56
 
 ## Badges
 
