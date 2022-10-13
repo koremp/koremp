@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_4Y1QqJr60C5Z7-eQWy-mw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
 
-IVE - After LIKE (After LIKE)
+BLACKPINK - Pink Venom
 
 **Albums**: Not supported
 
-Last updated at 10/13/2022 19:38
+Last updated at 10/13/2022 19:46
 
 ## Badges
 
