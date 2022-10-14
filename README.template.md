@@ -28,11 +28,15 @@ Working on [pride-profile](https://github.com/koremp/pride-profile)
 
 Writing blog articles during learning Vim - [Decision to Vim](https://dev.to/koremp/decision-to-vim-1-buy-m1-air-255h)
 
-my favorite artist, [Yujin Sol](https://instagram.com/ujin_26)
+### Military Service
+
+Transfer to Industrial Technical Personnel - reservist duty
+
+산업기능요원 보충역으로 편입이 가능합니다. (특성화고-소프트웨어 마이스터고- 졸업, 정보처리기능사/전자캐드기능사 보유)
 
 ### Resume
 
-* [Dokyun Lim's Resume - 2022.09 - KR](https://docs.google.com/document/d/1r8__w9frdlUIcpJtEnbj1jV5z8q_jZTQILYB1GlY6cY/edit?usp=sharing)
+* [Dokyun Lim's Resume - 2022.10 - KR](https://docs.google.com/document/d/1hZOVuJTFa_5F8kvrc0zo3QQbDR2cFY_5b-nC-ijtVi8/edit?usp=sharing)
 * [Dokyun Lim's Resume - 2022.08 - EN](https://docs.google.com/document/d/1LoNoqn7I6ZHLONrlGT0KinQadcWyTy8VMsWPNnhc4sw/edit?usp=sharing)
 
 ### Personally
