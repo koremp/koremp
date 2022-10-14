@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Weqhn8MNgzFXufg-Giqr9Olk2TTc9J-YrNfJdR4ZyYDAra3oCLLC47dtlWhGYG3_KkE0PgUFVnyyuH4">](https://music.youtube.com/watch?v=jqJX_FEDI3s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=VmbOkN8zhos)
 
-Måneskin - THE LONELIEST
+나씽 벗 띠브즈 - Particles
 
-**Albums**: THE LONELIEST
+**Albums**: Broken Machine (Deluxe)
 
-Last updated at 10/14/2022 09:38
+Last updated at 10/14/2022 09:42
 
 ## Badges
 
