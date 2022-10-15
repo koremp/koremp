@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TwIWuNMyEgD1YFkKGe8B7wtqgFd2TrdqEmz7ll2K-oC-g8ryADK0FfY6BN_Bq0W_jswtJn9NcLNi_zW9">](https://music.youtube.com/watch?v=80oOFk5tYps)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aYP-3SBKh4u5qn3ewrevLu_kEXXEyVyBe0FYilBBcOmXfyxtJyqq_2fx5Gz9CeftR7drD1178Lerl4o">](https://music.youtube.com/watch?v=Xd-yEHm13YA)
 
-Arctic Monkeys - Arabella
+Grant Ganzer - Can't Help Myself
 
-**Albums**: AM
+**Albums**: Can't Help Myself
 
-Last updated at 10/15/2022 13:59
+Last updated at 10/15/2022 14:01
 
 ## Badges
 
