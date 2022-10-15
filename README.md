@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aYP-3SBKh4u5qn3ewrevLu_kEXXEyVyBe0FYilBBcOmXfyxtJyqq_2fx5Gz9CeftR7drD1178Lerl4o">](https://music.youtube.com/watch?v=Xd-yEHm13YA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3wlF7gwK6D-aXMqRc0_NtBi9_-3p-SJY3L9hjcFzp4JSEMUTN8SBoELpNDy4eHbDhyd5YNlH3l6289Is">](https://music.youtube.com/watch?v=NF7oYY7Lhq4)
 
-Grant Ganzer - Can't Help Myself
+OneRepublic - I Ain't Worried
 
-**Albums**: Can't Help Myself
+**Albums**: I Ain’t Worried (Music From The Motion Picture "Top Gun: Maverick")
 
-Last updated at 10/15/2022 14:01
+Last updated at 10/15/2022 14:55
 
 ## Badges
 
