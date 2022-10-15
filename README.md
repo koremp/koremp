@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RNsC4IIArffVIpusLyonzKv_ijRbLmZYXkrQtKNrtLomjWr_sGnvPoDRoNSSDzq9F_ax-TOFmxuYS6hMRg">](https://music.youtube.com/watch?v=ricvj03PHSU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BJSXLMa6L0PJ2Dq6pyPJsVo2gTUmm5bFWkT4eMIeuA8SzPujw0zKFiI0_cT4ro9AC3lVvU90Lm-Z-No">](https://music.youtube.com/watch?v=6ZL9CsBl4ME)
 
-The Weeknd (위켄드) - Can't Feel My Face
+TAEYONG, JENO, HENDERY, YANGYANG 및 GISELLE - ZOO
 
-**Albums**: Beauty Behind The Madness
+**Albums**: 2021 Winter SMTOWN : SMCU EXPRESS
 
-Last updated at 10/15/2022 15:00
+Last updated at 10/15/2022 15:05
 
 ## Badges
 
