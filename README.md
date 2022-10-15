@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7_hQO_FTMiiuFLm-U1qMrsEcGUxJW1sa3r7NouD0TqhU5NERalW5Sav_sZGgDNTxu3x-ofBywEYmOYE">](https://music.youtube.com/watch?v=J9HqEvgm3CA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w7NKHn3YWR_KDK2ayPiZ7ZPQyTIkGZfP1axwKWF53lfWHMXtBnCE--Yh0w0jBcwol2zNvEqgndWJYLLZ">](https://music.youtube.com/watch?v=0EK_M2taRIM)
 
-EXO - Ko Ko Bop
+IVE (아이브) - ELEVEN
 
-**Albums**: THE WAR
+**Albums**: ELEVEN
 
-Last updated at 10/15/2022 15:21
+Last updated at 10/15/2022 15:23
 
 ## Badges
 
