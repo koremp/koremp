@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=usWZz-MMeP0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=ghrlZIMDzbM)
 
-SEULGI - 28 Reasons
+NewJeans - Hype Boy
 
-**Albums**: 28 Reasons - The 1st Mini Album
+**Albums**: NewJeans 1st EP 'New Jeans'
 
-Last updated at 10/15/2022 15:07
+Last updated at 10/15/2022 15:11
 
 ## Badges
 
