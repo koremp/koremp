@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3wlF7gwK6D-aXMqRc0_NtBi9_-3p-SJY3L9hjcFzp4JSEMUTN8SBoELpNDy4eHbDhyd5YNlH3l6289Is">](https://music.youtube.com/watch?v=NF7oYY7Lhq4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/The0hv3zepIML3iZZJnxGzw7gnJ0j0Bs7_J5oSb9gSG63N66roRzOcd9FjR0Ygo9PjXEDKA5e5iTi-g7">](https://music.youtube.com/watch?v=8jttp6fGreQ)
 
-OneRepublic - I Ain't Worried
+David Guetta 및 Ella Henderson - Crazy What Love Can Do (with Becky Hill) [A7S Remix](feat. Becky Hill)
 
-**Albums**: I Ain’t Worried (Music From The Motion Picture "Top Gun: Maverick")
+**Albums**: Crazy What Love Can Do (with Becky Hill) (A7S Remix)
 
-Last updated at 10/15/2022 14:55
+Last updated at 10/15/2022 14:57
 
 ## Badges
 
