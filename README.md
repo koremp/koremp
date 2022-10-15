@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=ghrlZIMDzbM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eCIta9QeIjzJIl-oxOLZwV_t6OAFQOsLG76j6ylubepq7mFcsmrmyl7hD5gcl5n8CV72hzYqvXV9N5yw">](https://music.youtube.com/watch?v=aHR8zak8Xsc)
 
-NewJeans - Hype Boy
+STAYC(스테이씨) - ASAP
 
-**Albums**: NewJeans 1st EP 'New Jeans'
+**Albums**: STAYDOM
 
-Last updated at 10/15/2022 15:11
+Last updated at 10/15/2022 15:13
 
 ## Badges
 
