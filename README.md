@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=LP9sF1v-vz4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7_hQO_FTMiiuFLm-U1qMrsEcGUxJW1sa3r7NouD0TqhU5NERalW5Sav_sZGgDNTxu3x-ofBywEYmOYE">](https://music.youtube.com/watch?v=J9HqEvgm3CA)
 
-aespa - 도깨비불 Illusion
+EXO - Ko Ko Bop
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: THE WAR
 
-Last updated at 10/15/2022 15:17
+Last updated at 10/15/2022 15:21
 
 ## Badges
 
