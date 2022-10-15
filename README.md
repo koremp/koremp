@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0gZogYhX24Jot7NBmzt2PuWeoi51SDUpRKYWL1aIKcLz6tMyp3-14Zh_iVgsvHeW3mfSWz27yfOZDlk">](https://music.youtube.com/watch?v=XENqtcpZySc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TwIWuNMyEgD1YFkKGe8B7wtqgFd2TrdqEmz7ll2K-oC-g8ryADK0FfY6BN_Bq0W_jswtJn9NcLNi_zW9">](https://music.youtube.com/watch?v=80oOFk5tYps)
 
-Jamie Bower - Paralysed
+Arctic Monkeys - Arabella
 
-**Albums**: Prologue (Live from the Alter)
+**Albums**: AM
 
-Last updated at 10/15/2022 13:53
+Last updated at 10/15/2022 13:59
 
 ## Badges
 
