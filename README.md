@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/The0hv3zepIML3iZZJnxGzw7gnJ0j0Bs7_J5oSb9gSG63N66roRzOcd9FjR0Ygo9PjXEDKA5e5iTi-g7">](https://music.youtube.com/watch?v=8jttp6fGreQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RNsC4IIArffVIpusLyonzKv_ijRbLmZYXkrQtKNrtLomjWr_sGnvPoDRoNSSDzq9F_ax-TOFmxuYS6hMRg">](https://music.youtube.com/watch?v=ricvj03PHSU)
 
-David Guetta 및 Ella Henderson - Crazy What Love Can Do (with Becky Hill) [A7S Remix](feat. Becky Hill)
+The Weeknd (위켄드) - Can't Feel My Face
 
-**Albums**: Crazy What Love Can Do (with Becky Hill) (A7S Remix)
+**Albums**: Beauty Behind The Madness
 
-Last updated at 10/15/2022 14:57
+Last updated at 10/15/2022 15:00
 
 ## Badges
 
