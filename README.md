@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Weqhn8MNgzFXufg-Giqr9Olk2TTc9J-YrNfJdR4ZyYDAra3oCLLC47dtlWhGYG3_KkE0PgUFVnyyuH4">](https://music.youtube.com/watch?v=jqJX_FEDI3s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0gZogYhX24Jot7NBmzt2PuWeoi51SDUpRKYWL1aIKcLz6tMyp3-14Zh_iVgsvHeW3mfSWz27yfOZDlk">](https://music.youtube.com/watch?v=XENqtcpZySc)
 
-Måneskin - THE LONELIEST
+Jamie Bower - Paralysed
 
-**Albums**: THE LONELIEST
+**Albums**: Prologue (Live from the Alter)
 
-Last updated at 10/15/2022 13:49
+Last updated at 10/15/2022 13:53
 
 ## Badges
 
