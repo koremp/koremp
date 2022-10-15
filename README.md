@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BJSXLMa6L0PJ2Dq6pyPJsVo2gTUmm5bFWkT4eMIeuA8SzPujw0zKFiI0_cT4ro9AC3lVvU90Lm-Z-No">](https://music.youtube.com/watch?v=6ZL9CsBl4ME)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=usWZz-MMeP0)
 
-TAEYONG, JENO, HENDERY, YANGYANG 및 GISELLE - ZOO
+SEULGI - 28 Reasons
 
-**Albums**: 2021 Winter SMTOWN : SMCU EXPRESS
+**Albums**: 28 Reasons - The 1st Mini Album
 
-Last updated at 10/15/2022 15:05
+Last updated at 10/15/2022 15:07
 
 ## Badges
 
