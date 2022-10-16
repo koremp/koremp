@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu8Z5GXRn3igvpGikt5GZpVswAZ6YlaVxY3JWdkY=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/c/IDIOTAPE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aixVDum8bIjxh-zawNsilqtKif-lH5ogu3B5eUMGp6BPilm5_iYJs5aon8gDUa5Cd5ec67lClIkEwoE6">](https://music.youtube.com/watch?v=37W7Y2RRyiM)
 
-IDIOTAPE - [Official Audio] 080509 (11111101)
+오피셜히게단디즘 - Pretender
 
-**Albums**: Not supported
+**Albums**: Pretender
 
-Last updated at 10/16/2022 12:39
+Last updated at 10/16/2022 12:43
 
 ## Badges
 
