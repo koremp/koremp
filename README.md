@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w7NKHn3YWR_KDK2ayPiZ7ZPQyTIkGZfP1axwKWF53lfWHMXtBnCE--Yh0w0jBcwol2zNvEqgndWJYLLZ">](https://music.youtube.com/watch?v=0EK_M2taRIM)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AMLnZu8Z5GXRn3igvpGikt5GZpVswAZ6YlaVxY3JWdkY=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/c/IDIOTAPE)
 
-IVE (아이브) - ELEVEN
+IDIOTAPE - [Official Audio] Melodie (11111101)
 
-**Albums**: ELEVEN
+**Albums**: Not supported
 
-Last updated at 10/15/2022 15:23
+Last updated at 10/16/2022 12:29
 
 ## Badges
 
