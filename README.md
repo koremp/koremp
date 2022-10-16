@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AUbQLDdIcJulGaHcpEpCucXfleMiRMpJofdQGhtk5PBrjJUrLQuWFOyee-L_WgrFcTk7JSot45_YuEC7CQ">](https://music.youtube.com/watch?v=bwqurkN3vhE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Yiqnzq5SfMrNjf9XTAMCPadMclhC8ltAVaePndf64gdwvjaN6eEDFBw2aKRukpqxlb7rdkb27BdUFLIDfA">](https://music.youtube.com/watch?v=3NNhrqHZqlI)
 
-Hoshino Gen(호시노 겐) - アイデア
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Lemon
 
-**Albums**: POP VIRUS
+**Albums**: lemon
 
-Last updated at 10/16/2022 12:53
+Last updated at 10/16/2022 12:57
 
 ## Badges
 
