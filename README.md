@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aixVDum8bIjxh-zawNsilqtKif-lH5ogu3B5eUMGp6BPilm5_iYJs5aon8gDUa5Cd5ec67lClIkEwoE6">](https://music.youtube.com/watch?v=37W7Y2RRyiM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uZnJZkKlsxDHNc5QIqAsmd5qNvSvzgC9FAEVVjP8un2-G1cEWLYF1lnVK9L2pg0HIxl_vHz-dEd1k77bcg">](https://music.youtube.com/watch?v=NGDi89A5FcU)
 
-오피셜히게단디즘 - Pretender
+오피셜히게단디즘 - 宿命
 
-**Albums**: Pretender
+**Albums**: 宿命
 
-Last updated at 10/16/2022 12:43
+Last updated at 10/16/2022 12:47
 
 ## Badges
 
