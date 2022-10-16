@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uZnJZkKlsxDHNc5QIqAsmd5qNvSvzgC9FAEVVjP8un2-G1cEWLYF1lnVK9L2pg0HIxl_vHz-dEd1k77bcg">](https://music.youtube.com/watch?v=NGDi89A5FcU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AUbQLDdIcJulGaHcpEpCucXfleMiRMpJofdQGhtk5PBrjJUrLQuWFOyee-L_WgrFcTk7JSot45_YuEC7CQ">](https://music.youtube.com/watch?v=bwqurkN3vhE)
 
-오피셜히게단디즘 - 宿命
+Hoshino Gen(호시노 겐) - アイデア
 
-**Albums**: 宿命
+**Albums**: POP VIRUS
 
-Last updated at 10/16/2022 12:47
+Last updated at 10/16/2022 12:53
 
 ## Badges
 
