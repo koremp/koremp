@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Yiqnzq5SfMrNjf9XTAMCPadMclhC8ltAVaePndf64gdwvjaN6eEDFBw2aKRukpqxlb7rdkb27BdUFLIDfA">](https://music.youtube.com/watch?v=3NNhrqHZqlI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JwbHOlFCGhDxIWK4e6Qr3du1Wy9XVwEmqxreVl6kk_I0vWUBBgJ03l6Qnxv1ulda78AUMHdFqPHwOCdBEA">](https://music.youtube.com/watch?v=C5pQM2pak7s)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Lemon
+Dalton Harris - Cry
 
-**Albums**: lemon
+**Albums**: Cry
 
-Last updated at 10/16/2022 12:57
+Last updated at 10/16/2022 13:10
 
 ## Badges
 
