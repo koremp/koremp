@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_Cx288SDUD9liYn7CiJLAA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_4Y1QqJr60C5Z7-eQWy-mw)
 
-NMIXX - DICE
+IVE - After LIKE (After LIKE)
 
 **Albums**: Not supported
 
-Last updated at 10/18/2022 13:44
+Last updated at 10/18/2022 13:46
 
 ## Badges
 
