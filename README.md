@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_4Y1QqJr60C5Z7-eQWy-mw)
 
-NewJeans - Cookie
+IVE - ELEVEN (ELEVEN)
 
 **Albums**: Not supported
 
-Last updated at 10/18/2022 13:56
+Last updated at 10/18/2022 14:10
 
 ## Badges
 
