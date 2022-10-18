@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/QWfmpICEderM8Frv_hjaJdoiAlkztJYh-uYgWyYeDydHssTZPuTwJr5-ETeAq4xdNUO_cX4-=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCqgwdYBhoUHmjrVxNhEUv4g)
+[<img align="left" width="100" src="https://yt3.ggpht.com/4GLbBji4dAxHIZ4bEeJD5X2NjWj4kEF87XzBloc49DcvLFElDh_-o5WLUXaOlFP34MiROhl3=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCTP45_DE3fMLujU8sZ-MBzw)
 
-Måneskin Official - THE LONELIEST
+ITZY - 365
 
 **Albums**: Not supported
 
-Last updated at 10/18/2022 13:11
+Last updated at 10/18/2022 13:40
 
 ## Badges
 
