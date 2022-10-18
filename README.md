@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCTP45_DE3fMLujU8sZ-MBzw)
 
-BLACKPINK - Shut Down
+ITZY - Free Fall
 
 **Albums**: Not supported
 
-Last updated at 10/18/2022 14:19
+Last updated at 10/18/2022 14:23
 
 ## Badges
 
