@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/mGIS9352z_O1V5m6rBoV76OTkoj3hsEjY7LL3UKwmoX30PHQe3TX8Uk7bZVxyrBe6uqiyj2YKA=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UC_4Y1QqJr60C5Z7-eQWy-mw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
 
-IVE - LOVE DIVE (LOVE DIVE)
+BLACKPINK - Pink Venom
 
 **Albums**: Not supported
 
-Last updated at 10/18/2022 14:14
+Last updated at 10/18/2022 14:16
 
 ## Badges
 
