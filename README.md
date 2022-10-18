@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
-NewJeans - Attention
+LE SSERAFIM - Blue Flame
 
 **Albums**: Not supported
 
-Last updated at 10/18/2022 13:50
+Last updated at 10/18/2022 13:52
 
 ## Badges
 
