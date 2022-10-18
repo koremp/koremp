@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCTP45_DE3fMLujU8sZ-MBzw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
-ITZY - Free Fall
+LE SSERAFIM - FEARLESS
 
 **Albums**: Not supported
 
-Last updated at 10/18/2022 14:23
+Last updated at 10/18/2022 14:29
 
 ## Badges
 
