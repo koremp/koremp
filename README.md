@@ -2,13 +2,13 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCTP45_DE3fMLujU8sZ-MBzw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA)
 
-ITZY - WHAT I WANT
+aespa - 도깨비불 Illusion
 
 **Albums**: Not supported
 
-Last updated at 10/18/2022 14:32
+Last updated at 10/18/2022 14:34
 
 ## Badges
 
