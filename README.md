@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JwbHOlFCGhDxIWK4e6Qr3du1Wy9XVwEmqxreVl6kk_I0vWUBBgJ03l6Qnxv1ulda78AUMHdFqPHwOCdBEA">](https://music.youtube.com/watch?v=C5pQM2pak7s)
+[<img align="left" width="100" src="https://yt3.ggpht.com/QWfmpICEderM8Frv_hjaJdoiAlkztJYh-uYgWyYeDydHssTZPuTwJr5-ETeAq4xdNUO_cX4-=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCqgwdYBhoUHmjrVxNhEUv4g)
 
-Dalton Harris - Cry
+Måneskin Official - THE LONELIEST
 
-**Albums**: Cry
+**Albums**: Not supported
 
-Last updated at 10/16/2022 13:10
+Last updated at 10/18/2022 13:11
 
 ## Badges
 
