@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=j1uXcHwLhHM)
 
-aespa - 도깨비불 Illusion
+윤하 - 사건의 지평선
 
-**Albums**: Not supported
+**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
 
-Last updated at 10/18/2022 14:34
+Last updated at 10/19/2022 14:03
 
 ## Badges
 
