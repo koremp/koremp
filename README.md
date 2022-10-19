@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lHjdoh6RVTmsU_g5GYjJyWWMjHRvl_1GF1cWCHjm6LE6KVS99jZDFRpYq-vCut0FVqC4EOWK2KQHIHHG_w">](https://music.youtube.com/watch?v=DEsEv6WAig0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DxsDkQBNWkKUKDtRpk5eyfUZHZlJg06HydYeUPCRQB99OuiMfeW28IUNWRKKfGWAYSq5zw5iKEn3Pqr-">](https://music.youtube.com/watch?v=RIOQj8ZrDuM)
 
-Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
+사카모토 류이치 - energy flow
 
-**Albums**: Playing The Piano
+**Albums**: / 05
 
-Last updated at 10/19/2022 22:20
+Last updated at 10/19/2022 22:24
 
 ## Badges
 
