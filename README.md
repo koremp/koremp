@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=kPn2RFxcGYY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=3NXmPnUbLUw)
 
-파보 예르비 - Symphony No.9 in D Minor, op.125: I. Allegro ma non troppo e un poco maestoso
+파보 예르비 - Symphony No.9 in D Minor, op.125: II. Molto vivace
 
 **Albums**: Beethoven: Symphony No.9
 
-Last updated at 10/19/2022 22:48
+Last updated at 10/19/2022 23:02
 
 ## Badges
 
