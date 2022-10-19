@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MmsCvkP8tAQvNl57m57oIq-7Loq8v86CcFFu5V7LvDMEY7qanZhJHKW91qMuYPEWGg9FrqVn1LoGy8p0">](https://music.youtube.com/watch?v=LhTQJ9QKofU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eW9FLCZGCgu6VOgLMQhYmFpF_t5kMu0aD4_Q4AtM4MhNBT7KP_ZhAtQMpLQDAfXsPiaw94m1dDLsJxDu">](https://music.youtube.com/watch?v=KlxXwn-BNqo)
 
-Ryuichi Sakamoto 및 David Toop - GARDEN OF SHADOWS AND LIGHT
+Ryuichi Sakamoto - Tong Poo for JUNYA WATANABE
 
-**Albums**: GARDEN OF SHADOWS AND LIGHT
+**Albums**: Tong Poo for JUNYA WATANABE
 
-Last updated at 10/19/2022 22:28
+Last updated at 10/19/2022 22:44
 
 ## Badges
 
