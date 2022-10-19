@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=8NBQBw82lnA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=aTNIj090gRQ)
 
-파보 예르비 - Symphony No.9 in D Minor, op.125: IV: Freude, schöner Götterfunken (bar543)
+파보 예르비 - Symphony No.9 in D Minor, op.125: IV: Andante maestoso "Seid umschlungen Millionen!" (bar 594)
 
 **Albums**: Beethoven: Symphony No.9
 
-Last updated at 10/20/2022 01:43
+Last updated at 10/20/2022 01:45
 
 ## Badges
 
