@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=j1uXcHwLhHM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6YRf3yHOKH8qhmsc9Ho1RR1MRk4Gq5VgwiK4OMg3cIfbCk1b6BXCITqoNOl-CL5BueIU320GWyvWLNh_">](https://music.youtube.com/watch?v=FJ6H3vQLRf8)
 
-윤하 - 사건의 지평선
+Ryuichi Sakamoto - Ieta
 
-**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
+**Albums**: Ieta
 
-Last updated at 10/19/2022 14:03
+Last updated at 10/19/2022 22:16
 
 ## Badges
 
