@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DxsDkQBNWkKUKDtRpk5eyfUZHZlJg06HydYeUPCRQB99OuiMfeW28IUNWRKKfGWAYSq5zw5iKEn3Pqr-">](https://music.youtube.com/watch?v=RIOQj8ZrDuM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/MmsCvkP8tAQvNl57m57oIq-7Loq8v86CcFFu5V7LvDMEY7qanZhJHKW91qMuYPEWGg9FrqVn1LoGy8p0">](https://music.youtube.com/watch?v=LhTQJ9QKofU)
 
-사카모토 류이치 - energy flow
+Ryuichi Sakamoto 및 David Toop - GARDEN OF SHADOWS AND LIGHT
 
-**Albums**: / 05
+**Albums**: GARDEN OF SHADOWS AND LIGHT
 
-Last updated at 10/19/2022 22:24
+Last updated at 10/19/2022 22:28
 
 ## Badges
 
