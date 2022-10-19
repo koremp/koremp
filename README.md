@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eW9FLCZGCgu6VOgLMQhYmFpF_t5kMu0aD4_Q4AtM4MhNBT7KP_ZhAtQMpLQDAfXsPiaw94m1dDLsJxDu">](https://music.youtube.com/watch?v=KlxXwn-BNqo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uz6RMrbhnUTXenIXmFiKBUUZTdKfa4dQ_Wjv4C1Q1cRr-ETZl1aasBtjyvtHvrka-CIGyxEDOLHj0DtP">](https://music.youtube.com/watch?v=hCutX39nIHE)
 
-Ryuichi Sakamoto - Tong Poo for JUNYA WATANABE
+사카모토 류이치 - Rain
 
-**Albums**: Tong Poo for JUNYA WATANABE
+**Albums**: 1996
 
-Last updated at 10/19/2022 22:44
+Last updated at 10/19/2022 22:47
 
 ## Badges
 
