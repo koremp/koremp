@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=Lox5KtSJoKk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=Q8ddTqKU0TU)
 
-파보 예르비 - Symphony No.9 in D Minor, op.125: IV: Allegro ma non tanto "Tochter, Tochter aus Elysium!" (bar 763)
+파보 예르비 - Symphony No.9 in D Minor, op.125: IV: Poco Allegro, stringendo it tempo, sempre piu Allegro (bar 843)
 
 **Albums**: Beethoven: Symphony No.9
 
-Last updated at 10/20/2022 01:49
+Last updated at 10/20/2022 01:52
 
 ## Badges
 
