@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6YRf3yHOKH8qhmsc9Ho1RR1MRk4Gq5VgwiK4OMg3cIfbCk1b6BXCITqoNOl-CL5BueIU320GWyvWLNh_">](https://music.youtube.com/watch?v=FJ6H3vQLRf8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lHjdoh6RVTmsU_g5GYjJyWWMjHRvl_1GF1cWCHjm6LE6KVS99jZDFRpYq-vCut0FVqC4EOWK2KQHIHHG_w">](https://music.youtube.com/watch?v=DEsEv6WAig0)
 
-Ryuichi Sakamoto - Ieta
+Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
 
-**Albums**: Ieta
+**Albums**: Playing The Piano
 
-Last updated at 10/19/2022 22:16
+Last updated at 10/19/2022 22:20
 
 ## Badges
 
