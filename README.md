@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=Q8ddTqKU0TU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=kPn2RFxcGYY)
 
-파보 예르비 - Symphony No.9 in D Minor, op.125: IV: Poco Allegro, stringendo it tempo, sempre piu Allegro (bar 843)
+파보 예르비 - Symphony No.9 in D Minor, op.125: I. Allegro ma non troppo e un poco maestoso
 
 **Albums**: Beethoven: Symphony No.9
 
-Last updated at 10/20/2022 01:52
+Last updated at 10/20/2022 20:09
 
 ## Badges
 
