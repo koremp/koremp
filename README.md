@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=kPn2RFxcGYY)
+[<img align="left" width="100" src="https://yt3.ggpht.com/eBqA-0M-xbSUodVXYg_qLuPZHM1Ck7bBrn5ZIlFBYAUl4DZspPeRQKvx2VCV5uFe1YNP2Sim=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/c/bomsori)
 
-파보 예르비 - Symphony No.9 in D Minor, op.125: I. Allegro ma non troppo e un poco maestoso
+Bomsori 김봄소리 - 모차르트 바이올린 협주곡 제5번 가장조, KV.219 - 김봄소리
 
-**Albums**: Beethoven: Symphony No.9
+**Albums**: Not supported
 
-Last updated at 10/20/2022 20:09
+Last updated at 10/21/2022 17:20
 
 ## Badges
 
