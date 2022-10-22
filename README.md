@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AxR3WOenyLPUmmIV6dBvwfKPwprlkDwjYUwH48gSTxfdOosRYPEzy4DgMFI50rF9GH-tkyuEj-IYQng">](https://music.youtube.com/watch?v=bMcvgUqWbn4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NQB9iJarE-9qcO2qo9dGx1k86ApH0SBx3YSCn7NspaujvJRqoRWyhYO3jULk_yN7eWqrGZdFGrbP8JSLww">](https://music.youtube.com/watch?v=t2n2VMoKiuk)
 
-하현상 - 불꽃놀이
+하현상 - 바람이 되어 [미스터 션샤인 OST Part.7]
 
-**Albums**: 불꽃놀이
+**Albums**: 바람이 되어 [미스터 션샤인 OST Part.7]
 
-Last updated at 10/22/2022 17:58
+Last updated at 10/22/2022 18:02
 
 ## Badges
 
