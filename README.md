@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NQB9iJarE-9qcO2qo9dGx1k86ApH0SBx3YSCn7NspaujvJRqoRWyhYO3jULk_yN7eWqrGZdFGrbP8JSLww">](https://music.youtube.com/watch?v=t2n2VMoKiuk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=r3osM4YzeEY)
 
-하현상 - 바람이 되어 [미스터 션샤인 OST Part.7]
+하현상 - 등대
 
-**Albums**: 바람이 되어 [미스터 션샤인 OST Part.7]
+**Albums**: Calibrate
 
-Last updated at 10/22/2022 18:02
+Last updated at 10/22/2022 19:41
 
 ## Badges
 
