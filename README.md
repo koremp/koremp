@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=r3osM4YzeEY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AxR3WOenyLPUmmIV6dBvwfKPwprlkDwjYUwH48gSTxfdOosRYPEzy4DgMFI50rF9GH-tkyuEj-IYQng">](https://music.youtube.com/watch?v=bMcvgUqWbn4)
 
-하현상 - 등대
+하현상 - 불꽃놀이
 
-**Albums**: Calibrate
+**Albums**: 불꽃놀이
 
-Last updated at 10/22/2022 17:54
+Last updated at 10/22/2022 17:58
 
 ## Badges
 
