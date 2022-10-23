@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=R3MuRY7LAg8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=CC6koTdHRSI)
 
-나씽 벗 띠브즈 - Amsterdam
+위수 - 교토
 
-**Albums**: Broken Machine (Deluxe)
+**Albums**: 지나간 여름을 안타까워마
 
-Last updated at 10/23/2022 16:02
+Last updated at 10/23/2022 16:06
 
 ## Badges
 
