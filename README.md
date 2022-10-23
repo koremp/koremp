@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h09XKxyi4Jw4Y61tvWt0NK3_0KkA5X7cRN__5aGT_UotI7WCWeWPHMCdSIkSxahl2d0XaC6bQ-MnQ5ZM">](https://music.youtube.com/watch?v=GIf6NrrV6gU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kAtnc3xJI65dpQMqS3EgoqlSZJQlDzYQ3Ufv9c7RmcOTPMkU7ljF2lxqDJkUxNgwZw6259DEShQKvJ74cw">](https://music.youtube.com/watch?v=xHsOxqX_xGM)
 
-위수 - Someone’s Shining 누군가의 빛나던 (Album Ver.)
+위수 - Me Before You
 
-**Albums**: Cobalt Blue
+**Albums**: Eternal Moment 영원의 순간
 
-Last updated at 10/23/2022 16:18
+Last updated at 10/23/2022 16:22
 
 ## Badges
 
