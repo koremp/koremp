@@ -1,14 +1,14 @@
 # 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vwiqw7Gcx-JgBJMp5QF8D22sXzflwsX2z7ARKrMiUpXenNDJY9PCucUJcaKXSMfSXxSBrtMlf1ETQgeO">](https://music.youtube.com/watch?v=C9hqwSZWE7M)
+[<img align="left" width="100" src="https://yt3.ggpht.com/QWfmpICEderM8Frv_hjaJdoiAlkztJYh-uYgWyYeDydHssTZPuTwJr5-ETeAq4xdNUO_cX4-=s176-c-k-c0x00ffffff-no-nd-rj">](https://www.youtube.com/channel/UCmJv8qQwd49Q1XiUN1y7_Gw)
 
-정우 - 양
+Måneskin Official - Måneskin - THE LONELIEST (Official Video)
 
-**Albums**: 양｜종말
+**Albums**: Not supported
 
-Last updated at 10/23/2022 17:16
+Last updated at 10/23/2022 17:22
 
 ## Badges
 
