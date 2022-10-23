@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-3lx6MQfhwZBsgYmLDx5MH5QkBIqHw5MzAOgDz7LWUQgEnrcSuAOwVijYCRYEw8JCOiz4VZQWLF8HS6">](https://music.youtube.com/watch?v=XHgKAmLV9K4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q8gmaCOnEu0xSA5rA865ku98WTGvsY2gN5kuzTiXZTQ6-aBtM_DtLwEsHw8zb98lvpZ0ON4d_oECEck">](https://music.youtube.com/watch?v=N-knkNbHZZ8)
 
-정우 - 나에게서 당신에게 From Me To You
+정우 - 연가 Love song
 
-**Albums**: 여섯 번째 토요일 6th Saturday
+**Albums**: 연가 Love song
 
-Last updated at 10/23/2022 17:10
+Last updated at 10/23/2022 17:14
 
 ## Badges
 
