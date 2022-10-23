@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h09XKxyi4Jw4Y61tvWt0NK3_0KkA5X7cRN__5aGT_UotI7WCWeWPHMCdSIkSxahl2d0XaC6bQ-MnQ5ZM">](https://music.youtube.com/watch?v=rC14ryn5apc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sF99Z50ySaetIF0JPOrcSNou1K5S8-DhhYgzvg5_eaf300A16KDzsQ6oTmcDv1KjGyqIH6nuOfO63Q8D">](https://music.youtube.com/watch?v=5rhpReQFaQE)
 
-위수 - Hey 있잖아
+위수 - Adult
 
-**Albums**: Cobalt Blue
+**Albums**: Adult
 
-Last updated at 10/23/2022 16:30
+Last updated at 10/23/2022 16:34
 
 ## Badges
 
