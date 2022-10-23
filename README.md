@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h09XKxyi4Jw4Y61tvWt0NK3_0KkA5X7cRN__5aGT_UotI7WCWeWPHMCdSIkSxahl2d0XaC6bQ-MnQ5ZM">](https://music.youtube.com/watch?v=P_XLGVJWQ6k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pHuGeyTxB3-aD5LygbaV4gA_23G1MUxXNlhLLomTnYTa-8dqQ_j2Umw7SWBRSi0yu4Ds5pEM_dPV4nba">](https://music.youtube.com/watch?v=Hj48NGuHmMQ)
 
-위수 - Wisue 햇빛처럼 빼어난
+위수 - What A Beautiful Night 흐르는 시간 속에 우리는 아름다워
 
-**Albums**: Cobalt Blue
+**Albums**: What A Beautiful Night 흐르는 시간 속에 우리는 아름다워
 
-Last updated at 10/23/2022 16:38
+Last updated at 10/23/2022 16:52
 
 ## Badges
 
