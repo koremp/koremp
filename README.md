@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-lWjfOhDaDDf9-_TBzSln4ZbszixLL7GxXZWnUxeP5yblg5TSfjAWmpSF5Ado-B87UJpgUz19YE4BuFZ">](https://music.youtube.com/watch?v=eypQeWjuJoI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LZGFdtZlal1Aq5NvOwVCJBW-mCh3odzGZq_73qn-7WAJXmFfvrFQV9v7qssDa1iIbro3p04TF0DhHa_C">](https://music.youtube.com/watch?v=FYOJIEerXTw)
 
-위수 - Letter
+정우, Yeonsuk Yoo, Hojoon Sohn - Feeling Only You
 
-**Albums**: Letter
+**Albums**: Reply 1994 Director's Cut (Original Television Series Soundtrack)
 
-Last updated at 10/23/2022 17:04
+Last updated at 10/23/2022 17:06
 
 ## Badges
 
