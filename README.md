@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=ZyzPfgzWG4s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kAtnc3xJI65dpQMqS3EgoqlSZJQlDzYQ3Ufv9c7RmcOTPMkU7ljF2lxqDJkUxNgwZw6259DEShQKvJ74cw">](https://music.youtube.com/watch?v=wgJByrDuMRQ)
 
-위수 - Dosi
+위수 - Mean Nothing 아무 의미
 
-**Albums**: 지나간 여름을 안타까워마
+**Albums**: Eternal Moment 영원의 순간
 
-Last updated at 10/23/2022 16:56
+Last updated at 10/23/2022 17:00
 
 ## Badges
 
