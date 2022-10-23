@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=P03zsLmnvKI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/h09XKxyi4Jw4Y61tvWt0NK3_0KkA5X7cRN__5aGT_UotI7WCWeWPHMCdSIkSxahl2d0XaC6bQ-MnQ5ZM">](https://music.youtube.com/watch?v=GIf6NrrV6gU)
 
-위수 - 지나간 여름을 안타까워마
+위수 - Someone’s Shining 누군가의 빛나던 (Album Ver.)
 
-**Albums**: 지나간 여름을 안타까워마
+**Albums**: Cobalt Blue
 
-Last updated at 10/23/2022 16:14
+Last updated at 10/23/2022 16:18
 
 ## Badges
 
