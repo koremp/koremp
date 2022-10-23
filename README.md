@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5OLqtGK917D1fBUYmuXuoEY6e9gHcKmMPkKbXLp-G9Co9Rvn9drgJ1hRdNcQyhH2zcQchV15wWf6fTf4">](https://music.youtube.com/watch?v=ne2wX0nIrVM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=P03zsLmnvKI)
 
-위수 - 원
+위수 - 지나간 여름을 안타까워마
 
-**Albums**: 원
+**Albums**: 지나간 여름을 안타까워마
 
-Last updated at 10/23/2022 16:10
+Last updated at 10/23/2022 16:14
 
 ## Badges
 
