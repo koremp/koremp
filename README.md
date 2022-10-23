@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q8gmaCOnEu0xSA5rA865ku98WTGvsY2gN5kuzTiXZTQ6-aBtM_DtLwEsHw8zb98lvpZ0ON4d_oECEck">](https://music.youtube.com/watch?v=N-knkNbHZZ8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vwiqw7Gcx-JgBJMp5QF8D22sXzflwsX2z7ARKrMiUpXenNDJY9PCucUJcaKXSMfSXxSBrtMlf1ETQgeO">](https://music.youtube.com/watch?v=C9hqwSZWE7M)
 
-정우 - 연가 Love song
+정우 - 양
 
-**Albums**: 연가 Love song
+**Albums**: 양｜종말
 
-Last updated at 10/23/2022 17:14
+Last updated at 10/23/2022 17:16
 
 ## Badges
 
