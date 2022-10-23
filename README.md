@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=r3osM4YzeEY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=R3MuRY7LAg8)
 
-하현상 - 등대
+나씽 벗 띠브즈 - Amsterdam
 
-**Albums**: Calibrate
+**Albums**: Broken Machine (Deluxe)
 
-Last updated at 10/22/2022 19:41
+Last updated at 10/23/2022 16:02
 
 ## Badges
 
