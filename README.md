@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kAtnc3xJI65dpQMqS3EgoqlSZJQlDzYQ3Ufv9c7RmcOTPMkU7ljF2lxqDJkUxNgwZw6259DEShQKvJ74cw">](https://music.youtube.com/watch?v=xHsOxqX_xGM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kAtnc3xJI65dpQMqS3EgoqlSZJQlDzYQ3Ufv9c7RmcOTPMkU7ljF2lxqDJkUxNgwZw6259DEShQKvJ74cw">](https://music.youtube.com/watch?v=lcX6VzoOEXI)
 
-위수 - Me Before You
+위수 - Forever Shining 영원토록 빛나는 끝
 
 **Albums**: Eternal Moment 영원의 순간
 
-Last updated at 10/23/2022 16:22
+Last updated at 10/23/2022 16:26
 
 ## Badges
 
