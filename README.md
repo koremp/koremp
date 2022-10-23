@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kAtnc3xJI65dpQMqS3EgoqlSZJQlDzYQ3Ufv9c7RmcOTPMkU7ljF2lxqDJkUxNgwZw6259DEShQKvJ74cw">](https://music.youtube.com/watch?v=lcX6VzoOEXI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/h09XKxyi4Jw4Y61tvWt0NK3_0KkA5X7cRN__5aGT_UotI7WCWeWPHMCdSIkSxahl2d0XaC6bQ-MnQ5ZM">](https://music.youtube.com/watch?v=rC14ryn5apc)
 
-위수 - Forever Shining 영원토록 빛나는 끝
+위수 - Hey 있잖아
 
-**Albums**: Eternal Moment 영원의 순간
+**Albums**: Cobalt Blue
 
-Last updated at 10/23/2022 16:26
+Last updated at 10/23/2022 16:30
 
 ## Badges
 
