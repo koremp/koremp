@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kAtnc3xJI65dpQMqS3EgoqlSZJQlDzYQ3Ufv9c7RmcOTPMkU7ljF2lxqDJkUxNgwZw6259DEShQKvJ74cw">](https://music.youtube.com/watch?v=wgJByrDuMRQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-lWjfOhDaDDf9-_TBzSln4ZbszixLL7GxXZWnUxeP5yblg5TSfjAWmpSF5Ado-B87UJpgUz19YE4BuFZ">](https://music.youtube.com/watch?v=eypQeWjuJoI)
 
-위수 - Mean Nothing 아무 의미
+위수 - Letter
 
-**Albums**: Eternal Moment 영원의 순간
+**Albums**: Letter
 
-Last updated at 10/23/2022 17:00
+Last updated at 10/23/2022 17:04
 
 ## Badges
 
