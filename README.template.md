@@ -1,4 +1,4 @@
-# 🦄🍃 Dokyun Lim 🍃🏳️‍🌈
+# Dokyun (Claire) Lim 
 
 ## Now Playing on {CURRENT_PLAYING_SOURCE}
 
@@ -12,32 +12,30 @@ Last updated at {CURRENT_PLAYING_LAST_UPDATED}
 
 ## Badges
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoremp%2Fkormep&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://velog.io/@koremp"><img src="https://img.shields.io/badge/koremp.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://koremp.github.io"><img src="https://img.shields.io/badge/koremp.github.io-blog-orange?style=flat-square&logo=Blogger"/></a> <a href="https://www.linkedin.com/in/koremp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a><a href="https://dev.to/koremp"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><a href="https://twitter.com/claire_lim_dk"><img src="https://img.shields.io/badge/Twitter(EN)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoremp%2Fkormep&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://dev.to/koremp"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://velog.io/@koremp"><img src="https://img.shields.io/badge/koremp.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://koremp.github.io"><img src="https://img.shields.io/badge/koremp.github.io-blog-orange?style=flat-square&logo=Blogger"/></a>
+
+<a href="https://www.linkedin.com/in/koremp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+im.koremp@gmail.com
 
 ## Informations
 
 ### About Programming
 
-Jr Front-end Software Engineer
-
-Interested in React.js, TypeScript.
-
-Currently following [fe-roadmap](https://euncho.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%99%EC%8A%B5-%EB%A1%9C%EB%93%9C%EB%A7%B5-91c3bc11dec0)
-
-Working on [pride-profile](https://github.com/koremp/pride-profile)
-
-Writing blog articles during learning Vim - [Decision to Vim](https://dev.to/koremp/decision-to-vim-1-buy-m1-air-255h)
+Jr Web Front-end Software Engineer
 
 ### Military Service
 
 Transfer to Industrial Technical Personnel - reservist duty
 
-산업기능요원 보충역으로 편입이 가능합니다. (특성화고-소프트웨어 마이스터고- 졸업, 정보처리기능사/전자캐드기능사 보유)
+산업기능요원 보충역으로 편입이 가능합니다. (특성화고- 대덕소프트웨어마이스터고- 졸업 (2019.01), 정보처리기능사/전자캐드기능사 보유)
 
 ### Resume
 
-* [Dokyun Lim's Resume - 2022.10 - KR](https://docs.google.com/document/d/1hZOVuJTFa_5F8kvrc0zo3QQbDR2cFY_5b-nC-ijtVi8/edit?usp=sharing)
-* [Dokyun Lim's Resume - 2022.08 - EN](https://docs.google.com/document/d/1LoNoqn7I6ZHLONrlGT0KinQadcWyTy8VMsWPNnhc4sw/edit?usp=sharing)
+* [KR - 2022.10](./resume/README.md)
 
 ### Personally
 
