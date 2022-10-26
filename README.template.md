@@ -99,7 +99,7 @@ Like Drinking stuff(alcohol, coffee, etc).
 
 ### FanCheer 
 
-* <https://github.com/kormep/fancheer>
+* <https://github.com/koremp/fancheer>
 * <https://koremp.github.io/FanCheer/>
 * 2020.12 ~ 2021.2
 * (G)I-DLE Fan Page
