@@ -1,4 +1,4 @@
-# Dokyun (Claire) Lim 
+# Claire, Dokyun Lim
 
 ## Now Playing on {CURRENT_PLAYING_SOURCE}
 
