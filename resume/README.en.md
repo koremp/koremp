@@ -110,44 +110,44 @@ Daejeon - Front-end Software Engineer Internship
 
 ### React.js
 
-* TypeScript, JavaScript 를 이용해 개발할 수 있습니다.
-* React Hook을 이용해 개발할 수 있습니다.
-* Redux를 이용할 수 있고, Redux thunk/rtk를 사용하여 비동기 처리를 할 수 있습니다.
-* Router를 사용해 라우팅을 할 수 있습니다.
-* 관심사의 분리를 위해 컴포넌트를 분리하여 개발할 수 있습니다.
+* I could develop with JavaScript and TypeScript
+* I could use React Hook
+* I could use Redux
+* I could handle async with Redux Thunk/Redux Toolkit
+* I could route pages with Router
+* Separate components to separate concern
 
 ### Tests
 
-* Jest를 사용하여 React 컴포넌트와 React Hooks 등의 테스트코드를 작성하고, Mock 등의 기능을 사용할 수 있습니다. 
-* TDD를 공부하고 있습니다.
+* I could use jest to write test codes of React component and react hook
+* I could use jest’s mock, etc
 
 ### JavaScript
 
-* ES6+ 문법을 위주로 개발할 수 있습니다.
-* 코어 JavaScript 기술을 공부하고 있습니다.
+* I could use mainly ES6+ 
 
 ### HTML & CSS
 
-* CSS3, SASS를 사용해 개발할 수 있습니다.
-* Ant Design을 사용할 수 있으며 컴포넌트 커스터마이징 할 수 있습니다.
-* emotion, styled-component 라이브러리 등을 사용할 수 있습니다.
+* I could use CSS3, SASS
+* I could use Ant Design, and customize components
+* I could use emotion, styled-components
 
 ### Web
 
-* 백엔드(gRPC, Protocol Buffer)와 프론트엔드를 연동시킬 수 있습니다.
+* Experience with communication of front-end and back-end with gRPC, Protocol Buffer
 
 ### Webpack
 
-* Webpack을 사용하여 프로젝트를 설정할 수 있습니다. 
-* Webpack을 사용하여 빌드하고, 배포할 수 있습니다.
+* I could set a project with Webpack 
+* I could build and distribute with Webpack
 
 ### DevOps
 
-* GitHub를 사용할 수 있습니다.
-* Azure DevOps를 사용할 수 있습니다.
-* Azure Pipelinees를 통한 CI/CD를 할 수 있습니다.
-* GitHub Actions를 이용한 CI/CD를 할 수 있습니다.
-* PR을 통한 코드리뷰를 경험했습니다.
+* I could use GitHub
+* I could use Azure DevOps
+* I could do CI/CD with Azure Pipeline, GitHub Actions
+* Experience code review through PR
+
 
 ## Certifications
 
@@ -162,4 +162,4 @@ Daejeon - Front-end Software Engineer Internship
 
 ## Et cetera
 
-* [파이콘 한국](https://archive.pycon.kr/2019/) 2019 자원봉사
+* [PYCON KR](https://archive.pycon.kr/2019/) 2019 Volunteer
