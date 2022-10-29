@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/F0O6ia2pQjlY032Ns-JcFpc8a_7H5mjqkySd9C56owZxrH0dMF_Xe55n4TuewuIp7pL0t1DrjDbJRRbm">](https://music.youtube.com/watch?v=C9Ib4I2N2zk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Dw0LVnLCtZHibrAZzGGEEhipGzgGTbKR9YTQ_x3q1voklkedGt-_Q8i578svkLTA158kdqPMsX1lSB3Q">](https://music.youtube.com/watch?v=1zyDsSZBm0o)
 
-Jean-Yves Thibaudet - Debussy: Images oubliées, L. 87 - Lent (mélancolique et doux)
+Paperno, Dmitry - Images, Book 1: No. 2. Hommage a Rameau(feat. Paperno, Dmitry)
 
-**Albums**: Debussy: Complete Works for Solo Piano, Vol.1
+**Albums**: Paperno, Dmitry: Piano Recital
 
-Last updated at 10/30/2022 01:25
+Last updated at 10/30/2022 01:31
 
 ## Badges
 
