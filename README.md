@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y0gHts-rGQDcFkzCAJ_d83Rj6ejIJ0h0-px_2Z0Y3jLfAyaq54q-1UvmnE65o2ucjXuYVQAHwiiu4sh4">](https://music.youtube.com/watch?v=xMlYGKXc5co)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGlnNcpXB8eqKJiJa-7jujyxlTwesBTfSinyn56gw8KqLyvwxZUOfjX2GXQXIaLHU-hN6vdEh2ETKst7">](https://music.youtube.com/watch?v=LQPtocbCMO8)
 
-Jean-Yves Thibaudet - Debussy: Etude retrouvée
+Nahre Sol - Solitude
 
-**Albums**: Debussy: Complete Works for Solo Piano Vol.2 - Images, Etudes
+**Albums**: Alice in Wonderland
 
-Last updated at 10/30/2022 01:41
+Last updated at 10/30/2022 01:45
 
 ## Badges
 
