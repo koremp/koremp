@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGlnNcpXB8eqKJiJa-7jujyxlTwesBTfSinyn56gw8KqLyvwxZUOfjX2GXQXIaLHU-hN6vdEh2ETKst7">](https://music.youtube.com/watch?v=LQPtocbCMO8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fn343Sn5PZ9wy3hKpL7_4TUEXUuREAdFO_BG-Bbx3dmb5O18SJXDrCk3uQ2KL2Of2p6_TJNaqeQ-Ou0">](https://music.youtube.com/watch?v=0dUB2t2j5hE)
 
-Nahre Sol - Solitude
+키스 재럿 - I Got It Bad And That Ain't Good
 
-**Albums**: Alice in Wonderland
+**Albums**: The Melody At Night, With You
 
-Last updated at 10/30/2022 01:45
+Last updated at 10/30/2022 01:49
 
 ## Badges
 
