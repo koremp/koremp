@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/f0wjTweiwHW-mgD0QZQpxFQMqlGBSGpP-5u_DeTWIzSXEWsC4DB6VQqDYVZ3uviZMZww42NY9Bp5CDEp">](https://music.youtube.com/watch?v=ImiN5VoWkJc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JfW7I2zxzwCrugMV3o0JOC_HVPTniYrxw9R4z_ufZ-P2msZ4beJ-F9xy7Zdo8FJm9BoGrgy9L_BWKO55">](https://music.youtube.com/watch?v=iLopKwi3sCA)
 
-Rafael Frühbeck de Burgos, Barry Wordsworth 및 런던 교향악단 - La Mer: Jeux de vagues
+Emerson String Quartet - Debussy: String Quartet In G Minor, Op.10, L. 85 - 1. Animé et très décidé
 
-**Albums**: Debussy: La Mer - Saint-Saens: Le Carnaval Des Animaux
+**Albums**: Debussy; Ravel: String Quartets
 
-Last updated at 10/30/2022 01:01
+Last updated at 10/30/2022 01:07
 
 ## Badges
 
