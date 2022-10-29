@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fn343Sn5PZ9wy3hKpL7_4TUEXUuREAdFO_BG-Bbx3dmb5O18SJXDrCk3uQ2KL2Of2p6_TJNaqeQ-Ou0">](https://music.youtube.com/watch?v=0dUB2t2j5hE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jhv0klw7EG2c3R-LgJmoJtJtkpJ1OnTw6E5uduUzSevavP5UxXnHFJO2JJIRaQW4toESZTVYaZ0gi10s">](https://music.youtube.com/watch?v=mTd2gBiRUm8)
 
-키스 재럿 - I Got It Bad And That Ain't Good
+주 샤오 메이 - Invention No. 1 in C Major, BWV 772
 
-**Albums**: The Melody At Night, With You
+**Albums**: Bach: Inventions & Sinfonias
 
-Last updated at 10/30/2022 01:49
+Last updated at 10/30/2022 01:57
 
 ## Badges
 
