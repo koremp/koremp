@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Dw0LVnLCtZHibrAZzGGEEhipGzgGTbKR9YTQ_x3q1voklkedGt-_Q8i578svkLTA158kdqPMsX1lSB3Q">](https://music.youtube.com/watch?v=1zyDsSZBm0o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cseHPOj09UFjQ1AfMqexajZpmt94TIE61cetUTufDIpMVb077oUSeZBjgxEL7tVrl9Ejf_R1XY5sbUQl">](https://music.youtube.com/watch?v=-SA9rkepWZk)
 
-Paperno, Dmitry - Images, Book 1: No. 2. Hommage a Rameau(feat. Paperno, Dmitry)
+Bamberg Piano Trio - Piano Trio in G Major, L 3: II. Scherzo: Intermezzo(feat. Scott Faigen)
 
-**Albums**: Paperno, Dmitry: Piano Recital
+**Albums**: Debussy: Classical Hits
 
-Last updated at 10/30/2022 01:31
+Last updated at 10/30/2022 01:37
 
 ## Badges
 
