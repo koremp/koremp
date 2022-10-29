@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DbkRURyQthVj5kRv8A-v_IAjlIiS2LV1Wvj89p2fYIu2awkXHctvJ37OAbyJ3GRvhf0Djx1jQkwkwbgT">](https://music.youtube.com/watch?v=ybfffKpirNo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f0wjTweiwHW-mgD0QZQpxFQMqlGBSGpP-5u_DeTWIzSXEWsC4DB6VQqDYVZ3uviZMZww42NY9Bp5CDEp">](https://music.youtube.com/watch?v=ImiN5VoWkJc)
 
-보스턴 심포니 오케스트라 - Fauré: Pelléas et Mélisande, Op.80 - 4. Sicilienne
+Rafael Frühbeck de Burgos, Barry Wordsworth 및 런던 교향악단 - La Mer: Jeux de vagues
 
-**Albums**: Faure: Pelléas et Mélisande
+**Albums**: Debussy: La Mer - Saint-Saens: Le Carnaval Des Animaux
 
-Last updated at 10/29/2022 23:42
+Last updated at 10/30/2022 01:01
 
 ## Badges
 
