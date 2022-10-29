@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kImu1IyhAmYivCh4qNUfP0fp8BD_lphZqndKij6dk232TGx3Qqh1OAFKBACNBpHkDBh9OYOf36oPTiwC">](https://music.youtube.com/watch?v=OY-10vP22zI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/k5i9MVr5NqaVW4Xx2KHUUuaNEtbMqmmOIEYCrwx4EUYnH0XBi11X-jI4pUWNjE15nRU7QbFL2cdMIls">](https://music.youtube.com/watch?v=ubH0PJO7c0o)
 
-엠마누엘 크리빈 - La Mer, L. 111a: I. De l'aube à midi sur la mer
+귀도 칸텔리 - Nocturnes, CD 98, L. 91: No. 1, Nuages
 
-**Albums**: Debussy: La Mer, Images
+**Albums**: Debussy: Nocturnes - Ravel: Daphnis et Chloé, Suite No. 2
 
-Last updated at 10/29/2022 23:26
+Last updated at 10/29/2022 23:32
 
 ## Badges
 
