@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t3uxSSVJ6Y5js_gPNNQeT2p2Ft1skDPa4-A3n62BFatM6rZjoOWgbpRek7KX8EW4jxmezCU21SMM93uO">](https://music.youtube.com/watch?v=TDgTUewLkIA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/F0O6ia2pQjlY032Ns-JcFpc8a_7H5mjqkySd9C56owZxrH0dMF_Xe55n4TuewuIp7pL0t1DrjDbJRRbm">](https://music.youtube.com/watch?v=C9Ib4I2N2zk)
 
-Melos Quartet - Debussy: String Quartet In G Minor, Op.10, L. 85 - 3. Andantino doucement expressif
+Jean-Yves Thibaudet - Debussy: Images oubliées, L. 87 - Lent (mélancolique et doux)
 
-**Albums**: Debussy / Ravel: String Quartets
+**Albums**: Debussy: Complete Works for Solo Piano, Vol.1
 
-Last updated at 10/30/2022 01:19
+Last updated at 10/30/2022 01:25
 
 ## Badges
 
