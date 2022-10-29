@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cseHPOj09UFjQ1AfMqexajZpmt94TIE61cetUTufDIpMVb077oUSeZBjgxEL7tVrl9Ejf_R1XY5sbUQl">](https://music.youtube.com/watch?v=-SA9rkepWZk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y0gHts-rGQDcFkzCAJ_d83Rj6ejIJ0h0-px_2Z0Y3jLfAyaq54q-1UvmnE65o2ucjXuYVQAHwiiu4sh4">](https://music.youtube.com/watch?v=xMlYGKXc5co)
 
-Bamberg Piano Trio - Piano Trio in G Major, L 3: II. Scherzo: Intermezzo(feat. Scott Faigen)
+Jean-Yves Thibaudet - Debussy: Etude retrouvée
 
-**Albums**: Debussy: Classical Hits
+**Albums**: Debussy: Complete Works for Solo Piano Vol.2 - Images, Etudes
 
-Last updated at 10/30/2022 01:37
+Last updated at 10/30/2022 01:41
 
 ## Badges
 
