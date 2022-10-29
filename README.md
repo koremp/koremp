@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t3uxSSVJ6Y5js_gPNNQeT2p2Ft1skDPa4-A3n62BFatM6rZjoOWgbpRek7KX8EW4jxmezCU21SMM93uO">](https://music.youtube.com/watch?v=_EJIqhuctrw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/t3uxSSVJ6Y5js_gPNNQeT2p2Ft1skDPa4-A3n62BFatM6rZjoOWgbpRek7KX8EW4jxmezCU21SMM93uO">](https://music.youtube.com/watch?v=TDgTUewLkIA)
 
-Melos Quartet - Debussy: String Quartet In G Minor, Op.10, L. 85 - 2. Scherzo (Assez vif et bien rythmé)
+Melos Quartet - Debussy: String Quartet In G Minor, Op.10, L. 85 - 3. Andantino doucement expressif
 
 **Albums**: Debussy / Ravel: String Quartets
 
-Last updated at 10/30/2022 01:15
+Last updated at 10/30/2022 01:19
 
 ## Badges
 
