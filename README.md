@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jhv0klw7EG2c3R-LgJmoJtJtkpJ1OnTw6E5uduUzSevavP5UxXnHFJO2JJIRaQW4toESZTVYaZ0gi10s">](https://music.youtube.com/watch?v=mTd2gBiRUm8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jhv0klw7EG2c3R-LgJmoJtJtkpJ1OnTw6E5uduUzSevavP5UxXnHFJO2JJIRaQW4toESZTVYaZ0gi10s">](https://music.youtube.com/watch?v=5eqzYg17bcQ)
 
-주 샤오 메이 - Invention No. 1 in C Major, BWV 772
+주 샤오 메이 - Invention No. 2 in C Minor, BWV 773
 
 **Albums**: Bach: Inventions & Sinfonias
 
-Last updated at 10/30/2022 01:57
+Last updated at 10/30/2022 01:59
 
 ## Badges
 
