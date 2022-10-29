@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JfW7I2zxzwCrugMV3o0JOC_HVPTniYrxw9R4z_ufZ-P2msZ4beJ-F9xy7Zdo8FJm9BoGrgy9L_BWKO55">](https://music.youtube.com/watch?v=iLopKwi3sCA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/t3uxSSVJ6Y5js_gPNNQeT2p2Ft1skDPa4-A3n62BFatM6rZjoOWgbpRek7KX8EW4jxmezCU21SMM93uO">](https://music.youtube.com/watch?v=_EJIqhuctrw)
 
-Emerson String Quartet - Debussy: String Quartet In G Minor, Op.10, L. 85 - 1. Animé et très décidé
+Melos Quartet - Debussy: String Quartet In G Minor, Op.10, L. 85 - 2. Scherzo (Assez vif et bien rythmé)
 
-**Albums**: Debussy; Ravel: String Quartets
+**Albums**: Debussy / Ravel: String Quartets
 
-Last updated at 10/30/2022 01:07
+Last updated at 10/30/2022 01:15
 
 ## Badges
 
