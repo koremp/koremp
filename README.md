@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/k5i9MVr5NqaVW4Xx2KHUUuaNEtbMqmmOIEYCrwx4EUYnH0XBi11X-jI4pUWNjE15nRU7QbFL2cdMIls">](https://music.youtube.com/watch?v=ubH0PJO7c0o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4UtTU10CtAyG5HfcmgX1OaIvd0C7wFlRGUn36W00O1RIZtp4piweXA-ctlKIoxwVV8u9RcCrwE-h3tgh">](https://music.youtube.com/watch?v=0x1mtZ16Qog)
 
-귀도 칸텔리 - Nocturnes, CD 98, L. 91: No. 1, Nuages
+Nicolas Horvath - Preludes, Book 2, L. 123: No. 5, Bruyères (1912 Version)
 
-**Albums**: Debussy: Nocturnes - Ravel: Daphnis et Chloé, Suite No. 2
+**Albums**: The Unknown Debussy: Rare Piano Music
 
-Last updated at 10/29/2022 23:32
+Last updated at 10/29/2022 23:38
 
 ## Badges
 
