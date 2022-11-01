@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=mkK9fbw8YWs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oKXISg-o7JU6SyCWqMjiM76yZVuZoKnNMyVExDfG8dRYuQ8FHiCU8Sga60Y6IF2Mg8xnMZxShZBu8R0w">](https://music.youtube.com/watch?v=nLnDm8t9Mng)
 
-세인트 빈센트 - Masseduction
+수프얀 스티븐스 - Fourth of July
 
-**Albums**: MASSEDUCTION
+**Albums**: Carrie & Lowell
 
-Last updated at 11/02/2022 07:02
+Last updated at 11/02/2022 07:04
 
 ## Badges
 
