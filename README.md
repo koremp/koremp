@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/y2ANg1Ono4oOfXdXH-S32LUUHwoAOj0jyEUgaLbHDune2-QixLln9S-GWg-tuL_vJKY7wLGajLgzilPQ">](https://music.youtube.com/watch?v=filVPlpbZxM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=iYDRg40UVko)
 
-세인트 빈센트 - Digital Witness
+세인트 빈센트 - Los Ageless
 
-**Albums**: St. Vincent (Deluxe Edition)
+**Albums**: MASSEDUCTION
 
-Last updated at 11/02/2022 20:10
+Last updated at 11/02/2022 20:13
 
 ## Badges
 
