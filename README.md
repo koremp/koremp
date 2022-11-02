@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oKXISg-o7JU6SyCWqMjiM76yZVuZoKnNMyVExDfG8dRYuQ8FHiCU8Sga60Y6IF2Mg8xnMZxShZBu8R0w">](https://music.youtube.com/watch?v=nLnDm8t9Mng)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x2aF7DgRCcroZKLTsHLI_5zhU1DGc21y04BTdfi3YY3Vwca97lnsQ0hIcF6EBDKhGMhYK4VKkqtuDLuT">](https://music.youtube.com/watch?v=stxr_FRszCI)
 
-수프얀 스티븐스 - Fourth of July
+지드래곤(G-DRAGON) - R.O.D.(feat. Lydia Paek)
 
-**Albums**: Carrie & Lowell
+**Albums**: 쿠데타 (COUP D'ETAT)
 
-Last updated at 11/02/2022 07:04
+Last updated at 11/02/2022 18:40
 
 ## Badges
 
