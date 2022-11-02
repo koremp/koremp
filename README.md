@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aVjgnTEYtXB5GV9RuF0KPr5QDeaoB0SzW85z8S0ja5P5Fvaa4CgSAy9KpHcz13rJRgfipgPjAkJwUxaT">](https://music.youtube.com/watch?v=6TlPWUsgdR4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aVjgnTEYtXB5GV9RuF0KPr5QDeaoB0SzW85z8S0ja5P5Fvaa4CgSAy9KpHcz13rJRgfipgPjAkJwUxaT">](https://music.youtube.com/watch?v=q5xkmr0og0U)
 
-지드래곤 (G-DRAGON) - Black(feat. 제니 of BLACKPINK)
+지드래곤 (G-DRAGON) - 니가 뭔데 (Who You?)
 
 **Albums**: COUP D'ETAT (Korean Version)
 
-Last updated at 11/02/2022 19:38
+Last updated at 11/02/2022 19:40
 
 ## Badges
 
