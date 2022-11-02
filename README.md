@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=iYDRg40UVko)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/wallowsmusic)
 
-세인트 빈센트 - Los Ageless
 
-**Albums**: MASSEDUCTION
+  
+    Wallows
+  
+  
+  
+    Wallows
+  
 
-Last updated at 11/02/2022 20:13
+
+
+
+  공식 아티스트 채널
+
+
+ - Wallows – These Days (Official Video)
+
+**Albums**: Not supported
+
+Last updated at 11/02/2022 20:29
 
 ## Badges
 
