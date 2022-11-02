@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iSR-azTKfy9CL43Oy7hX2MnoUNMJIvIWno5WiMtF3SXsUmu0KIoAwGFhLu9GiZti-romiqaU_OYZIzjM">](https://music.youtube.com/watch?v=nO7kym-d1_Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cx81M1qYOx3rLhw6uhPCFtOIrzTkaXTohPkd1Hw7f4yQUsAUohvkpIJZUioKZHctFP7C6ag5WFNwpg4m">](https://music.youtube.com/watch?v=L9RlqEn18dg)
 
-St. Vincent - Funkytown (From 'Minions: The Rise of Gru' Soundtrack)
+세인트 빈센트 - The Antidote
 
-**Albums**: Funkytown (From 'Minions: The Rise of Gru' Soundtrack)
+**Albums**: The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)
 
-Last updated at 11/02/2022 19:58
+Last updated at 11/02/2022 20:04
 
 ## Badges
 
