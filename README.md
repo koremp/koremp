@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cx81M1qYOx3rLhw6uhPCFtOIrzTkaXTohPkd1Hw7f4yQUsAUohvkpIJZUioKZHctFP7C6ag5WFNwpg4m">](https://music.youtube.com/watch?v=L9RlqEn18dg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8nYM43K9y0wpTVITHAKPwo50C802isR0qDxvTt9jvY6A_JXLcUt9eW7ZtbTFWyzz6C0ijfb5avsJQTk">](https://music.youtube.com/watch?v=k2UReACEn2w)
 
-세인트 빈센트 - The Antidote
+세인트 빈센트 - Fast Slow Disco
 
-**Albums**: The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)
+**Albums**: Fast Slow Disco
 
-Last updated at 11/02/2022 20:04
+Last updated at 11/02/2022 20:06
 
 ## Badges
 
