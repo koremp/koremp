@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aVjgnTEYtXB5GV9RuF0KPr5QDeaoB0SzW85z8S0ja5P5Fvaa4CgSAy9KpHcz13rJRgfipgPjAkJwUxaT">](https://music.youtube.com/watch?v=wj0SGgLsOcU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/d-yFk9S6gXZd2R3shehzVdZlZPbGLG4kYQih294CVOX1Ecr6mYFLGqeeRd5CT85ybo8KggjIW-SxhY3uTQ">](https://music.youtube.com/watch?v=uVo_xKDFUZ0)
 
-지드래곤 (G-DRAGON) - You Do (Outro)
+세인트 빈센트 및 Bon Iver - Rosyln
 
-**Albums**: COUP D'ETAT (Korean Version)
+**Albums**: The Twilight Saga: New Moon (Original Motion Picture Soundtrack) [Deluxe]
 
-Last updated at 11/02/2022 19:52
+Last updated at 11/02/2022 19:54
 
 ## Badges
 
