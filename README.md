@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EHLUxaNVCkKUhKMbGxzVp5mDoOuKA1jq1d3Ubd2fcQAaTaIuueA3hFSx9mO0feT0dn46ADLNQ0xzBKIGoA">](https://music.youtube.com/watch?v=U7rX_vJf85s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EHLUxaNVCkKUhKMbGxzVp5mDoOuKA1jq1d3Ubd2fcQAaTaIuueA3hFSx9mO0feT0dn46ADLNQ0xzBKIGoA">](https://music.youtube.com/watch?v=XNSmuTpzr8U)
 
-지드래곤 - One of a Kind
+지드래곤 - Missing You (Feat. Kim Yuna of Jaurim)
 
 **Albums**: One of a Kind
 
-Last updated at 11/02/2022 19:44
+Last updated at 11/02/2022 19:48
 
 ## Badges
 
