@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x2aF7DgRCcroZKLTsHLI_5zhU1DGc21y04BTdfi3YY3Vwca97lnsQ0hIcF6EBDKhGMhYK4VKkqtuDLuT">](https://music.youtube.com/watch?v=stxr_FRszCI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aVjgnTEYtXB5GV9RuF0KPr5QDeaoB0SzW85z8S0ja5P5Fvaa4CgSAy9KpHcz13rJRgfipgPjAkJwUxaT">](https://music.youtube.com/watch?v=6TlPWUsgdR4)
 
-지드래곤(G-DRAGON) - R.O.D.(feat. Lydia Paek)
+지드래곤 (G-DRAGON) - Black(feat. 제니 of BLACKPINK)
 
-**Albums**: 쿠데타 (COUP D'ETAT)
+**Albums**: COUP D'ETAT (Korean Version)
 
-Last updated at 11/02/2022 18:40
+Last updated at 11/02/2022 19:38
 
 ## Badges
 
