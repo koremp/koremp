@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8nYM43K9y0wpTVITHAKPwo50C802isR0qDxvTt9jvY6A_JXLcUt9eW7ZtbTFWyzz6C0ijfb5avsJQTk">](https://music.youtube.com/watch?v=k2UReACEn2w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/y2ANg1Ono4oOfXdXH-S32LUUHwoAOj0jyEUgaLbHDune2-QixLln9S-GWg-tuL_vJKY7wLGajLgzilPQ">](https://music.youtube.com/watch?v=filVPlpbZxM)
 
-세인트 빈센트 - Fast Slow Disco
+세인트 빈센트 - Digital Witness
 
-**Albums**: Fast Slow Disco
+**Albums**: St. Vincent (Deluxe Edition)
 
-Last updated at 11/02/2022 20:06
+Last updated at 11/02/2022 20:10
 
 ## Badges
 
