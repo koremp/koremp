@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/d-yFk9S6gXZd2R3shehzVdZlZPbGLG4kYQih294CVOX1Ecr6mYFLGqeeRd5CT85ybo8KggjIW-SxhY3uTQ">](https://music.youtube.com/watch?v=uVo_xKDFUZ0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iSR-azTKfy9CL43Oy7hX2MnoUNMJIvIWno5WiMtF3SXsUmu0KIoAwGFhLu9GiZti-romiqaU_OYZIzjM">](https://music.youtube.com/watch?v=nO7kym-d1_Y)
 
-세인트 빈센트 및 Bon Iver - Rosyln
+St. Vincent - Funkytown (From 'Minions: The Rise of Gru' Soundtrack)
 
-**Albums**: The Twilight Saga: New Moon (Original Motion Picture Soundtrack) [Deluxe]
+**Albums**: Funkytown (From 'Minions: The Rise of Gru' Soundtrack)
 
-Last updated at 11/02/2022 19:54
+Last updated at 11/02/2022 19:58
 
 ## Badges
 
