@@ -2,15 +2,15 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/StVincentOfficial)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/bomsori)
 
 
   
-    St. Vincent
+    Bomsori 김봄소리
   
   
   
-    St. Vincent
+    Bomsori 김봄소리
   
 
 
@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - St. Vincent - Masseduction
+ - 차이코프스키 바이올린 협주곡 D장조 작품 35 - 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 11/03/2022 20:50
+Last updated at 11/03/2022 20:54
 
 ## Badges
 
