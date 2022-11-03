@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/geyAsxko87s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=geyAsxko87s)
 
+SBS Radio 에라오 - [LIVE] 김성철, 고은성 - 놈의 마음 속으로(Playing His Game) | 뮤지컬 '데스노트' | 두시탈출 컬투쇼
 
-  
-    하현상 HA HYUN SANG
-  
-  
-  
-    하현상 HA HYUN SANG
-  
+**Albums**: 조회수 71만회
 
-
-
-
-  공식 아티스트 채널
-
-
- - [Playlist] Cover by 하현상 모음 | 2020.05 ~ 2021.12
-
-**Albums**: Not supported
-
-Last updated at 11/02/2022 22:49
+Last updated at 11/03/2022 16:09
 
 ## Badges
 
