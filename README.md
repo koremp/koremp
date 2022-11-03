@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - 차이코프스키 바이올린 협주곡 D장조 작품 35 - 김봄소리
+ - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 11/03/2022 20:54
+Last updated at 11/03/2022 21:00
 
 ## Badges
 
