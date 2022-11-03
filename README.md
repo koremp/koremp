@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/geyAsxko87s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=geyAsxko87s)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/nniuBJHJoAM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=nniuBJHJoAM)
 
-SBS Radio 에라오 - [LIVE] 김성철, 고은성 - 놈의 마음 속으로(Playing His Game) | 뮤지컬 '데스노트' | 두시탈출 컬투쇼
+김한소휘 - [한글자막] 다카라즈카 [엘리자벳-마지막 춤] 1996 설조 이치로마키, 하나후사마리
 
-**Albums**: 조회수 71만회
+**Albums**: 조회수 23만회
 
-Last updated at 11/03/2022 16:09
+Last updated at 11/03/2022 16:11
 
 ## Badges
 
