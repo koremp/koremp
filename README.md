@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - St. Vincent & Dua Lipa | Masseduction / One Kiss | 2019 GRAMMYs
+ - St. Vincent - Masseduction
 
 **Albums**: Not supported
 
-Last updated at 11/03/2022 20:48
+Last updated at 11/03/2022 20:50
 
 ## Badges
 
