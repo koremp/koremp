@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/nniuBJHJoAM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=nniuBJHJoAM)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/bomsori)
 
-김한소휘 - [한글자막] 다카라즈카 [엘리자벳-마지막 춤] 1996 설조 이치로마키, 하나후사마리
 
-**Albums**: 조회수 23만회
+  
+    Bomsori 김봄소리
+  
+  
+  
+    Bomsori 김봄소리
+  
 
-Last updated at 11/03/2022 16:11
+
+
+
+  공식 아티스트 채널
+
+
+ - 차이코프스키 바이올린 협주곡 D장조 작품 35 - 김봄소리
+
+**Albums**: Not supported
+
+Last updated at 11/03/2022 20:12
 
 ## Badges
 
