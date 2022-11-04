@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/bomsori)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=zQFAqoaUdAI)
 
+세인트 빈센트 - Hang On Me
 
-  
-    Bomsori 김봄소리
-  
-  
-  
-    Bomsori 김봄소리
-  
+**Albums**: MASSEDUCTION
 
-
-
-
-  공식 아티스트 채널
-
-
- - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
-
-**Albums**: Not supported
-
-Last updated at 11/03/2022 21:00
+Last updated at 11/04/2022 14:51
 
 ## Badges
 
