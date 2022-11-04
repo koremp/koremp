@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=zQFAqoaUdAI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=iJb4I350VYQ)
 
-세인트 빈센트 - Hang On Me
+세인트 빈센트 - Pills
 
 **Albums**: MASSEDUCTION
 
-Last updated at 11/04/2022 14:51
+Last updated at 11/04/2022 14:53
 
 ## Badges
 
