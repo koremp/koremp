@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/avi3JGO1O6IxMWeJ0ifzCAfZke0i0xRZ-5oU0XioNFH9UzVo3M-R7Eh45zI2vIyVF9DRE48iIqc254OD">](https://music.youtube.com/watch?v=hOIzYnZJ9Qg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pELi2BJDTQZiXJ5jGSPjGk-HXnl4uXQzc-2lWdJa05tNkKQyxji7tNVrJfOrRTr_bRN6JKs7GLafeow">](https://music.youtube.com/watch?v=5rkXYm-JEQQ)
 
-Berlin Philharmonic - 말러: 교향곡 5번 올림 다단조: 5. Rondo-Finale (Allegro)
+조성진 - Debussy: Suite bergamasque, L. 75 - 1. Prélude
 
-**Albums**: Mahler: Symphony No.5
+**Albums**: Debussy
 
-Last updated at 11/04/2022 18:47
+Last updated at 11/04/2022 21:46
 
 ## Badges
 
