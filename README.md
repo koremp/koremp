@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=mkK9fbw8YWs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=RipHZ3Y-hys)
 
-세인트 빈센트 - Masseduction
+세인트 빈센트 - Sugarboy
 
 **Albums**: MASSEDUCTION
 
-Last updated at 11/04/2022 14:59
+Last updated at 11/04/2022 15:01
 
 ## Badges
 
