@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=9Dcn1gIl2Co)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=S38VeMw_zhk)
 
-세인트 빈센트 - Happy Birthday, Johnny
+세인트 빈센트 - Savior
 
 **Albums**: MASSEDUCTION
 
-Last updated at 11/04/2022 15:11
+Last updated at 11/04/2022 15:13
 
 ## Badges
 
