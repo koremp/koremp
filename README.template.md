@@ -22,7 +22,11 @@ im.koremp@gmail.com
 
 ### About Programming
 
-Jr Web Front-end Software Engineer
+Junior Web Front-end Software Engineer
+
+React.js, JavaScript, TyepScript, Python
+
+Learning Vim
 
 ### Military Service
 
