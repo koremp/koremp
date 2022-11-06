@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pELi2BJDTQZiXJ5jGSPjGk-HXnl4uXQzc-2lWdJa05tNkKQyxji7tNVrJfOrRTr_bRN6JKs7GLafeow">](https://music.youtube.com/watch?v=5rkXYm-JEQQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/RyuichiSakamotoArchive)
 
-조성진 - Debussy: Suite bergamasque, L. 75 - 1. Prélude
 
-**Albums**: Debussy
+  
+    Ryuichi Sakamoto
+  
+  
+  
+    Ryuichi Sakamoto
+  
 
-Last updated at 11/04/2022 21:46
+
+
+
+  공식 아티스트 채널
+
+
+ - Ryuichi Sakamoto: Playing the Piano for the Isolated
+
+**Albums**: Not supported
+
+Last updated at 11/06/2022 15:27
 
 ## Badges
 
@@ -22,7 +37,11 @@ im.koremp@gmail.com
 
 ### About Programming
 
-Jr Web Front-end Software Engineer
+Junior Web Front-end Software Engineer
+
+React.js, JavaScript, TyepScript, Python
+
+Learning Vim
 
 ### Military Service
 
