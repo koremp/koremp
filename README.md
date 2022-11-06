@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WxXWRhKhdXHhH48Dkd1kx-wfxrrw992APe4PD_qYEz9b7FCPG3LjoT6CpkaBb6muHFxCuER_Fomjp5tm">](https://music.youtube.com/watch?v=GIfa9Y4vxi8)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/BenLappsMusic)
 
-Bruno Mars 및 Cardi B - Finesse (Remix)
 
-**Albums**: Finesse (Remix)
+  
+    Ben Lapps
+  
+  
+  
+    Ben Lapps
+  
 
-Last updated at 11/06/2022 18:01
+
+
+
+  공식 아티스트 채널
+
+
+ - Ben Lapps - Phunkdified (Justin King)
+
+**Albums**: Not supported
+
+Last updated at 11/06/2022 22:01
 
 ## Badges
 
