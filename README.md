@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/RyuichiSakamotoArchive)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WxXWRhKhdXHhH48Dkd1kx-wfxrrw992APe4PD_qYEz9b7FCPG3LjoT6CpkaBb6muHFxCuER_Fomjp5tm">](https://music.youtube.com/watch?v=GIfa9Y4vxi8)
 
+Bruno Mars 및 Cardi B - Finesse (Remix)
 
-  
-    Ryuichi Sakamoto
-  
-  
-  
-    Ryuichi Sakamoto
-  
+**Albums**: Finesse (Remix)
 
-
-
-
-  공식 아티스트 채널
-
-
- - Ryuichi Sakamoto: Playing the Piano for the Isolated
-
-**Albums**: Not supported
-
-Last updated at 11/06/2022 15:27
+Last updated at 11/06/2022 18:01
 
 ## Badges
 
