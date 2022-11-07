@@ -2,15 +2,15 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/BenLappsMusic)
+[<img align="left" width="100" src="">](https://www.youtube.com/c/bomsori)
 
 
   
-    Ben Lapps
+    Bomsori 김봄소리
   
   
   
-    Ben Lapps
+    Bomsori 김봄소리
   
 
 
@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - Ben Lapps - Phunkdified (Justin King)
+ - 생상 서주와 론도 카프리치오소, 작품 28 - 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 11/06/2022 22:01
+Last updated at 11/07/2022 17:08
 
 ## Badges
 
