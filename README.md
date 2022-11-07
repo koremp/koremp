@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/bomsori)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kImu1IyhAmYivCh4qNUfP0fp8BD_lphZqndKij6dk232TGx3Qqh1OAFKBACNBpHkDBh9OYOf36oPTiwC">](https://music.youtube.com/watch?v=iQyH7OUwT8k)
 
+엠마누엘 크리빈 - La Mer, L. 111a: II. Jeux de vagues
 
-  
-    Bomsori 김봄소리
-  
-  
-  
-    Bomsori 김봄소리
-  
+**Albums**: Debussy: La Mer, Images
 
-
-
-
-  공식 아티스트 채널
-
-
- - 차이콥스키 명상곡 - 김봄소리
-
-**Albums**: Not supported
-
-Last updated at 11/07/2022 17:18
+Last updated at 11/07/2022 17:44
 
 ## Badges
 
