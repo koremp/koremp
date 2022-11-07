@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - 생상 서주와 론도 카프리치오소, 작품 28 - 김봄소리
+ - 차이콥스키 명상곡 - 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 11/07/2022 17:08
+Last updated at 11/07/2022 17:18
 
 ## Badges
 
