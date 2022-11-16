@@ -2,15 +2,15 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/c/bomsori)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
 
 
   
-    Bomsori 김봄소리
+    Ryuichi Sakamoto
   
   
   
-    Bomsori 김봄소리
+    Ryuichi Sakamoto
   
 
 
@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - 차이코프스키 바이올린 협주곡 D장조 작품 35 - 김봄소리
+ - Merry Christmas Mr. Lawrence
 
 **Albums**: Not supported
 
-Last updated at 11/14/2022 23:11
+Last updated at 11/16/2022 19:33
 
 ## Badges
 
