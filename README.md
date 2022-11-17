@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IdlDqy9wDmsQDsyyF_DhLLVj5AVFqWJTPIrqq6iFeERq1SOUnxHbg4enu4H3QtX2IrkLG6MDWETQMCDc">](https://music.youtube.com/watch?v=W1hyEjZros8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IdlDqy9wDmsQDsyyF_DhLLVj5AVFqWJTPIrqq6iFeERq1SOUnxHbg4enu4H3QtX2IrkLG6MDWETQMCDc">](https://music.youtube.com/watch?v=dCesnVQkUSk)
 
-크리스티안 지메르만 - Ravel: Piano Concerto in G Major, M. 83 - 2. Adagio assai
+크리스티안 지메르만 - Ravel: Piano Concerto in G Major, M. 83 - 1. Allegramente
 
 **Albums**: Ravel: Piano Concertos; Valses nobles et sentimentales
 
-Last updated at 11/17/2022 17:52
+Last updated at 11/17/2022 17:54
 
 ## Badges
 
