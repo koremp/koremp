@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=yk-gfjafvM8)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCsFQJXL5lSFURgj2ux0wwWQ)
 
-Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Tchaikovsky: 차이콥스키: 호두까기 인형, Op. 71, TH 14 - 파드되 (Arr. Rot for Violin and Orchestra)
 
-**Albums**: Violin on Stage
+  
+    Lang Lang
+  
+  
+  
+    Lang Lang
+  
 
-Last updated at 11/17/2022 20:31
+
+
+
+  공식 아티스트 채널
+
+
+ - Sakamoto: Merry Christmas Mr. Lawrence (Arr. for Piano)
+
+**Albums**: Not supported
+
+Last updated at 11/18/2022 02:08
 
 ## Badges
 
