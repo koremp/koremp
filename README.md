@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=vdSpDfCgLBo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=yk-gfjafvM8)
 
-Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Wieniawski: 비에니아프스키: 화려한 폴로네이즈, Op. 4 (Orch. Kornowicz)
+Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Tchaikovsky: 차이콥스키: 호두까기 인형, Op. 71, TH 14 - 파드되 (Arr. Rot for Violin and Orchestra)
 
 **Albums**: Violin on Stage
 
-Last updated at 11/17/2022 20:25
+Last updated at 11/17/2022 20:31
 
 ## Badges
 
