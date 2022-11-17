@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DHR1iG6AjQST6VXoJ4r5nwhKbpohtkLYgI8nB0P7RQBRrgRGSs_yFF1d26F6aKENrKXX4-igYkA-lykn">](https://music.youtube.com/watch?v=mxzua8SKOi4)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
-RY X - Let You Go
 
-**Albums**: Blood Moon
+  
+    Bomsori 김봄소리
+  
+  
+  
+    Bomsori 김봄소리
+  
 
-Last updated at 11/17/2022 16:28
+
+
+
+  공식 아티스트 채널
+
+
+ - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
+
+**Albums**: Not supported
+
+Last updated at 11/17/2022 16:34
 
 ## Badges
 
