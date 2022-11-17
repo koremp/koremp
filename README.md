@@ -2,15 +2,15 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCsFQJXL5lSFURgj2ux0wwWQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
 
 
   
-    Lang Lang
+    Ryuichi Sakamoto
   
   
   
-    Lang Lang
+    Ryuichi Sakamoto
   
 
 
@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - Sakamoto: Merry Christmas Mr. Lawrence (Arr. for Piano)
+ - Suite for Krug in 2008 (Sans Interludes)
 
 **Albums**: Not supported
 
-Last updated at 11/18/2022 02:08
+Last updated at 11/18/2022 02:14
 
 ## Badges
 
