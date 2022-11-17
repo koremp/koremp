@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DHR1iG6AjQST6VXoJ4r5nwhKbpohtkLYgI8nB0P7RQBRrgRGSs_yFF1d26F6aKENrKXX4-igYkA-lykn">](https://music.youtube.com/watch?v=mxzua8SKOi4)
 
+RY X - Let You Go
 
-  
-    Ryuichi Sakamoto
-  
-  
-  
-    Ryuichi Sakamoto
-  
+**Albums**: Blood Moon
 
-
-
-
-  공식 아티스트 채널
-
-
- - Merry Christmas Mr. Lawrence
-
-**Albums**: Not supported
-
-Last updated at 11/16/2022 19:33
+Last updated at 11/17/2022 16:28
 
 ## Badges
 
