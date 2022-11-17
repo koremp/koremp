@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CvBXp6jxtJcbnPJTBCvrUx82KtLtfkgOZ9fdsobFANuOU9s7U6JjdSdxhOhUmqdRR_9C-g5EEejbLIsS">](https://music.youtube.com/watch?v=1wKfy-gQGpw)
 
+Jacob Koller - Merry Christmas Mr. Lawrence
 
-  
-    Bomsori 김봄소리
-  
-  
-  
-    Bomsori 김봄소리
-  
+**Albums**: EVERGREEN
 
-
-
-
-  공식 아티스트 채널
-
-
- - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
-
-**Albums**: Not supported
-
-Last updated at 11/17/2022 16:34
+Last updated at 11/17/2022 17:50
 
 ## Badges
 
