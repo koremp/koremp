@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IxUjjLEzLb7milQO_8WPoM2af_ojbLQA2slmsb9Yk21_FSaR0vapc9MThVWRPS8N7_XJjFvTLB2AnpAG">](https://music.youtube.com/watch?v=uDqsmkoKGUs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=vdSpDfCgLBo)
 
-엔믹스 - 안녕 개비!
+Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Wieniawski: 비에니아프스키: 화려한 폴로네이즈, Op. 4 (Orch. Kornowicz)
 
-**Albums**: 개비의 매직하우스 X NMIXX (Original Soundtrack)
+**Albums**: Violin on Stage
 
-Last updated at 11/18/2022 17:50
+Last updated at 11/18/2022 17:52
 
 ## Badges
 
