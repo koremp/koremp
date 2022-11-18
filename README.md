@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/u-eBWpU3clMsJcyy_n9neEU_XoQyO9DZw7clvcb2RXsTa1n5dPB14ixxYy5HzB-S9nBWxfm9nSugbW8">](https://music.youtube.com/watch?v=8wCuNnlk50k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9QDp6gHp7Of_b0Yyo_ASkN4N4246NzYn_9mewcAy73AqcSaRnfAzkJiIlMV3P-UJCuTa3fYx9ZVMUo07">](https://music.youtube.com/watch?v=eLJKQg0Wv6U)
 
-NMIXX - TANK
+NMIXX - Kiss
 
-**Albums**: AD MARE
+**Albums**: Kiss
 
-Last updated at 11/18/2022 17:44
+Last updated at 11/18/2022 17:46
 
 ## Badges
 
