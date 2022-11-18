@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=VaSIb6am3so)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=IcwDyzRB_b8)
 
-Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Waxman: 왁스만: 카르멘 환상곡
+Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Gluck: 글루크: 오르페오와 에우리디체, Wq. 30 - 정령들의 춤 (Arr. Rot for Violin and Orchestra)
 
 **Albums**: Violin on Stage
 
-Last updated at 11/18/2022 18:04
+Last updated at 11/18/2022 18:14
 
 ## Badges
 
