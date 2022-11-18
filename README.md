@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=IcwDyzRB_b8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=5G2Oa3s94IY)
 
-Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Gluck: 글루크: 오르페오와 에우리디체, Wq. 30 - 정령들의 춤 (Arr. Rot for Violin and Orchestra)
+Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Saint-Saëns: 생상스: 서주와 론도 카프리치오소, Op.28, R. 188 - I. Introduction
 
 **Albums**: Violin on Stage
 
-Last updated at 11/18/2022 18:14
+Last updated at 11/18/2022 18:17
 
 ## Badges
 
