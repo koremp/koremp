@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9QDp6gHp7Of_b0Yyo_ASkN4N4246NzYn_9mewcAy73AqcSaRnfAzkJiIlMV3P-UJCuTa3fYx9ZVMUo07">](https://music.youtube.com/watch?v=eLJKQg0Wv6U)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IxUjjLEzLb7milQO_8WPoM2af_ojbLQA2slmsb9Yk21_FSaR0vapc9MThVWRPS8N7_XJjFvTLB2AnpAG">](https://music.youtube.com/watch?v=uDqsmkoKGUs)
 
-NMIXX - Kiss
+엔믹스 - 안녕 개비!
 
-**Albums**: Kiss
+**Albums**: 개비의 매직하우스 X NMIXX (Original Soundtrack)
 
-Last updated at 11/18/2022 17:46
+Last updated at 11/18/2022 17:50
 
 ## Badges
 
