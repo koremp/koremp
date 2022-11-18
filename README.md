@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=yk-gfjafvM8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Idnz715panYoiDX3dN_3D-et1zs6pwL8lxRM-3lpxm3Tig7VszKFwPXq4ZeV_QT_AJiNDVc8XIZZ-wXTBw">](https://music.youtube.com/watch?v=VaSIb6am3so)
 
-Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Tchaikovsky: 차이콥스키: 호두까기 인형, Op. 71, TH 14 - 파드되 (Arr. Rot for Violin and Orchestra)
+Bomsori, NFM Wrocław Philharmonic 및 Giancarlo Guerrero - Waxman: 왁스만: 카르멘 환상곡
 
 **Albums**: Violin on Stage
 
-Last updated at 11/18/2022 17:58
+Last updated at 11/18/2022 18:04
 
 ## Badges
 
