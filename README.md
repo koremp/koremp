@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/u-eBWpU3clMsJcyy_n9neEU_XoQyO9DZw7clvcb2RXsTa1n5dPB14ixxYy5HzB-S9nBWxfm9nSugbW8">](https://music.youtube.com/watch?v=P8W4p5UIfqA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vKFS34qRlbpWEBjRPwKtpr-E9GuO7FSPBPnFeohyOrEUZpTwGbXO8WnWvPGxCmwhNHZ_Od76jstQ5-Az">](https://music.youtube.com/watch?v=PluoENBB_3s)
 
-NMIXX - O.O
+NMIXX - COOL (Your rainbow)
 
-**Albums**: AD MARE
+**Albums**: ENTWURF
 
-Last updated at 11/18/2022 17:38
+Last updated at 11/18/2022 17:40
 
 ## Badges
 
