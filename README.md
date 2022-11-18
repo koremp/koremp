@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vKFS34qRlbpWEBjRPwKtpr-E9GuO7FSPBPnFeohyOrEUZpTwGbXO8WnWvPGxCmwhNHZ_Od76jstQ5-Az">](https://music.youtube.com/watch?v=WX-9EL7fqdg)
 
+NMIXX - DICE
 
-  
-    Ryuichi Sakamoto
-  
-  
-  
-    Ryuichi Sakamoto
-  
+**Albums**: ENTWURF
 
-
-
-
-  공식 아티스트 채널
-
-
- - Suite for Krug in 2008 (Sans Interludes)
-
-**Albums**: Not supported
-
-Last updated at 11/18/2022 02:14
+Last updated at 11/18/2022 17:34
 
 ## Badges
 
