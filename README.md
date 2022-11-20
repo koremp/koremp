@@ -2,25 +2,28 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCz8sbSQbr-49xtmGsc1uYMg)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
 
   
-    Víkingur Ólafsson
+    Bomsori 김봄소리
   
   
   
-    Víkingur Ólafsson
+    Bomsori 김봄소리
   
 
 
 
 
- - Rameau, Ólafsson: The Arts and the Hours
+  공식 아티스트 채널
+
+
+ - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 11/20/2022 13:33
+Last updated at 11/20/2022 13:41
 
 ## Badges
 
