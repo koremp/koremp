@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QzZ-WtnAk1-5NKhHT-KKhABwpsq88BLgW-g8YcmOB3LIEEAy11WtSOsKPelfBbq4LJ3DbQwa_obesICk">](https://music.youtube.com/watch?v=3skZLJiyk9k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ovliqKLKC869hmw_yC7-Tki1aKnhowp5Ne2Grx7bYV2B18VZUh7nTFnIDHfLWbz3X6YihUs8kfg82GQ">](https://music.youtube.com/watch?v=HCv86jWOsKc)
 
-David Guetta(데이빗 게타) - Say My Name(feat. Bebe Rexha(비비 렉사), J Balvin(제이 발빈))
+LSD - Genius(feat. Labrinth, Sia(시아), Diplo)
 
-**Albums**: 7
+**Albums**: Genius
 
-Last updated at 11/22/2022 11:02
+Last updated at 11/22/2022 11:04
 
 ## Badges
 
