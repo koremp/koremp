@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ovliqKLKC869hmw_yC7-Tki1aKnhowp5Ne2Grx7bYV2B18VZUh7nTFnIDHfLWbz3X6YihUs8kfg82GQ">](https://music.youtube.com/watch?v=HCv86jWOsKc)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
-LSD - Genius(feat. Labrinth, Sia(시아), Diplo)
 
-**Albums**: Genius
+  
+    Bomsori 김봄소리
+  
+  
+  
+    Bomsori 김봄소리
+  
 
-Last updated at 11/22/2022 11:04
+
+
+
+  공식 아티스트 채널
+
+
+ - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
+
+**Albums**: Not supported
+
+Last updated at 11/22/2022 11:06
 
 ## Badges
 
