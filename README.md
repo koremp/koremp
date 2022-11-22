@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QzZ-WtnAk1-5NKhHT-KKhABwpsq88BLgW-g8YcmOB3LIEEAy11WtSOsKPelfBbq4LJ3DbQwa_obesICk">](https://music.youtube.com/watch?v=3skZLJiyk9k)
 
+David Guetta(데이빗 게타) - Say My Name(feat. Bebe Rexha(비비 렉사), J Balvin(제이 발빈))
 
-  
-    Bomsori 김봄소리
-  
-  
-  
-    Bomsori 김봄소리
-  
+**Albums**: 7
 
-
-
-
-  공식 아티스트 채널
-
-
- - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
-
-**Albums**: Not supported
-
-Last updated at 11/22/2022 07:02
+Last updated at 11/22/2022 11:02
 
 ## Badges
 
