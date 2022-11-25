@@ -2,15 +2,15 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCe977uHUX9NRCmc1y6Ogs0Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
 
   
-    이랑 Lang Lee
+    Bomsori 김봄소리
   
   
   
-    이랑 Lang Lee
+    Bomsori 김봄소리
   
 
 
@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - 박강아름
+ - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 11/25/2022 10:49
+Last updated at 11/25/2022 10:51
 
 ## Badges
 
