@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=MtLHwqbE1eI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=yxvSVPeBPfM)
 
-RADWIMPS(래드윔프스) - Dream lantern
+RADWIMPS(래드윔프스) - Itomori high school
 
 **Albums**: Your Name.
 
-Last updated at 11/25/2022 11:49
+Last updated at 11/25/2022 11:51
 
 ## Badges
 
