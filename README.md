@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6cJtTw4ovCRflBzXbvCwba_w-wuG-M5dzaNccl9Hi5SESJiUu6Fq-HI13xHE7tx9N3um6Oa8j5HBV7SS2g">](https://music.youtube.com/watch?v=KV01m8qzP9k)
 
+Son Lux - Very Busy
 
-  
-    Bomsori 김봄소리
-  
-  
-  
-    Bomsori 김봄소리
-  
+**Albums**: Everything Everywhere All at Once (Original Motion Picture Soundtrack)
 
-
-
-
-  공식 아티스트 채널
-
-
- - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
-
-**Albums**: Not supported
-
-Last updated at 11/22/2022 11:06
+Last updated at 11/25/2022 10:25
 
 ## Badges
 
