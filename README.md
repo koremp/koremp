@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@gem)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=rfMdWIr6lgQ)
 
+Evan Rachel Wood - All Is Found
 
-  
-    GEM鄧紫棋
-  
-  
-  
-    GEM鄧紫棋
-  
+**Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
 
-
-
-
-  공식 아티스트 채널
-
-
- - G.E.M.【光年之外 LIGHT YEARS AWAY 】MV (電影《太空潛航者 Passengers》中文主題曲) [HD] 鄧紫棋
-
-**Albums**: Not supported
-
-Last updated at 11/25/2022 10:57
+Last updated at 11/25/2022 11:05
 
 ## Badges
 
