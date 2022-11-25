@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=802JqoN0QLg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=90x7DQ8KqFA)
 
-Josh Gad - Unmeltable Me (Outtake)
+조너선 그로프 및 Kristen Bell(크리스틴 벨) - Get This Right (Outtake)
 
 **Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
 
-Last updated at 11/25/2022 11:45
+Last updated at 11/25/2022 11:47
 
 ## Badges
 
