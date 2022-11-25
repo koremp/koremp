@@ -2,15 +2,15 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
+[<img align="left" width="100" src="">](https://www.youtube.com/@gem)
 
 
   
-    Bomsori 김봄소리
+    GEM鄧紫棋
   
   
   
-    Bomsori 김봄소리
+    GEM鄧紫棋
   
 
 
@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
+ - G.E.M.【光年之外 LIGHT YEARS AWAY 】MV (電影《太空潛航者 Passengers》中文主題曲) [HD] 鄧紫棋
 
 **Albums**: Not supported
 
-Last updated at 11/25/2022 10:51
+Last updated at 11/25/2022 10:57
 
 ## Badges
 
