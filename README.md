@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6cJtTw4ovCRflBzXbvCwba_w-wuG-M5dzaNccl9Hi5SESJiUu6Fq-HI13xHE7tx9N3um6Oa8j5HBV7SS2g">](https://music.youtube.com/watch?v=DScHXJX9Gcs)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCe977uHUX9NRCmc1y6Ogs0Q)
 
-Son Lux - Vvvery Busy
 
-**Albums**: Everything Everywhere All at Once (Original Motion Picture Soundtrack)
+  
+    이랑 Lang Lee
+  
+  
+  
+    이랑 Lang Lee
+  
 
-Last updated at 11/25/2022 10:31
+
+
+
+  공식 아티스트 채널
+
+
+ - 박강아름
+
+**Albums**: Not supported
+
+Last updated at 11/25/2022 10:49
 
 ## Badges
 
