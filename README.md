@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=hUcrAG1dI98)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=2qPlX1FMJXI)
 
-Kristen Bell(크리스틴 벨), Idina Menzel(이디나 멘젤), Josh Gad, 조너선 그로프 및 Cast of Frozen 2 - Some Things Never Change
+Idina Menzel(이디나 멘젤) 및 AURORA	 - Into the Unknown
 
 **Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
 
-Last updated at 11/25/2022 11:07
+Last updated at 11/25/2022 11:11
 
 ## Badges
 
