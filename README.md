@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=azQ6mj_iH70)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=-TkkmJXNa5Y)
 
-Kristen Bell(크리스틴 벨) - Home (Outtake)
+크리스틴 앤더슨 로페즈 및 Patti Murin - I Seek the Truth (Outtake)
 
 **Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
 
-Last updated at 11/25/2022 11:39
+Last updated at 11/25/2022 11:41
 
 ## Badges
 
