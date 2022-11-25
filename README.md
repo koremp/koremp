@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=90x7DQ8KqFA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=MtLHwqbE1eI)
 
-조너선 그로프 및 Kristen Bell(크리스틴 벨) - Get This Right (Outtake)
+RADWIMPS(래드윔프스) - Dream lantern
 
-**Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
+**Albums**: Your Name.
 
-Last updated at 11/25/2022 11:47
+Last updated at 11/25/2022 11:49
 
 ## Badges
 
