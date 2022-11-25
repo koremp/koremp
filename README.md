@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=7noPeO5sKHA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=AjRkny1Ey5s)
 
-Idina Menzel(이디나 멘젤) 및 Evan Rachel Wood - Show Yourself
+Kristen Bell(크리스틴 벨) - The Next Right Thing
 
 **Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
 
-Last updated at 11/25/2022 11:19
+Last updated at 11/25/2022 11:23
 
 ## Badges
 
