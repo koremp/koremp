@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=AjRkny1Ey5s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=8bwRXzXJYLs)
 
-Kristen Bell(크리스틴 벨) - The Next Right Thing
+Panic! At The Disco(패닉 앳 더 디스코) - Into the Unknown (Panic! At The Disco Version)
 
 **Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
 
-Last updated at 11/25/2022 11:23
+Last updated at 11/25/2022 11:27
 
 ## Badges
 
