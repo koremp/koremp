@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=yxvSVPeBPfM)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC8iYzcnKRGKxYuMyZCaMt4g)
 
-RADWIMPS(래드윔프스) - Itomori high school
 
-**Albums**: Your Name.
+  
+    Son Lux
+  
+  
+  
+    Son Lux
+  
 
-Last updated at 11/25/2022 11:51
+
+
+
+  공식 아티스트 채널
+
+
+ - This Is A Life (Extended)
+
+**Albums**: Not supported
+
+Last updated at 11/27/2022 14:59
 
 ## Badges
 
