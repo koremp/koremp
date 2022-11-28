@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC8iYzcnKRGKxYuMyZCaMt4g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/reswFiRRl6Gb6qtOUErImq7feFUuFIPc2_AQX5-osYJgciLI12pLlf5WtknrDUCT2dvPTyzBd5tNfe51">](https://music.youtube.com/watch?v=7rDiJrxM548)
 
+임윤찬, 광주시립교향악단 및 홍석원 - I. Allegro (Live)
 
-  
-    Son Lux
-  
-  
-  
-    Son Lux
-  
+**Albums**: 베토벤, 윤이상, 바버
 
-
-
-
-  공식 아티스트 채널
-
-
- - This Is A Life (Extended)
-
-**Albums**: Not supported
-
-Last updated at 11/27/2022 14:59
+Last updated at 11/29/2022 01:51
 
 ## Badges
 
