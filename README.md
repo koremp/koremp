@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/reswFiRRl6Gb6qtOUErImq7feFUuFIPc2_AQX5-osYJgciLI12pLlf5WtknrDUCT2dvPTyzBd5tNfe51">](https://music.youtube.com/watch?v=7rDiJrxM548)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
-임윤찬, 광주시립교향악단 및 홍석원 - I. Allegro (Live)
 
-**Albums**: 베토벤, 윤이상, 바버
+  
+    Bomsori 김봄소리
+  
+  
+  
+    Bomsori 김봄소리
+  
 
-Last updated at 11/29/2022 01:51
+
+
+
+  공식 아티스트 채널
+
+
+ - 차이코프스키 바이올린 협주곡 D장조 작품 35 - 김봄소리
+
+**Albums**: Not supported
+
+Last updated at 11/30/2022 02:21
 
 ## Badges
 
