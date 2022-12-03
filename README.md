@@ -2,15 +2,15 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/@Yoshiki)
 
 
   
-    Alan Walker
+    Yoshiki
   
   
   
-    Alan Walker
+    Yoshiki
   
 
 
@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - All Falls Down
+ - X Japan Endless Rain from "The Last Live" HD
 
 **Albums**: Not supported
 
-Last updated at 12/02/2022 12:37
+Last updated at 12/03/2022 15:16
 
 ## Badges
 
