@@ -2,15 +2,15 @@
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@Yoshiki)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
 
   
-    Yoshiki
+    Bomsori 김봄소리
   
   
   
-    Yoshiki
+    Bomsori 김봄소리
   
 
 
@@ -19,11 +19,11 @@
   공식 아티스트 채널
 
 
- - X Japan Endless Rain from "The Last Live" HD
+ - 브람스 바이올린 협주곡 라장조, 작품 77 - 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 12/03/2022 15:16
+Last updated at 12/03/2022 15:27
 
 ## Badges
 
