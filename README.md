@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GF6bCFPtWQu9zdm_hoD2kD58QVpAaptrnstXA4YUCNv5ZlHVj1HiIkuivF84CmB7Epz2jLgklEjUuYo">](https://music.youtube.com/watch?v=Uo9KiI3RFFo)
 
+정경화 - Tchaikovsky: Violin Concerto in D Major, Op. 35, TH 59 - 1. Allegro moderato
 
-  
-    Bomsori 김봄소리
-  
-  
-  
-    Bomsori 김봄소리
-  
+**Albums**: Tchaikovsky/Sibelius: Violin Concertos
 
-
-
-
-  공식 아티스트 채널
-
-
- - 차이코프스키 바이올린 협주곡 D장조 작품 35 - 김봄소리
-
-**Albums**: Not supported
-
-Last updated at 12/07/2022 11:59
+Last updated at 12/08/2022 05:38
 
 ## Badges
 
