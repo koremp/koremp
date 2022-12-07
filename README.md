@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GF6bCFPtWQu9zdm_hoD2kD58QVpAaptrnstXA4YUCNv5ZlHVj1HiIkuivF84CmB7Epz2jLgklEjUuYo">](https://music.youtube.com/watch?v=Uo9KiI3RFFo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-gnrXQqFKZ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-gnrXQqFKZ4)
 
-정경화 - Tchaikovsky: Violin Concerto in D Major, Op. 35, TH 59 - 1. Allegro moderato
+Classical Vault 1 - Bruckner - Symphony No. 3 in D minor - 2 Adagio - Celibidache
 
-**Albums**: Tchaikovsky/Sibelius: Violin Concertos
+**Albums**: 조회수 2.5만회
 
-Last updated at 12/08/2022 05:38
+Last updated at 12/08/2022 05:40
 
 ## Badges
 
