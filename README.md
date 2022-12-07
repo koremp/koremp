@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Znaac5QFNxY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Znaac5QFNxY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pS7Mhoq4Asg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=pS7Mhoq4Asg)
 
-Classical Vault 1 - Bruckner - Symphony No. 7 in E major - 2 Adagio - Celibidache
+dzidkonia - Maxim Vengerov - Sibelius - Adagio di molto
 
-**Albums**: 조회수 22만회
+**Albums**: 조회수 15만회
 
-Last updated at 12/08/2022 05:56
+Last updated at 12/08/2022 06:26
 
 ## Badges
 
