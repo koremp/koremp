@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-gnrXQqFKZ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-gnrXQqFKZ4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Znaac5QFNxY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Znaac5QFNxY)
 
-Classical Vault 1 - Bruckner - Symphony No. 3 in D minor - 2 Adagio - Celibidache
+Classical Vault 1 - Bruckner - Symphony No. 7 in E major - 2 Adagio - Celibidache
 
-**Albums**: 조회수 2.5만회
+**Albums**: 조회수 22만회
 
-Last updated at 12/08/2022 05:40
+Last updated at 12/08/2022 05:56
 
 ## Badges
 
