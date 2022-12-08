@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/crvXmAcxrjDv02eNxlQ2E0tFg0iTQ_KnPQEw4B7jhu8yFlGshMR1fa7dQ8UOApBo5d1V4bZV42Hx1h0">](https://music.youtube.com/watch?v=mJcjXjYWI6E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/crvXmAcxrjDv02eNxlQ2E0tFg0iTQ_KnPQEw4B7jhu8yFlGshMR1fa7dQ8UOApBo5d1V4bZV42Hx1h0">](https://music.youtube.com/watch?v=y5EhsK21YkA)
 
-RM, Paul Blanco 및 Mahalia - Closer
+RM - Change pt.2
 
 **Albums**: Indigo
 
-Last updated at 12/08/2022 14:11
+Last updated at 12/08/2022 14:13
 
 ## Badges
 
