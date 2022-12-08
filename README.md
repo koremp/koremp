@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/crvXmAcxrjDv02eNxlQ2E0tFg0iTQ_KnPQEw4B7jhu8yFlGshMR1fa7dQ8UOApBo5d1V4bZV42Hx1h0">](https://music.youtube.com/watch?v=7gISsiqxlN8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/crvXmAcxrjDv02eNxlQ2E0tFg0iTQ_KnPQEw4B7jhu8yFlGshMR1fa7dQ8UOApBo5d1V4bZV42Hx1h0">](https://music.youtube.com/watch?v=5WQvnIIetUU)
 
-RM - Lonely
+RM 및 조유진 - 들꽃놀이
 
 **Albums**: Indigo
 
-Last updated at 12/08/2022 14:15
+Last updated at 12/08/2022 14:19
 
 ## Badges
 
