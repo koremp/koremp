@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/MkdP3zlufCM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MkdP3zlufCM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/crvXmAcxrjDv02eNxlQ2E0tFg0iTQ_KnPQEw4B7jhu8yFlGshMR1fa7dQ8UOApBo5d1V4bZV42Hx1h0">](https://music.youtube.com/watch?v=cmJbVPTFtYg)
 
-Classical Vault 1 - Bruckner - Symphony No. 6 in A major - 2 Adagio - Celibidache
+RM 및 Kim Sawol - 건망증
 
-**Albums**: 조회수 4.6만회
+**Albums**: Indigo
 
-Last updated at 12/08/2022 06:34
+Last updated at 12/08/2022 14:07
 
 ## Badges
 
