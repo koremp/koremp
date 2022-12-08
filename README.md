@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/crvXmAcxrjDv02eNxlQ2E0tFg0iTQ_KnPQEw4B7jhu8yFlGshMR1fa7dQ8UOApBo5d1V4bZV42Hx1h0">](https://music.youtube.com/watch?v=y5EhsK21YkA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/crvXmAcxrjDv02eNxlQ2E0tFg0iTQ_KnPQEw4B7jhu8yFlGshMR1fa7dQ8UOApBo5d1V4bZV42Hx1h0">](https://music.youtube.com/watch?v=7gISsiqxlN8)
 
-RM - Change pt.2
+RM - Lonely
 
 **Albums**: Indigo
 
-Last updated at 12/08/2022 14:13
+Last updated at 12/08/2022 14:15
 
 ## Badges
 
