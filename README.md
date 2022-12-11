@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/crvXmAcxrjDv02eNxlQ2E0tFg0iTQ_KnPQEw4B7jhu8yFlGshMR1fa7dQ8UOApBo5d1V4bZV42Hx1h0">](https://music.youtube.com/watch?v=5WQvnIIetUU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nCvDBbaSPHozJJswLiCkwODWKuAgMoP7pFg-1LQAh1y0etoj1yme9ZWbVtBfM6INsVS8FZmpTZq9uE4-">](https://music.youtube.com/watch?v=Uw67zg4wAJg)
 
-RM 및 조유진 - 들꽃놀이
+클라우디오 아바도 - Beethoven: Symphony No. 9 in D Minor, Op. 125 "Choral" - 1. Allegro ma non troppo, un poco maestoso
 
-**Albums**: Indigo
+**Albums**: Beethoven: 9 Symphonies / Overtures
 
-Last updated at 12/08/2022 14:19
+Last updated at 12/11/2022 18:37
 
 ## Badges
 
