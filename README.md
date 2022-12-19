@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=FgpXka7Idjo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vmOomvwguiYjpib64asvQOqKIZ-wBn1gT-5VyQuZrYWKctA72Ox9Rk7pIJSngvcg7GzHp1xzovrZ0dg">](https://music.youtube.com/watch?v=E7ON5ieeyho)
 
-박소은 - 인생이 박살나던 순간 Life Things All Fall Apart
+2024 및 Collective Arts - 달 Moon
 
-**Albums**: 고강동 Gogangdong
+**Albums**: 달 Moon
 
-Last updated at 12/19/2022 23:35
+Last updated at 12/19/2022 23:39
 
 ## Badges
 
