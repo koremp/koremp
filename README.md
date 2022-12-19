@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kvpUFJB2OazNKsG9-hm06buRPIH0P-K92GWoyuC4R0rZTqIENfE1KzatESN6IgSuC1lgAKhDdZ1Y4b2f">](https://music.youtube.com/watch?v=oVBg5jyvgnA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8y_WmQ6-RgfcekEN8aZ8DJsjgELMkPBeTvXcPbW1q4zaVxD-RnwTF6FjpULka8eQpe5iGWcr0P8WyPA">](https://music.youtube.com/watch?v=W5QgWXfBaeY)
 
-필하모니아 오케스트라 및 샤를 뒤투아 - Saint-Saëns: La Jeunesse d'Hercule, Op.50
+우재 (WOOJAE) - 우주 왈츠 (With 정우)
 
-**Albums**: Saint-Saëns: Danse Macabre; Phaéton; Havanaise etc.
+**Albums**: 우주 왈츠 (With 정우)
 
-Last updated at 12/11/2022 19:56
+Last updated at 12/19/2022 10:37
 
 ## Badges
 
