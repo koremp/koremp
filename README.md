@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jk6f7rwIgMdteOBeAMdY6L8koirVNB7nm8gGnOW5qq1_jab3XDzikgHaFjk4tDXNAWN6bjYFQarCV1g">](https://music.youtube.com/watch?v=EBpC8FzDWwk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xZz_gYBGShDvIbNMZte_aEZNN-DTLpkaNkqlXrDhHJwzkNjZnvnF5pwQxlBV_SJjgY7CmMEjamn2N9Q">](https://music.youtube.com/watch?v=BTpmJeG9s2o)
 
-Simon Franglen - Let Me Die
+Ennio Morricone - The Ecstasy of Gold
 
-**Albums**: Peppermint (Original Motion Picture Soundtrack)
+**Albums**: The Good, The Bad & The Ugly
 
-Last updated at 12/19/2022 12:09
+Last updated at 12/19/2022 12:13
 
 ## Badges
 
