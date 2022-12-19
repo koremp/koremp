@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=vJncFJVJjCA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=P03zsLmnvKI)
 
-박소은 - 그래서 그랬던 거야
+위수 - 지나간 여름을 안타까워마
 
-**Albums**: 재활용
+**Albums**: 지나간 여름을 안타까워마
 
-Last updated at 12/19/2022 12:34
+Last updated at 12/19/2022 12:38
 
 ## Badges
 
