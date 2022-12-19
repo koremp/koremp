@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=r3osM4YzeEY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sI567oQLOMOEDlMMn6dmA-nbCVuvcmTv7JOtm3iCXelMKSeENmZlR9sdaNEdk2C6v6uDqH139YBE7XI">](https://music.youtube.com/watch?v=wVZqWMf8tVw)
 
-하현상 - 등대
+페퍼톤스 (Peppertones) - THANK YOU
 
-**Albums**: Calibrate
+**Albums**: 하이파이브 (HIGH-FIVE)
 
-Last updated at 12/19/2022 10:41
+Last updated at 12/19/2022 10:45
 
 ## Badges
 
