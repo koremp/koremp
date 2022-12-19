@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R_cjQK3wwLPEzri1jerx-79zgzGocoKvwGU3NMONaTsaMM0Idd641pfB8r5jgfpn6I8JAoFtf9RBIcI">](https://music.youtube.com/watch?v=J7p4bzqLvCw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DfXpyae3HvUxIowYDo4njOwEDTkzpWUXEq-jLmh0JgHP1W62QfHAmAxi9N5EmHhPRyPTSzi5wxw48hrP">](https://music.youtube.com/watch?v=AMlYcM7azuc)
 
-The Weeknd (위켄드) - Blinding Lights
+핫펠트 - La Luna
 
-**Albums**: Blinding Lights
+**Albums**: La Luna
 
-Last updated at 12/19/2022 12:15
+Last updated at 12/19/2022 12:20
 
 ## Badges
 
