@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Sz26TvKf9YF5XpWif6J2Gu72-OF5o-Dfrt46POtRTrr6jvQCK5wMEg-6MA7nAoO-DC2h2lVI3jP736L">](https://music.youtube.com/watch?v=In6_WWlt5LE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jk6f7rwIgMdteOBeAMdY6L8koirVNB7nm8gGnOW5qq1_jab3XDzikgHaFjk4tDXNAWN6bjYFQarCV1g">](https://music.youtube.com/watch?v=EBpC8FzDWwk)
 
-Zoe Saldaña - The Songcord
+Simon Franglen - Let Me Die
 
-**Albums**: Avatar: The Way of Water (Original Motion Picture Soundtrack)
+**Albums**: Peppermint (Original Motion Picture Soundtrack)
 
-Last updated at 12/19/2022 12:05
+Last updated at 12/19/2022 12:09
 
 ## Badges
 
