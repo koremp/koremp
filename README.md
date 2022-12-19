@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gt9RbNjU6wAs7tFIxiwSVQbd7Yv4wDQhM4_LIkRgX600gAQmI0eVvJfmWOF4JBWDgsfGKUOOxo4OfH2Z">](https://music.youtube.com/watch?v=mgXEkSHCBA8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bfCBf_X0rUL-cE4XI2D5JbOzD8kRaK5ARTndtzaABH3B25AB_daU8-qYTugtYGLfrdxGgxuLEMv_OWZ_tg">](https://music.youtube.com/watch?v=IomTqf9-6lA)
 
-Vladimir Ashkenazy 및 필하모니아 오케스트라 - 모차르트: 피아노 협주곡 23번 가장조: 2. Andante
+보수동쿨러 - Cotton 목화
 
-**Albums**: Mozart: Piano Concertos Nos. 23 & 27
+**Albums**: Cotton 목화
 
-Last updated at 12/19/2022 12:46
+Last updated at 12/19/2022 12:48
 
 ## Badges
 
