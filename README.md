@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M4tkwcaofJe-x8YPwzOGItVWL-pEl_6-ssejMrnukuPw84AEDvE0Nq8pymjOsFdV1KXI54DeCjUJvkY">](https://music.youtube.com/watch?v=MK_Su-gQ7SQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kgZOa1HfEdx7o2JVOBoj9nljMPc6uOpc1xJFvyy7BFv7Bbr7sEWDB2T-sk5J2f46OLV3vqhMUsbBtS_a">](https://music.youtube.com/watch?v=Eqzn9M9Ub5g)
 
-보수동쿨러 - Kill Me 죽여줘
+술탄 오브 더 디스코 - Hide Out 사라지는 꿈
 
-**Albums**: Kill Me 죽여줘
+**Albums**: Aliens
 
-Last updated at 12/19/2022 12:54
+Last updated at 12/19/2022 12:58
 
 ## Badges
 
