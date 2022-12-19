@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=j1uXcHwLhHM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Sz26TvKf9YF5XpWif6J2Gu72-OF5o-Dfrt46POtRTrr6jvQCK5wMEg-6MA7nAoO-DC2h2lVI3jP736L">](https://music.youtube.com/watch?v=UrgsKgMfRRM)
 
-윤하 - 사건의 지평선
+The Weeknd - Nothing Is Lost (You Give Me Strength)
 
-**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
+**Albums**: Avatar: The Way of Water (Original Motion Picture Soundtrack)
 
-Last updated at 12/19/2022 10:51
+Last updated at 12/19/2022 10:57
 
 ## Badges
 
