@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kgZOa1HfEdx7o2JVOBoj9nljMPc6uOpc1xJFvyy7BFv7Bbr7sEWDB2T-sk5J2f46OLV3vqhMUsbBtS_a">](https://music.youtube.com/watch?v=Eqzn9M9Ub5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f1M7RBxjPCVIntKE_YPkPQjvy5qXx96os-O1xiDrvtEdD_MXJL35ZeSmFFTAy3GOAUq7e82OL65ev3oQ">](https://music.youtube.com/watch?v=oVMPI8-YWf8)
 
-술탄 오브 더 디스코 - Hide Out 사라지는 꿈
+이고도 - 폴리나
 
-**Albums**: Aliens
+**Albums**: 폴리나
 
-Last updated at 12/19/2022 12:58
+Last updated at 12/19/2022 13:02
 
 ## Badges
 
