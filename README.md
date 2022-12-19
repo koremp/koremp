@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5sx6HFBdIxMFAKBlEp3sYzY_00ke12gYZAdeGcwN3hQxys0ykNtgw3f2xk_HZKWgVPo1hgcV7AVvSfE">](https://music.youtube.com/watch?v=V_UgTCSueYQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gt9RbNjU6wAs7tFIxiwSVQbd7Yv4wDQhM4_LIkRgX600gAQmI0eVvJfmWOF4JBWDgsfGKUOOxo4OfH2Z">](https://music.youtube.com/watch?v=mgXEkSHCBA8)
 
-필하모니아 오케스트라, 주세페 시노폴리 및 Ambrosian Opera Chorus - 푸치니: 나비부인 / 2막: 허밍 코러스
+Vladimir Ashkenazy 및 필하모니아 오케스트라 - 모차르트: 피아노 협주곡 23번 가장조: 2. Andante
 
-**Albums**: Puccini: Madama Butterfly - Highlights
+**Albums**: Mozart: Piano Concertos Nos. 23 & 27
 
-Last updated at 12/19/2022 12:44
+Last updated at 12/19/2022 12:46
 
 ## Badges
 
