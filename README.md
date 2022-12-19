@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Sz26TvKf9YF5XpWif6J2Gu72-OF5o-Dfrt46POtRTrr6jvQCK5wMEg-6MA7nAoO-DC2h2lVI3jP736L">](https://music.youtube.com/watch?v=GCrGxFlIu9Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Sz26TvKf9YF5XpWif6J2Gu72-OF5o-Dfrt46POtRTrr6jvQCK5wMEg-6MA7nAoO-DC2h2lVI3jP736L">](https://music.youtube.com/watch?v=BEjCU_KuhIk)
 
-Simon Franglen - Na'vi Attack
+Simon Franglen - Eclipse
 
 **Albums**: Avatar: The Way of Water (Original Motion Picture Soundtrack)
 
-Last updated at 12/19/2022 11:45
+Last updated at 12/19/2022 11:49
 
 ## Badges
 
