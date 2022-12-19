@@ -1,14 +1,29 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ds4HZUl-Cziy9wW0zGv5_rRw0fGc01a3rMZ6mB27HkSTtVLaPwUpPaXdoISHAH3XprkYyPfIEcSpmPy-">](https://music.youtube.com/watch?v=lS9Kgp6PsWY)
+[<img align="left" width="100" src="">](https://www.youtube.com/@joehisaishiofficial9777)
 
-The Weeknd 및 Ariana Grande - Save Your Tears ((Remix) Bonus Track)
 
-**Albums**: After Hours (Deluxe)
+  
+    Joe Hisaishi Official
+  
+  
+  
+    Joe Hisaishi Official
+  
 
-Last updated at 12/19/2022 13:25
+
+
+
+  공식 아티스트 채널
+
+
+ - Joe Hisaishi : Studio Ghibli Experience, Part 1
+
+**Albums**: Not supported
+
+Last updated at 12/19/2022 15:22
 
 ## Badges
 
