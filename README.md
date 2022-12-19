@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y-mIAUE2k91ByduGmxyiGdXkFaqy_HUWBRO3qKI-Z2fyHFIeUUCBtuayBaTQMVLX9xF0LI0TFYzdF9g">](https://music.youtube.com/watch?v=5oPNuJl8T_8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3HCevhtSYA3wvfCCbl7e_XzmshCsjM9acf5yRicwVBXqvpPnHN9Jy506pJgYRknpc0SniEK3P8p1-HCE">](https://music.youtube.com/watch?v=_ft1vynaitU)
 
-핫펠트 - Hello To Myself (Dream High 2 OST Pt.3)
+핫펠트 - 위로가 돼요 (Pluhmm)
 
-**Albums**: Best OST Collection
+**Albums**: 1719
 
-Last updated at 12/19/2022 12:26
+Last updated at 12/19/2022 12:30
 
 ## Badges
 
