@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vmOomvwguiYjpib64asvQOqKIZ-wBn1gT-5VyQuZrYWKctA72Ox9Rk7pIJSngvcg7GzHp1xzovrZ0dg">](https://music.youtube.com/watch?v=E7ON5ieeyho)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-3lx6MQfhwZBsgYmLDx5MH5QkBIqHw5MzAOgDz7LWUQgEnrcSuAOwVijYCRYEw8JCOiz4VZQWLF8HS6">](https://music.youtube.com/watch?v=rJZCn0UDn9w)
 
-2024 및 Collective Arts - 달 Moon
+정우 - 자장가 Lullaby
 
-**Albums**: 달 Moon
+**Albums**: 여섯 번째 토요일 6th Saturday
 
-Last updated at 12/19/2022 23:39
+Last updated at 12/19/2022 23:43
 
 ## Badges
 
