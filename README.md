@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3HCevhtSYA3wvfCCbl7e_XzmshCsjM9acf5yRicwVBXqvpPnHN9Jy506pJgYRknpc0SniEK3P8p1-HCE">](https://music.youtube.com/watch?v=_ft1vynaitU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=vJncFJVJjCA)
 
-핫펠트 - 위로가 돼요 (Pluhmm)
+박소은 - 그래서 그랬던 거야
 
-**Albums**: 1719
+**Albums**: 재활용
 
-Last updated at 12/19/2022 12:30
+Last updated at 12/19/2022 12:34
 
 ## Badges
 
