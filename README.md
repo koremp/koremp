@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=P03zsLmnvKI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UqM0LJUWct-Y4oiZo8Y8p43-b8AqzKJSTw9Zjmu3Dw-BnGbNQUe651_xxe06G1w4PcaBqRIontupEvbebg">](https://music.youtube.com/watch?v=AzsbRHMRroA)
 
-위수 - 지나간 여름을 안타까워마
+박소은 - 반복되는 모든 게 날 괴롭게 해요
 
-**Albums**: 지나간 여름을 안타까워마
+**Albums**: 반복되는 모든 게 날 괴롭게 해요
 
-Last updated at 12/19/2022 12:38
+Last updated at 12/19/2022 12:42
 
 ## Badges
 
