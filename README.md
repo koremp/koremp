@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vqERwuCPxMMmQxro3m6Q5VN-iRs8vgXQ65fDdWjex87VzD0e1EelKZpaWQ37kBalwpysF1Y6VVIhVmFV">](https://music.youtube.com/watch?v=gac1IT0Skec)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vPA2OHAPUc_fCd7nApxsXJqa29md3lcr0hlHOB4B2Goe1GYb5sacPf8j9RA890QK35nex6mdHs-fZ0Y">](https://music.youtube.com/watch?v=3iHBlNgjQQo)
 
-해서웨이 - boy
+언니네 이발관 - 아름다운 것 Beautiful Thing
 
-**Albums**: Boy Loves Hayley
+**Albums**: 가장 보통의 존재 Most Ordinary Existence
 
-Last updated at 12/19/2022 13:10
+Last updated at 12/19/2022 13:14
 
 ## Badges
 
