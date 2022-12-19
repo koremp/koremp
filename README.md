@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vPA2OHAPUc_fCd7nApxsXJqa29md3lcr0hlHOB4B2Goe1GYb5sacPf8j9RA890QK35nex6mdHs-fZ0Y">](https://music.youtube.com/watch?v=3iHBlNgjQQo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TZPXNC7DfGfzqxGbLzH5VLXLOl_64ohJx6z7ADY0jBWrTE89Jgm35Gn_7RyA5mVHeRQydxJ-UKAV9S47">](https://music.youtube.com/watch?v=keV2ncBRCF0)
 
-언니네 이발관 - 아름다운 것 Beautiful Thing
+Sam Smith(샘 스미스) - How Do You Sleep? (Bonus Track)
 
-**Albums**: 가장 보통의 존재 Most Ordinary Existence
+**Albums**: Love Goes
 
-Last updated at 12/19/2022 13:14
+Last updated at 12/19/2022 13:21
 
 ## Badges
 
