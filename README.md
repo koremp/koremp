@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UqM0LJUWct-Y4oiZo8Y8p43-b8AqzKJSTw9Zjmu3Dw-BnGbNQUe651_xxe06G1w4PcaBqRIontupEvbebg">](https://music.youtube.com/watch?v=AzsbRHMRroA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5sx6HFBdIxMFAKBlEp3sYzY_00ke12gYZAdeGcwN3hQxys0ykNtgw3f2xk_HZKWgVPo1hgcV7AVvSfE">](https://music.youtube.com/watch?v=V_UgTCSueYQ)
 
-박소은 - 반복되는 모든 게 날 괴롭게 해요
+필하모니아 오케스트라, 주세페 시노폴리 및 Ambrosian Opera Chorus - 푸치니: 나비부인 / 2막: 허밍 코러스
 
-**Albums**: 반복되는 모든 게 날 괴롭게 해요
+**Albums**: Puccini: Madama Butterfly - Highlights
 
-Last updated at 12/19/2022 12:42
+Last updated at 12/19/2022 12:44
 
 ## Badges
 
