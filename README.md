@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DfXpyae3HvUxIowYDo4njOwEDTkzpWUXEq-jLmh0JgHP1W62QfHAmAxi9N5EmHhPRyPTSzi5wxw48hrP">](https://music.youtube.com/watch?v=AMlYcM7azuc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3HCevhtSYA3wvfCCbl7e_XzmshCsjM9acf5yRicwVBXqvpPnHN9Jy506pJgYRknpc0SniEK3P8p1-HCE">](https://music.youtube.com/watch?v=Hrak07v2mOo)
 
-핫펠트 - La Luna
+핫펠트 - Life Sucks
 
-**Albums**: La Luna
+**Albums**: 1719
 
-Last updated at 12/19/2022 12:20
+Last updated at 12/19/2022 12:22
 
 ## Badges
 
