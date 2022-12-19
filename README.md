@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bfCBf_X0rUL-cE4XI2D5JbOzD8kRaK5ARTndtzaABH3B25AB_daU8-qYTugtYGLfrdxGgxuLEMv_OWZ_tg">](https://music.youtube.com/watch?v=IomTqf9-6lA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M4tkwcaofJe-x8YPwzOGItVWL-pEl_6-ssejMrnukuPw84AEDvE0Nq8pymjOsFdV1KXI54DeCjUJvkY">](https://music.youtube.com/watch?v=MK_Su-gQ7SQ)
 
-보수동쿨러 - Cotton 목화
+보수동쿨러 - Kill Me 죽여줘
 
-**Albums**: Cotton 목화
+**Albums**: Kill Me 죽여줘
 
-Last updated at 12/19/2022 12:48
+Last updated at 12/19/2022 12:54
 
 ## Badges
 
