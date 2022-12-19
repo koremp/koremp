@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8y_WmQ6-RgfcekEN8aZ8DJsjgELMkPBeTvXcPbW1q4zaVxD-RnwTF6FjpULka8eQpe5iGWcr0P8WyPA">](https://music.youtube.com/watch?v=W5QgWXfBaeY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=r3osM4YzeEY)
 
-우재 (WOOJAE) - 우주 왈츠 (With 정우)
+하현상 - 등대
 
-**Albums**: 우주 왈츠 (With 정우)
+**Albums**: Calibrate
 
-Last updated at 12/19/2022 10:37
+Last updated at 12/19/2022 10:41
 
 ## Badges
 
