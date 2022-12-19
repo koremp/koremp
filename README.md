@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TZPXNC7DfGfzqxGbLzH5VLXLOl_64ohJx6z7ADY0jBWrTE89Jgm35Gn_7RyA5mVHeRQydxJ-UKAV9S47">](https://music.youtube.com/watch?v=keV2ncBRCF0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uimtOO9FPrfJBLL3cJhqdVvkVfliVgIZuPW9-2DQjZRa8fwjiXwQP1lv7Bf83yBfZXRpr-rpc9Tfkq0">](https://music.youtube.com/watch?v=8VKD-IlvibI)
 
-Sam Smith(샘 스미스) - How Do You Sleep? (Bonus Track)
+Sam Smith 및 Kim Petras - Unholy
 
-**Albums**: Love Goes
+**Albums**: Unholy
 
-Last updated at 12/19/2022 13:21
+Last updated at 12/19/2022 13:23
 
 ## Badges
 
