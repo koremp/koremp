@@ -1,29 +1,14 @@
 # Claire, Dokyun Lim
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@joehisaishiofficial9777)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=FgpXka7Idjo)
 
+박소은 - 인생이 박살나던 순간 Life Things All Fall Apart
 
-  
-    Joe Hisaishi Official
-  
-  
-  
-    Joe Hisaishi Official
-  
+**Albums**: 고강동 Gogangdong
 
-
-
-
-  공식 아티스트 채널
-
-
- - Joe Hisaishi : Studio Ghibli Experience, Part 1
-
-**Albums**: Not supported
-
-Last updated at 12/19/2022 15:22
+Last updated at 12/19/2022 23:35
 
 ## Badges
 
