@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xZz_gYBGShDvIbNMZte_aEZNN-DTLpkaNkqlXrDhHJwzkNjZnvnF5pwQxlBV_SJjgY7CmMEjamn2N9Q">](https://music.youtube.com/watch?v=BTpmJeG9s2o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/R_cjQK3wwLPEzri1jerx-79zgzGocoKvwGU3NMONaTsaMM0Idd641pfB8r5jgfpn6I8JAoFtf9RBIcI">](https://music.youtube.com/watch?v=J7p4bzqLvCw)
 
-Ennio Morricone - The Ecstasy of Gold
+The Weeknd (위켄드) - Blinding Lights
 
-**Albums**: The Good, The Bad & The Ugly
+**Albums**: Blinding Lights
 
-Last updated at 12/19/2022 12:13
+Last updated at 12/19/2022 12:15
 
 ## Badges
 
