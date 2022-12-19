@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uimtOO9FPrfJBLL3cJhqdVvkVfliVgIZuPW9-2DQjZRa8fwjiXwQP1lv7Bf83yBfZXRpr-rpc9Tfkq0">](https://music.youtube.com/watch?v=8VKD-IlvibI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ds4HZUl-Cziy9wW0zGv5_rRw0fGc01a3rMZ6mB27HkSTtVLaPwUpPaXdoISHAH3XprkYyPfIEcSpmPy-">](https://music.youtube.com/watch?v=lS9Kgp6PsWY)
 
-Sam Smith 및 Kim Petras - Unholy
+The Weeknd 및 Ariana Grande - Save Your Tears ((Remix) Bonus Track)
 
-**Albums**: Unholy
+**Albums**: After Hours (Deluxe)
 
-Last updated at 12/19/2022 13:23
+Last updated at 12/19/2022 13:25
 
 ## Badges
 
