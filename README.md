@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iSaS5NH4xfbipcGqV6_w-DQGOblebm4E69jAbTXCX3OpYQMGmccdRm9N5anDWuerECRfYHSdwhL8ZoA">](https://music.youtube.com/watch?v=-3mNDb5HWVo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QJbmtAjyOVGfpGEWCn2HY6yG4E7-qes3Mh_yXIwt8cyoe7omfqqRlZo0EQRR0SLolCD5X3QwNU640lKx">](https://music.youtube.com/watch?v=Vvd4mC-UJxk)
 
-민수 (MINSU) 및 Collective Arts - 춤 Chum
+Haley Bennett, Peter Dinklage, Bryce Dessner, Aaron Dessner, Víkingur Ólafsson 및 London Contemporary Orchestra - No Cyrano
 
-**Albums**: Note#6
+**Albums**: 시라노(Cyrano) OST
 
-Last updated at 12/20/2022 21:17
+Last updated at 12/20/2022 21:21
 
 ## Badges
 
