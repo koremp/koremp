@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FaRjOINrqE3tLYfYkA0FvPP3slIWtaphztH717bu0_2-8mpYhEPNxORpn-eDFRsD6mLu5Jt6dvA5_bg">](https://music.youtube.com/watch?v=StKmyeRbIws)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IvPyKvQ_KrAz6rXnYNxOLO-TKmUQMcG7xdROJW2CIxQs60GO80FzmZPhFxOv7axd4WEoh_KI02dXnHXVmA">](https://music.youtube.com/watch?v=KBse9Y6zucs)
 
-이고도 - Mouse
+수프얀 스티븐스 - The Predatory Wasp of The Palisades Is Out To Get Us
 
-**Albums**: Mouse
+**Albums**: Illinois
 
-Last updated at 12/20/2022 16:14
+Last updated at 12/20/2022 16:18
 
 ## Badges
 
