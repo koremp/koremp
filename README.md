@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IvPyKvQ_KrAz6rXnYNxOLO-TKmUQMcG7xdROJW2CIxQs60GO80FzmZPhFxOv7axd4WEoh_KI02dXnHXVmA">](https://music.youtube.com/watch?v=KBse9Y6zucs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/a_kwsBn2a42z39_rWTA1ROKROc_i6ITi2rC4ogaOyDgqsXUxG-fVHz3tAb29VYcCxn4fqfUNjHgStRU">](https://music.youtube.com/watch?v=WpaZjSPre68)
 
-수프얀 스티븐스 - The Predatory Wasp of The Palisades Is Out To Get Us
+사카모토 류이치 - andata
 
-**Albums**: Illinois
+**Albums**: async
 
-Last updated at 12/20/2022 16:18
+Last updated at 12/20/2022 16:24
 
 ## Badges
 
