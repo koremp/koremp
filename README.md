@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1JP56Avt5ecprHg8AOFptQ7EgR9g09-Fx_Q1kG_xu3fX3Ih1QpliwcTh6m-MO6tSZRQ7IQWHwUC4epPS">](https://music.youtube.com/watch?v=KpfaZ25hOj0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FaRjOINrqE3tLYfYkA0FvPP3slIWtaphztH717bu0_2-8mpYhEPNxORpn-eDFRsD6mLu5Jt6dvA5_bg">](https://music.youtube.com/watch?v=StKmyeRbIws)
 
-Labrinth 및 Zendaya - I'm Tired (Bonus Track)
+이고도 - Mouse
 
-**Albums**: I'm Tired (Bonus Track)
+**Albums**: Mouse
 
-Last updated at 12/20/2022 16:10
+Last updated at 12/20/2022 16:14
 
 ## Badges
 
