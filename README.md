@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AcCYBKZLHeCymPiMobaAK31Qots7qV2t3rdRTsqr906R9vb2BBT943oZ-hshef9m0jqz0LRmajWNwMY">](https://music.youtube.com/watch?v=BeGoovsbO-w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iSaS5NH4xfbipcGqV6_w-DQGOblebm4E69jAbTXCX3OpYQMGmccdRm9N5anDWuerECRfYHSdwhL8ZoA">](https://music.youtube.com/watch?v=-3mNDb5HWVo)
 
-세인트 빈센트 - Marry Me
+민수 (MINSU) 및 Collective Arts - 춤 Chum
 
-**Albums**: Marry Me
+**Albums**: Note#6
 
-Last updated at 12/20/2022 21:13
+Last updated at 12/20/2022 21:17
 
 ## Badges
 
