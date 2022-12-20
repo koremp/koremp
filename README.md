@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/a_kwsBn2a42z39_rWTA1ROKROc_i6ITi2rC4ogaOyDgqsXUxG-fVHz3tAb29VYcCxn4fqfUNjHgStRU">](https://music.youtube.com/watch?v=WpaZjSPre68)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rS_JmSBf7xD4jYgl4EAP7cTFaO6ffjBcExa510TSkn2LRh1LZB7MwIPI6-rv2IBj8AwwZRWN5PnZbaI">](https://music.youtube.com/watch?v=qivwz-Vy0mk)
 
-사카모토 류이치 - andata
+아오바 이치코 - bouquet
 
-**Albums**: async
+**Albums**: amuletum bouquet
 
-Last updated at 12/20/2022 16:24
+Last updated at 12/20/2022 16:28
 
 ## Badges
 
