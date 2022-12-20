@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QJbmtAjyOVGfpGEWCn2HY6yG4E7-qes3Mh_yXIwt8cyoe7omfqqRlZo0EQRR0SLolCD5X3QwNU640lKx">](https://music.youtube.com/watch?v=Vvd4mC-UJxk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=CC6koTdHRSI)
 
-Haley Bennett, Peter Dinklage, Bryce Dessner, Aaron Dessner, Víkingur Ólafsson 및 London Contemporary Orchestra - No Cyrano
+위수 - 교토
 
-**Albums**: 시라노(Cyrano) OST
+**Albums**: 지나간 여름을 안타까워마
 
-Last updated at 12/20/2022 21:21
+Last updated at 12/20/2022 21:23
 
 ## Badges
 
