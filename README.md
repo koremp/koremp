@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S3uSEtUWReY24Og72vi76ewO7HRxBBf4z3DqtKKHEE3vGNJQVMr58lIu2mXLLs_fYTP1uvdVUwRn3NI4">](https://music.youtube.com/watch?v=OL5z33X_fsM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fXmAq5fA70StZSMri8Zc0rMr86Qj0BbLDoEV0rqtXQCTbyvgUgQ11AdViHC6L1rnzW0HIrDy-1sqe1h9">](https://music.youtube.com/watch?v=C0ruAy8TpPo)
 
-손 럭스 - Stolen
+Laufey 및 Philharmonia Orchestra - Let You Break My Heart Again
 
-**Albums**: Remedy
+**Albums**: Let You Break My Heart Again
 
-Last updated at 12/20/2022 16:02
+Last updated at 12/20/2022 16:06
 
 ## Badges
 
