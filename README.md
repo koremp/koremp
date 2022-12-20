@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rS_JmSBf7xD4jYgl4EAP7cTFaO6ffjBcExa510TSkn2LRh1LZB7MwIPI6-rv2IBj8AwwZRWN5PnZbaI">](https://music.youtube.com/watch?v=qivwz-Vy0mk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AcCYBKZLHeCymPiMobaAK31Qots7qV2t3rdRTsqr906R9vb2BBT943oZ-hshef9m0jqz0LRmajWNwMY">](https://music.youtube.com/watch?v=BeGoovsbO-w)
 
-아오바 이치코 - bouquet
+세인트 빈센트 - Marry Me
 
-**Albums**: amuletum bouquet
+**Albums**: Marry Me
 
-Last updated at 12/20/2022 16:28
+Last updated at 12/20/2022 21:13
 
 ## Badges
 
