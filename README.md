@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6cJtTw4ovCRflBzXbvCwba_w-wuG-M5dzaNccl9Hi5SESJiUu6Fq-HI13xHE7tx9N3um6Oa8j5HBV7SS2g">](https://music.youtube.com/watch?v=N2QSvYwrEaI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S3uSEtUWReY24Og72vi76ewO7HRxBBf4z3DqtKKHEE3vGNJQVMr58lIu2mXLLs_fYTP1uvdVUwRn3NI4">](https://music.youtube.com/watch?v=OL5z33X_fsM)
 
-Son Lux - This Is A Life (Extended)
+손 럭스 - Stolen
 
-**Albums**: Everything Everywhere All at Once (Original Motion Picture Soundtrack)
+**Albums**: Remedy
 
-Last updated at 12/20/2022 15:58
+Last updated at 12/20/2022 16:02
 
 ## Badges
 
