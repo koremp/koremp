@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-3lx6MQfhwZBsgYmLDx5MH5QkBIqHw5MzAOgDz7LWUQgEnrcSuAOwVijYCRYEw8JCOiz4VZQWLF8HS6">](https://music.youtube.com/watch?v=rJZCn0UDn9w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6cJtTw4ovCRflBzXbvCwba_w-wuG-M5dzaNccl9Hi5SESJiUu6Fq-HI13xHE7tx9N3um6Oa8j5HBV7SS2g">](https://music.youtube.com/watch?v=N2QSvYwrEaI)
 
-정우 - 자장가 Lullaby
+Son Lux - This Is A Life (Extended)
 
-**Albums**: 여섯 번째 토요일 6th Saturday
+**Albums**: Everything Everywhere All at Once (Original Motion Picture Soundtrack)
 
-Last updated at 12/19/2022 23:43
+Last updated at 12/20/2022 15:58
 
 ## Badges
 
