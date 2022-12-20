@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fXmAq5fA70StZSMri8Zc0rMr86Qj0BbLDoEV0rqtXQCTbyvgUgQ11AdViHC6L1rnzW0HIrDy-1sqe1h9">](https://music.youtube.com/watch?v=C0ruAy8TpPo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1JP56Avt5ecprHg8AOFptQ7EgR9g09-Fx_Q1kG_xu3fX3Ih1QpliwcTh6m-MO6tSZRQ7IQWHwUC4epPS">](https://music.youtube.com/watch?v=KpfaZ25hOj0)
 
-Laufey 및 Philharmonia Orchestra - Let You Break My Heart Again
+Labrinth 및 Zendaya - I'm Tired (Bonus Track)
 
-**Albums**: Let You Break My Heart Again
+**Albums**: I'm Tired (Bonus Track)
 
-Last updated at 12/20/2022 16:06
+Last updated at 12/20/2022 16:10
 
 ## Badges
 
