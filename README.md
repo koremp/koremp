@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YKKyMgg_8dQb8yvYkJfDgI-AiYX9dgS2P8qROWy1fRFODzlnhcHkOi3m5tSn86atDzxPghtlcPc4l24">](https://music.youtube.com/watch?v=OKkoxQJgldQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=mgtcqsnHlbg)
 
-민수 - Now Now
+박소은 - 아니어도 돼
 
-**Albums**: NOW NOW
+**Albums**: 재활용
 
-Last updated at 12/21/2022 20:49
+Last updated at 12/21/2022 20:53
 
 ## Badges
 
