@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=CC6koTdHRSI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YKKyMgg_8dQb8yvYkJfDgI-AiYX9dgS2P8qROWy1fRFODzlnhcHkOi3m5tSn86atDzxPghtlcPc4l24">](https://music.youtube.com/watch?v=bceoNfvronw)
 
-위수 - 교토
+민수 - Vampire
 
-**Albums**: 지나간 여름을 안타까워마
+**Albums**: NOW NOW
 
-Last updated at 12/20/2022 21:23
+Last updated at 12/21/2022 20:11
 
 ## Badges
 
