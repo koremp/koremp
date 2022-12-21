@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2ME5t07E7wjwSPsrsDHysBTVXGejv4etYIFCKkXHltww7kxLXFY_dlrd1n1cQgBRQHenzHPeEVQXMylU">](https://music.youtube.com/watch?v=_h3jf-VwJwM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=1jMKERiqBSo)
 
-Meaningful Stone - If I Grow Up 어른이 된다면
+김뜻돌 - 보물찾기
 
-**Albums**: If I Grow Up 어른이 된다면
+**Albums**: 꿈에서 걸려온 전화
 
-Last updated at 12/22/2022 00:35
+Last updated at 12/22/2022 00:37
 
 ## Badges
 
