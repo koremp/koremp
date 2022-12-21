@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsKRGdJdubNmpx-f5r1GSL9vknmVtv1tAYu4WGmKZYoke-g0i5SKxRFnPY8HxIx9TEkAqMIPX6JkBplG">](https://music.youtube.com/watch?v=OsfAnsMY21M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=ZqYGW8uXL0I)
 
-두아 리파 - Levitating
+두아 리파 - New Rules
 
-**Albums**: Future Nostalgia
+**Albums**: Dua Lipa (Deluxe)
 
-Last updated at 12/22/2022 01:56
+Last updated at 12/22/2022 02:00
 
 ## Badges
 
