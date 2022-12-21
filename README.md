@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QptEDgp895ZrFvCMIxJxeSma9VgP7rsM8GDeZEGADZabOhllX0ZpgLrSUfUHHZLGAHwsK8Y2VGFBSqMi">](https://music.youtube.com/watch?v=TphqUiUMb-g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7vAsuVmMb0SBsFYbVcVZiSFoM6sXnsg06F3PQNfEc8u-8qVYYzWFcTpS8J3ZdASVr1ZmmXduRsebLytvzg">](https://music.youtube.com/watch?v=fT97b0Wzj_8)
 
-김뜻돌 - Psychomania
+김뜻돌 - 중요해
 
-**Albums**: Psychomania
+**Albums**: COBALT
 
-Last updated at 12/22/2022 00:07
+Last updated at 12/22/2022 00:11
 
 ## Badges
 
