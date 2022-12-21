@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=I_yz7g8fZSg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=bfei-IPNtZw)
 
-박소은 - 이상해 보여
+박소은 - 우린 버려졌다가 주워져
 
 **Albums**: 재활용
 
-Last updated at 12/21/2022 20:57
+Last updated at 12/21/2022 21:01
 
 ## Badges
 
