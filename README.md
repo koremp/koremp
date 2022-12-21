@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cDiONIA_cqST8nTUOKxwHU8Bq26MWHIs1vPhnB_OVml_3M_C4kOKcjeyEh-Ft3VY7qnRFFk46ESRmGch">](https://music.youtube.com/watch?v=KM8jo1yCVKc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QMQI_a4R0LDhRQIKRdgHCj7zqatm1HU3Kx3grsPmrrAqDOGHk5nqh2sduJxlqEZIznqc8a9I0X_pymHR">](https://music.youtube.com/watch?v=J8IN21Q-_fk)
 
-민수 (MINSU) - 섬 Islet
+민수 - 오해 금지(feat. BIG Naughty)
 
-**Albums**: 섬 Islet
+**Albums**: 오해 금지
 
-Last updated at 12/21/2022 20:27
+Last updated at 12/21/2022 20:31
 
 ## Badges
 
