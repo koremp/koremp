@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QMQI_a4R0LDhRQIKRdgHCj7zqatm1HU3Kx3grsPmrrAqDOGHk5nqh2sduJxlqEZIznqc8a9I0X_pymHR">](https://music.youtube.com/watch?v=J8IN21Q-_fk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tp63Fiq62lhfNwYhOVkj5BB8JZ4wavWDiLIa1bW-UCEVnbh2MbtKlZDcvnXyOCTCWgfwycf_YN51yNRo9w">](https://music.youtube.com/watch?v=rmH4OmkkRNc)
 
-민수 - 오해 금지(feat. BIG Naughty)
+민수 (MINSU) - 커다란 XXLove
 
-**Albums**: 오해 금지
+**Albums**: 커다란 XXLove
 
-Last updated at 12/21/2022 20:31
+Last updated at 12/21/2022 20:33
 
 ## Badges
 
