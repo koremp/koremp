@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OSsZLw0rheL_qquJKgXv5tLU84k35pEZu-_qHWDhNqMlQ4MlnlgOgbOSuAo7w6tiHKwerOW9CqRy1RY">](https://music.youtube.com/watch?v=y1DKVDNFbSc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CKUCR6C4grAkigS-_mr9q95bhS7rqhpTuPzLM_2iMoI-Z1zkSLdOmC8CcSTNqp-u73w_UDPgGxTUO-AC">](https://music.youtube.com/watch?v=hoa0fT2iw9U)
 
-박소은 - 그믐달 Waning Moon
+박소은 - 별게 다 궁금하지
 
-**Albums**: 그믐달 Waning Moon
+**Albums**: 별게 다 궁금하지
 
-Last updated at 12/21/2022 22:09
+Last updated at 12/21/2022 22:13
 
 ## Badges
 
