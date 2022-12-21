@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mp4W3HJouLPJJp7lcxRSdKBbMqv8PclDmxnty084KjAgSMSKAHqub0bXcv3OvENlSOS9y1uG3UpSrFbh">](https://music.youtube.com/watch?v=_bZWDwjNbO8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=j3PTqmcfSR4)
 
-박소은 - 너의 향기만 없네 Scent
+박소은 - 고강동 Gogangdong
 
-**Albums**: 일기 Diary
+**Albums**: 고강동 Gogangdong
 
-Last updated at 12/21/2022 21:51
+Last updated at 12/21/2022 21:55
 
 ## Badges
 
