@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=spzWtPQhREw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=_D17o2lbnpE)
 
-박소은 - 슬리퍼
+박소은 - 말리부오렌지
 
 **Albums**: 재활용
 
-Last updated at 12/21/2022 21:11
+Last updated at 12/21/2022 21:13
 
 ## Badges
 
