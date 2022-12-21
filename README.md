@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YKKyMgg_8dQb8yvYkJfDgI-AiYX9dgS2P8qROWy1fRFODzlnhcHkOi3m5tSn86atDzxPghtlcPc4l24">](https://music.youtube.com/watch?v=qKkCXYXYBWI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YKKyMgg_8dQb8yvYkJfDgI-AiYX9dgS2P8qROWy1fRFODzlnhcHkOi3m5tSn86atDzxPghtlcPc4l24">](https://music.youtube.com/watch?v=wmUB0coscjw)
 
-민수 - Perfect Time
+민수 - No worries, I'm good
 
 **Albums**: NOW NOW
 
-Last updated at 12/21/2022 20:15
+Last updated at 12/21/2022 20:17
 
 ## Badges
 
