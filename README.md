@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tp63Fiq62lhfNwYhOVkj5BB8JZ4wavWDiLIa1bW-UCEVnbh2MbtKlZDcvnXyOCTCWgfwycf_YN51yNRo9w">](https://music.youtube.com/watch?v=rmH4OmkkRNc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW84fF54Njy0k4RiEVDoNIIhY6dVru7lrZeNbgRv6J5-OkxxCje4tDBGTyYYTT9DP-xPY3fhA_g5f04">](https://music.youtube.com/watch?v=Lod5NQzw6P0)
 
-민수 (MINSU) - 커다란 XXLove
+민수 (MINSU) - I Like Me
 
-**Albums**: 커다란 XXLove
+**Albums**: I Like Me
 
-Last updated at 12/21/2022 20:33
+Last updated at 12/21/2022 20:37
 
 ## Badges
 
