@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW84fF54Njy0k4RiEVDoNIIhY6dVru7lrZeNbgRv6J5-OkxxCje4tDBGTyYYTT9DP-xPY3fhA_g5f04">](https://music.youtube.com/watch?v=Lod5NQzw6P0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YKKyMgg_8dQb8yvYkJfDgI-AiYX9dgS2P8qROWy1fRFODzlnhcHkOi3m5tSn86atDzxPghtlcPc4l24">](https://music.youtube.com/watch?v=bceoNfvronw)
 
-민수 (MINSU) - I Like Me
+민수 - Vampire
 
-**Albums**: I Like Me
+**Albums**: NOW NOW
 
-Last updated at 12/21/2022 20:37
+Last updated at 12/21/2022 20:41
 
 ## Badges
 
