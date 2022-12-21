@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=UC_DEFT1CYs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=NfbGuQ-vqGc)
 
-김뜻돌 - 삐뽀삐뽀
+김뜻돌 - 실패하지 않는 사랑이 있나요
 
 **Albums**: 꿈에서 걸려온 전화
 
-Last updated at 12/22/2022 00:01
+Last updated at 12/22/2022 00:03
 
 ## Badges
 
