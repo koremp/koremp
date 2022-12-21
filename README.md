@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iSaS5NH4xfbipcGqV6_w-DQGOblebm4E69jAbTXCX3OpYQMGmccdRm9N5anDWuerECRfYHSdwhL8ZoA">](https://music.youtube.com/watch?v=-3mNDb5HWVo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YKKyMgg_8dQb8yvYkJfDgI-AiYX9dgS2P8qROWy1fRFODzlnhcHkOi3m5tSn86atDzxPghtlcPc4l24">](https://music.youtube.com/watch?v=qKkCXYXYBWI)
 
-민수 (MINSU) 및 Collective Arts - 춤 Chum
+민수 - Perfect Time
 
-**Albums**: Note#6
+**Albums**: NOW NOW
 
-Last updated at 12/21/2022 20:43
+Last updated at 12/21/2022 20:47
 
 ## Badges
 
