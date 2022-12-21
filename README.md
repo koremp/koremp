@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mp4W3HJouLPJJp7lcxRSdKBbMqv8PclDmxnty084KjAgSMSKAHqub0bXcv3OvENlSOS9y1uG3UpSrFbh">](https://music.youtube.com/watch?v=NK1wN-25t8E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UqM0LJUWct-Y4oiZo8Y8p43-b8AqzKJSTw9Zjmu3Dw-BnGbNQUe651_xxe06G1w4PcaBqRIontupEvbebg">](https://music.youtube.com/watch?v=AzsbRHMRroA)
 
-박소은 - 부러운 사람 Enviable
+박소은 - 반복되는 모든 게 날 괴롭게 해요
 
-**Albums**: 일기 Diary
+**Albums**: 반복되는 모든 게 날 괴롭게 해요
 
-Last updated at 12/21/2022 22:03
+Last updated at 12/21/2022 22:08
 
 ## Badges
 
