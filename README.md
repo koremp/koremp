@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YKKyMgg_8dQb8yvYkJfDgI-AiYX9dgS2P8qROWy1fRFODzlnhcHkOi3m5tSn86atDzxPghtlcPc4l24">](https://music.youtube.com/watch?v=wmUB0coscjw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cDiONIA_cqST8nTUOKxwHU8Bq26MWHIs1vPhnB_OVml_3M_C4kOKcjeyEh-Ft3VY7qnRFFk46ESRmGch">](https://music.youtube.com/watch?v=KM8jo1yCVKc)
 
-민수 - No worries, I'm good
+민수 (MINSU) - 섬 Islet
 
-**Albums**: NOW NOW
+**Albums**: 섬 Islet
 
-Last updated at 12/21/2022 20:25
+Last updated at 12/21/2022 20:27
 
 ## Badges
 
