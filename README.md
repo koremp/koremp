@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=NfbGuQ-vqGc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QptEDgp895ZrFvCMIxJxeSma9VgP7rsM8GDeZEGADZabOhllX0ZpgLrSUfUHHZLGAHwsK8Y2VGFBSqMi">](https://music.youtube.com/watch?v=TphqUiUMb-g)
 
-김뜻돌 - 실패하지 않는 사랑이 있나요
+김뜻돌 - Psychomania
 
-**Albums**: 꿈에서 걸려온 전화
+**Albums**: Psychomania
 
-Last updated at 12/22/2022 00:03
+Last updated at 12/22/2022 00:07
 
 ## Badges
 
