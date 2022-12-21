@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h9jRt0VSi5tKL77NFsPD6F52XPH8ZjuSn6ieofJ_O0d5Y0WY2PEVmk1A-CvDGKGyevQJkWrDB2JYq9qw">](https://music.youtube.com/watch?v=aXtuaAZ28MM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/U90UA97HiVjAlUStqeRuc92YiPP1rTx95CsXf3xuFJ3TEq4EHyurAp2iOVDOCv-1CorC9AlK1_rpamLxHA">](https://music.youtube.com/watch?v=YsPwe1DXdEE)
 
-박소은 - 위성에게 Satellite
+박소은 - 말리부오렌지
 
-**Albums**: 위성에게 Satellite
+**Albums**: 말리부오렌지
 
-Last updated at 12/21/2022 22:29
+Last updated at 12/21/2022 22:33
 
 ## Badges
 
