@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=1jMKERiqBSo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsKRGdJdubNmpx-f5r1GSL9vknmVtv1tAYu4WGmKZYoke-g0i5SKxRFnPY8HxIx9TEkAqMIPX6JkBplG">](https://music.youtube.com/watch?v=OsfAnsMY21M)
 
-김뜻돌 - 보물찾기
+두아 리파 - Levitating
 
-**Albums**: 꿈에서 걸려온 전화
+**Albums**: Future Nostalgia
 
-Last updated at 12/22/2022 00:37
+Last updated at 12/22/2022 01:56
 
 ## Badges
 
