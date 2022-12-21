@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/U90UA97HiVjAlUStqeRuc92YiPP1rTx95CsXf3xuFJ3TEq4EHyurAp2iOVDOCv-1CorC9AlK1_rpamLxHA">](https://music.youtube.com/watch?v=YsPwe1DXdEE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=YinwWyseTsI)
 
-박소은 - 말리부오렌지
+박소은 - 왠지 Somehow
 
-**Albums**: 말리부오렌지
+**Albums**: 고강동 Gogangdong
 
-Last updated at 12/21/2022 22:33
+Last updated at 12/21/2022 22:35
 
 ## Badges
 
