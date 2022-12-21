@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=YinwWyseTsI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=dfGLywBFABY)
 
-박소은 - 왠지 Somehow
+박소은 - 좀 더 살아 보려구요 Gonna Live A Bit More
 
 **Albums**: 고강동 Gogangdong
 
-Last updated at 12/21/2022 22:35
+Last updated at 12/21/2022 22:38
 
 ## Badges
 
