@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=_3un5d2TknQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=kju-LNHHFl0)
 
-박소은 - 반복되는 모든 게 날 괴롭게 해요
+박소은 - 고전적 조건형성
 
 **Albums**: 재활용
 
-Last updated at 12/21/2022 21:17
+Last updated at 12/21/2022 21:19
 
 ## Badges
 
