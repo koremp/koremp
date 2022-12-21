@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7vAsuVmMb0SBsFYbVcVZiSFoM6sXnsg06F3PQNfEc8u-8qVYYzWFcTpS8J3ZdASVr1ZmmXduRsebLytvzg">](https://music.youtube.com/watch?v=fT97b0Wzj_8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7vAsuVmMb0SBsFYbVcVZiSFoM6sXnsg06F3PQNfEc8u-8qVYYzWFcTpS8J3ZdASVr1ZmmXduRsebLytvzg">](https://music.youtube.com/watch?v=z_DckK9k3cA)
 
-김뜻돌 - 중요해
+김뜻돌 - 훨훨
 
 **Albums**: COBALT
 
-Last updated at 12/22/2022 00:11
+Last updated at 12/22/2022 00:15
 
 ## Badges
 
