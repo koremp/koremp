@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=vJncFJVJjCA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=grfc0mYG3Gk)
 
-박소은 - 그래서 그랬던 거야
+박소은 - Whiskey n Whiskey
 
 **Albums**: 재활용
 
-Last updated at 12/21/2022 21:03
+Last updated at 12/21/2022 21:07
 
 ## Badges
 
