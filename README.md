@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CwrfrvHZenos-Fzb34gHLwMGMHXwLXekNBezjn5ZTsv_QDbdKSaw7HneUpzu_C7NWHQ_M8RT6fMjDh9H">](https://music.youtube.com/watch?v=kTVZpyrxaII)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mp4W3HJouLPJJp7lcxRSdKBbMqv8PclDmxnty084KjAgSMSKAHqub0bXcv3OvENlSOS9y1uG3UpSrFbh">](https://music.youtube.com/watch?v=yNah5exgqpI)
 
-박소은 - 눈을 맞춰 술잔을 채워 See The Eyes, Fill It Up The Glass
+박소은 - 일기 Diary
 
-**Albums**: 눈을 맞춰 술잔을 채워 See The Eyes, Fill It Up The Glass
+**Albums**: 일기 Diary
 
-Last updated at 12/21/2022 21:39
+Last updated at 12/21/2022 21:43
 
 ## Badges
 
