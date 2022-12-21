@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/watch?v=ZqYGW8uXL0I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UqM0LJUWct-Y4oiZo8Y8p43-b8AqzKJSTw9Zjmu3Dw-BnGbNQUe651_xxe06G1w4PcaBqRIontupEvbebg">](https://music.youtube.com/watch?v=AzsbRHMRroA)
 
-두아 리파 - New Rules
+박소은 - 반복되는 모든 게 날 괴롭게 해요
 
-**Albums**: Dua Lipa (Deluxe)
+**Albums**: 반복되는 모든 게 날 괴롭게 해요
 
-Last updated at 12/22/2022 02:00
+Last updated at 12/22/2022 02:02
 
 ## Badges
 
