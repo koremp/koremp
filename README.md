@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CKUCR6C4grAkigS-_mr9q95bhS7rqhpTuPzLM_2iMoI-Z1zkSLdOmC8CcSTNqp-u73w_UDPgGxTUO-AC">](https://music.youtube.com/watch?v=hoa0fT2iw9U)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=grfc0mYG3Gk)
 
-박소은 - 별게 다 궁금하지
+박소은 - Whiskey n Whiskey
 
-**Albums**: 별게 다 궁금하지
+**Albums**: 재활용
 
-Last updated at 12/21/2022 22:13
+Last updated at 12/21/2022 22:17
 
 ## Badges
 
