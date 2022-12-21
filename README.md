@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7vAsuVmMb0SBsFYbVcVZiSFoM6sXnsg06F3PQNfEc8u-8qVYYzWFcTpS8J3ZdASVr1ZmmXduRsebLytvzg">](https://music.youtube.com/watch?v=z_DckK9k3cA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qtVwNIWTZWxuIMbzpdvxpxeTHYbfQt70HK6nhQxP5wczkBUV6Z2Qvhlx9tU25upOKdMY2tL7xARvUIBf">](https://music.youtube.com/watch?v=iHQw5CMEJFQ)
 
-김뜻돌 - 훨훨
+김뜻돌 - Kiddo
 
-**Albums**: COBALT
+**Albums**: Kiddo
 
-Last updated at 12/22/2022 00:15
+Last updated at 12/22/2022 00:19
 
 ## Badges
 
