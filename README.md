@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=FgpXka7Idjo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/h9jRt0VSi5tKL77NFsPD6F52XPH8ZjuSn6ieofJ_O0d5Y0WY2PEVmk1A-CvDGKGyevQJkWrDB2JYq9qw">](https://music.youtube.com/watch?v=aXtuaAZ28MM)
 
-박소은 - 인생이 박살나던 순간 Life Things All Fall Apart
+박소은 - 위성에게 Satellite
 
-**Albums**: 고강동 Gogangdong
+**Albums**: 위성에게 Satellite
 
-Last updated at 12/21/2022 22:25
+Last updated at 12/21/2022 22:29
 
 ## Badges
 
