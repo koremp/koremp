@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BwDoJ-1Qb1YsC4CjZrE21r_onkl_Py0nu4lFHMNBoAuPmSMVGx5y0c4O7O20CFF4Ubheol9zDZ2He58haA">](https://music.youtube.com/watch?v=M8J7SoRuDUc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2ME5t07E7wjwSPsrsDHysBTVXGejv4etYIFCKkXHltww7kxLXFY_dlrd1n1cQgBRQHenzHPeEVQXMylU">](https://music.youtube.com/watch?v=_h3jf-VwJwM)
 
-김뜻돌 - 사라져(feat. 사뮈)
+Meaningful Stone - If I Grow Up 어른이 된다면
 
-**Albums**: 사라져
+**Albums**: If I Grow Up 어른이 된다면
 
-Last updated at 12/22/2022 00:25
+Last updated at 12/22/2022 00:29
 
 ## Badges
 
