@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=Gs5123rH4GA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=FgpXka7Idjo)
 
-박소은 - 너와 가장 먼 곳에서 Furthest Place From You
+박소은 - 인생이 박살나던 순간 Life Things All Fall Apart
 
 **Albums**: 고강동 Gogangdong
 
-Last updated at 12/21/2022 22:21
+Last updated at 12/21/2022 22:25
 
 ## Badges
 
