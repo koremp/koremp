@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UqM0LJUWct-Y4oiZo8Y8p43-b8AqzKJSTw9Zjmu3Dw-BnGbNQUe651_xxe06G1w4PcaBqRIontupEvbebg">](https://music.youtube.com/watch?v=AzsbRHMRroA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S3uSEtUWReY24Og72vi76ewO7HRxBBf4z3DqtKKHEE3vGNJQVMr58lIu2mXLLs_fYTP1uvdVUwRn3NI4">](https://music.youtube.com/watch?v=1Qua5l9SbqE)
 
-박소은 - 반복되는 모든 게 날 괴롭게 해요
+손 럭스 - Dangerous
 
-**Albums**: 반복되는 모든 게 날 괴롭게 해요
+**Albums**: Remedy
 
-Last updated at 12/22/2022 02:02
+Last updated at 12/22/2022 02:06
 
 ## Badges
 
