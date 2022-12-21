@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=erQiZWvmUk8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=5_mD78Of53g)
 
-박소은 - 기억나지 않는 것들
+김뜻돌 - 꿈에서 걸려온 전화
 
-**Albums**: 재활용
+**Albums**: 꿈에서 걸려온 전화
 
-Last updated at 12/21/2022 22:48
+Last updated at 12/21/2022 23:51
 
 ## Badges
 
