@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qtVwNIWTZWxuIMbzpdvxpxeTHYbfQt70HK6nhQxP5wczkBUV6Z2Qvhlx9tU25upOKdMY2tL7xARvUIBf">](https://music.youtube.com/watch?v=iHQw5CMEJFQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BwDoJ-1Qb1YsC4CjZrE21r_onkl_Py0nu4lFHMNBoAuPmSMVGx5y0c4O7O20CFF4Ubheol9zDZ2He58haA">](https://music.youtube.com/watch?v=M8J7SoRuDUc)
 
-김뜻돌 - Kiddo
+김뜻돌 - 사라져(feat. 사뮈)
 
-**Albums**: Kiddo
+**Albums**: 사라져
 
-Last updated at 12/22/2022 00:19
+Last updated at 12/22/2022 00:25
 
 ## Badges
 
