@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=5_mD78Of53g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7vAsuVmMb0SBsFYbVcVZiSFoM6sXnsg06F3PQNfEc8u-8qVYYzWFcTpS8J3ZdASVr1ZmmXduRsebLytvzg">](https://music.youtube.com/watch?v=_BGj7QH0DpI)
 
-김뜻돌 - 꿈에서 걸려온 전화
+김뜻돌 - COBALT
 
-**Albums**: 꿈에서 걸려온 전화
+**Albums**: COBALT
 
-Last updated at 12/21/2022 23:51
+Last updated at 12/21/2022 23:55
 
 ## Badges
 
