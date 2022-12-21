@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=Lv3PLQ0VYGU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=w2bRIa1LMMI)
 
-박소은 - 너의 농담
+박소은 - 너는 나의 문학 You Are My Literature
 
-**Albums**: 재활용
+**Albums**: 고강동 Gogangdong
 
-Last updated at 12/21/2022 21:31
+Last updated at 12/21/2022 21:35
 
 ## Badges
 
