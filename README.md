@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fH3ZWb4t6MzVzT7Sud7u9l1rdgu8fKhK7hNwCwXCe6UQks-VRDndCSKv-VaeBath_NvDOBY-W4PfEJM">](https://music.youtube.com/watch?v=O_2IsiNmvVw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/O1mvTz_kKQ7xR4tV3PuL3a_WzRYD2S8HVXTlKmQtlzZl4HsQ9v17cPPCIq61U_UEIP_9CxMT1f2lddk">](https://music.youtube.com/watch?v=h1NrZ2WjeNw)
 
-김사월 - 사랑하는 사람들에게 가장 상처 주는 키를 우리는 모두 가지고 있어
+김사월 - Suzanne 수잔
 
-**Albums**: 1202
+**Albums**: Suzanne 수잔
 
-Last updated at 12/22/2022 14:15
+Last updated at 12/22/2022 14:24
 
 ## Badges
 
