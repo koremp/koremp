@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=vx7-mBCUFnk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/U9xcqeWAKWexB3c7mjCF73oL3yaQtxvR7xsSOiuH8K114yn8EmEXLmG2ix6hXaPmtjaJtbyCMd7HN1WA">](https://music.youtube.com/watch?v=Q7VNqAV9Rps)
 
-이랑 - 늑대가 나타났다
+새소년 - The Wave 파도
 
-**Albums**: 늑대가 나타났다
+**Albums**: The Wave 파도
 
-Last updated at 12/22/2022 14:03
+Last updated at 12/22/2022 14:07
 
 ## Badges
 
