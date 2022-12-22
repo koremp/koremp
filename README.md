@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/O1mvTz_kKQ7xR4tV3PuL3a_WzRYD2S8HVXTlKmQtlzZl4HsQ9v17cPPCIq61U_UEIP_9CxMT1f2lddk">](https://music.youtube.com/watch?v=TURfQ2tzPS8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/O1mvTz_kKQ7xR4tV3PuL3a_WzRYD2S8HVXTlKmQtlzZl4HsQ9v17cPPCIq61U_UEIP_9CxMT1f2lddk">](https://music.youtube.com/watch?v=wPzxBri4CJA)
 
-김사월 - Exhale 콧바람
+김사월 - Signal 접속
 
 **Albums**: Suzanne 수잔
 
-Last updated at 12/22/2022 14:30
+Last updated at 12/22/2022 14:34
 
 ## Badges
 
