@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/G5BJ35MVUR1FY1UbswJdJUZQK6WynLqI4OZTWw76vERV4V9WiPUllt4ZEz297GKqcqZsbPqzJomJfW0">](https://music.youtube.com/watch?v=Ezezf4mlZF8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fH3ZWb4t6MzVzT7Sud7u9l1rdgu8fKhK7hNwCwXCe6UQks-VRDndCSKv-VaeBath_NvDOBY-W4PfEJM">](https://music.youtube.com/watch?v=O_2IsiNmvVw)
 
-혁오(HYUKOH) - Graduation
+김사월 - 사랑하는 사람들에게 가장 상처 주는 키를 우리는 모두 가지고 있어
 
-**Albums**: 24 : How to find true love and happiness
+**Albums**: 1202
 
-Last updated at 12/22/2022 14:11
+Last updated at 12/22/2022 14:15
 
 ## Badges
 
