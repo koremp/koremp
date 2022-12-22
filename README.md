@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/U9xcqeWAKWexB3c7mjCF73oL3yaQtxvR7xsSOiuH8K114yn8EmEXLmG2ix6hXaPmtjaJtbyCMd7HN1WA">](https://music.youtube.com/watch?v=Q7VNqAV9Rps)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/G5BJ35MVUR1FY1UbswJdJUZQK6WynLqI4OZTWw76vERV4V9WiPUllt4ZEz297GKqcqZsbPqzJomJfW0">](https://music.youtube.com/watch?v=Ezezf4mlZF8)
 
-새소년 - The Wave 파도
+혁오(HYUKOH) - Graduation
 
-**Albums**: The Wave 파도
+**Albums**: 24 : How to find true love and happiness
 
-Last updated at 12/22/2022 14:07
+Last updated at 12/22/2022 14:11
 
 ## Badges
 
