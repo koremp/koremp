@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Db-sR_o7sTisq8GjCq91avgRPi-hX8PxjGBdvomlnz7pCbpOPhKHzTaC0YHEQGfTNB2aRnRbbLRlH0q7">](https://music.youtube.com/watch?v=_g3vxL400l0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M4tkwcaofJe-x8YPwzOGItVWL-pEl_6-ssejMrnukuPw84AEDvE0Nq8pymjOsFdV1KXI54DeCjUJvkY">](https://music.youtube.com/watch?v=MK_Su-gQ7SQ)
 
-실리카겔 - Desert Eagle
+보수동쿨러 - Kill Me 죽여줘
 
-**Albums**: Desert Eagle
+**Albums**: Kill Me 죽여줘
 
-Last updated at 12/22/2022 13:41
+Last updated at 12/22/2022 13:47
 
 ## Badges
 
