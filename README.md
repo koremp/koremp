@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-V2vyRArXHs-MopfpULVmDC7amR_plX0qmZUnMeXLLKNejenmiaqTzqAwB78DLHhnjwngmrfbYgaK0l8eA">](https://music.youtube.com/watch?v=U31mUH2DnWk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kgZOa1HfEdx7o2JVOBoj9nljMPc6uOpc1xJFvyy7BFv7Bbr7sEWDB2T-sk5J2f46OLV3vqhMUsbBtS_a">](https://music.youtube.com/watch?v=Eqzn9M9Ub5g)
 
-실리카겔 - NO PAIN
+술탄 오브 더 디스코 - Hide Out 사라지는 꿈
 
-**Albums**: NO PAIN
+**Albums**: Aliens
 
-Last updated at 12/22/2022 13:51
+Last updated at 12/22/2022 13:55
 
 ## Badges
 
