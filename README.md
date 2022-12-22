@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M4tkwcaofJe-x8YPwzOGItVWL-pEl_6-ssejMrnukuPw84AEDvE0Nq8pymjOsFdV1KXI54DeCjUJvkY">](https://music.youtube.com/watch?v=MK_Su-gQ7SQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-V2vyRArXHs-MopfpULVmDC7amR_plX0qmZUnMeXLLKNejenmiaqTzqAwB78DLHhnjwngmrfbYgaK0l8eA">](https://music.youtube.com/watch?v=U31mUH2DnWk)
 
-보수동쿨러 - Kill Me 죽여줘
+실리카겔 - NO PAIN
 
-**Albums**: Kill Me 죽여줘
+**Albums**: NO PAIN
 
-Last updated at 12/22/2022 13:47
+Last updated at 12/22/2022 13:51
 
 ## Badges
 
