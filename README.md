@@ -2,13 +2,13 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S3uSEtUWReY24Og72vi76ewO7HRxBBf4z3DqtKKHEE3vGNJQVMr58lIu2mXLLs_fYTP1uvdVUwRn3NI4">](https://music.youtube.com/watch?v=1Qua5l9SbqE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Db-sR_o7sTisq8GjCq91avgRPi-hX8PxjGBdvomlnz7pCbpOPhKHzTaC0YHEQGfTNB2aRnRbbLRlH0q7">](https://music.youtube.com/watch?v=_g3vxL400l0)
 
-손 럭스 - Dangerous
+실리카겔 - Desert Eagle
 
-**Albums**: Remedy
+**Albums**: Desert Eagle
 
-Last updated at 12/22/2022 02:06
+Last updated at 12/22/2022 13:41
 
 ## Badges
 
