@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/s7OfLLkq-773i4R8j9H6-Y7MY3b6bXNG6BkAakHT87pbEsJrMp_qBM7bUKDmBUvqCOrto2IxR6sm3Luo">](https://music.youtube.com/watch?v=aFoqCI75WoY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/z9CRcjqBFHC_GY3p9pAfuTd1BuG-02DsmpcHm5CoyV_WFVnK0rcuYHdPSW-zjo_WlKiZv_vByOT-X0yOqQ">](https://music.youtube.com/watch?v=miqQAzOXPBo)
 
-(G)I-DLE - TOMBOY
+ITZY - 달라달라 DALLA DALLA
 
-**Albums**: I NEVER DIE
+**Albums**: IT'z Different
 
-Last updated at 12/28/2022 12:10
+Last updated at 12/28/2022 12:12
