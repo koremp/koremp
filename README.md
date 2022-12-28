@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/z9CRcjqBFHC_GY3p9pAfuTd1BuG-02DsmpcHm5CoyV_WFVnK0rcuYHdPSW-zjo_WlKiZv_vByOT-X0yOqQ">](https://music.youtube.com/watch?v=miqQAzOXPBo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0k_u5oGZBtfPplIXhZ1FKJqny8H-EF66U7hDPtoFqOg3A9-eJc6qHPKbKv0EbkBE1VzShL6BSFl27GwD">](https://music.youtube.com/watch?v=58IEh6YkuzQ)
 
-ITZY - 달라달라 DALLA DALLA
+윤하 (YOUNHA) - 오르트구름
 
-**Albums**: IT'z Different
+**Albums**: END THEORY
 
-Last updated at 12/28/2022 12:12
+Last updated at 12/28/2022 12:16
