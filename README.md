@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvjaEL_h0fOHl8ssUHspQNmR7AmgHWHnBo1MjHS5GRxubKz7rDL8aZSYIBwabn2Y7r8mtx816yHAZ1A">](https://music.youtube.com/watch?v=jxM5V0FBxFs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=syYqQoE5Rbo)
 
-Red Velvet - 피카부 (Peek-A-Boo)
+aespa - YEPPI YEPPI
 
-**Albums**: Perfect Velvet
+**Albums**: Savage - The 1st Mini Album
 
-Last updated at 12/28/2022 11:56
+Last updated at 12/28/2022 12:00
