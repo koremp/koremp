@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dYY-1d-KOJjCVlP2uqR7jNHncs1o9cQyMQ-0TmCyAmm6mNJZJQNIYFDyzbqTPxYM72u3XZjQGJXWCqtp">](https://music.youtube.com/watch?v=VxOe-eXhhCc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/s7OfLLkq-773i4R8j9H6-Y7MY3b6bXNG6BkAakHT87pbEsJrMp_qBM7bUKDmBUvqCOrto2IxR6sm3Luo">](https://music.youtube.com/watch?v=aFoqCI75WoY)
 
-여자친구(GFRIEND) - 밤
+(G)I-DLE - TOMBOY
 
-**Albums**: Time for the moon night
+**Albums**: I NEVER DIE
 
-Last updated at 12/28/2022 12:06
+Last updated at 12/28/2022 12:10
