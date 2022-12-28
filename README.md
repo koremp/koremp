@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ql1fy4aKaaJfHm1DKrdrT7CCWkZZ_h8Pl0zkWzRDW8yy00s5OLQNyG8U6i9eQH61xUZOZpfkwgy0pdUF">](https://music.youtube.com/watch?v=2liouJt4lRY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9QDp6gHp7Of_b0Yyo_ASkN4N4246NzYn_9mewcAy73AqcSaRnfAzkJiIlMV3P-UJCuTa3fYx9ZVMUo07">](https://music.youtube.com/watch?v=eLJKQg0Wv6U)
 
-아이즈원 - 앞으로 잘 부탁해 (IZ*ONE ver.)
+NMIXX - Kiss
 
-**Albums**: COLOR*IZ
+**Albums**: Kiss
 
-Last updated at 12/28/2022 12:20
+Last updated at 12/28/2022 12:22
