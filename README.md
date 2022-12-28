@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0k_u5oGZBtfPplIXhZ1FKJqny8H-EF66U7hDPtoFqOg3A9-eJc6qHPKbKv0EbkBE1VzShL6BSFl27GwD">](https://music.youtube.com/watch?v=58IEh6YkuzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ql1fy4aKaaJfHm1DKrdrT7CCWkZZ_h8Pl0zkWzRDW8yy00s5OLQNyG8U6i9eQH61xUZOZpfkwgy0pdUF">](https://music.youtube.com/watch?v=2liouJt4lRY)
 
-윤하 (YOUNHA) - 오르트구름
+아이즈원 - 앞으로 잘 부탁해 (IZ*ONE ver.)
 
-**Albums**: END THEORY
+**Albums**: COLOR*IZ
 
-Last updated at 12/28/2022 12:16
+Last updated at 12/28/2022 12:20
