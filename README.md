@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=syYqQoE5Rbo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tBZmXuOzr1QFLYpf5KdSZTj47roSX69v5aoHOkWI09aiBR0xEs5Eyu-UXml-fXFj4uL2mQxbct1nL1O_">](https://music.youtube.com/watch?v=35Qzgl-Kgg8)
 
-aespa - YEPPI YEPPI
+fromis_9(프로미스_9) - Mulgogi
 
-**Albums**: Savage - The 1st Mini Album
+**Albums**: My Little Society
 
-Last updated at 12/28/2022 12:00
+Last updated at 12/28/2022 12:02
