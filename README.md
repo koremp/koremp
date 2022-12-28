@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8iS1XD6ZH8mOW1N1RrNIoEkJpYCyXKf1n0HJeDhxmOj0XVH3b0HUoUrgDz_4i9fw4LSMBEL44mR_MOo">](https://music.youtube.com/watch?v=QT60l6MSoz8)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCWRCpIlFQYWr3v0V6fZu97Q)
 
-fromis_9 - DM
 
-**Albums**: Midnight Guest
+  
+    viagra boys
+  
+  
+  
+    viagra boys
+  
 
-Last updated at 12/28/2022 12:34
+
+
+
+  공식 아티스트 채널
+
+
+ - Baby Criminal
+
+**Albums**: Not supported
+
+Last updated at 12/28/2022 15:03
