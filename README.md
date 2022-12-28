@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WRufw5BShO1w4Wosdlta1K6N5Dq8oIIMPrVWZ4-0Psmip1Gpo-qALfXmK3Gnp0CkHpgF7_GviK25GHiA0g">](https://music.youtube.com/watch?v=z9Ig9Wmhab8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8iS1XD6ZH8mOW1N1RrNIoEkJpYCyXKf1n0HJeDhxmOj0XVH3b0HUoUrgDz_4i9fw4LSMBEL44mR_MOo">](https://music.youtube.com/watch?v=QT60l6MSoz8)
 
-STAYC - POPPY
+fromis_9 - DM
 
-**Albums**: POPPY
+**Albums**: Midnight Guest
 
-Last updated at 12/28/2022 12:32
+Last updated at 12/28/2022 12:34
