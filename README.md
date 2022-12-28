@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8iS1XD6ZH8mOW1N1RrNIoEkJpYCyXKf1n0HJeDhxmOj0XVH3b0HUoUrgDz_4i9fw4LSMBEL44mR_MOo">](https://music.youtube.com/watch?v=QT60l6MSoz8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jRELX5qAew8CuPt1mAzv_51WgcWjY08kCbK051wB4MX8B_4K9CgUVX5YHqxRwPoFhoNQZ69vbY03tL6S">](https://music.youtube.com/watch?v=hh5GKVa8VtM)
 
-fromis_9 - DM
+IVE (아이브) - LOVE DIVE
 
-**Albums**: Midnight Guest
+**Albums**: LOVE DIVE
 
-Last updated at 12/28/2022 11:32
+Last updated at 12/28/2022 11:36
