@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BJSXLMa6L0PJ2Dq6pyPJsVo2gTUmm5bFWkT4eMIeuA8SzPujw0zKFiI0_cT4ro9AC3lVvU90Lm-Z-No">](https://music.youtube.com/watch?v=6ZL9CsBl4ME)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WRufw5BShO1w4Wosdlta1K6N5Dq8oIIMPrVWZ4-0Psmip1Gpo-qALfXmK3Gnp0CkHpgF7_GviK25GHiA0g">](https://music.youtube.com/watch?v=z9Ig9Wmhab8)
 
-TAEYONG, JENO, HENDERY, YANGYANG 및 GISELLE - ZOO
+STAYC - POPPY
 
-**Albums**: 2021 Winter SMTOWN : SMCU EXPRESS
+**Albums**: POPPY
 
-Last updated at 12/28/2022 12:30
+Last updated at 12/28/2022 12:32
