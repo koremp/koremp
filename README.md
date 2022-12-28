@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/C5m5SYqUm1EW-AZT7TP8VUAXkJzbBNOcyiF_9ddvFTfcsU9Epx8FOjbKPk4pXev3LBpwJy006rtPent4">](https://music.youtube.com/watch?v=-uOShlFu1v8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8iS1XD6ZH8mOW1N1RrNIoEkJpYCyXKf1n0HJeDhxmOj0XVH3b0HUoUrgDz_4i9fw4LSMBEL44mR_MOo">](https://music.youtube.com/watch?v=QT60l6MSoz8)
 
-ITZY - SNEAKERS
+fromis_9 - DM
 
-**Albums**: CHECKMATE
+**Albums**: Midnight Guest
 
-Last updated at 12/28/2022 11:50
+Last updated at 12/28/2022 11:52
