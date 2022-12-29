@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/s0UqxCim81jX8atL8Eh0q_X8v9cHlP0w2aHzKmlXcyxpQ0fzTT7pvo3MJZ0tK3Z1qLTH-sEwfEv7cattXw">](https://music.youtube.com/watch?v=SsaFBNvhceA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SXiO2cCS-20hkxVgr-VGx-IT9xchv4wSRvEPnXgWpOko-YNYtdBsll3pKoxfGgAtaZKxRjIsrXFb3JRH">](https://music.youtube.com/watch?v=SRQ7-eSGBWc)
 
-Led Zeppelin - Kashmir
+Led Zeppelin(레드 제플린) - Rock and Roll (Remaster)
 
-**Albums**: Physical Graffiti
+**Albums**: Led Zeppelin IV (Deluxe Edition)
 
-Last updated at 12/29/2022 15:01
+Last updated at 12/29/2022 15:11
