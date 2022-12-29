@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCWRCpIlFQYWr3v0V6fZu97Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
 
   
-    viagra boys
+    Bomsori 김봄소리
   
   
   
-    viagra boys
+    Bomsori 김봄소리
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Baby Criminal
+ - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 12/28/2022 15:03
+Last updated at 12/29/2022 14:41
