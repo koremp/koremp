@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3pSmEJHaiESTU61aZfkobVrQfubuua5_q9isiAmDtRDemuMPlPcP0mpi6Ch3CQTcC6kuzLhzo7p2uMU">](https://music.youtube.com/watch?v=5eHkjPCGXKQ)
 
+Led Zeppelin(레드 제플린) - Immigrant Song (Remaster)
 
-  
-    Bomsori 김봄소리
-  
-  
-  
-    Bomsori 김봄소리
-  
+**Albums**: Led Zeppelin III (Remaster)
 
-
-
-
-  공식 아티스트 채널
-
-
- - 브람스 바이올린 협주곡 라장조, 작품 77- 김봄소리
-
-**Albums**: Not supported
-
-Last updated at 12/29/2022 14:41
+Last updated at 12/29/2022 14:59
