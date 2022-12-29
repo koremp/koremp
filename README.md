@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3pSmEJHaiESTU61aZfkobVrQfubuua5_q9isiAmDtRDemuMPlPcP0mpi6Ch3CQTcC6kuzLhzo7p2uMU">](https://music.youtube.com/watch?v=5eHkjPCGXKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/s0UqxCim81jX8atL8Eh0q_X8v9cHlP0w2aHzKmlXcyxpQ0fzTT7pvo3MJZ0tK3Z1qLTH-sEwfEv7cattXw">](https://music.youtube.com/watch?v=SsaFBNvhceA)
 
-Led Zeppelin(레드 제플린) - Immigrant Song (Remaster)
+Led Zeppelin - Kashmir
 
-**Albums**: Led Zeppelin III (Remaster)
+**Albums**: Physical Graffiti
 
-Last updated at 12/29/2022 14:59
+Last updated at 12/29/2022 15:01
