@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/40AyOaByJjuvOgTwFOEnYwcgyTzsCuAwm1v2RQr63HDQ-6lhx3vYXKyif82caAyGFFrXr1Bgf4gZ6QV8">](https://music.youtube.com/watch?v=EQhJVjgtdmQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q8gmaCOnEu0xSA5rA865ku98WTGvsY2gN5kuzTiXZTQ6-aBtM_DtLwEsHw8zb98lvpZ0ON4d_oECEck">](https://music.youtube.com/watch?v=N-knkNbHZZ8)
 
-정우 - 전야 Send My Love
+정우 - 연가 Love song
 
-**Albums**: 제비다방 컴필레이션 Jebidabang Compilation 2019/2020
+**Albums**: 연가 Love song
 
-Last updated at 12/31/2022 17:55
+Last updated at 12/31/2022 17:59
