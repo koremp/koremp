@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=grfc0mYG3Gk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CKUCR6C4grAkigS-_mr9q95bhS7rqhpTuPzLM_2iMoI-Z1zkSLdOmC8CcSTNqp-u73w_UDPgGxTUO-AC">](https://music.youtube.com/watch?v=hoa0fT2iw9U)
 
-박소은 - Whiskey n Whiskey
+박소은 - 별게 다 궁금하지
 
-**Albums**: 재활용
+**Albums**: 별게 다 궁금하지
 
-Last updated at 12/31/2022 15:17
+Last updated at 12/31/2022 15:19
