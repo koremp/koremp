@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/St5fueudjmFfZbCxhnM_3PKLQ-yhuIYhD1R8c0oKx8PY69GNTnMgvJSN_peJ4QGj0eGykeiN-QiXoTmx">](https://music.youtube.com/watch?v=qMde_lUNANY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vwiqw7Gcx-JgBJMp5QF8D22sXzflwsX2z7ARKrMiUpXenNDJY9PCucUJcaKXSMfSXxSBrtMlf1ETQgeO">](https://music.youtube.com/watch?v=C9hqwSZWE7M)
 
-Yerin Baek - That’s why
+정우 - 양
 
-**Albums**: FRANK
+**Albums**: 양｜종말
 
-Last updated at 12/31/2022 17:31
+Last updated at 12/31/2022 17:35
