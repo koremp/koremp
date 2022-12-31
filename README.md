@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=bfei-IPNtZw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=GO5mvFnI0o0)
 
-박소은 - 우린 버려졌다가 주워져
+박소은 - 생각을 해보니 Come To Think Of It
 
-**Albums**: 재활용
+**Albums**: 고강동 Gogangdong
 
-Last updated at 12/31/2022 15:57
+Last updated at 12/31/2022 16:02
