@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW84fF54Njy0k4RiEVDoNIIhY6dVru7lrZeNbgRv6J5-OkxxCje4tDBGTyYYTT9DP-xPY3fhA_g5f04">](https://music.youtube.com/watch?v=Lod5NQzw6P0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LZ4HnwZae5O1HtH5-BbByOHZD4tC8Af995Yer0OGzAL3HT7t9IEk8_P-bTBOuSSdeNJf9DnjLHhXtUc">](https://music.youtube.com/watch?v=T9j7bUGG9hk)
 
-민수 (MINSU) - I Like Me
+김사월 - 너만큼
 
-**Albums**: I Like Me
+**Albums**: 너만큼
 
-Last updated at 12/31/2022 17:10
+Last updated at 12/31/2022 17:12
