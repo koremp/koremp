@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=mgtcqsnHlbg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mp4W3HJouLPJJp7lcxRSdKBbMqv8PclDmxnty084KjAgSMSKAHqub0bXcv3OvENlSOS9y1uG3UpSrFbh">](https://music.youtube.com/watch?v=U-KOe66sdaQ)
 
-박소은 - 아니어도 돼
+박소은 - 뭐라고 말을 꺼낼까 Don't Know What To Say
 
-**Albums**: 재활용
+**Albums**: 일기 Diary
 
-Last updated at 12/31/2022 16:26
+Last updated at 12/31/2022 16:30
