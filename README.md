@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=spzWtPQhREw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mp4W3HJouLPJJp7lcxRSdKBbMqv8PclDmxnty084KjAgSMSKAHqub0bXcv3OvENlSOS9y1uG3UpSrFbh">](https://music.youtube.com/watch?v=g-Hiqc1-S7g)
 
-박소은 - 슬리퍼
+박소은 - 눈을 가려줘 Put Your Hand On My Eyes
 
-**Albums**: 재활용
+**Albums**: 일기 Diary
 
-Last updated at 12/31/2022 16:04
+Last updated at 12/31/2022 16:08
