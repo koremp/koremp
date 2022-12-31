@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=eb4JJQ5VfPk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=Lv3PLQ0VYGU)
 
-박소은 - 너
+박소은 - 너의 농담
 
 **Albums**: 재활용
 
-Last updated at 12/31/2022 16:18
+Last updated at 12/31/2022 16:22
