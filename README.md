@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZFznpMZLd-XN0vM608ZaLtlkS-hj-mUzOVROn48NeinGJBGjDHewaSirt5M9t7xHXazjtI0mNkeXNOYx">](https://music.youtube.com/watch?v=JRpgH8IIKHM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/61QT2zu_B6ieG4cOFJ0LPLo8ZTtZj4FNJqRwuZy-DN8tLZ9-C3zaAn-69gI69mQAw4VIe8_mSvslh2FQ">](https://music.youtube.com/watch?v=hLsFTHrBaX0)
 
-윤지영 - Blue bird
+보수동쿨러 - 모래
 
-**Albums**: Blue bird
+**Albums**: 모래
 
-Last updated at 12/31/2022 17:23
+Last updated at 12/31/2022 17:27
