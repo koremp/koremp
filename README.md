@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zKhdLTN3J7JGi2OF2zV610bhyw_Ufz3chOWtz6CloWAIZ63aSRe3izfU0Ru-ArvGSpEhAaqh29Dd5oM">](https://music.youtube.com/watch?v=HzC62mHHKQw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/R2tR1ESlgOZGFzt_FLX3s-86PEVgv6gor2aPVbbhKm1jP6XROO5qiBDVIxTyFDL8ZBHiyxo-q_Zlu1qI">](https://music.youtube.com/watch?v=lPXgmH4LULU)
 
-체리필터 - 이물질 (2022 Remixed Remastered)
+스텔라장 - Let It Snow! Let It Snow! Let It Snow!
 
-**Albums**: Rocksteric
+**Albums**: WinterStella
 
-Last updated at 12/31/2022 18:34
+Last updated at 12/31/2022 18:36
