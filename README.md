@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-gSmmqee4x_WsNeYHqqbGbXtX-k73KgZHJ_v1eVf8nxh5Jo5dVwiHeeUh7mXwYxRlMgw5_t_iZAoIJGJ">](https://music.youtube.com/watch?v=1JvnEkxuIOI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VuyVvPoVWNoWsVwNEviga2n9faIIFvfI7OJNHZ8mYH8t6sEjSLFOdPB1TgKsWCbfgZXw_ZUAhUYW9LuF">](https://music.youtube.com/watch?v=xgiN9zNZCuM)
 
-ATEEZ - Dancing Like Butterfly Wings
+ITZY - WANNABE
 
-**Albums**: TREASURE EP.3 : One To All
+**Albums**: IT'z ME
 
-Last updated at 12/31/2022 19:10
+Last updated at 12/31/2022 19:14
