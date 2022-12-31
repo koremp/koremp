@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UqM0LJUWct-Y4oiZo8Y8p43-b8AqzKJSTw9Zjmu3Dw-BnGbNQUe651_xxe06G1w4PcaBqRIontupEvbebg">](https://music.youtube.com/watch?v=AzsbRHMRroA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OSsZLw0rheL_qquJKgXv5tLU84k35pEZu-_qHWDhNqMlQ4MlnlgOgbOSuAo7w6tiHKwerOW9CqRy1RY">](https://music.youtube.com/watch?v=y1DKVDNFbSc)
 
-박소은 - 반복되는 모든 게 날 괴롭게 해요
+박소은 - 그믐달 Waning Moon
 
-**Albums**: 반복되는 모든 게 날 괴롭게 해요
+**Albums**: 그믐달 Waning Moon
 
-Last updated at 12/31/2022 15:09
+Last updated at 12/31/2022 15:13
