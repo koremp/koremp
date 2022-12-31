@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-3lx6MQfhwZBsgYmLDx5MH5QkBIqHw5MzAOgDz7LWUQgEnrcSuAOwVijYCRYEw8JCOiz4VZQWLF8HS6">](https://music.youtube.com/watch?v=rjcDY8S_ut8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zKhdLTN3J7JGi2OF2zV610bhyw_Ufz3chOWtz6CloWAIZ63aSRe3izfU0Ru-ArvGSpEhAaqh29Dd5oM">](https://music.youtube.com/watch?v=HzC62mHHKQw)
 
-정우 - 이름 Name
+체리필터 - 이물질 (2022 Remixed Remastered)
 
-**Albums**: 여섯 번째 토요일 6th Saturday
+**Albums**: Rocksteric
 
-Last updated at 12/31/2022 18:30
+Last updated at 12/31/2022 18:34
