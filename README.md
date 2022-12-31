@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xGgfsNmkKxDyNpkJRjRw5k2Ve0AM5PHW60w_4iAUv06k6ViBr6f5oXd5csb1pxc3L1X_Jog8NJeGZsQ">](https://music.youtube.com/watch?v=6zj2XVhe2u8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lCUxwwa47oJupSe6ixaMhPzQEnYkZ_wSorxYI8kQxjirPyHtqD-_AVx0LmTs3-F4T5BapHaij_75wuU">](https://music.youtube.com/watch?v=JJ0e64k9tiU)
 
-스텔라장(Stella Jang) - Walking Down the Road
+미노이 (meenoi) - No Santa
 
-**Albums**: Stairs
+**Albums**: NOI MAS
 
-Last updated at 12/31/2022 18:52
+Last updated at 12/31/2022 18:56
