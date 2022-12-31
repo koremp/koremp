@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RiGncXbAZYaoquZia_XnEC1u2OXIRcZJV9UlZQsegIbi5ShNfpFyIJzmS0NVSrOr0Q6Gm_bDO2h7Drs">](https://music.youtube.com/watch?v=UY6R-K8Y_cM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=CC6koTdHRSI)
 
-이고도 - Are you in there
+위수 - 교토
 
-**Albums**: 계세요
+**Albums**: 지나간 여름을 안타까워마
 
-Last updated at 12/31/2022 17:04
+Last updated at 12/31/2022 17:06
