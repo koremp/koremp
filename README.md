@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=kju-LNHHFl0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/863jecehgGbvh7p7pdUKCKnC_NYcJKTYJaIad_Gecf6u1nZ2GiyQTFsnGL0ljhkM16NXRrQefzoerqiD">](https://music.youtube.com/watch?v=aVAgpYb5XBI)
 
-박소은 - 고전적 조건형성
+박소은 - 아무렇지 않은 저녁
 
-**Albums**: 재활용
+**Albums**: 제비다방 컴필레이션 2021/2022
 
-Last updated at 12/31/2022 16:34
+Last updated at 12/31/2022 16:38
