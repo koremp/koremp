@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=FgpXka7Idjo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=Gs5123rH4GA)
 
-박소은 - 인생이 박살나던 순간 Life Things All Fall Apart
+박소은 - 너와 가장 먼 곳에서 Furthest Place From You
 
 **Albums**: 고강동 Gogangdong
 
-Last updated at 12/31/2022 15:23
+Last updated at 12/31/2022 15:27
