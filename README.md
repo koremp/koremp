@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=w2bRIa1LMMI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CwrfrvHZenos-Fzb34gHLwMGMHXwLXekNBezjn5ZTsv_QDbdKSaw7HneUpzu_C7NWHQ_M8RT6fMjDh9H">](https://music.youtube.com/watch?v=kTVZpyrxaII)
 
-박소은 - 너는 나의 문학 You Are My Literature
+박소은 - 눈을 맞춰 술잔을 채워 See The Eyes, Fill It Up The Glass
 
-**Albums**: 고강동 Gogangdong
+**Albums**: 눈을 맞춰 술잔을 채워 See The Eyes, Fill It Up The Glass
 
-Last updated at 12/31/2022 14:41
+Last updated at 12/31/2022 14:45
