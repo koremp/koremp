@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=CC6koTdHRSI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW84fF54Njy0k4RiEVDoNIIhY6dVru7lrZeNbgRv6J5-OkxxCje4tDBGTyYYTT9DP-xPY3fhA_g5f04">](https://music.youtube.com/watch?v=Lod5NQzw6P0)
 
-위수 - 교토
+민수 (MINSU) - I Like Me
 
-**Albums**: 지나간 여름을 안타까워마
+**Albums**: I Like Me
 
-Last updated at 12/31/2022 17:06
+Last updated at 12/31/2022 17:10
