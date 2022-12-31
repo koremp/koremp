@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h9jRt0VSi5tKL77NFsPD6F52XPH8ZjuSn6ieofJ_O0d5Y0WY2PEVmk1A-CvDGKGyevQJkWrDB2JYq9qw">](https://music.youtube.com/watch?v=aXtuaAZ28MM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mp4W3HJouLPJJp7lcxRSdKBbMqv8PclDmxnty084KjAgSMSKAHqub0bXcv3OvENlSOS9y1uG3UpSrFbh">](https://music.youtube.com/watch?v=NK1wN-25t8E)
 
-박소은 - 위성에게 Satellite
+박소은 - 부러운 사람 Enviable
 
-**Albums**: 위성에게 Satellite
+**Albums**: 일기 Diary
 
-Last updated at 12/31/2022 15:31
+Last updated at 12/31/2022 15:35
