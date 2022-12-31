@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_3st-ypYUaSYMSniIlHYOi8TG-7-rW3yQUUz-vZa5g1A_Mn9jQI93DVdBtUO4SgvpiQxSKqIJatA99vZpg">](https://music.youtube.com/watch?v=ktacqWQDUV0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RiGncXbAZYaoquZia_XnEC1u2OXIRcZJV9UlZQsegIbi5ShNfpFyIJzmS0NVSrOr0Q6Gm_bDO2h7Drs">](https://music.youtube.com/watch?v=UY6R-K8Y_cM)
 
-박소은 - Intro
+이고도 - Are you in there
 
-**Albums**: 기억의 강 The River of Memories
+**Albums**: 계세요
 
-Last updated at 12/31/2022 17:02
+Last updated at 12/31/2022 17:04
