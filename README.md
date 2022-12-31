@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zSl3rw0YiZX4V-DA3BTt6nzNTVdysGn5I4LFtYJFQh3eiyaF_lrcIjHROuufBvQbnsFhb49iil3L6fk2">](https://music.youtube.com/watch?v=_ndHgGEXe9Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZFznpMZLd-XN0vM608ZaLtlkS-hj-mUzOVROn48NeinGJBGjDHewaSirt5M9t7xHXazjtI0mNkeXNOYx">](https://music.youtube.com/watch?v=JRpgH8IIKHM)
 
-스텔라장 - Alright
+윤지영 - Blue bird
 
-**Albums**: Alright
+**Albums**: Blue bird
 
-Last updated at 12/31/2022 17:19
+Last updated at 12/31/2022 17:23
