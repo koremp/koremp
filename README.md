@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/61QT2zu_B6ieG4cOFJ0LPLo8ZTtZj4FNJqRwuZy-DN8tLZ9-C3zaAn-69gI69mQAw4VIe8_mSvslh2FQ">](https://music.youtube.com/watch?v=hLsFTHrBaX0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/St5fueudjmFfZbCxhnM_3PKLQ-yhuIYhD1R8c0oKx8PY69GNTnMgvJSN_peJ4QGj0eGykeiN-QiXoTmx">](https://music.youtube.com/watch?v=qMde_lUNANY)
 
-보수동쿨러 - 모래
+Yerin Baek - That’s why
 
-**Albums**: 모래
+**Albums**: FRANK
 
-Last updated at 12/31/2022 17:27
+Last updated at 12/31/2022 17:31
