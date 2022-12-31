@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mp4W3HJouLPJJp7lcxRSdKBbMqv8PclDmxnty084KjAgSMSKAHqub0bXcv3OvENlSOS9y1uG3UpSrFbh">](https://music.youtube.com/watch?v=NK1wN-25t8E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/U90UA97HiVjAlUStqeRuc92YiPP1rTx95CsXf3xuFJ3TEq4EHyurAp2iOVDOCv-1CorC9AlK1_rpamLxHA">](https://music.youtube.com/watch?v=YsPwe1DXdEE)
 
-박소은 - 부러운 사람 Enviable
+박소은 - 말리부오렌지
 
-**Albums**: 일기 Diary
+**Albums**: 말리부오렌지
 
-Last updated at 12/31/2022 15:35
+Last updated at 12/31/2022 15:39
