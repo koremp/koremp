@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=MBbqqWqLPlI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vk9IREQHLE5t-TGtutnL4tkAtVT3zPhESLiNpHYCVdngAnEF6MeimK_9pgJ4X-YRNWrFH2Su-cK6ek3t5A">](https://music.youtube.com/watch?v=EMFOfCrXbi4)
 
-aespa - Girls
+Red Velvet - Rookie
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: Rookie
 
-Last updated at 12/31/2022 19:16
+Last updated at 12/31/2022 19:20
