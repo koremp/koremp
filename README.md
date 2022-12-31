@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mp4W3HJouLPJJp7lcxRSdKBbMqv8PclDmxnty084KjAgSMSKAHqub0bXcv3OvENlSOS9y1uG3UpSrFbh">](https://music.youtube.com/watch?v=yNah5exgqpI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=j3PTqmcfSR4)
 
-박소은 - 일기 Diary
+박소은 - 고강동 Gogangdong
 
-**Albums**: 일기 Diary
+**Albums**: 고강동 Gogangdong
 
-Last updated at 12/31/2022 14:57
+Last updated at 12/31/2022 15:03
