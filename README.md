@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lCUxwwa47oJupSe6ixaMhPzQEnYkZ_wSorxYI8kQxjirPyHtqD-_AVx0LmTs3-F4T5BapHaij_75wuU">](https://music.youtube.com/watch?v=JJ0e64k9tiU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jx9UXUQ3Df_sn0lKCFxCeWicGHGXj1tJkTBMyot0j_n3UlTyaWJjbKHL17oB4n7T5BlmxgQl3oGfnXI-">](https://music.youtube.com/watch?v=Oy60afte5vM)
 
-미노이 (meenoi) - No Santa
+NCT 127 - TOUCH
 
-**Albums**: NOI MAS
+**Albums**: NCT 2018 EMPATHY
 
-Last updated at 12/31/2022 18:56
+Last updated at 12/31/2022 19:00
