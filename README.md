@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_3st-ypYUaSYMSniIlHYOi8TG-7-rW3yQUUz-vZa5g1A_Mn9jQI93DVdBtUO4SgvpiQxSKqIJatA99vZpg">](https://music.youtube.com/watch?v=wTVubr5KboA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_3st-ypYUaSYMSniIlHYOi8TG-7-rW3yQUUz-vZa5g1A_Mn9jQI93DVdBtUO4SgvpiQxSKqIJatA99vZpg">](https://music.youtube.com/watch?v=sf_TA0joB1I)
 
-박소은 - 기도 Prayer
+박소은 - 그런 눈으로 With Those Eyes
 
 **Albums**: 기억의 강 The River of Memories
 
-Last updated at 12/31/2022 16:46
+Last updated at 12/31/2022 16:50
