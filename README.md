@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jx9UXUQ3Df_sn0lKCFxCeWicGHGXj1tJkTBMyot0j_n3UlTyaWJjbKHL17oB4n7T5BlmxgQl3oGfnXI-">](https://music.youtube.com/watch?v=Oy60afte5vM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3TkF5BO2up-mXpJLsCS96ckhmdwoHEyHPnRqQNG-tC4IZEgk5r0FHsjvlSTyiYRtkmUjIlkcEDmIsXg">](https://music.youtube.com/watch?v=19oJkTyAra4)
 
-NCT 127 - TOUCH
+NCT 127 - Love on the Floor
 
-**Albums**: NCT 2018 EMPATHY
+**Albums**: Favorite - The 3rd Album Repackage
 
-Last updated at 12/31/2022 19:00
+Last updated at 12/31/2022 19:02
