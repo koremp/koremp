@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLSQsjQ5l1fRyFy2mjZZbmEIDj-ZnyCKKx_Kph0woMeMgLpf8PBZcp_wFrwJFi1XP6si9kRowPAT9Mk">](https://music.youtube.com/watch?v=5_mD78Of53g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zSl3rw0YiZX4V-DA3BTt6nzNTVdysGn5I4LFtYJFQh3eiyaF_lrcIjHROuufBvQbnsFhb49iil3L6fk2">](https://music.youtube.com/watch?v=_ndHgGEXe9Q)
 
-김뜻돌 - 꿈에서 걸려온 전화
+스텔라장 - Alright
 
-**Albums**: 꿈에서 걸려온 전화
+**Albums**: Alright
 
-Last updated at 12/31/2022 17:15
+Last updated at 12/31/2022 17:19
