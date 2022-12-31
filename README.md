@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OSsZLw0rheL_qquJKgXv5tLU84k35pEZu-_qHWDhNqMlQ4MlnlgOgbOSuAo7w6tiHKwerOW9CqRy1RY">](https://music.youtube.com/watch?v=y1DKVDNFbSc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=grfc0mYG3Gk)
 
-박소은 - 그믐달 Waning Moon
+박소은 - Whiskey n Whiskey
 
-**Albums**: 그믐달 Waning Moon
+**Albums**: 재활용
 
-Last updated at 12/31/2022 15:13
+Last updated at 12/31/2022 15:17
