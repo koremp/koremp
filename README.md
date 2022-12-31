@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DM1tU0-DGRoVdJuvlQJ8_m4vU6-6uvmr8hZgm5OjJj1JPxgPs6_qBfAsW7y3SPtsdhfWHjWVxQjk9vxa7g">](https://music.youtube.com/watch?v=yYDh7lyqwms)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3b-tOw2VysZPatApY483kt_-9wm-WToX1AGyTqUOiva9XOkk93vMG2mcN8wJv1j8y6W2QzwMZEl11eFI">](https://music.youtube.com/watch?v=w2bRIa1LMMI)
 
-Led Zeppelin - All My Love
+박소은 - 너는 나의 문학 You Are My Literature
 
-**Albums**: In Through The Out Door
+**Albums**: 고강동 Gogangdong
 
-Last updated at 12/29/2022 15:21
+Last updated at 12/31/2022 14:41
