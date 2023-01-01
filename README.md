@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yQ9MNDs0R8X9e8dzq9yOmk-5ksk_opSJUkJHQxdRKRaqeRjzQjxNA0OMA4DzH-43WtCJ6582IpC0B5zd">](https://music.youtube.com/watch?v=0Awxne2GN-I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2rfm_4cuPmjrdJvqdAZvH3kZXRxVQrcgRca_UEDbuoi5c3Y3oeR9qhF_nq9uUh25PV5KuDDBv-_JQfL2">](https://music.youtube.com/watch?v=EfqsJm6BKng)
 
-Des'ree - I'm Kissing You (Radio Edit)
+John Newman - Love Me Again
 
-**Albums**: I'm Kissing You
+**Albums**: Tribute
 
-Last updated at 01/01/2023 15:02
+Last updated at 01/01/2023 15:06
