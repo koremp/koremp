@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LjeQ08Jjr6Ws6AvTc04D-XtmfjEH-jpB1inpXdkx-csKgWB7Xnp5GRJxI4C3j_4jdAHT0O2Ib9bvboo">](https://music.youtube.com/watch?v=wYeVcdm6zvg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6a2gk40Fm-ef0qAgwVk_W6GENb641xT-rEBYECO3NbO0HXpsUhQfD6iHjbK8RAE-6ap31Pn472QaFMr">](https://music.youtube.com/watch?v=kpv6lB2oTm8)
 
-유진솔 및 시와 - 금요일에 만날까요
+Blur - Sweet Song
 
-**Albums**: 사랑과 존경을 담아
+**Albums**: Think Tank
 
-Last updated at 01/01/2023 14:42
+Last updated at 01/01/2023 14:44
