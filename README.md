@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ScBycwiM-Do/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ScBycwiM-Do)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3HCevhtSYA3wvfCCbl7e_XzmshCsjM9acf5yRicwVBXqvpPnHN9Jy506pJgYRknpc0SniEK3P8p1-HCE">](https://music.youtube.com/watch?v=nrpA_GGD98Y)
 
-윤하 - 사건의 지평선
+핫펠트 - Cigar
 
-**Albums**: 조회수 20만회
+**Albums**: 1719
 
-Last updated at 01/01/2023 13:46
+Last updated at 01/01/2023 13:50
