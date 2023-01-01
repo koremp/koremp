@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/OPRiufipoVg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OPRiufipoVg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/QPJUTtxCyKU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=QPJUTtxCyKU)
 
-That's B - [4K] 221008 The Volunteers (더발룬티어스) "Happy Together" (cover) @slow life slow live
+TV예술무대 - 고소현│사라사테, 카르멘 판타지 Op.25 (P.Sarasate, Carmen Fantasy Op.25) Vn.SoHyun Ko
 
-**Albums**: 조회수 6.4천회
+**Albums**: 조회수 199만회
 
-Last updated at 01/01/2023 10:56
+Last updated at 01/01/2023 10:59
