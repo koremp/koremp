@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=NVCAmm5BXHA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HTuloEsvMwNPptZ3A1ec4mQQOzwwGiCoYBPTqhutcWS2Wnhhzs5Y1befAJA3eUVsfBxO2a_z8HGs5WT2">](https://music.youtube.com/watch?v=f8IqVtY_4jo)
 
-제이클레프 - 주스 온더 락(feat. Ohiorabbit)
+덩쯔치 - 光年之外 (電影 《Passengers》 中國區主題曲)
 
-**Albums**: flaw, flaw
+**Albums**: 光年之外 (電影 《Passengers》 中國區主題曲)
 
-Last updated at 01/01/2023 13:24
+Last updated at 01/01/2023 13:28
