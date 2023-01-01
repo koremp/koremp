@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=KMVxfIkYXoM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SFrGfbd2CsF8JL4mdyeLDnnn1wCTwr3QznywHEv-EgXNPhh-FojBny14tcSeGB1z3V2hqMHRHb3U1ql6">](https://music.youtube.com/watch?v=8GMtrpjPmQQ)
 
-제이클레프 - 프리-퀄
+Labrinth - Mount Everest
 
-**Albums**: flaw, flaw
+**Albums**: Imagination & the Misfit Kid
 
-Last updated at 01/01/2023 10:20
+Last updated at 01/01/2023 10:22
