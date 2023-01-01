@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC5EtjJLEqaSDZ8kVcnhNNGQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCKm78y6KGUHBtvne8iWyHvg)
 
 
   
-    Cash Cash
+    Dillon Francis
   
   
   
-    Cash Cash
+    Dillon Francis
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Overtime
+ - Get Low
 
 **Albums**: Not supported
 
-Last updated at 01/01/2023 09:08
+Last updated at 01/01/2023 09:13
