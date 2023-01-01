@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5teqUPmWiFmagN0RggBKRXSW1zUj5_fVCEhbVhN6qt519EyHj6njy1x8dnJcRWNhQ5cl4dZgGaxbyqgv">](https://music.youtube.com/watch?v=XyzMNRxC8CM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8rK1wZbXg_RLir3OENxINyBfIwyTt0o9fimQGbh1ST6qonMoxrIG5yP4E1nQ7sghCoTkCxTG40G1iBM">](https://music.youtube.com/watch?v=W-qKLIUZghA)
 
-The Weeknd - A Tale By Quincy
+양희은 - 참 좋다
 
-**Albums**: Dawn FM
+**Albums**: 2014 양희은
 
-Last updated at 01/01/2023 14:30
+Last updated at 01/01/2023 14:32
