@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S0hhSN3peE1gdD_Orw7zhilp_o5b_uUGf0b45YEG8A6DVRmSpYpDHkNlSdsIxI9kNax73FvRAWWVbtc">](https://music.youtube.com/watch?v=_ytAJBUCxRE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yQ9MNDs0R8X9e8dzq9yOmk-5ksk_opSJUkJHQxdRKRaqeRjzQjxNA0OMA4DzH-43WtCJ6582IpC0B5zd">](https://music.youtube.com/watch?v=0Awxne2GN-I)
 
-Nakamori Akina - Fin (2012 Remastered)
+Des'ree - I'm Kissing You (Radio Edit)
 
-**Albums**: Best II
+**Albums**: I'm Kissing You
 
-Last updated at 01/01/2023 14:58
+Last updated at 01/01/2023 15:02
