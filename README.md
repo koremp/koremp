@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=LP9sF1v-vz4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/thrPmfWkxyrfY9x1NGBG8LtHrm2PXZBtrfZlyL0qs8PpA8GQS7CKgssQdUX2TFjVoU29fVlisMpfhaE">](https://music.youtube.com/watch?v=ST1QgjJ5BGQ)
 
-aespa - 도깨비불 Illusion
+벵가 보이스 - Shalala Lala
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: The Platinum Album
 
-Last updated at 01/01/2023 14:34
+Last updated at 01/01/2023 14:38
