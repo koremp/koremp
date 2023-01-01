@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2rfm_4cuPmjrdJvqdAZvH3kZXRxVQrcgRca_UEDbuoi5c3Y3oeR9qhF_nq9uUh25PV5KuDDBv-_JQfL2">](https://music.youtube.com/watch?v=EfqsJm6BKng)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=_oOYKuMnJ60)
 
-John Newman - Love Me Again
+하현상 - 죽은 새
 
-**Albums**: Tribute
+**Albums**: Calibrate
 
-Last updated at 01/01/2023 15:06
+Last updated at 01/01/2023 15:10
