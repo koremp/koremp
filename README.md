@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gWNEbSTes3Uz5viZOWwLMiIJfZCNSVr2YX_AqO4hMYZKHjo4SCAhqnuij7JmeAKc3TDN2mpJjMaxGZ6IHg">](https://music.youtube.com/watch?v=sKAy0AqkbnM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DI3w7cKsiN2VN17ijwGcN_nE6ZAza7eCM9BJXMcxSiKmC-KuBPLJ1Ujyf2Otg9y5nkcQLYfmS6dLHOA">](https://music.youtube.com/watch?v=nbVXSDSao4E)
 
-quinn_ - 진혼곡 (鎭魂曲)
+아오바 이치코 - iam POD (0%)
 
-**Albums**: Not supported
+**Albums**: 0
 
-Last updated at 01/01/2023 11:15
+Last updated at 01/01/2023 11:19
