@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=hrzemg1MDeo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/l12McY5Eaug/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=l12McY5Eaug)
 
-Labrinth - Truth or Dare
+DAY6 - Young K - Moon River ("Breakfast at Tiffany's" OST cover)
 
-**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
+**Albums**: 조회수 23만회
 
-Last updated at 01/01/2023 14:52
+Last updated at 01/01/2023 14:54
