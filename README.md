@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCHtNv0k_JihR8-xiiEXGCXA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCcozhiTOkGB1HCOgdBlEFPA)
 
 
   
-    HouseRulez TV
+    Tears For Fears
   
   
   
-    HouseRulez TV
+    Tears For Fears
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 서핑 웨이브 Surfing Wave
+ - Everybody Wants To Rule The World
 
 **Albums**: Not supported
 
-Last updated at 01/01/2023 09:17
+Last updated at 01/01/2023 09:21
