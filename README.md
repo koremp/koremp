@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/of6jW6Ruio4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=of6jW6Ruio4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=b4GwIWtaDik)
 
-KBS클래식 Classic - [양인모] 카미유 생상 / 죽음의 무도, 작품40 [안디무지크/An Die Musik]
+나씽 벗 띠브즈 - Itch
 
-**Albums**: 조회수 31만회
+**Albums**: Nothing But Thieves (Deluxe)
 
-Last updated at 01/01/2023 12:07
+Last updated at 01/01/2023 12:31
