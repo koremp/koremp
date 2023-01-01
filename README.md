@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zXoInc1UdG_860yYR6CtfXee-KSv8nY5B0-cdTrKAdljvid7ZG1jTLZz9xQ10SaWm4Ityn9LG8O8JhU">](https://music.youtube.com/watch?v=NY-U-0NHccs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xaATAz4sLxTDDxdQgHSw3NfiPhp_IoHnunQ1o-bGtINB7OaM8GyViyf0trsCJGCZeBM80N3hw6X54WU">](https://music.youtube.com/watch?v=Oi9alsZg1_A)
 
-이정현 - 바꿔
+하현상 - Be My Birthday
 
-**Albums**: Let's Go To My Star
+**Albums**: 나의 해방일지 OST Part 5
 
-Last updated at 01/01/2023 11:57
+Last updated at 01/01/2023 12:01
