@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/p-GizLKld0g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=p-GizLKld0g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cuvDxmsUQZ_I8BYRQh91LJD30iEIU4pxsrWOcvo2WSCYmJwooMEcCT13WAmxCx5teJIEeeNweJ3qPgltiw">](https://music.youtube.com/watch?v=5u8To2nXqNM)
 
-tsihpem - Lang Lang & Eschenbach —— Debussy：Petite Suite
+자우림 - 27
 
-**Albums**: 조회수 63만회
+**Albums**: Ruby Sapphire Diamond
 
-Last updated at 01/01/2023 13:05
+Last updated at 01/01/2023 13:16
