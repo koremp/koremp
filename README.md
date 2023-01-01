@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8rK1wZbXg_RLir3OENxINyBfIwyTt0o9fimQGbh1ST6qonMoxrIG5yP4E1nQ7sghCoTkCxTG40G1iBM">](https://music.youtube.com/watch?v=W-qKLIUZghA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=LP9sF1v-vz4)
 
-양희은 - 참 좋다
+aespa - 도깨비불 Illusion
 
-**Albums**: 2014 양희은
+**Albums**: Girls - The 2nd Mini Album
 
-Last updated at 01/01/2023 14:32
+Last updated at 01/01/2023 14:34
