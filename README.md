@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LSMdyd7T2RNpZw2iCkWju-mdr2ba9u13e1bFoFcUgE4xA1JImWjGNhC3tW7EWGNx0U428BPxiTYuCdJJVw">](https://music.youtube.com/watch?v=xRg58BMg8dA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zXoInc1UdG_860yYR6CtfXee-KSv8nY5B0-cdTrKAdljvid7ZG1jTLZz9xQ10SaWm4Ityn9LG8O8JhU">](https://music.youtube.com/watch?v=NY-U-0NHccs)
 
-David Guetta(데이빗 게타) - The Alphabeat
+이정현 - 바꿔
 
-**Albums**: Nothing but the Beat Ultimate
+**Albums**: Let's Go To My Star
 
-Last updated at 01/01/2023 11:53
+Last updated at 01/01/2023 11:57
