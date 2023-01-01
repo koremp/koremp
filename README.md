@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EKHS29gAqRLQty933GCdxzrItl3jV7ZaboYImRqYMcyjhbXRwmImt6CyOAu1ff0rRvfaISYxfb2LdM4">](https://music.youtube.com/watch?v=djvF0ODeKvw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LSMdyd7T2RNpZw2iCkWju-mdr2ba9u13e1bFoFcUgE4xA1JImWjGNhC3tW7EWGNx0U428BPxiTYuCdJJVw">](https://music.youtube.com/watch?v=xRg58BMg8dA)
 
-Sam Smith 및 Kim Petras - Unholy (David Guetta Acid Remix)
+David Guetta(데이빗 게타) - The Alphabeat
 
-**Albums**: Unholy (David Guetta Acid Remix)
+**Albums**: Nothing but the Beat Ultimate
 
-Last updated at 01/01/2023 11:51
+Last updated at 01/01/2023 11:53
