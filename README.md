@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HTuloEsvMwNPptZ3A1ec4mQQOzwwGiCoYBPTqhutcWS2Wnhhzs5Y1befAJA3eUVsfBxO2a_z8HGs5WT2">](https://music.youtube.com/watch?v=f8IqVtY_4jo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w30S9tsCDVLBA7iU_guc8KeVL5zqV2CeM4Ggmpx_mIPvKuPpmrJJoipXIkqR3cAfo4TfgCC9UExfv2ztbg">](https://music.youtube.com/watch?v=Gxk0jzveSEQ)
 
-덩쯔치 - 光年之外 (電影 《Passengers》 中國區主題曲)
+신현희와김루트 Seenroot - 오빠야 Sweetheart
 
-**Albums**: 光年之外 (電影 《Passengers》 中國區主題曲)
+**Albums**: Not supported
 
-Last updated at 01/01/2023 13:28
+Last updated at 01/01/2023 13:32
