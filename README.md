@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SFrGfbd2CsF8JL4mdyeLDnnn1wCTwr3QznywHEv-EgXNPhh-FojBny14tcSeGB1z3V2hqMHRHb3U1ql6">](https://music.youtube.com/watch?v=8GMtrpjPmQQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r2KSuMUFdAE96Q5ho9LCkg__GQJt2GIgD_zUyy8O9ttPPh1M7pT7CTUUSrx91Ysc_i0yACbGz0RCU9ME">](https://music.youtube.com/watch?v=sTLy_aD6OEo)
 
-Labrinth - Mount Everest
+Armani White - BILLIE EILISH.
 
-**Albums**: Imagination & the Misfit Kid
+**Albums**: BILLIE EILISH.
 
-Last updated at 01/01/2023 10:22
+Last updated at 01/01/2023 10:26
