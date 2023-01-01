@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=jZm7qRb26C4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RV8TtDYxKDRJgnWljkyXU_sIPs3hz5BbQOEK7tSdeEHidU7jav7MJZb4CWztsPTmTl2-7c19KETqyphJ">](https://music.youtube.com/watch?v=qt9YXS2CJuI)
 
-제이클레프 - 나는 생각이 너무 많아(feat. 원슈타인)
+HA:TFELT (핫펠트) - Ain’t Nobody
 
-**Albums**: flaw, flaw
+**Albums**: Me?
 
-Last updated at 01/01/2023 13:38
+Last updated at 01/01/2023 13:40
