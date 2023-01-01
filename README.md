@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/3EAs34CmATg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=3EAs34CmATg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/cy4894uE80k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cy4894uE80k)
 
-FANSEASTAR - [4K]20181013 (역대급 감성..) 백예린 (Baek Yerin) Happy Birthday, Johnny (St. Vincent) @ 옷장 라이브
+Sung Lee - attention New Jeans cover
 
-**Albums**: 조회수 59만회
+**Albums**: 조회수 22만회
 
-Last updated at 01/01/2023 11:45
+Last updated at 01/01/2023 11:49
