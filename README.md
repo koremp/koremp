@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cuvDxmsUQZ_I8BYRQh91LJD30iEIU4pxsrWOcvo2WSCYmJwooMEcCT13WAmxCx5teJIEeeNweJ3qPgltiw">](https://music.youtube.com/watch?v=5u8To2nXqNM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xEMFZQki07Lqf-dqtnvMWz12W_p1Z4zr2Shsx_nt4nR6Vqq957m-dqzJUV15eITFrnS3KuNkHFmbpI0">](https://music.youtube.com/watch?v=qOr2QVjsQBM)
 
-자우림 - 27
+Craig David - Walking Away
 
-**Albums**: Ruby Sapphire Diamond
+**Albums**: Born to Do It
 
-Last updated at 01/01/2023 13:16
+Last updated at 01/01/2023 13:20
