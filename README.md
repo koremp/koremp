@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=b4GwIWtaDik)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5teqUPmWiFmagN0RggBKRXSW1zUj5_fVCEhbVhN6qt519EyHj6njy1x8dnJcRWNhQ5cl4dZgGaxbyqgv">](https://music.youtube.com/watch?v=gpRxyIPqVDw)
 
-나씽 벗 띠브즈 - Itch
+The Weeknd - Sacrifice
 
-**Albums**: Nothing But Thieves (Deluxe)
+**Albums**: Dawn FM
 
-Last updated at 01/01/2023 12:31
+Last updated at 01/01/2023 12:33
