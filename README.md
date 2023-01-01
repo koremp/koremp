@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3HCevhtSYA3wvfCCbl7e_XzmshCsjM9acf5yRicwVBXqvpPnHN9Jy506pJgYRknpc0SniEK3P8p1-HCE">](https://music.youtube.com/watch?v=nrpA_GGD98Y)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ZxVg7dF7VVA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZxVg7dF7VVA)
 
-핫펠트 - Cigar
+민수 (MINSU) - 민수 (MINSU) - 머리끈 (demo.)
 
-**Albums**: 1719
+**Albums**: 조회수 7.6만회
 
-Last updated at 01/01/2023 13:50
+Last updated at 01/01/2023 13:54
