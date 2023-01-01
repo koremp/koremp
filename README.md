@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/thrPmfWkxyrfY9x1NGBG8LtHrm2PXZBtrfZlyL0qs8PpA8GQS7CKgssQdUX2TFjVoU29fVlisMpfhaE">](https://music.youtube.com/watch?v=ST1QgjJ5BGQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LjeQ08Jjr6Ws6AvTc04D-XtmfjEH-jpB1inpXdkx-csKgWB7Xnp5GRJxI4C3j_4jdAHT0O2Ib9bvboo">](https://music.youtube.com/watch?v=wYeVcdm6zvg)
 
-벵가 보이스 - Shalala Lala
+유진솔 및 시와 - 금요일에 만날까요
 
-**Albums**: The Platinum Album
+**Albums**: 사랑과 존경을 담아
 
-Last updated at 01/01/2023 14:38
+Last updated at 01/01/2023 14:42
