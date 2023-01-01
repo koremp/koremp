@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5teqUPmWiFmagN0RggBKRXSW1zUj5_fVCEhbVhN6qt519EyHj6njy1x8dnJcRWNhQ5cl4dZgGaxbyqgv">](https://music.youtube.com/watch?v=xulynscFILE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3EAs34CmATg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=3EAs34CmATg)
 
-The Weeknd - Phantom Regret by Jim
+FANSEASTAR - [4K]20181013 (역대급 감성..) 백예린 (Baek Yerin) Happy Birthday, Johnny (St. Vincent) @ 옷장 라이브
 
-**Albums**: Dawn FM
+**Albums**: 조회수 59만회
 
-Last updated at 01/01/2023 11:43
+Last updated at 01/01/2023 11:45
