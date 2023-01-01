@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4Pp2Bj6UeIem89BpzckeOO2vdz8ufxCJ5eyv73Khk2Ezdp7HbM_B8IJ_qmBjQoaMo0tVmx-jM0Gfi3p9">](https://music.youtube.com/watch?v=Eqhsz-vVvQ4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=VmbOkN8zhos)
 
-Joji - Die For You
+나씽 벗 띠브즈 - Particles
 
-**Albums**: SMITHEREENS
+**Albums**: Broken Machine (Deluxe)
 
-Last updated at 01/01/2023 13:58
+Last updated at 01/01/2023 14:02
