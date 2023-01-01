@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IR4NjE26CXwnh12MM3lJaGTbWhpaSY1NLlCQW7ub7mIAERV3zsRMdfRrf4Ye4h7O82pqZbq-tbH0_41Z">](https://music.youtube.com/watch?v=wNmc65Qv8zc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=B3P1eb6oIIc)
 
-싱어게인2 4호 가수 및 싱어게인2 57호 가수 - 불놀이야
+나씽 벗 띠브즈 - Hostage
 
-**Albums**: 싱어게인2 - 무명가수전, Ep. 4
+**Albums**: Nothing But Thieves (Deluxe)
 
-Last updated at 01/01/2023 14:12
+Last updated at 01/01/2023 14:16
