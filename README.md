@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/a4fBIb8W1_C8lEKidWsYyoMWxV1tnDOETk10yeDHLjz_UgG3QxdG_Ciw4NHeLyE5zGMI-Rl2kufp2bxZ">](https://music.youtube.com/watch?v=36u3s430p8E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=hrzemg1MDeo)
 
-샤프 - 연극이 끝난 후
+Labrinth - Truth or Dare
 
-**Albums**: MBC 대학가요제 골든베스트(잃어버린 우산/해야)
+**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
 
-Last updated at 01/01/2023 14:48
+Last updated at 01/01/2023 14:52
