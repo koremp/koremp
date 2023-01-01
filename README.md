@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RV8TtDYxKDRJgnWljkyXU_sIPs3hz5BbQOEK7tSdeEHidU7jav7MJZb4CWztsPTmTl2-7c19KETqyphJ">](https://music.youtube.com/watch?v=qt9YXS2CJuI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=bSrzlfwjdHI)
 
-HA:TFELT (핫펠트) - Ain’t Nobody
+Labrinth 및 Zendaya - Rue's I'm Tired
 
-**Albums**: Me?
+**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
 
-Last updated at 01/01/2023 13:40
+Last updated at 01/01/2023 13:44
