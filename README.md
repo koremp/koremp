@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SFrGfbd2CsF8JL4mdyeLDnnn1wCTwr3QznywHEv-EgXNPhh-FojBny14tcSeGB1z3V2hqMHRHb3U1ql6">](https://music.youtube.com/watch?v=4H0Ytxg4-kQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=KMVxfIkYXoM)
 
-Labrinth - All For Us
+제이클레프 - 프리-퀄
 
-**Albums**: Imagination & the Misfit Kid
+**Albums**: flaw, flaw
 
-Last updated at 01/01/2023 10:16
+Last updated at 01/01/2023 10:20
