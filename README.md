@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/T4Zt2jibS8ufgFJufIqMC-cEsAYuMjsdbWJ-KQsNVhrq04gBISpsynj0wcOLPb_kv8HZB6ZCGFyVZNVs">](https://music.youtube.com/watch?v=syBoE6xD9iE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/OPRiufipoVg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OPRiufipoVg)
 
-김사월 Kim Sawol - Kiss 키스
+That's B - [4K] 221008 The Volunteers (더발룬티어스) "Happy Together" (cover) @slow life slow live
 
-**Albums**: Romance 로맨스
+**Albums**: 조회수 6.4천회
 
-Last updated at 01/01/2023 10:52
+Last updated at 01/01/2023 10:56
