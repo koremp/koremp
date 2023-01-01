@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Sogl24TYUivMV3B21d3LvCt4o4LH-X0KBstJHKGqILqQ_9wUCmIkVjm77QNQlWfZafRWoPlKVQ_zRM90Uw">](https://music.youtube.com/watch?v=Y_i8A36nwsg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gWNEbSTes3Uz5viZOWwLMiIJfZCNSVr2YX_AqO4hMYZKHjo4SCAhqnuij7JmeAKc3TDN2mpJjMaxGZ6IHg">](https://music.youtube.com/watch?v=sKAy0AqkbnM)
 
-선우정아 - BUFFALO(feat. 다미 of 드림캐쳐, 송은이, 유승우, 윤지영)
+quinn_ - 진혼곡 (鎭魂曲)
 
-**Albums**: BUFFALO
+**Albums**: Not supported
 
-Last updated at 01/01/2023 11:11
+Last updated at 01/01/2023 11:15
