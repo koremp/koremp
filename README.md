@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jpb3TTXCzYej5Ura4lcyCTbQcgcoXuPMtCpQ5M572etZ_NYkkRV0WI1kSFS_SQNhFyWvzq7hu9z0AN9Z">](https://music.youtube.com/watch?v=dfSr0b0eFmo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5teqUPmWiFmagN0RggBKRXSW1zUj5_fVCEhbVhN6qt519EyHj6njy1x8dnJcRWNhQ5cl4dZgGaxbyqgv">](https://music.youtube.com/watch?v=QapLVyAi1zs)
 
-Skrillex, Noisia, josh pan 및 Dylan Brady - Supersonic (My Existence)
+The Weeknd - Gasoline
 
-**Albums**: Supersonic (My Existence)
+**Albums**: Dawn FM
 
-Last updated at 01/01/2023 11:31
+Last updated at 01/01/2023 11:35
