@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/dR-VmY3sqlM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=dR-VmY3sqlM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5teqUPmWiFmagN0RggBKRXSW1zUj5_fVCEhbVhN6qt519EyHj6njy1x8dnJcRWNhQ5cl4dZgGaxbyqgv">](https://music.youtube.com/watch?v=XyzMNRxC8CM)
 
-gongrot - 220527 백예린(Yerin Baek) - Stronger than me (cover) @ 서울재즈페스티벌, 올림픽공원
+The Weeknd - A Tale By Quincy
 
-**Albums**: 조회수 3.4만회
+**Albums**: Dawn FM
 
-Last updated at 01/01/2023 14:26
+Last updated at 01/01/2023 14:30
