@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w30S9tsCDVLBA7iU_guc8KeVL5zqV2CeM4Ggmpx_mIPvKuPpmrJJoipXIkqR3cAfo4TfgCC9UExfv2ztbg">](https://music.youtube.com/watch?v=Gxk0jzveSEQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SBGyj-g3cMFi66tkfO1q93NnKQEhMftsG3av7CKE1p2tedGVcf4RGjtr6fRHMax108v9f54-8_7FCiiJ">](https://music.youtube.com/watch?v=RyCd1MCVp0E)
 
-신현희와김루트 Seenroot - 오빠야 Sweetheart
+정훈희 - 안개
 
-**Albums**: Not supported
+**Albums**: 정훈희 골든 베스트 콜렉션
 
-Last updated at 01/01/2023 13:32
+Last updated at 01/01/2023 13:36
