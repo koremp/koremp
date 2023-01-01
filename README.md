@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCcozhiTOkGB1HCOgdBlEFPA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
 
   
-    Tears For Fears
+    Avicii
   
   
   
-    Tears For Fears
+    Avicii
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Everybody Wants To Rule The World
+ - Waiting For Love
 
 **Albums**: Not supported
 
-Last updated at 01/01/2023 09:21
+Last updated at 01/01/2023 09:25
