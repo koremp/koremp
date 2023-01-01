@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DI3w7cKsiN2VN17ijwGcN_nE6ZAza7eCM9BJXMcxSiKmC-KuBPLJ1Ujyf2Otg9y5nkcQLYfmS6dLHOA">](https://music.youtube.com/watch?v=nbVXSDSao4E)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XOPa_CeQ5yo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XOPa_CeQ5yo)
 
-아오바 이치코 - iam POD (0%)
+온스테이지ONSTAGE - [온스테이지] 38. 이디오테잎- 0805
 
-**Albums**: 0
+**Albums**: 조회수 50만회
 
-Last updated at 01/01/2023 11:19
+Last updated at 01/01/2023 11:25
