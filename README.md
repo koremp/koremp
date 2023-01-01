@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vk9IREQHLE5t-TGtutnL4tkAtVT3zPhESLiNpHYCVdngAnEF6MeimK_9pgJ4X-YRNWrFH2Su-cK6ek3t5A">](https://music.youtube.com/watch?v=EMFOfCrXbi4)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4dW20H96zkAdeWVg62r6-A)
 
-Red Velvet - Rookie
 
-**Albums**: Rookie
+  
+    Galantis
+  
+  
+  
+    Galantis
+  
 
-Last updated at 12/31/2022 19:20
+
+
+
+  공식 아티스트 채널
+
+
+ - Rich Boy
+
+**Albums**: Not supported
+
+Last updated at 01/01/2023 09:04
