@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ui3Z-9lajSA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ui3Z-9lajSA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/83rXLjSQxIRR2jnzXjd09D0ojiTwT3-pFZQVztGbHElUJQbZ_NGl-hhxrWxmQPmvz10bt2l-N9aNqv8vhw">](https://music.youtube.com/watch?v=pmc93sA80HI)
 
-TVCHOSUN - TV조선 - 여름 향기처럼 통통 튀는 멜로디🌞 ‘사랑과 행복 그리고 이별’♪ TV CHOSUN 220720 방송 | [바람의 남자들 – 1회] | TV조선
+Sam Smith(샘 스미스) - Too Good At Goodbyes
 
-**Albums**: 조회수 5.2만회
+**Albums**: The Thrill Of It All
 
-Last updated at 01/01/2023 14:20
+Last updated at 01/01/2023 14:22
