@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jiq-5qO-KBWYZLy72MgE-c_iZBbyBsIQcZPmuthiMsLpTWOxD_yNlrsyjeblNmuhphc1g6EXZtOZQ6JY">](https://music.youtube.com/watch?v=HhS_6tJRM_A)
 
+LSD - Welcome to the Wonderful World of(feat. Sia(시아), Diplo, Labrinth)
 
-  
-    Avicii
-  
-  
-  
-    Avicii
-  
+**Albums**: LABRINTH, SIA & DIPLO PRESENT... LSD
 
-
-
-
-  공식 아티스트 채널
-
-
- - Waiting For Love
-
-**Albums**: Not supported
-
-Last updated at 01/01/2023 09:25
+Last updated at 01/01/2023 09:46
