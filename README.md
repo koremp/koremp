@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6a2gk40Fm-ef0qAgwVk_W6GENb641xT-rEBYECO3NbO0HXpsUhQfD6iHjbK8RAE-6ap31Pn472QaFMr">](https://music.youtube.com/watch?v=kpv6lB2oTm8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/a4fBIb8W1_C8lEKidWsYyoMWxV1tnDOETk10yeDHLjz_UgG3QxdG_Ciw4NHeLyE5zGMI-Rl2kufp2bxZ">](https://music.youtube.com/watch?v=36u3s430p8E)
 
-Blur - Sweet Song
+샤프 - 연극이 끝난 후
 
-**Albums**: Think Tank
+**Albums**: MBC 대학가요제 골든베스트(잃어버린 우산/해야)
 
-Last updated at 01/01/2023 14:44
+Last updated at 01/01/2023 14:48
