@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jiq-5qO-KBWYZLy72MgE-c_iZBbyBsIQcZPmuthiMsLpTWOxD_yNlrsyjeblNmuhphc1g6EXZtOZQ6JY">](https://music.youtube.com/watch?v=HhS_6tJRM_A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jiq-5qO-KBWYZLy72MgE-c_iZBbyBsIQcZPmuthiMsLpTWOxD_yNlrsyjeblNmuhphc1g6EXZtOZQ6JY">](https://music.youtube.com/watch?v=jU0u8WhOGbM)
 
-LSD - Welcome to the Wonderful World of(feat. Sia(시아), Diplo, Labrinth)
+LSD - Angel in Your Eyes(feat. Sia(시아), Diplo, Labrinth)
 
 **Albums**: LABRINTH, SIA & DIPLO PRESENT... LSD
 
-Last updated at 01/01/2023 09:46
+Last updated at 01/01/2023 09:48
