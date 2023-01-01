@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jiq-5qO-KBWYZLy72MgE-c_iZBbyBsIQcZPmuthiMsLpTWOxD_yNlrsyjeblNmuhphc1g6EXZtOZQ6JY">](https://music.youtube.com/watch?v=bYh3g_fSbJc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gR4_uoJdOr0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gR4_uoJdOr0)
 
-LSD - Thunderclouds(feat. Sia(시아), Diplo, Labrinth)
+온스테이지ONSTAGE - [온스테이지] 320. 김윤아 - Going Home
 
-**Albums**: LABRINTH, SIA & DIPLO PRESENT... LSD
+**Albums**: 조회수 207만회
 
-Last updated at 01/01/2023 09:58
+Last updated at 01/01/2023 10:00
