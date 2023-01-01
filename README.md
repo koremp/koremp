@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xEMFZQki07Lqf-dqtnvMWz12W_p1Z4zr2Shsx_nt4nR6Vqq957m-dqzJUV15eITFrnS3KuNkHFmbpI0">](https://music.youtube.com/watch?v=qOr2QVjsQBM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=NVCAmm5BXHA)
 
-Craig David - Walking Away
+제이클레프 - 주스 온더 락(feat. Ohiorabbit)
 
-**Albums**: Born to Do It
+**Albums**: flaw, flaw
 
-Last updated at 01/01/2023 13:20
+Last updated at 01/01/2023 13:24
