@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xaATAz4sLxTDDxdQgHSw3NfiPhp_IoHnunQ1o-bGtINB7OaM8GyViyf0trsCJGCZeBM80N3hw6X54WU">](https://music.youtube.com/watch?v=Oi9alsZg1_A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/T4Zt2jibS8ufgFJufIqMC-cEsAYuMjsdbWJ-KQsNVhrq04gBISpsynj0wcOLPb_kv8HZB6ZCGFyVZNVs">](https://music.youtube.com/watch?v=_igh3R7CVFA)
 
-하현상 - Be My Birthday
+김사월 Kim Sawol - Let It Die 죽어
 
-**Albums**: 나의 해방일지 OST Part 5
+**Albums**: Romance 로맨스
 
-Last updated at 01/01/2023 12:01
+Last updated at 01/01/2023 12:05
