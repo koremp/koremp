@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/cy4894uE80k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cy4894uE80k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EKHS29gAqRLQty933GCdxzrItl3jV7ZaboYImRqYMcyjhbXRwmImt6CyOAu1ff0rRvfaISYxfb2LdM4">](https://music.youtube.com/watch?v=djvF0ODeKvw)
 
-Sung Lee - attention New Jeans cover
+Sam Smith 및 Kim Petras - Unholy (David Guetta Acid Remix)
 
-**Albums**: 조회수 22만회
+**Albums**: Unholy (David Guetta Acid Remix)
 
-Last updated at 01/01/2023 11:49
+Last updated at 01/01/2023 11:51
