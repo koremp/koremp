@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ace9GFAR8xF--ioZGFGqIHkZZYBRN_KfaTm9QIjKsjxXZS6pqbnzd3pQb0NdIG-67OJDBgRI40BWE529">](https://music.youtube.com/watch?v=HwNxxRBobFE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7GluAv3UwDgiuTyIxMZjKYz-gx0dISauP9tKha03VBCtzWupgMl-K-E9sGHTZ7K8OJfwjlDrHF01_uXs">](https://music.youtube.com/watch?v=IlPCW6nLheM)
 
-YB - 잊을께
+Madonna(마돈나) - Material Girl
 
-**Albums**: [YB] Stream
+**Albums**: Like a Virgin
 
-Last updated at 01/01/2023 10:10
+Last updated at 01/01/2023 10:14
