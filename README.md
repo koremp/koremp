@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=B3P1eb6oIIc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ui3Z-9lajSA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ui3Z-9lajSA)
 
-나씽 벗 띠브즈 - Hostage
+TVCHOSUN - TV조선 - 여름 향기처럼 통통 튀는 멜로디🌞 ‘사랑과 행복 그리고 이별’♪ TV CHOSUN 220720 방송 | [바람의 남자들 – 1회] | TV조선
 
-**Albums**: Nothing But Thieves (Deluxe)
+**Albums**: 조회수 5.2만회
 
-Last updated at 01/01/2023 14:16
+Last updated at 01/01/2023 14:20
