@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=_oOYKuMnJ60)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjqYTQjO-JG-8vLlt6-4iyQ)
 
-하현상 - 죽은 새
 
-**Albums**: Calibrate
+  
+    NCT 127
+  
+  
+  
+    NCT 127
+  
 
-Last updated at 01/01/2023 15:10
+
+
+
+  공식 아티스트 채널
+
+
+ - Cherry Bomb
+
+**Albums**: Not supported
+
+Last updated at 01/02/2023 11:50
