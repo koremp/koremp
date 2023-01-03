@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/vKc2p6NFn-c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vKc2p6NFn-c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RIrj4GnniYvBIo1VRqkzNS3gDvSu-bzGxGQ2iwVZVDvbT6JUELCy7tyIbZIuTS5bcKwAkXk3iFX8TdY">](https://music.youtube.com/watch?v=-dUgB3JGUg8)
 
-kirararararararara - KIRARA 키라라 - cts1 (Full Album) (2014)
+김윤아 - 꿈
 
-**Albums**: 조회수 681회
+**Albums**: 타인의 고통
 
-Last updated at 01/03/2023 10:52
+Last updated at 01/03/2023 11:02
