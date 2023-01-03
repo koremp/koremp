@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=7OkPLEtlVpo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K6NjO1vFTfVwRme_PRi0UN_7dLwnsD6kbEkb_EZ1ysOxHqGfgNvIrL01dFDNU0abtyBLJvXCCn3FDIbgAw">](https://music.youtube.com/watch?v=YAtc0d4fORg)
 
-제이클레프 - 지구 멸망 한 시간 전
+Jack Stauber - Buttercup
 
-**Albums**: flaw, flaw
+**Albums**: Pop Food
 
-Last updated at 01/03/2023 10:36
+Last updated at 01/03/2023 10:42
