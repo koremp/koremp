@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5teqUPmWiFmagN0RggBKRXSW1zUj5_fVCEhbVhN6qt519EyHj6njy1x8dnJcRWNhQ5cl4dZgGaxbyqgv">](https://music.youtube.com/watch?v=2yqYAsUpdSc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=MxV25hAREJM)
 
-The Weeknd - Out of Time
+제이클레프 - FLAW, FLAW
 
-**Albums**: Dawn FM
+**Albums**: flaw, flaw
 
-Last updated at 01/03/2023 11:10
+Last updated at 01/03/2023 11:14
