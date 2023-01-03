@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjqYTQjO-JG-8vLlt6-4iyQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
 
   
-    NCT 127
+    LE SSERAFIM
   
   
   
-    NCT 127
+    LE SSERAFIM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - TOUCH
+ - ANTIFRAGILE
 
 **Albums**: Not supported
 
-Last updated at 01/03/2023 09:29
+Last updated at 01/03/2023 09:33
