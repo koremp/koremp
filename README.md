@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WecS3Ig09AhrOvTpVtrRiNjpKYYYs6E2Uzce7lgurCbOVHaG0zrwDDU0a3p0yO7-v6IKOC1h55hbted8AQ">](https://music.youtube.com/watch?v=OK848_DSj6k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DioH8g3krcZK7abZuQ8AuN45YKCtZUdcccC4S_9S5k40surN78lJghdgHyB-q2HAftKwE6MLB-cL6yg6">](https://music.youtube.com/watch?v=7OkPLEtlVpo)
 
-Kygo 및 Selena Gomez - It Ain't Me
+제이클레프 - 지구 멸망 한 시간 전
 
-**Albums**: It Ain't Me
+**Albums**: flaw, flaw
 
-Last updated at 01/03/2023 10:32
+Last updated at 01/03/2023 10:36
