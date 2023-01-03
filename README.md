@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zXoInc1UdG_860yYR6CtfXee-KSv8nY5B0-cdTrKAdljvid7ZG1jTLZz9xQ10SaWm4Ityn9LG8O8JhU">](https://music.youtube.com/watch?v=NY-U-0NHccs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wO1e34ZIcA1kJp5IXYqt2JGE2IxrajoiHM_04M9Pgk8RqSxVBsAw1EK4DOuzb_r6NG1d8f9LHN4pcTLo">](https://music.youtube.com/watch?v=SZiwpL62to8)
 
-이정현 - 바꿔
+LE SSERAFIM - ANTIFRAGILE
 
-**Albums**: Let's Go To My Star
+**Albums**: ANTIFRAGILE
 
-Last updated at 01/03/2023 10:46
+Last updated at 01/03/2023 10:50
