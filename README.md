@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K6NjO1vFTfVwRme_PRi0UN_7dLwnsD6kbEkb_EZ1ysOxHqGfgNvIrL01dFDNU0abtyBLJvXCCn3FDIbgAw">](https://music.youtube.com/watch?v=YAtc0d4fORg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zXoInc1UdG_860yYR6CtfXee-KSv8nY5B0-cdTrKAdljvid7ZG1jTLZz9xQ10SaWm4Ityn9LG8O8JhU">](https://music.youtube.com/watch?v=NY-U-0NHccs)
 
-Jack Stauber - Buttercup
+이정현 - 바꿔
 
-**Albums**: Pop Food
+**Albums**: Let's Go To My Star
 
-Last updated at 01/03/2023 10:42
+Last updated at 01/03/2023 10:46
