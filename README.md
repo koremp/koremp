@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RIrj4GnniYvBIo1VRqkzNS3gDvSu-bzGxGQ2iwVZVDvbT6JUELCy7tyIbZIuTS5bcKwAkXk3iFX8TdY">](https://music.youtube.com/watch?v=-dUgB3JGUg8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HTuloEsvMwNPptZ3A1ec4mQQOzwwGiCoYBPTqhutcWS2Wnhhzs5Y1befAJA3eUVsfBxO2a_z8HGs5WT2">](https://music.youtube.com/watch?v=f8IqVtY_4jo)
 
-김윤아 - 꿈
+덩쯔치 - 光年之外 (電影 《Passengers》 中國區主題曲)
 
-**Albums**: 타인의 고통
+**Albums**: 光年之外 (電影 《Passengers》 中國區主題曲)
 
-Last updated at 01/03/2023 11:02
+Last updated at 01/03/2023 11:06
