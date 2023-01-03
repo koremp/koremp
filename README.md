@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WecS3Ig09AhrOvTpVtrRiNjpKYYYs6E2Uzce7lgurCbOVHaG0zrwDDU0a3p0yO7-v6IKOC1h55hbted8AQ">](https://music.youtube.com/watch?v=OK848_DSj6k)
 
+Kygo 및 Selena Gomez - It Ain't Me
 
-  
-    aespa
-  
-  
-  
-    aespa
-  
+**Albums**: It Ain't Me
 
-
-
-
-  공식 아티스트 채널
-
-
- - 도깨비불 Illusion
-
-**Albums**: Not supported
-
-Last updated at 01/03/2023 09:39
+Last updated at 01/03/2023 10:32
