@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOb6Gn5evOqEN9uZ_Uegmm2bQ--VTEmVSK47RJ7D6Kv5EBqkZ5a5MuxWyxX7jnOquH2KRd0r8v4N8nc">](https://music.youtube.com/watch?v=vmjFbWWUHyw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=P_DCkMbQaHs)
 
-TroyBoi - WARLORDZ(feat. Skrillex(스크릴렉스))
+Jack Ü - Take Ü There(feat. Kiesza)
 
-**Albums**: WARLORDZ
+**Albums**: Skrillex and Diplo present Jack Ü
 
-Last updated at 01/06/2023 12:40
+Last updated at 01/06/2023 12:44
