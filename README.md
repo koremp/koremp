@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fQBt2lijIz0c3wfbGJx_p_rqaHgz1EyU_1uYZl_tIQZCQWT06Jch6uwdKuFZUkkcZ6F3RsDr9ocZWI4">](https://music.youtube.com/watch?v=AFED8hsu9FA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/C8GLN2NJngx12lvlGRnmj1MiiD57NkRskz4PvQE-m9zAz5uFbQ8uV4clzq-MCzE1HOEUySq0RhHAb9Y">](https://music.youtube.com/watch?v=CFMcMxzSFQs)
 
-Lykke Li 및 Skrillex(스크릴렉스) - two nights part ii (Lykke Li x Skrillex x Ty Dolla $ign)
+Ty Dolla $ign, 보이즈 노이즈 및 Skrillex(스크릴렉스) - Midnight Hour
 
-**Albums**: two nights part ii (Lykke Li x Skrillex x Ty Dolla $ign)
+**Albums**: Midnight Hour
 
-Last updated at 01/06/2023 12:34
+Last updated at 01/06/2023 12:38
