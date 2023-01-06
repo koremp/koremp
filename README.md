@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t4nPYonc3K3bFs48__4KCQczLpgxIOIGGWtGHWVlVcPyB6t3HaftEufmzNiFlJN5DXjpNvpRYoAtKww">](https://music.youtube.com/watch?v=AvljBoKOCqo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/lkgQ0-c5r58/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lkgQ0-c5r58)
 
-정경화 - The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293, "Autumn": I. Allegro
+TV예술무대 - 손열음 & 스베틀린 루세브│생상스, 서주와 론도 카프리치오소(C.Saint-Saëns, Introduction et Rondo capriccioso Op.28)
 
-**Albums**: Vivaldi: The Four Seasons
+**Albums**: 조회수 10만회
 
-Last updated at 01/06/2023 12:20
+Last updated at 01/06/2023 12:26
