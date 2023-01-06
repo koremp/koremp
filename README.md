@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/I0aOmgNvgMU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=I0aOmgNvgMU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/t4nPYonc3K3bFs48__4KCQczLpgxIOIGGWtGHWVlVcPyB6t3HaftEufmzNiFlJN5DXjpNvpRYoAtKww">](https://music.youtube.com/watch?v=AvljBoKOCqo)
 
-김봄소리 - Kreisler Syncopation - Bomsori Kim 김봄소리
+정경화 - The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293, "Autumn": I. Allegro
 
-**Albums**: 조회수 4.9만회
+**Albums**: Vivaldi: The Four Seasons
 
-Last updated at 01/06/2023 11:28
+Last updated at 01/06/2023 12:20
