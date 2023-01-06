@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/lkgQ0-c5r58/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lkgQ0-c5r58)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fQBt2lijIz0c3wfbGJx_p_rqaHgz1EyU_1uYZl_tIQZCQWT06Jch6uwdKuFZUkkcZ6F3RsDr9ocZWI4">](https://music.youtube.com/watch?v=AFED8hsu9FA)
 
-TV예술무대 - 손열음 & 스베틀린 루세브│생상스, 서주와 론도 카프리치오소(C.Saint-Saëns, Introduction et Rondo capriccioso Op.28)
+Lykke Li 및 Skrillex(스크릴렉스) - two nights part ii (Lykke Li x Skrillex x Ty Dolla $ign)
 
-**Albums**: 조회수 10만회
+**Albums**: two nights part ii (Lykke Li x Skrillex x Ty Dolla $ign)
 
-Last updated at 01/06/2023 12:26
+Last updated at 01/06/2023 12:34
