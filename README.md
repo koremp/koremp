@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/24O_weUeOe4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=24O_weUeOe4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/I0aOmgNvgMU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=I0aOmgNvgMU)
 
-온스테이지ONSTAGE - [온스테이지] 334. KIRARA(키라라) - ct14074
+김봄소리 - Kreisler Syncopation - Bomsori Kim 김봄소리
 
-**Albums**: 조회수 2.4만회
+**Albums**: 조회수 4.9만회
 
-Last updated at 01/03/2023 11:16
+Last updated at 01/06/2023 11:28
