@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/C8GLN2NJngx12lvlGRnmj1MiiD57NkRskz4PvQE-m9zAz5uFbQ8uV4clzq-MCzE1HOEUySq0RhHAb9Y">](https://music.youtube.com/watch?v=CFMcMxzSFQs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOb6Gn5evOqEN9uZ_Uegmm2bQ--VTEmVSK47RJ7D6Kv5EBqkZ5a5MuxWyxX7jnOquH2KRd0r8v4N8nc">](https://music.youtube.com/watch?v=vmjFbWWUHyw)
 
-Ty Dolla $ign, 보이즈 노이즈 및 Skrillex(스크릴렉스) - Midnight Hour
+TroyBoi - WARLORDZ(feat. Skrillex(스크릴렉스))
 
-**Albums**: Midnight Hour
+**Albums**: WARLORDZ
 
-Last updated at 01/06/2023 12:38
+Last updated at 01/06/2023 12:40
