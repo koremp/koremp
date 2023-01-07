@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCJVA-stKCH0IS_C1qIOUjTA)
 
 
   
-    Conan Gray
+    Loco
   
   
   
-    Conan Gray
+    Loco
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Lookalike
+ - 주지마 Don’t
 
 **Albums**: Not supported
 
-Last updated at 01/07/2023 14:06
+Last updated at 01/07/2023 14:08
