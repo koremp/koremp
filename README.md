@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PlifAxaTuh_97lhYXAclxF3EQhJMVaiqBPH9Ll0-rgoL__uNvnW1imGenReWYGYC120V2iO27gEBurY">](https://music.youtube.com/watch?v=V6TPgwy-nRk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FYvAsmiwSQw5BlNvVwppJFvKkO9ekQnP4biSXn_gQn5_Vg96H-hHr4ee2FkkWKCo2wpBiFPyGOipf3tb">](https://music.youtube.com/watch?v=tR05ituXi8E)
 
-레오폴드 스토코프스키 - Danse macabre, Op. 40(feat. 시드니 삭스)
+Camille Saint-Saëns - Saint-Saens: Danse Macabre
 
-**Albums**: Stokowski Showcase
+**Albums**: Powerful Classics
 
-Last updated at 01/07/2023 15:39
+Last updated at 01/07/2023 15:47
