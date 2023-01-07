@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/860yCs0Vv1rp8bMidst1XvaEn6JxZVyd_W-PycTrqvkZApuR8VDbxaL1MuQSKPUsKtOuOKUJV0A4c09q">](https://music.youtube.com/watch?v=-gan4gnYsoc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/860yCs0Vv1rp8bMidst1XvaEn6JxZVyd_W-PycTrqvkZApuR8VDbxaL1MuQSKPUsKtOuOKUJV0A4c09q">](https://music.youtube.com/watch?v=0CwRJj8R0O4)
 
-LUCY - 결국 아무것도 알 수 없었지만
+LUCY - 맞네
 
 **Albums**: BLUE
 
-Last updated at 01/07/2023 14:44
+Last updated at 01/07/2023 14:48
