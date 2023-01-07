@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Comfort Crowd
+ - Wish You Were Sober
 
 **Albums**: Not supported
 
-Last updated at 01/07/2023 13:17
+Last updated at 01/07/2023 13:19
