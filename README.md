@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZrPTG4bWV7ghQcQlADT4VMHridOsQDcEj65OIJ0u41EDaVdQxabZmepcySXgvJtUYIHy1hKMw51EiiblrA">](https://music.youtube.com/watch?v=7jxlsVRylq8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OVWygrZuFYstN6FOhm1xJzt_VpZpC2b19thDVEuKMd7H4RRcEUiG1DNd1-RbnVT_6jlLg5ucntH3_DArLA">](https://music.youtube.com/watch?v=lclm_ZTGH90)
 
-LUCY - 개화 (Flowering)
+루시 - 히어로
 
-**Albums**: DEAR.
+**Albums**: INSIDE
 
-Last updated at 01/07/2023 14:18
+Last updated at 01/07/2023 14:22
