@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tHH0rluaAGwgWuXAmiNXwMgoubYV51Wd0tSst-N9R8rPyJgJ8ckFAR9N2lRcdZRusNO9CU3qut-oFFLm">](https://music.youtube.com/watch?v=8ECPu3iumnE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4Pp2Bj6UeIem89BpzckeOO2vdz8ufxCJ5eyv73Khk2Ezdp7HbM_B8IJ_qmBjQoaMo0tVmx-jM0Gfi3p9">](https://music.youtube.com/watch?v=EuiPRLz8g2Y)
 
-수프얀 스티븐스 - Mystery of Love
+Joji - Glimpse of Us
 
-**Albums**: Call Me by Your Name (Original Motion Picture Soundtrack)
+**Albums**: SMITHEREENS
 
-Last updated at 01/07/2023 22:00
+Last updated at 01/07/2023 22:04
