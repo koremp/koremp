@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9MtwdeRBSrZn3C_SvdaJpE3hwAl6c5A3yYuwTqBJaB02BSwNsnHaXBzvupQQCiW5eiEiEXWGFoATFxQ">](https://music.youtube.com/watch?v=iMr69JihnP4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CeONPYrt2cBcHY69uysVirv7_McdKGi80iW7SlsyS74ehS8ySJA4Uu70plolWKfPmngxLN3t7LxdIAA">](https://music.youtube.com/watch?v=_CIPAoXNQh4)
 
-피비 브리저스 - Motion Sickness
+Dabin - In Flames(feat. Lexi Norton)
 
-**Albums**: Stranger in the Alps (Deluxe Edition)
+**Albums**: Wild Youth [Acoustic]
 
-Last updated at 01/07/2023 22:12
+Last updated at 01/07/2023 22:16
