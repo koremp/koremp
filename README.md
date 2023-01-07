@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=fit0LpVC3sY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FQYzbEylH0rez0u97pHaA8yo16yfX1mWj_omENBRSC-l3ft34R0IJYKhsAsAR2TENeN21KKwNEcHGHKk">](https://music.youtube.com/watch?v=MRG2XF-nFxg)
 
-LUCY - 놀이
+LUCY - 조깅
 
-**Albums**: Childhood
+**Albums**: PANORAMA
 
-Last updated at 01/07/2023 14:26
+Last updated at 01/07/2023 14:30
