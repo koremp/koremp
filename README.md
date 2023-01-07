@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aZ3Quo7gqQyffR-VxgyltUa52NjCL7CHTa38Xqmk0bavsyTqoUwLcgBLfqPch3NFlXPIATNDRsD5kYjg_A">](https://music.youtube.com/watch?v=_zDEsSUqC6k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PaUEto1jV79qGzzfOeRUbvp62PomSJ8LkWiiNMqT1oIZfJsJPunUHlVS8EGd_ytaxChxKqpiXKJKDeYw">](https://music.youtube.com/watch?v=BMqxBywA94w)
 
-St. Vincent - Somebody Like Me
+시그리드 - Don't Kill My Vibe (Acoustic)
 
-**Albums**: Daddy's Home
+**Albums**: Don't Kill My Vibe (Acoustic Versions)
 
-Last updated at 01/07/2023 21:28
+Last updated at 01/07/2023 21:32
