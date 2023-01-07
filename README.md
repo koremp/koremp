@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Am8TBn2iIq21eLmSyTG85KIO0XxcGCzgjnVN9okP49A6HHpecHXiz1bN9emi4sm9yNiyVRvGRpqyrd-O9Q">](https://music.youtube.com/watch?v=GVZqDCG2VrA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tHH0rluaAGwgWuXAmiNXwMgoubYV51Wd0tSst-N9R8rPyJgJ8ckFAR9N2lRcdZRusNO9CU3qut-oFFLm">](https://music.youtube.com/watch?v=8ECPu3iumnE)
 
-Mitski - Nobody
+수프얀 스티븐스 - Mystery of Love
 
-**Albums**: Be the Cowboy
+**Albums**: Call Me by Your Name (Original Motion Picture Soundtrack)
 
-Last updated at 01/07/2023 21:56
+Last updated at 01/07/2023 22:00
