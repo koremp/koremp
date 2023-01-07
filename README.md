@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcySKiC8B--qj4Q21xwWY2uxmx4AoUPHxpl4dHE9KNMmbfEl6Xp27Y5yqSPfgvsYdVrr3Ce1u2wrEoMdw">](https://music.youtube.com/watch?v=PLd1BGgFgzs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/O2mNh_d78sG6h8nqh1EWiU7rrD7_0KJEAyCEzmHs-jy0TDywp3Kv-ZIKdPflDQFR9sezUtoWgMClarnG">](https://music.youtube.com/watch?v=8RAbznAeLSk)
 
-랑랑 - La campanella in G-Sharp Minor (From "Grandes études de Paganini", S. 141 / 3)
+크리스티나 오르티츠, 로열 필하모닉 오케스트라 및 Vladimir Ashkenazy - 피아노 협주곡 2번 바장조 작품번호 102: 2. 안단테
 
-**Albums**: Liszt: My Piano Hero
+**Albums**: Shostakovich: Violin Concerto No.1; Piano Concerto No.2
 
-Last updated at 01/07/2023 17:00
+Last updated at 01/07/2023 17:04
