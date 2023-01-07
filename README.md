@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/860yCs0Vv1rp8bMidst1XvaEn6JxZVyd_W-PycTrqvkZApuR8VDbxaL1MuQSKPUsKtOuOKUJV0A4c09q">](https://music.youtube.com/watch?v=EhjK3tVKbnA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=_sjpt9vAaEk)
 
-LUCY - 떼굴떼굴
+LUCY - MP3
 
-**Albums**: BLUE
+**Albums**: Childhood
 
-Last updated at 01/07/2023 14:36
+Last updated at 01/07/2023 14:40
