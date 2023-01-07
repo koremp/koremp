@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wnzsd8wrxcLsWqYKjMe9sH1uA_W0gp14DK7urWrRp8MyECdzf8GtD0pHt1EUL_wDzOvn9Xqpwri7OD4l">](https://music.youtube.com/watch?v=__EFd3LkG5Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OwsdbkEoX3hzxidR8TSVpRXPGcQ6C77FReipZt4O2-kpyGH8WHzGLyxm4G6aJG3_RCG2h1RgnObc1fQ">](https://music.youtube.com/watch?v=6q12QJg3FFk)
 
-Hayley Williams - KYRH
+Aisha Badru - Graves
 
-**Albums**: FLOWERS for VASES / descansos
+**Albums**: The Way Back Home
 
-Last updated at 01/07/2023 21:22
+Last updated at 01/07/2023 21:26
