@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OVWygrZuFYstN6FOhm1xJzt_VpZpC2b19thDVEuKMd7H4RRcEUiG1DNd1-RbnVT_6jlLg5ucntH3_DArLA">](https://music.youtube.com/watch?v=lclm_ZTGH90)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=fit0LpVC3sY)
 
-루시 - 히어로
+LUCY - 놀이
 
-**Albums**: INSIDE
+**Albums**: Childhood
 
-Last updated at 01/07/2023 14:22
+Last updated at 01/07/2023 14:26
