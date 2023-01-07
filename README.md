@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JEw0SollgYknOyq2wnqg4KZiobjVd9x1tjbGTDXrJozMGerDyMKiEJrJhJvgOlV0MdtHXd5seruJx76C">](https://music.youtube.com/watch?v=CR8r_mHCRuc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Og0U1aUzCK_o4OFAFILCsZ7TMyknnAj0TGQ_ElLPLmqihnCh5B8U9yWsNfAXS1N9pYcXlv1fBwMEK4sioA">](https://music.youtube.com/watch?v=hmOfjRMh8Qc)
 
-Precious Jewel Amor - Alive II
+Gavin Luke 및 DMNIQ - Hold Your Breath Still
 
-**Albums**: Within These Obsidian Walls
+**Albums**: Hold Your Breath Still
 
-Last updated at 01/07/2023 22:38
+Last updated at 01/07/2023 22:44
