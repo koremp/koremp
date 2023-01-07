@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nBQ2yRYxNzSE_I2IbybljvKJhTyHISC3TVew_uraAkvH7trJ7lXc7LlYc4WLqs1IHsHDyLm24W-7Pic">](https://music.youtube.com/watch?v=MMfpp0-lnw4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HSanI2S3nY7VnGQlwO6UwSt5ILOcA73-ZE6abxo0VuVfRDgdro37FW1EJutKYde6PgizIDMPf3WiIv4">](https://music.youtube.com/watch?v=A2X0DN4qCuY)
 
-Billie Eilish(빌리 아일리시) 및 Khalid(칼리드) - lovely
+Lullaby House Music - You Are an Instrument
 
-**Albums**: lovely
+**Albums**: Dream Baby Dream
 
-Last updated at 01/07/2023 21:48
+Last updated at 01/07/2023 21:52
