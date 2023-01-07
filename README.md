@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wnzsd8wrxcLsWqYKjMe9sH1uA_W0gp14DK7urWrRp8MyECdzf8GtD0pHt1EUL_wDzOvn9Xqpwri7OD4l">](https://music.youtube.com/watch?v=O1kp9ozlWBw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/tVZo5hvj2OM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=tVZo5hvj2OM)
 
-Hayley Williams - Inordinary
+Oliwia Sitek - Paramore - Hello Hello
 
-**Albums**: FLOWERS for VASES / descansos
+**Albums**: 조회수 22만회
 
-Last updated at 01/07/2023 21:36
+Last updated at 01/07/2023 21:40
