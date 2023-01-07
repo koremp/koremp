@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/O2mNh_d78sG6h8nqh1EWiU7rrD7_0KJEAyCEzmHs-jy0TDywp3Kv-ZIKdPflDQFR9sezUtoWgMClarnG">](https://music.youtube.com/watch?v=8RAbznAeLSk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3RC2NTWVHVRl82fNwUFcX3ajpAqoAp8AG8ucyVQ4bVumHZ6UbjV6UXqCJes-rV12oI3ltnMLi_DrkLQP">](https://music.youtube.com/watch?v=PzzaAdYX2Hw)
 
-크리스티나 오르티츠, 로열 필하모닉 오케스트라 및 Vladimir Ashkenazy - 피아노 협주곡 2번 바장조 작품번호 102: 2. 안단테
+Emerson String Quartet - 하이든: 현악 사중주 바단조, 작품번호 20-5: 3. Adagio
 
-**Albums**: Shostakovich: Violin Concerto No.1; Piano Concerto No.2
+**Albums**: 하이든: 현악 사중주
 
-Last updated at 01/07/2023 17:04
+Last updated at 01/07/2023 17:12
