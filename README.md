@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HalbbmWpYwk50v_razJN8GtRPXiReTdg4GW8-Q7yGLx4cK8HAep0UZL4UnWz7l1h-zdopTlqG9svQynV">](https://music.youtube.com/watch?v=N3suiotbetY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JEw0SollgYknOyq2wnqg4KZiobjVd9x1tjbGTDXrJozMGerDyMKiEJrJhJvgOlV0MdtHXd5seruJx76C">](https://music.youtube.com/watch?v=CR8r_mHCRuc)
 
-Conan Gray - Astronomy
+Precious Jewel Amor - Alive II
 
-**Albums**: Superache
+**Albums**: Within These Obsidian Walls
 
-Last updated at 01/07/2023 22:34
+Last updated at 01/07/2023 22:38
