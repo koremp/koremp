@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XB8xSAKFsHN6sKGVhuNPPUwEgk6SBtOh6ubRB0BCxoXlaLXDLJHd7Dy6N51BNp9TQnG4LlY8UsIzI6-I">](https://music.youtube.com/watch?v=DOPr_80EfUw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pHLz4K2af04rM2kBoDJnW7zexjX2-eyweD9mMiJo4nFRdmBu7CREEoUOevj92NejC7wEYcRMy9tG3HOEbg">](https://music.youtube.com/watch?v=0daOAWReOdM)
 
-정경화 - Kreisler: Praeludium and Allegro
+런던 교향악단 및 콜린 데이비스 - Requiem in D Minor, K. 626: No 1, Introitus and Kyrie - Requiem and Kyrie
 
-**Albums**: Con Amore
+**Albums**: Mozart: Requiem
 
-Last updated at 01/07/2023 17:32
+Last updated at 01/07/2023 17:36
