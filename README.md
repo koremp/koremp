@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pHLz4K2af04rM2kBoDJnW7zexjX2-eyweD9mMiJo4nFRdmBu7CREEoUOevj92NejC7wEYcRMy9tG3HOEbg">](https://music.youtube.com/watch?v=0daOAWReOdM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YvudjUeaC38aYKgyFuyckWe4NQqvpIyuqQqhfRw-wQGAb6l78NveyBTyOdojtdpHasd8CIXA5nlHaXCRsw">](https://music.youtube.com/watch?v=fdBIBJg62B0)
 
-런던 교향악단 및 콜린 데이비스 - Requiem in D Minor, K. 626: No 1, Introitus and Kyrie - Requiem and Kyrie
+빈 악우협회 합창단 및 빈 필하모닉 오케스트라 - Mozart: Requiem In D Minor, K.626 - 8.Communio: Lux aeterna
 
 **Albums**: Mozart: Requiem
 
-Last updated at 01/07/2023 17:36
+Last updated at 01/07/2023 17:44
