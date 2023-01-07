@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TIr6DvKnA550tBw-X8IMUVrpuADSed62FfFu5DLQpzCA48dnbKVRzICyP76DAriKSYFW670_OppWLlyQ">](https://music.youtube.com/watch?v=9Gc-qQBDMH8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cr_gN0B1pBcANCndfIED3RrNNQT6baOxWFIwdkbYNmRn6xaXG_LARIiLXqM3ZDCmL3OkWaSfwjsqjZaEvg">](https://music.youtube.com/watch?v=kib-ozDtoxw)
 
-Philharmonia Orchestra,Carlo Maria Giulini 및 Riccardo Muti - Guillaume Tell: Overture (Conclusion)
+알프레드 브렌델 및 사이먼 래틀 - Beethoven: Piano Concerto No. 5 in E-Flat Major, Op. 73 "Emperor" - 2. Adagio un poco mosso
 
-**Albums**: The Classic Experience
+**Albums**: Beethoven: The Piano Concertos
 
-Last updated at 01/07/2023 16:03
+Last updated at 01/07/2023 16:07
