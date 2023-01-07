@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PaUEto1jV79qGzzfOeRUbvp62PomSJ8LkWiiNMqT1oIZfJsJPunUHlVS8EGd_ytaxChxKqpiXKJKDeYw">](https://music.youtube.com/watch?v=BMqxBywA94w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wnzsd8wrxcLsWqYKjMe9sH1uA_W0gp14DK7urWrRp8MyECdzf8GtD0pHt1EUL_wDzOvn9Xqpwri7OD4l">](https://music.youtube.com/watch?v=O1kp9ozlWBw)
 
-시그리드 - Don't Kill My Vibe (Acoustic)
+Hayley Williams - Inordinary
 
-**Albums**: Don't Kill My Vibe (Acoustic Versions)
+**Albums**: FLOWERS for VASES / descansos
 
-Last updated at 01/07/2023 21:32
+Last updated at 01/07/2023 21:36
