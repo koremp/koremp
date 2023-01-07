@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GhtE0pSmTU-Jlkya-Qx-0scNiU0kYi4lCXQlmDDXQsiMWINYHPi0pYW12-7OhZ_Ma7yX4ZM3jVl8noZz">](https://music.youtube.com/watch?v=MIeMQpFLbrg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcySKiC8B--qj4Q21xwWY2uxmx4AoUPHxpl4dHE9KNMmbfEl6Xp27Y5yqSPfgvsYdVrr3Ce1u2wrEoMdw">](https://music.youtube.com/watch?v=PLd1BGgFgzs)
 
-Hilary Hahn - J.S. Bach: Concerto For 2 Violins, Strings, And Continuo In D Minor, BWV 1043 - 1. Vivace
+랑랑 - La campanella in G-Sharp Minor (From "Grandes études de Paganini", S. 141 / 3)
 
-**Albums**: Bach: Violin Concertos
+**Albums**: Liszt: My Piano Hero
 
-Last updated at 01/07/2023 16:56
+Last updated at 01/07/2023 17:00
