@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCmTdAlgitpNLCFwxynjmjpw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCp_Hh63-lUJIMdL_eYJNn7w)
 
 
   
-    Heize official
+    OOHYO 우효
   
   
   
-    Heize official
+    OOHYO 우효
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - And July (Feat. DEAN & DJ Friz)
+ - Dandelion (민들레) (single ver.)
 
 **Albums**: Not supported
 
-Last updated at 01/07/2023 12:57
+Last updated at 01/07/2023 13:01
