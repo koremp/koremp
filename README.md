@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vviymA2v7aUlGu0uS9Aysz-uF6YWz4Gy6pd2oXP1oGJZxbLGUBF441mdh2ZHREGfmx5PWdiyQKoMPYsxSA">](https://music.youtube.com/watch?v=OcdoulhQDAI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nO4X3A6-JjryloswjK_miHBrz5bn30VO9bdtFHv5xOXziqZTlKs0z6UYaM3xvr6M_ift8J5PwR8kYXpX">](https://music.youtube.com/watch?v=Sfe2Mh2-jMo)
 
-루트비히 판 베토벤 - Symphony No 7 In A Major - 2nd Movement - Allegretto
+글렌 굴드 - Intermezzo No. 3 in C-Sharp Minor, Op. 117 - Andante con moto
 
-**Albums**: The Symphonies Of Beethoven
+**Albums**: Brahms: 10 Intermezzi for Piano ((Gould Remastered))
 
-Last updated at 01/07/2023 17:18
+Last updated at 01/07/2023 17:26
