@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cr_gN0B1pBcANCndfIED3RrNNQT6baOxWFIwdkbYNmRn6xaXG_LARIiLXqM3ZDCmL3OkWaSfwjsqjZaEvg">](https://music.youtube.com/watch?v=kib-ozDtoxw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iMUT2Fzl_u6YdoPLL--GLhKRa-GrAagIcT_sO3DHQ6FFMuA8Z1v1LOOOvQhBkkAkLk3rkLen8tVtH14T">](https://music.youtube.com/watch?v=5U3PwQY2b5E)
 
-알프레드 브렌델 및 사이먼 래틀 - Beethoven: Piano Concerto No. 5 in E-Flat Major, Op. 73 "Emperor" - 2. Adagio un poco mosso
+다니엘 바렌보임 - 리스트: 야상곡 3번 내림 가장조, S. 541: 사랑할 수 있는 한 사랑하라
 
-**Albums**: Beethoven: The Piano Concertos
+**Albums**: Liszt: Dreams of Love; Consolations; Sonnets of Petrarca; Rigoletto Paraphrase
 
-Last updated at 01/07/2023 16:07
+Last updated at 01/07/2023 16:52
