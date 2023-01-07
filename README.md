@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvZ_aQ7A65mx4fMVa5vPvqXCUyGaC7u26bxybyur6IF9pebC-H5CvixC0KczfwV7Fsz7NLdT8L-iIBg_ag">](https://music.youtube.com/watch?v=Yn78gScehAQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCmTdAlgitpNLCFwxynjmjpw)
 
-Noisia, Skrillex, josh pan 및 Dylan Brady - Supersonic (VIP)
 
-**Albums**: Closer
+  
+    Heize official
+  
+  
+  
+    Heize official
+  
 
-Last updated at 01/06/2023 12:48
+
+
+
+  공식 아티스트 채널
+
+
+ - And July (Feat. DEAN & DJ Friz)
+
+**Albums**: Not supported
+
+Last updated at 01/07/2023 12:57
