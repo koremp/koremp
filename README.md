@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AOJSJM2DFSwU4EojW4pDgRS_QNFbKjNavm_Y06U4MZsnmEuBjS9nCUd9j1LUFke6GqZ2B6ktOWbBUshOVQ">](https://music.youtube.com/watch?v=NrmLcwGjovc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/860yCs0Vv1rp8bMidst1XvaEn6JxZVyd_W-PycTrqvkZApuR8VDbxaL1MuQSKPUsKtOuOKUJV0A4c09q">](https://music.youtube.com/watch?v=EhjK3tVKbnA)
 
-LUCY - 21세기의 어떤 날
+LUCY - 떼굴떼굴
 
-**Albums**: 21세기의 어떤 날
+**Albums**: BLUE
 
-Last updated at 01/07/2023 14:32
+Last updated at 01/07/2023 14:36
