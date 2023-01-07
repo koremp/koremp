@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FYvAsmiwSQw5BlNvVwppJFvKkO9ekQnP4biSXn_gQn5_Vg96H-hHr4ee2FkkWKCo2wpBiFPyGOipf3tb">](https://music.youtube.com/watch?v=tR05ituXi8E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skrvv126NTYSATVgMq98bFnNE-7aIU3joZBx_z_DuS7L5m0cNg3DgXQfcDVNOCTq_sXOPB3DFgbgVTps">](https://music.youtube.com/watch?v=Ax9Mri7VRes)
 
-Camille Saint-Saëns - Saint-Saens: Danse Macabre
+Johann Sebastian Bach - Concerto for Two Violins in D Minor, BWV 1043: I. Vivace
 
-**Albums**: Powerful Classics
+**Albums**: The Best of Bach, Vol. 1
 
-Last updated at 01/07/2023 15:47
+Last updated at 01/07/2023 15:53
