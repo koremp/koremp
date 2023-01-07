@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iMUT2Fzl_u6YdoPLL--GLhKRa-GrAagIcT_sO3DHQ6FFMuA8Z1v1LOOOvQhBkkAkLk3rkLen8tVtH14T">](https://music.youtube.com/watch?v=5U3PwQY2b5E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GhtE0pSmTU-Jlkya-Qx-0scNiU0kYi4lCXQlmDDXQsiMWINYHPi0pYW12-7OhZ_Ma7yX4ZM3jVl8noZz">](https://music.youtube.com/watch?v=MIeMQpFLbrg)
 
-다니엘 바렌보임 - 리스트: 야상곡 3번 내림 가장조, S. 541: 사랑할 수 있는 한 사랑하라
+Hilary Hahn - J.S. Bach: Concerto For 2 Violins, Strings, And Continuo In D Minor, BWV 1043 - 1. Vivace
 
-**Albums**: Liszt: Dreams of Love; Consolations; Sonnets of Petrarca; Rigoletto Paraphrase
+**Albums**: Bach: Violin Concertos
 
-Last updated at 01/07/2023 16:52
+Last updated at 01/07/2023 16:56
