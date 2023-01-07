@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/tVZo5hvj2OM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=tVZo5hvj2OM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/X5LYz9ivDTmsp8ptbsgxeXWlryA2qynt3icM7rwdBFKCF-tpu85xf4BmADp6BdU3JMYy4V4LmJW_N0N5">](https://music.youtube.com/watch?v=OoIPd-LlY1A)
 
-Oliwia Sitek - Paramore - Hello Hello
+킹 프린세스 - You Destroyed My Heart
 
-**Albums**: 조회수 22만회
+**Albums**: Cheap Queen
 
-Last updated at 01/07/2023 21:40
+Last updated at 01/07/2023 21:44
