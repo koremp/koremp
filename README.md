@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1BdYjdWRV8lk8K0_CCSxZtuX1vlET7bafZttFNxcRe9UqOhkVSRNMOabzeV4OTSGSias3q39qT6wLsPvMQ">](https://music.youtube.com/watch?v=XO6Zcrnopgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PlifAxaTuh_97lhYXAclxF3EQhJMVaiqBPH9Ll0-rgoL__uNvnW1imGenReWYGYC120V2iO27gEBurY">](https://music.youtube.com/watch?v=V6TPgwy-nRk)
 
-Academy of St. Martin in the Fields - 바흐: 관현악 모음곡 3번 라장조: 2. 아리아
+레오폴드 스토코프스키 - Danse macabre, Op. 40(feat. 시드니 삭스)
 
-**Albums**: Bach: Orchestral Suites 1-4
+**Albums**: Stokowski Showcase
 
-Last updated at 01/07/2023 15:33
+Last updated at 01/07/2023 15:39
