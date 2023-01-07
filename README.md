@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCp_Hh63-lUJIMdL_eYJNn7w)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
 
 
   
-    OOHYO 우효
+    Conan Gray
   
   
   
-    OOHYO 우효
+    Conan Gray
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Dandelion (민들레) (full ver.)
+ - Comfort Crowd
 
 **Albums**: Not supported
 
-Last updated at 01/07/2023 13:11
+Last updated at 01/07/2023 13:17
