@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nO4X3A6-JjryloswjK_miHBrz5bn30VO9bdtFHv5xOXziqZTlKs0z6UYaM3xvr6M_ift8J5PwR8kYXpX">](https://music.youtube.com/watch?v=Sfe2Mh2-jMo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XB8xSAKFsHN6sKGVhuNPPUwEgk6SBtOh6ubRB0BCxoXlaLXDLJHd7Dy6N51BNp9TQnG4LlY8UsIzI6-I">](https://music.youtube.com/watch?v=DOPr_80EfUw)
 
-글렌 굴드 - Intermezzo No. 3 in C-Sharp Minor, Op. 117 - Andante con moto
+정경화 - Kreisler: Praeludium and Allegro
 
-**Albums**: Brahms: 10 Intermezzi for Piano ((Gould Remastered))
+**Albums**: Con Amore
 
-Last updated at 01/07/2023 17:26
+Last updated at 01/07/2023 17:32
