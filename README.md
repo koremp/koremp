@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HSanI2S3nY7VnGQlwO6UwSt5ILOcA73-ZE6abxo0VuVfRDgdro37FW1EJutKYde6PgizIDMPf3WiIv4">](https://music.youtube.com/watch?v=A2X0DN4qCuY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Am8TBn2iIq21eLmSyTG85KIO0XxcGCzgjnVN9okP49A6HHpecHXiz1bN9emi4sm9yNiyVRvGRpqyrd-O9Q">](https://music.youtube.com/watch?v=GVZqDCG2VrA)
 
-Lullaby House Music - You Are an Instrument
+Mitski - Nobody
 
-**Albums**: Dream Baby Dream
+**Albums**: Be the Cowboy
 
-Last updated at 01/07/2023 21:52
+Last updated at 01/07/2023 21:56
