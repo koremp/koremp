@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EMygniTApnPwrvxM2fcNR9angYFxiqmJpZdQ1wXn3tYKU9gbwHrxbVq2jYOTN8GlpQYbvwBoWdwmhfoI">](https://music.youtube.com/watch?v=RMlU9RfXRK4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HkkAtuE5UaAfgpv7lePEjDEgd-QHHrpZSsips_aZ6rxGCYX5bhCTxLwYMmx05oCbsybTt7jkW2KWl58">](https://music.youtube.com/watch?v=nc-IrijZQqg)
 
-Jasmine Thompson - Not About Angels
+Yonaka - Don't Wait 'Til Tomorrow
 
-**Albums**: Not About Angels
+**Albums**: Don't Wait 'Til Tomorrow
 
-Last updated at 01/07/2023 22:24
+Last updated at 01/07/2023 22:26
