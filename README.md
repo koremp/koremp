@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/80WdI4hu6BDuYRtE1t2yMLoqfoLvo5wXdIOgMzMxQO8cmO09IR8N4IsejReVt4xGr9xnCiLWvpRiY-BI">](https://music.youtube.com/watch?v=_sjpt9vAaEk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/860yCs0Vv1rp8bMidst1XvaEn6JxZVyd_W-PycTrqvkZApuR8VDbxaL1MuQSKPUsKtOuOKUJV0A4c09q">](https://music.youtube.com/watch?v=-gan4gnYsoc)
 
-LUCY - MP3
+LUCY - 결국 아무것도 알 수 없었지만
 
-**Albums**: Childhood
+**Albums**: BLUE
 
-Last updated at 01/07/2023 14:40
+Last updated at 01/07/2023 14:44
