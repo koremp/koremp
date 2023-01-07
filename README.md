@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Og0U1aUzCK_o4OFAFILCsZ7TMyknnAj0TGQ_ElLPLmqihnCh5B8U9yWsNfAXS1N9pYcXlv1fBwMEK4sioA">](https://music.youtube.com/watch?v=hmOfjRMh8Qc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HSbVny3ejNpMwubMKBtD4cDMCCpDH8vUpEgdNIHO2VCkyAmBgDG5nzT4M9EIIxT139oacQKvBu20SG9PNA">](https://music.youtube.com/watch?v=tATO-ZAKo2c)
 
-Gavin Luke 및 DMNIQ - Hold Your Breath Still
+Li3a - Mother Nature
 
-**Albums**: Hold Your Breath Still
+**Albums**: Mother Nature
 
-Last updated at 01/07/2023 22:44
+Last updated at 01/07/2023 22:48
