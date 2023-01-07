@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OwsdbkEoX3hzxidR8TSVpRXPGcQ6C77FReipZt4O2-kpyGH8WHzGLyxm4G6aJG3_RCG2h1RgnObc1fQ">](https://music.youtube.com/watch?v=6q12QJg3FFk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aZ3Quo7gqQyffR-VxgyltUa52NjCL7CHTa38Xqmk0bavsyTqoUwLcgBLfqPch3NFlXPIATNDRsD5kYjg_A">](https://music.youtube.com/watch?v=_zDEsSUqC6k)
 
-Aisha Badru - Graves
+St. Vincent - Somebody Like Me
 
-**Albums**: The Way Back Home
+**Albums**: Daddy's Home
 
-Last updated at 01/07/2023 21:26
+Last updated at 01/07/2023 21:28
