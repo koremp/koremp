@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@OfficialEpikHigh)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/860yCs0Vv1rp8bMidst1XvaEn6JxZVyd_W-PycTrqvkZApuR8VDbxaL1MuQSKPUsKtOuOKUJV0A4c09q">](https://music.youtube.com/watch?v=EhjK3tVKbnA)
 
+LUCY - 떼굴떼굴
 
-  
-    OFFICIAL EPIK HIGH
-  
-  
-  
-    OFFICIAL EPIK HIGH
-  
+**Albums**: BLUE
 
-
-
-
-  공식 아티스트 채널
-
-
- - EPIK HIGH (에픽하이) - 연애소설 (LOVE STORY) ft. IU (아이유) [Concept MV]
-
-**Albums**: Not supported
-
-Last updated at 01/09/2023 17:42
+Last updated at 01/09/2023 22:24
