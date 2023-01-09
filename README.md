@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HSbVny3ejNpMwubMKBtD4cDMCCpDH8vUpEgdNIHO2VCkyAmBgDG5nzT4M9EIIxT139oacQKvBu20SG9PNA">](https://music.youtube.com/watch?v=tATO-ZAKo2c)
+[<img align="left" width="100" src="">](https://www.youtube.com/@OfficialEpikHigh)
 
-Li3a - Mother Nature
 
-**Albums**: Mother Nature
+  
+    OFFICIAL EPIK HIGH
+  
+  
+  
+    OFFICIAL EPIK HIGH
+  
 
-Last updated at 01/07/2023 22:48
+
+
+
+  공식 아티스트 채널
+
+
+ - EPIK HIGH (에픽하이) - 연애소설 (LOVE STORY) ft. IU (아이유) [Concept MV]
+
+**Albums**: Not supported
+
+Last updated at 01/09/2023 17:42
