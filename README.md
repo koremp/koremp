@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=FkQq0VWsMek)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=lH6ZnRjvu5s)
 
-tripleS (트리플에스) - Dimension (AAA Ver.)
+tripleS (트리플에스) - +(82)
 
 **Albums**: Acid Angel from Asia <ACCESS>
 
-Last updated at 01/10/2023 16:39
+Last updated at 01/10/2023 16:41
