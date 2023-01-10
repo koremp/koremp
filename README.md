@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=RDA6UTE7ntQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=_frlgwy16DA)
 
-tripleS (트리플에스) - Rolex
+tripleS (트리플에스) - 찰나 (Charla)
 
 **Albums**: Acid Angel from Asia <ACCESS>
 
-Last updated at 01/10/2023 16:31
+Last updated at 01/10/2023 16:35
