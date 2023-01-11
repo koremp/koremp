@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NL8YQ1ZSsfCK9gXHt7gzDK5YOhBqMNvHkdhZS2zSI2rvU1iis5nIiR1ZtI7eGq9XKJZYjl71rv4YpraLjw">](https://music.youtube.com/watch?v=VGYHcfRnwx4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=REmUidcJt5I)
 
-Red Velvet 및 aespa - Beautiful Christmas
+aespa - Savage
 
-**Albums**: Beautiful Christmas
+**Albums**: Savage - The 1st Mini Album
 
-Last updated at 01/11/2023 09:50
+Last updated at 01/11/2023 09:54
