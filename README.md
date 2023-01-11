@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XFZ_vYUCkci3KId56zLPErJD_1HkoZe0LGWAQHwUscNp3BMZuXrEnmlVGTDbHxomTlNLF7JiFsM6akEu">](https://music.youtube.com/watch?v=3Mcv4yu73-4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvZ_aQ7A65mx4fMVa5vPvqXCUyGaC7u26bxybyur6IF9pebC-H5CvixC0KczfwV7Fsz7NLdT8L-iIBg_ag">](https://music.youtube.com/watch?v=Yn78gScehAQ)
 
-체이스 앤 스테이터스 - International (Skrillex Remix)
+Noisia, Skrillex, josh pan 및 Dylan Brady - Supersonic (VIP)
 
-**Albums**: Brand New Machine (Deluxe Version)
+**Albums**: Closer
 
-Last updated at 01/11/2023 20:35
+Last updated at 01/11/2023 20:39
