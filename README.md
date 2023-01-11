@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/icloiIbXEwvwFsQy6E_QG_vWogLEbJZrsE9Ct0HN_SnspaKmKXZ1Plu2d_IKlcPtmz-FO-XDWAuukxgv">](https://music.youtube.com/watch?v=fBQ0vDrM46Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=ghrlZIMDzbM)
 
-소녀시대 - Run Devil Run
+NewJeans - Hype Boy
 
-**Albums**: Run Devil Run - The 2nd Album Repackage
+**Albums**: NewJeans 1st EP 'New Jeans'
 
-Last updated at 01/11/2023 20:13
+Last updated at 01/11/2023 20:15
