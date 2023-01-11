@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=MDo6ILld8zM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GriPb4nuy0ykhBVO0s1K0aYQBrbosi_ML1F0HYOCrHouOFTpUIm1zijUz7cZVNoVfd_XPWm_DEEhGVk">](https://music.youtube.com/watch?v=qCDPprTDkJE)
 
-NCT 127 - 2 Baddies
+BLACKPINK - Pink Venom
 
-**Albums**: 2 Baddies - The 4th Album
+**Albums**: BORN PINK
 
-Last updated at 01/11/2023 19:13
+Last updated at 01/11/2023 19:15
