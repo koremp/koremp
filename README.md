@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iBEndKUeklHOaZ52-eW4JAF2nw8uHaRnH3mXCRnF1wCQoVEzQOkYOMS-5CHTwh5fdVngRLR9g4TZN3s1">](https://music.youtube.com/watch?v=izzXil297rk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mYHO9d50qYrj4XNWLpueES-8fG63M8FkEa-RXRDb-VtnJdiQy0GLx4LhTjrTv4iwvX1_mcNPatZQVNI">](https://music.youtube.com/watch?v=BdpVM4hlTGk)
 
-Diplo, Jack Ü 및 Skrillex(스크릴렉스) - Where Are Ü Now (with Justin Bieber)(feat. Justin Bieber(저스틴 비버))
+Skrillex 및 Rick Ross - Purple Lamborghini
 
-**Albums**: Fitness Beats 2016
+**Albums**: Purple Lamborghini
 
-Last updated at 01/11/2023 10:22
+Last updated at 01/11/2023 10:26
