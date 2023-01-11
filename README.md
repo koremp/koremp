@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VDTaB1cUS5AlooaG7UF2jmneDeceGIQgmyHIbJXoVXDzjI6A6CdOG5GIXx1WVeTBaoxrIlniwvIBPo4">](https://music.youtube.com/watch?v=RWDj4_A1hyQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VuyVvPoVWNoWsVwNEviga2n9faIIFvfI7OJNHZ8mYH8t6sEjSLFOdPB1TgKsWCbfgZXw_ZUAhUYW9LuF">](https://music.youtube.com/watch?v=xgiN9zNZCuM)
 
-EVERGLOW (에버글로우) - DUN DUN
+ITZY - WANNABE
 
-**Albums**: reminiscence
+**Albums**: IT'z ME
 
-Last updated at 01/11/2023 19:25
+Last updated at 01/11/2023 19:29
