@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=i2VGa-ETiM4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=5DhAts7WcPk)
 
-aespa - Life's Too Short
+aespa - 자각몽 Lucid Dream
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: Savage - The 1st Mini Album
 
-Last updated at 01/11/2023 10:04
+Last updated at 01/11/2023 10:06
