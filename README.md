@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zCrVutTw1pDh1rRVrAzpW2gRfM8TIu0j4B7Ds1df5d3gf2MK4OwHEcuPC5KOWOHObYFdZTNf5rY9eJo">](https://music.youtube.com/watch?v=bJ-B2BNdEFs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XruGvdP-G2y6GcA1XyvLehjJco6RfRdb74sOyr3xfh7__o432U7uxZPY6sXv97LM6HeLHob6xJQb5QlZ">](https://music.youtube.com/watch?v=hcMktKzONYs)
 
-Red Velvet - Ice Cream Cake
+f(x) - 첫 사랑니 Rum Pum Pum Pum
 
-**Albums**: Ice Cream Cake
+**Albums**: Pink Tape - f(x) The 2nd Album
 
-Last updated at 01/11/2023 20:23
+Last updated at 01/11/2023 20:25
