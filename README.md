@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvjaEL_h0fOHl8ssUHspQNmR7AmgHWHnBo1MjHS5GRxubKz7rDL8aZSYIBwabn2Y7r8mtx816yHAZ1A">](https://music.youtube.com/watch?v=jxM5V0FBxFs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/u-eBWpU3clMsJcyy_n9neEU_XoQyO9DZw7clvcb2RXsTa1n5dPB14ixxYy5HzB-S9nBWxfm9nSugbW8">](https://music.youtube.com/watch?v=P8W4p5UIfqA)
 
-Red Velvet - 피카부 (Peek-A-Boo)
+NMIXX - O.O
 
-**Albums**: Perfect Velvet
+**Albums**: AD MARE
 
-Last updated at 01/11/2023 19:19
+Last updated at 01/11/2023 19:23
