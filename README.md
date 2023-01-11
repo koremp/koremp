@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=5DhAts7WcPk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4Pp2Bj6UeIem89BpzckeOO2vdz8ufxCJ5eyv73Khk2Ezdp7HbM_B8IJ_qmBjQoaMo0tVmx-jM0Gfi3p9">](https://music.youtube.com/watch?v=EuiPRLz8g2Y)
 
-aespa - 자각몽 Lucid Dream
+Joji - Glimpse of Us
 
-**Albums**: Savage - The 1st Mini Album
+**Albums**: SMITHEREENS
 
-Last updated at 01/11/2023 10:06
+Last updated at 01/11/2023 10:08
