@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BJSXLMa6L0PJ2Dq6pyPJsVo2gTUmm5bFWkT4eMIeuA8SzPujw0zKFiI0_cT4ro9AC3lVvU90Lm-Z-No">](https://music.youtube.com/watch?v=wjCrjR5WpgQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=i2VGa-ETiM4)
 
-aespa - Dreams Come True
+aespa - Life's Too Short
 
-**Albums**: 2021 Winter SMTOWN : SMCU EXPRESS
+**Albums**: Girls - The 2nd Mini Album
 
-Last updated at 01/11/2023 10:00
+Last updated at 01/11/2023 10:04
