@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MOL4_Ula9hocErkX2xK_7mISFiWvQz51vReT14KCHF9wsqCEH6sO8iilFFelWMn7JOYIk2WFa-gMmw2uvw">](https://music.youtube.com/watch?v=BL-aIpCLWnU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BJSXLMa6L0PJ2Dq6pyPJsVo2gTUmm5bFWkT4eMIeuA8SzPujw0zKFiI0_cT4ro9AC3lVvU90Lm-Z-No">](https://music.youtube.com/watch?v=wjCrjR5WpgQ)
 
-aespa - Black Mamba
+aespa - Dreams Come True
 
-**Albums**: Black Mamba
+**Albums**: 2021 Winter SMTOWN : SMCU EXPRESS
 
-Last updated at 01/11/2023 09:58
+Last updated at 01/11/2023 10:00
