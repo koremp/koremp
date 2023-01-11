@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI">](https://music.youtube.com/watch?v=YcJaYkamg5Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=MBbqqWqLPlI)
 
-Skrillex(스크릴렉스) - First of the Year (Equinox)
+aespa - Girls
 
-**Albums**: More Monsters and Sprites
+**Albums**: Girls - The 2nd Mini Album
 
-Last updated at 01/11/2023 10:32
+Last updated at 01/11/2023 18:51
