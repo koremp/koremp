@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=usWZz-MMeP0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GhJlaEbM5L3_oZOK827qdlRh5RVwAdI8C0ZUT3spPTfyS2y_x7jekxXEx5Ws5eh0WULCInA_YzheNVou">](https://music.youtube.com/watch?v=R2TzZhpQc5M)
 
-SEULGI - 28 Reasons
+카라 - 루팡 (Lupin)
 
-**Albums**: 28 Reasons - The 1st Mini Album
+**Albums**: Lupin
 
-Last updated at 01/11/2023 20:03
+Last updated at 01/11/2023 20:05
