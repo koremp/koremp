@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=U_h1NScp1_o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/34ejNeIsUHkNv1K6VxT18Fg1BktLZI03t1659fWqvub6o5TdIA47snjpLmzswKEYcccoIiw6AaxdBPUI">](https://music.youtube.com/watch?v=ZM0Gi1X0dkM)
 
-Jack Ü - Mind(feat. 카이(Kai))
+ZHU - Working For It
 
-**Albums**: Skrillex and Diplo present Jack Ü
+**Albums**: Genesis Series
 
-Last updated at 01/11/2023 20:43
+Last updated at 01/11/2023 20:47
