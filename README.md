@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1LbFilj3Xzn-fCt28S2zqP2BxkejvBMcKD_-TFbzx1SgvKAxB4m3yya9GI_qhta6NRykIe6BBuF-uNrL">](https://music.youtube.com/watch?v=EuHL72riOn4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hDGlI84YywTonpshmlh_myHj-4U_iffDaZhlAV2-lKF2SuaXs3mliSjMu53YkDwerPMGJASyIwaXkuYx">](https://music.youtube.com/watch?v=BoTVJvvXNnc)
 
-(여자)아이들 - Oh my god
+윤하(Younha) - PARADE
 
-**Albums**: I Trust
+**Albums**: RescuE
 
-Last updated at 01/11/2023 19:57
+Last updated at 01/11/2023 19:59
