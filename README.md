@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4Pp2Bj6UeIem89BpzckeOO2vdz8ufxCJ5eyv73Khk2Ezdp7HbM_B8IJ_qmBjQoaMo0tVmx-jM0Gfi3p9">](https://music.youtube.com/watch?v=EuiPRLz8g2Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WZlsF2xiTHo2n0EUvZBNxNMB0jPORCcegb9KaQ1-C5J5HhjsPOQVwB9s2SJyqpOZbOaySJdM2XH7jqcy8Q">](https://music.youtube.com/watch?v=TU3dMFiNZNc)
 
-Joji - Glimpse of Us
+Skrillex, Fred again.. 및 Flowdan - Rumble
 
-**Albums**: SMITHEREENS
+**Albums**: Rumble
 
-Last updated at 01/11/2023 10:08
+Last updated at 01/11/2023 10:10
