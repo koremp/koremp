@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/u-eBWpU3clMsJcyy_n9neEU_XoQyO9DZw7clvcb2RXsTa1n5dPB14ixxYy5HzB-S9nBWxfm9nSugbW8">](https://music.youtube.com/watch?v=P8W4p5UIfqA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VDTaB1cUS5AlooaG7UF2jmneDeceGIQgmyHIbJXoVXDzjI6A6CdOG5GIXx1WVeTBaoxrIlniwvIBPo4">](https://music.youtube.com/watch?v=RWDj4_A1hyQ)
 
-NMIXX - O.O
+EVERGLOW (에버글로우) - DUN DUN
 
-**Albums**: AD MARE
+**Albums**: reminiscence
 
-Last updated at 01/11/2023 19:23
+Last updated at 01/11/2023 19:25
