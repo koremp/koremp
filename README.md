@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=MBbqqWqLPlI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/odA6_qeJ9p6lVUyLsd7lSU-CHjB3ND8ni0laJkSUPvQylbJeXNF_2S_Gv9epMiuvIjoe3GS0xjUEsU39">](https://music.youtube.com/watch?v=zspA0I7xme4)
 
-aespa - Girls
+GOT the beat - Step Back
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: Step Back
 
-Last updated at 01/11/2023 18:51
+Last updated at 01/11/2023 18:55
