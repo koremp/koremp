@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XruGvdP-G2y6GcA1XyvLehjJco6RfRdb74sOyr3xfh7__o432U7uxZPY6sXv97LM6HeLHob6xJQb5QlZ">](https://music.youtube.com/watch?v=hcMktKzONYs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n0FQdLBpwZbsg6OrtAhRVXKpJfPlOoWnd-xlpRVtlVk0Qa9xONJnLdgXcjcCeOqJf_hKAjcTCMpmRyiZ">](https://music.youtube.com/watch?v=l4ciFmOCqIE)
 
-f(x) - 첫 사랑니 Rum Pum Pum Pum
+Skrillex(스크릴렉스) - Reptile's Theme
 
-**Albums**: Pink Tape - f(x) The 2nd Album
+**Albums**: Mortal Kombat (Songs Inspired by the Warriors)
 
-Last updated at 01/11/2023 20:25
+Last updated at 01/11/2023 20:27
