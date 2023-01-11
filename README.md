@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lMsCvoB9DpkSHdrPt_Cp4SkpFArN9E4Jxa_DtHWGdZ6qJIOG1AUm6t3YE9QE-zpQqOilfo02TdOmvK3KJw">](https://music.youtube.com/watch?v=eHq718sW4_E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XFZ_vYUCkci3KId56zLPErJD_1HkoZe0LGWAQHwUscNp3BMZuXrEnmlVGTDbHxomTlNLF7JiFsM6akEu">](https://music.youtube.com/watch?v=3Mcv4yu73-4)
 
-Nero - Promises (Skrillex & Nero Remix)
+체이스 앤 스테이터스 - International (Skrillex Remix)
 
-**Albums**: Halloween Party Anthems
+**Albums**: Brand New Machine (Deluxe Version)
 
-Last updated at 01/11/2023 20:31
+Last updated at 01/11/2023 20:35
