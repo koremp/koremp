@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/O7dUKbQYzdF9HpCmIwf2lVXwNn67HldMtIyFUlt9IAioZtXGsnSWgrEl5YZuIHZnbPeE4W92T3dPFhs">](https://music.youtube.com/watch?v=mbg1Cn6Ua9U)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1LbFilj3Xzn-fCt28S2zqP2BxkejvBMcKD_-TFbzx1SgvKAxB4m3yya9GI_qhta6NRykIe6BBuF-uNrL">](https://music.youtube.com/watch?v=EuHL72riOn4)
 
-소녀시대 - 다시 만난 세계 Into The New World
+(여자)아이들 - Oh my god
 
-**Albums**: 소녀시대 Girls' Generation
+**Albums**: I Trust
 
-Last updated at 01/11/2023 19:51
+Last updated at 01/11/2023 19:57
