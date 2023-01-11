@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/phZ4cPFxIODWhcgKNSXJytX1VkCIQmvvnX-T0O9Z8f3wSCWc3a1tSub_mER10UaTyE8gziB_9BUVQKSq">](https://music.youtube.com/watch?v=Vyo2m2CbdUs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EpsBfg9gACyWrXuq-AHYc0KO5avSRC-vVXoTQpyzY7XcrD-qetsgWOs-7CQpGhF2C-xZEE1FN9PRJF3qBA">](https://music.youtube.com/watch?v=j-seAiANLG8)
 
-LE SSERAFIM - Blue Flame
+Heize - And July(feat. DEAN, DJ Friz)
 
-**Albums**: FEARLESS
+**Albums**: And July
 
-Last updated at 01/11/2023 18:59
+Last updated at 01/11/2023 19:03
