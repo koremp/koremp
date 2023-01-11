@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/34ejNeIsUHkNv1K6VxT18Fg1BktLZI03t1659fWqvub6o5TdIA47snjpLmzswKEYcccoIiw6AaxdBPUI">](https://music.youtube.com/watch?v=ZM0Gi1X0dkM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5">](https://music.youtube.com/watch?v=tH8SxBsRfqM)
 
-ZHU - Working For It
+Skrillex(스크릴렉스) - Summit(feat. Ellie Goulding(엘리 굴딩))
 
-**Albums**: Genesis Series
+**Albums**: Bangarang
 
-Last updated at 01/11/2023 20:47
+Last updated at 01/11/2023 20:51
