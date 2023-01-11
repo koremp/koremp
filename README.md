@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VuyVvPoVWNoWsVwNEviga2n9faIIFvfI7OJNHZ8mYH8t6sEjSLFOdPB1TgKsWCbfgZXw_ZUAhUYW9LuF">](https://music.youtube.com/watch?v=xgiN9zNZCuM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9N_08w38RfHKgXqfmziaBPp_6UpHe9-6qyMk1-Rd12NRVXgxgIO4H940Mh8xqklygYsbwZPsBIPtW3RG">](https://music.youtube.com/watch?v=1tkdmY7sdUc)
 
-ITZY - WANNABE
+아이즈원 - Panorama
 
-**Albums**: IT'z ME
+**Albums**: One-reeler / Act IV
 
-Last updated at 01/11/2023 19:29
+Last updated at 01/11/2023 19:31
