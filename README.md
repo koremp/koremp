@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=ghrlZIMDzbM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LkXjHAujZpOj-6Os9Rvvc_ms8eEsR8gYAnJVVEXp6IdFYOWcrxPUD5G6-kbgmikQZ_fiCmvP09SytXsd">](https://music.youtube.com/watch?v=rD6yUyBXQsw)
 
-NewJeans - Hype Boy
+미쓰 에이(miss A) - 남자 없이 잘 살아 I Don't Need a Man
 
-**Albums**: NewJeans 1st EP 'New Jeans'
+**Albums**: Independent Women Pt. III
 
-Last updated at 01/11/2023 20:15
+Last updated at 01/11/2023 20:19
