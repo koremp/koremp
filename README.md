@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GriPb4nuy0ykhBVO0s1K0aYQBrbosi_ML1F0HYOCrHouOFTpUIm1zijUz7cZVNoVfd_XPWm_DEEhGVk">](https://music.youtube.com/watch?v=qCDPprTDkJE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvjaEL_h0fOHl8ssUHspQNmR7AmgHWHnBo1MjHS5GRxubKz7rDL8aZSYIBwabn2Y7r8mtx816yHAZ1A">](https://music.youtube.com/watch?v=jxM5V0FBxFs)
 
-BLACKPINK - Pink Venom
+Red Velvet - 피카부 (Peek-A-Boo)
 
-**Albums**: BORN PINK
+**Albums**: Perfect Velvet
 
-Last updated at 01/11/2023 19:15
+Last updated at 01/11/2023 19:19
