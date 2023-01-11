@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LkXjHAujZpOj-6Os9Rvvc_ms8eEsR8gYAnJVVEXp6IdFYOWcrxPUD5G6-kbgmikQZ_fiCmvP09SytXsd">](https://music.youtube.com/watch?v=rD6yUyBXQsw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zCrVutTw1pDh1rRVrAzpW2gRfM8TIu0j4B7Ds1df5d3gf2MK4OwHEcuPC5KOWOHObYFdZTNf5rY9eJo">](https://music.youtube.com/watch?v=bJ-B2BNdEFs)
 
-미쓰 에이(miss A) - 남자 없이 잘 살아 I Don't Need a Man
+Red Velvet - Ice Cream Cake
 
-**Albums**: Independent Women Pt. III
+**Albums**: Ice Cream Cake
 
-Last updated at 01/11/2023 20:19
+Last updated at 01/11/2023 20:23
