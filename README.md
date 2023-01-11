@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VmP6OyI6g0KTugEzggfPrjF-NFaJlCp2GZpaS39FTs04CGq46M_pmAKpvgOTG6awgzzV7mS1szliq4g">](https://music.youtube.com/watch?v=2oXynZfO8FA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/icloiIbXEwvwFsQy6E_QG_vWogLEbJZrsE9Ct0HN_SnspaKmKXZ1Plu2d_IKlcPtmz-FO-XDWAuukxgv">](https://music.youtube.com/watch?v=fBQ0vDrM46Y)
 
-레인보우 - A
+소녀시대 - Run Devil Run
 
-**Albums**: A (Digital Single)
+**Albums**: Run Devil Run - The 2nd Album Repackage
 
-Last updated at 01/11/2023 20:09
+Last updated at 01/11/2023 20:13
