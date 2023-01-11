@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUpjCQtgdhQYB4jsDu2rdQ9a48DBfyj8G4y13m-kTl39sRdNhvGEL81Z07_I4J4gDhD-8roE77m6AIQ">](https://music.youtube.com/watch?v=EKlyYkD-eLA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8iS1XD6ZH8mOW1N1RrNIoEkJpYCyXKf1n0HJeDhxmOj0XVH3b0HUoUrgDz_4i9fw4LSMBEL44mR_MOo">](https://music.youtube.com/watch?v=QT60l6MSoz8)
 
-카라 - WHEN I MOVE
+fromis_9 - DM
 
-**Albums**: MOVE AGAIN
+**Albums**: Midnight Guest
 
-Last updated at 01/11/2023 09:10
+Last updated at 01/11/2023 09:14
