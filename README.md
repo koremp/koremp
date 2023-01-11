@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n0FQdLBpwZbsg6OrtAhRVXKpJfPlOoWnd-xlpRVtlVk0Qa9xONJnLdgXcjcCeOqJf_hKAjcTCMpmRyiZ">](https://music.youtube.com/watch?v=l4ciFmOCqIE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lMsCvoB9DpkSHdrPt_Cp4SkpFArN9E4Jxa_DtHWGdZ6qJIOG1AUm6t3YE9QE-zpQqOilfo02TdOmvK3KJw">](https://music.youtube.com/watch?v=eHq718sW4_E)
 
-Skrillex(스크릴렉스) - Reptile's Theme
+Nero - Promises (Skrillex & Nero Remix)
 
-**Albums**: Mortal Kombat (Songs Inspired by the Warriors)
+**Albums**: Halloween Party Anthems
 
-Last updated at 01/11/2023 20:27
+Last updated at 01/11/2023 20:31
