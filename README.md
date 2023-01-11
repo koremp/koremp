@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jRELX5qAew8CuPt1mAzv_51WgcWjY08kCbK051wB4MX8B_4K9CgUVX5YHqxRwPoFhoNQZ69vbY03tL6S">](https://music.youtube.com/watch?v=hh5GKVa8VtM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=MDo6ILld8zM)
 
-IVE (아이브) - LOVE DIVE
+NCT 127 - 2 Baddies
 
-**Albums**: LOVE DIVE
+**Albums**: 2 Baddies - The 4th Album
 
-Last updated at 01/11/2023 19:09
+Last updated at 01/11/2023 19:13
