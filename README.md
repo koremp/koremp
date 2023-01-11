@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvZ_aQ7A65mx4fMVa5vPvqXCUyGaC7u26bxybyur6IF9pebC-H5CvixC0KczfwV7Fsz7NLdT8L-iIBg_ag">](https://music.youtube.com/watch?v=Yn78gScehAQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=U_h1NScp1_o)
 
-Noisia, Skrillex, josh pan 및 Dylan Brady - Supersonic (VIP)
+Jack Ü - Mind(feat. 카이(Kai))
 
-**Albums**: Closer
+**Albums**: Skrillex and Diplo present Jack Ü
 
-Last updated at 01/11/2023 20:39
+Last updated at 01/11/2023 20:43
