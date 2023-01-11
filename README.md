@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=syYqQoE5Rbo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aFPI_9wY-o1Yfrvuup6E1ZQ3PNxc8qDZ7A79oTsBdWuAl5gDMT90aHe_9hsRoOu1_O3aOdOXLycOQobQHw">](https://music.youtube.com/watch?v=VmJupEUyr0E)
 
-aespa - YEPPI YEPPI
+이찬혁 - 파노라마
 
-**Albums**: Savage - The 1st Mini Album
+**Albums**: ERROR
 
-Last updated at 01/11/2023 19:39
+Last updated at 01/11/2023 19:41
