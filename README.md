@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gKUcxeoEfcWYZJ_OkONMqX2HXxuXjSLNB4lZov4750SDAU3A8B7oDBuu7OExWinOgzYsEZn9ru7rz4K8">](https://music.youtube.com/watch?v=cpeGRfKwyec)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w7NKHn3YWR_KDK2ayPiZ7ZPQyTIkGZfP1axwKWF53lfWHMXtBnCE--Yh0w0jBcwol2zNvEqgndWJYLLZ">](https://music.youtube.com/watch?v=0EK_M2taRIM)
 
-BIBI - BIBI Vengeance
+IVE (아이브) - ELEVEN
 
-**Albums**: Lowlife Princess: Noir
+**Albums**: ELEVEN
 
-Last updated at 01/11/2023 09:16
+Last updated at 01/11/2023 09:20
