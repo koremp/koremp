@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lMsCvoB9DpkSHdrPt_Cp4SkpFArN9E4Jxa_DtHWGdZ6qJIOG1AUm6t3YE9QE-zpQqOilfo02TdOmvK3KJw">](https://music.youtube.com/watch?v=SwzCKxIF9Ko)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvZ_aQ7A65mx4fMVa5vPvqXCUyGaC7u26bxybyur6IF9pebC-H5CvixC0KczfwV7Fsz7NLdT8L-iIBg_ag">](https://music.youtube.com/watch?v=hjXo0o6eu_w)
 
-La Roux - In For The Kill (Skrillex Remix)
+Skrillex 및 Noisia - Horizon(feat. Thys, Sleepnet)
 
-**Albums**: Halloween Party Anthems
+**Albums**: Closer
 
-Last updated at 01/11/2023 21:01
+Last updated at 01/11/2023 21:05
