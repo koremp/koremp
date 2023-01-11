@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aFPI_9wY-o1Yfrvuup6E1ZQ3PNxc8qDZ7A79oTsBdWuAl5gDMT90aHe_9hsRoOu1_O3aOdOXLycOQobQHw">](https://music.youtube.com/watch?v=VmJupEUyr0E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rRNhGZel5py4g7sQwyOb7q6PpByniPGYF8VTDAIynbKKWiW5vQb5Eo-CxlgTlCEqEMmHcUvQypBclA">](https://music.youtube.com/watch?v=46OZn8cYXCI)
 
-이찬혁 - 파노라마
+조유리 - Loveable
 
-**Albums**: ERROR
+**Albums**: Op.22 Y-Waltz : in Minor
 
-Last updated at 01/11/2023 19:41
+Last updated at 01/11/2023 19:45
