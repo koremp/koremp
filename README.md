@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vVkLCAPESh-X--bu2vd5pMNzKjDcF8Y713Bci-cPfQweClKZT_fj4L-lYkeKOdDoDcsXuVudblBdbPMd">](https://music.youtube.com/watch?v=H_Gu6Eg-QZs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lMsCvoB9DpkSHdrPt_Cp4SkpFArN9E4Jxa_DtHWGdZ6qJIOG1AUm6t3YE9QE-zpQqOilfo02TdOmvK3KJw">](https://music.youtube.com/watch?v=SwzCKxIF9Ko)
 
-Hikaru Utada(우타다 히카루) - Face My Fears (English Version)
+La Roux - In For The Kill (Skrillex Remix)
 
-**Albums**: Face My Fears
+**Albums**: Halloween Party Anthems
 
-Last updated at 01/11/2023 20:57
+Last updated at 01/11/2023 21:01
