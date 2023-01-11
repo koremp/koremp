@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5">](https://music.youtube.com/watch?v=tH8SxBsRfqM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vVkLCAPESh-X--bu2vd5pMNzKjDcF8Y713Bci-cPfQweClKZT_fj4L-lYkeKOdDoDcsXuVudblBdbPMd">](https://music.youtube.com/watch?v=H_Gu6Eg-QZs)
 
-Skrillex(스크릴렉스) - Summit(feat. Ellie Goulding(엘리 굴딩))
+Hikaru Utada(우타다 히카루) - Face My Fears (English Version)
 
-**Albums**: Bangarang
+**Albums**: Face My Fears
 
-Last updated at 01/11/2023 20:51
+Last updated at 01/11/2023 20:57
