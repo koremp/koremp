@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/O54zV3IuO98KEFdas3wTYvfLGGlPPt6zqEHUmvEo8bg3osRYNLeZDNjHYbV1lo4We03fTJ0eDqUGomJu">](https://music.youtube.com/watch?v=63Wt2GFXzjY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=syYqQoE5Rbo)
 
-권은비 - Underwater
+aespa - YEPPI YEPPI
 
-**Albums**: Lethality
+**Albums**: Savage - The 1st Mini Album
 
-Last updated at 01/11/2023 19:35
+Last updated at 01/11/2023 19:39
