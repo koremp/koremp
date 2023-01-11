@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KRU-LikB-YvAXaEeHgh_8ismnHXjT_GRgr3PKv2Hjcm7Y9TNyzb2cHRKv0B5MaySP9A1ifqSazQSwPd9">](https://music.youtube.com/watch?v=tkzYyEp4zB4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=LP9sF1v-vz4)
 
-aespa - Next Level
+aespa - 도깨비불 Illusion
 
-**Albums**: Next Level
+**Albums**: Girls - The 2nd Mini Album
 
-Last updated at 01/11/2023 09:42
+Last updated at 01/11/2023 09:46
