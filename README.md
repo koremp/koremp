@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mYHO9d50qYrj4XNWLpueES-8fG63M8FkEa-RXRDb-VtnJdiQy0GLx4LhTjrTv4iwvX1_mcNPatZQVNI">](https://music.youtube.com/watch?v=BdpVM4hlTGk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pgx7VKh-6Ck-PuGjWxt8mzZH_lLCzxx4xI-3orYR-MiX3oTpuIIoBynMtNoLZYbYwptSnReiwCz6OJE">](https://music.youtube.com/watch?v=VAyLyFOxJ28)
 
-Skrillex 및 Rick Ross - Purple Lamborghini
+Skrillex, PinkPantheress 및 Trippie Redd - Way Back
 
-**Albums**: Purple Lamborghini
+**Albums**: Way Back
 
-Last updated at 01/11/2023 10:26
+Last updated at 01/11/2023 10:30
