@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvZ_aQ7A65mx4fMVa5vPvqXCUyGaC7u26bxybyur6IF9pebC-H5CvixC0KczfwV7Fsz7NLdT8L-iIBg_ag">](https://music.youtube.com/watch?v=hjXo0o6eu_w)
+[<img align="left" width="100" src="">](https://www.youtube.com/@St.Vincent)
 
-Skrillex 및 Noisia - Horizon(feat. Thys, Sleepnet)
 
-**Albums**: Closer
+  
+    St. Vincent
+  
+  
+  
+    St. Vincent
+  
 
-Last updated at 01/11/2023 21:05
+
+
+
+  공식 아티스트 채널
+
+
+ - St. Vincent - Happy Birthday Johnny (piano version) (Audio)
+
+**Albums**: Not supported
+
+Last updated at 01/11/2023 21:45
