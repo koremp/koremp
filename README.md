@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GhJlaEbM5L3_oZOK827qdlRh5RVwAdI8C0ZUT3spPTfyS2y_x7jekxXEx5Ws5eh0WULCInA_YzheNVou">](https://music.youtube.com/watch?v=R2TzZhpQc5M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VmP6OyI6g0KTugEzggfPrjF-NFaJlCp2GZpaS39FTs04CGq46M_pmAKpvgOTG6awgzzV7mS1szliq4g">](https://music.youtube.com/watch?v=2oXynZfO8FA)
 
-카라 - 루팡 (Lupin)
+레인보우 - A
 
-**Albums**: Lupin
+**Albums**: A (Digital Single)
 
-Last updated at 01/11/2023 20:05
+Last updated at 01/11/2023 20:09
