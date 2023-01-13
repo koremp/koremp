@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@St.Vincent)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/u-eBWpU3clMsJcyy_n9neEU_XoQyO9DZw7clvcb2RXsTa1n5dPB14ixxYy5HzB-S9nBWxfm9nSugbW8">](https://music.youtube.com/watch?v=P8W4p5UIfqA)
 
+NMIXX - O.O
 
-  
-    St. Vincent
-  
-  
-  
-    St. Vincent
-  
+**Albums**: AD MARE
 
-
-
-
-  공식 아티스트 채널
-
-
- - St. Vincent - Happy Birthday Johnny (piano version) (Audio)
-
-**Albums**: Not supported
-
-Last updated at 01/11/2023 21:45
+Last updated at 01/13/2023 16:58
