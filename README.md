@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8iS1XD6ZH8mOW1N1RrNIoEkJpYCyXKf1n0HJeDhxmOj0XVH3b0HUoUrgDz_4i9fw4LSMBEL44mR_MOo">](https://music.youtube.com/watch?v=0TfGtiD2HXc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VZqYPIN4CEI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VZqYPIN4CEI)
 
-fromis_9 - Hush Hush
+France Musique - Stravinsky : L'Oiseau de feu (Orchestre philharmonique de radio France / Mikko Franck)
 
-**Albums**: Midnight Guest
+**Albums**: 조회수 17만회
 
-Last updated at 01/13/2023 17:02
+Last updated at 01/13/2023 18:26
