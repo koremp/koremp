@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/VZqYPIN4CEI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VZqYPIN4CEI)
+[<img align="left" width="100" src="">](https://www.youtube.com/@BillieEilish)
 
-France Musique - Stravinsky : L'Oiseau de feu (Orchestre philharmonique de radio France / Mikko Franck)
 
-**Albums**: 조회수 17만회
+  
+    Billie Eilish
+  
+  
+  
+    Billie Eilish
+  
 
-Last updated at 01/13/2023 18:26
+
+
+
+  공식 아티스트 채널
+
+
+ - Billie Eilish - Six Feet Under
+
+**Albums**: Not supported
+
+Last updated at 01/14/2023 19:22
