@@ -122,7 +122,7 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_XwAL54oPW1027oqFz2kog)
+[<img align="left" width="100" src="">](https://www.youtube.com/@LUCYISLAND)
 
 
   
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Knowhow (Knowhow)
+ - [MV] LUCY - 놀이 (PLAY) / ENG, JPN sub
 
 **Albums**: Not supported
 
-Last updated at 01/14/2023 20:05
+Last updated at 01/14/2023 20:09
