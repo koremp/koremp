@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4RAA8DTjbTlmZy561mmq4Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/@LUCYISLAND)
 
 
   
-    Dreamcatcher official
+    LUCY ISLAND
   
   
   
-    Dreamcatcher official
+    LUCY ISLAND
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Fairytale
+ - LUCY - 결국 아무것도 알 수 없었지만 Concert Live Clip (@2021 All kind of) / ENG sub
 
 **Albums**: Not supported
 
-Last updated at 01/14/2023 19:49
+Last updated at 01/14/2023 19:53
