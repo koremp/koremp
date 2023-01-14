@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@BillieEilish)
+[<img align="left" width="100" src="">](https://www.youtube.com/@LordeVEVO)
 
 
   
-    Billie Eilish
+    Lorde
   
   
   
-    Billie Eilish
+    Lorde
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Billie Eilish - Six Feet Under
+ - Lorde - Liability
 
 **Albums**: Not supported
 
-Last updated at 01/14/2023 19:43
+Last updated at 01/14/2023 19:45
