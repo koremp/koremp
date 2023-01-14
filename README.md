@@ -122,7 +122,7 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_XwAL54oPW1027oqFz2kog)
+[<img align="left" width="100" src="">](https://www.youtube.com/@LUCYISLAND)
 
 
   
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - MP3 (MP3)
+ - LUCY - 떼굴떼굴(Rolling Rolling) Concert Live Clip (@2021 All kind of) / ENG sub
 
 **Albums**: Not supported
 
-Last updated at 01/14/2023 20:19
+Last updated at 01/14/2023 20:21
