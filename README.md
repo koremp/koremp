@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0nU01lXGnV7H_GPNUknz2fSI4BBPh-tfD1L_1-oAVuDHjBV-PWi_PwB8z4U3r_nUZMCyA_Px-qiD8kI">](https://music.youtube.com/watch?v=Mhyi9p7T7OM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vKFS34qRlbpWEBjRPwKtpr-E9GuO7FSPBPnFeohyOrEUZpTwGbXO8WnWvPGxCmwhNHZ_Od76jstQ5-Az">](https://music.youtube.com/watch?v=PluoENBB_3s)
 
-DAY6(데이식스) - 예뻤어 You Were Beautiful
+NMIXX - COOL (Your rainbow)
 
-**Albums**: Every DAY6 February
+**Albums**: ENTWURF
 
-Last updated at 01/15/2023 13:22
+Last updated at 01/15/2023 13:26
