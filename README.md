@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5rbD2YBP5Tmapu43b0ev_0NMH5ZDfj1Zrnwdt0ilznrtkzh9xvsYyW5j1E1vBlawQTOmKdceYFAq8fw">](https://music.youtube.com/watch?v=bOLq9w-JSF0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/O54zV3IuO98KEFdas3wTYvfLGGlPPt6zqEHUmvEo8bg3osRYNLeZDNjHYbV1lo4We03fTJ0eDqUGomJu">](https://music.youtube.com/watch?v=63Wt2GFXzjY)
 
-드림캐쳐 - Fairytale
+권은비 - Underwater
 
-**Albums**: [Apocalypse : Follow us]
+**Albums**: Lethality
 
-Last updated at 01/15/2023 12:44
+Last updated at 01/15/2023 12:48
