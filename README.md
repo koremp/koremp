@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUpjCQtgdhQYB4jsDu2rdQ9a48DBfyj8G4y13m-kTl39sRdNhvGEL81Z07_I4J4gDhD-8roE77m6AIQ">](https://music.youtube.com/watch?v=EKlyYkD-eLA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wO1e34ZIcA1kJp5IXYqt2JGE2IxrajoiHM_04M9Pgk8RqSxVBsAw1EK4DOuzb_r6NG1d8f9LHN4pcTLo">](https://music.youtube.com/watch?v=vouaohkX-HU)
 
-카라 - WHEN I MOVE
+LE SSERAFIM - No Celestial
 
-**Albums**: MOVE AGAIN
+**Albums**: ANTIFRAGILE
 
-Last updated at 01/15/2023 12:50
+Last updated at 01/15/2023 12:54
