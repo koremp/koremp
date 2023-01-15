@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=LP9sF1v-vz4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YBJ7JNalqdVwdESAj47fYcYXTYu1iWZHVAAmee37W9XFQt48c_N9eKUkIJWQxcC3-WLFabKlcnMg1QB7bg">](https://music.youtube.com/watch?v=OYtjo3CTAOM)
 
-aespa - 도깨비불 Illusion
+(G)I-DLE - MOON
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: I burn
 
-Last updated at 01/15/2023 13:08
+Last updated at 01/15/2023 13:12
