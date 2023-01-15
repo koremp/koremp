@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rRNhGZel5py4g7sQwyOb7q6PpByniPGYF8VTDAIynbKKWiW5vQb5Eo-CxlgTlCEqEMmHcUvQypBclA">](https://music.youtube.com/watch?v=46OZn8cYXCI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0nU01lXGnV7H_GPNUknz2fSI4BBPh-tfD1L_1-oAVuDHjBV-PWi_PwB8z4U3r_nUZMCyA_Px-qiD8kI">](https://music.youtube.com/watch?v=Mhyi9p7T7OM)
 
-조유리 - Loveable
+DAY6(데이식스) - 예뻤어 You Were Beautiful
 
-**Albums**: Op.22 Y-Waltz : in Minor
+**Albums**: Every DAY6 February
 
-Last updated at 01/15/2023 13:18
+Last updated at 01/15/2023 13:22
