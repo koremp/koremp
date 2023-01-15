@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vKFS34qRlbpWEBjRPwKtpr-E9GuO7FSPBPnFeohyOrEUZpTwGbXO8WnWvPGxCmwhNHZ_Od76jstQ5-Az">](https://music.youtube.com/watch?v=PluoENBB_3s)
+[<img align="left" width="100" src="">](https://www.youtube.com/@arcticmonkeys)
 
-NMIXX - COOL (Your rainbow)
 
-**Albums**: ENTWURF
+  
+    Official Arctic Monkeys
+  
+  
+  
+    Official Arctic Monkeys
+  
 
-Last updated at 01/15/2023 13:26
+
+
+
+  공식 아티스트 채널
+
+
+ - Arctic Monkeys - Do I Wanna Know?  (Live)
+
+**Albums**: Not supported
+
+Last updated at 01/15/2023 15:58
