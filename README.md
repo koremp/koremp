@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_Cx288SDUD9liYn7CiJLAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5rbD2YBP5Tmapu43b0ev_0NMH5ZDfj1Zrnwdt0ilznrtkzh9xvsYyW5j1E1vBlawQTOmKdceYFAq8fw">](https://music.youtube.com/watch?v=bOLq9w-JSF0)
 
+드림캐쳐 - Fairytale
 
-  
-    NMIXX
-  
-  
-  
-    NMIXX
-  
+**Albums**: [Apocalypse : Follow us]
 
-
-
-
-  공식 아티스트 채널
-
-
- - DICE
-
-**Albums**: Not supported
-
-Last updated at 01/15/2023 12:40
+Last updated at 01/15/2023 12:44
