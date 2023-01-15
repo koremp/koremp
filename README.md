@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YBJ7JNalqdVwdESAj47fYcYXTYu1iWZHVAAmee37W9XFQt48c_N9eKUkIJWQxcC3-WLFabKlcnMg1QB7bg">](https://music.youtube.com/watch?v=OYtjo3CTAOM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6u8PcQRjUlnUNbB1vcwDuSNKeOnrbMoHRPLv685-PTV_eU1AvYnQHdoEg2N-A3UDCy43oXs2BKkUOOq6">](https://music.youtube.com/watch?v=chYPWJk6s6E)
 
-(G)I-DLE - MOON
+드림캐쳐 - Starlight
 
-**Albums**: I burn
+**Albums**: [Apocalypse : Save us]
 
-Last updated at 01/15/2023 13:12
+Last updated at 01/15/2023 13:14
