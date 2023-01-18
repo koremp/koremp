@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VhzrWBCgwS7FcawGL4eyBMDNLaADNZ7R2Wa9BJe4Hfbu_2bQwfP6MBbpPPfwB8a3w9fE8GRS3CALPw7L">](https://music.youtube.com/watch?v=ovw4Cy-zMiI)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCTsmtown)
 
-드림캐쳐(Dreamcatcher) - Silent Night
 
-**Albums**: Raid of Dream
+  
+    NCT
+  
+  
+  
+    NCT
+  
 
-Last updated at 01/18/2023 16:02
+
+
+
+  공식 아티스트 채널
+
+
+ - 스스로에 취하는 느낌…✨🖤🤍 | DOYOUNG in Tokyo
+
+**Albums**: Not supported
+
+Last updated at 01/18/2023 16:12
