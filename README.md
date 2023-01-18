@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dw0dI0otTtLQbdYk9u0NxRUkMSkxb9QqxWU5Nxuqd9I_cXK0MVK9AXRNTCjLcZp1hQ6a-rmG7mH9Wbks">](https://music.youtube.com/watch?v=PcAwnsMVw9Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zgYunD__-xMvpaGrWD7zmqKs45_nUZyxKn8B7csvGAvEfjfBnM9KGeFODIp2H2oW-t25l63wS6Qg31Dn">](https://music.youtube.com/watch?v=YzcJulQ9lxU)
 
-드림캐쳐(Dreamcatcher) - PIRI
+Dreamcatcher - YOU AND I
 
-**Albums**: The End of Nightmare
+**Albums**: 악몽 - Escape the ERA
 
-Last updated at 01/18/2023 15:22
+Last updated at 01/18/2023 15:26
