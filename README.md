@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aSBhrtWUAiHcHZXeGxGzNKc5SCH-NA8P7Za6mWqXLeandpMQDk2R0LLnNw6UsAySjxpDuVJTgSSggVtV">](https://music.youtube.com/watch?v=DvMfs_aPIIQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VhzrWBCgwS7FcawGL4eyBMDNLaADNZ7R2Wa9BJe4Hfbu_2bQwfP6MBbpPPfwB8a3w9fE8GRS3CALPw7L">](https://music.youtube.com/watch?v=-_7KB0VzjB4)
 
-Dreamcatcher - Odd Eye
+드림캐쳐(Dreamcatcher) - 데자부 (Deja Vu)
 
-**Albums**: ［Dystopia : Road to Utopia］
+**Albums**: Raid of Dream
 
-Last updated at 01/18/2023 15:15
+Last updated at 01/18/2023 15:19
