@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LAdV_hp3DQXovgzpaDvUwpmJuoNDhZPEeKIe3_2DdO8DiRNDY_Y58LUZr_ah11OXFBBB9GgIPMh59ow">](https://music.youtube.com/watch?v=ZYNSuTt0S64)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZfOy9LGtwBZoaq25PdOlkPNI7_qUHERciKlPdEptxdQY5GXt27Qw6pJKyqvwoGbM5LKP4BE0OdtSOwreQA">](https://music.youtube.com/watch?v=dx2_DurNhb0)
 
-드림캐쳐(Dreamcatcher) - Red Sun
+드림캐쳐 - GOOD NIGHT
 
-**Albums**: 1st Album [Dystopia : The Tree of Language]
+**Albums**: 악몽·Fall asleep in the mirror
 
-Last updated at 01/18/2023 15:34
+Last updated at 01/18/2023 15:36
