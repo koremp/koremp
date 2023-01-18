@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VhzrWBCgwS7FcawGL4eyBMDNLaADNZ7R2Wa9BJe4Hfbu_2bQwfP6MBbpPPfwB8a3w9fE8GRS3CALPw7L">](https://music.youtube.com/watch?v=-_7KB0VzjB4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dw0dI0otTtLQbdYk9u0NxRUkMSkxb9QqxWU5Nxuqd9I_cXK0MVK9AXRNTCjLcZp1hQ6a-rmG7mH9Wbks">](https://music.youtube.com/watch?v=PcAwnsMVw9Q)
 
-드림캐쳐(Dreamcatcher) - 데자부 (Deja Vu)
+드림캐쳐(Dreamcatcher) - PIRI
 
-**Albums**: Raid of Dream
+**Albums**: The End of Nightmare
 
-Last updated at 01/18/2023 15:19
+Last updated at 01/18/2023 15:22
