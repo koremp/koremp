@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LAdV_hp3DQXovgzpaDvUwpmJuoNDhZPEeKIe3_2DdO8DiRNDY_Y58LUZr_ah11OXFBBB9GgIPMh59ow">](https://music.youtube.com/watch?v=ojPJC-uvr8w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xaeVsAl7mw0vVfeUsNAgP3au3HbUzGdDROIfF4seqJk2kjWXFtTfTt_J6KnDHb_hxanyASCACRTL3VeX">](https://music.youtube.com/watch?v=EBic8cFVOfE)
 
-드림캐쳐(Dreamcatcher) - Scream
+드림캐쳐 - BEcause
 
-**Albums**: 1st Album [Dystopia : The Tree of Language]
+**Albums**: [Summer Holiday]
 
-Last updated at 01/18/2023 15:07
+Last updated at 01/18/2023 15:09
