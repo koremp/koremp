@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4RAA8DTjbTlmZy561mmq4Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gcTmzbGY2jzZN_UPn5bAFDJLu0i6FP2sJbzh-8G0erQQLfRhUU3pvmEQxYFWq2qkFG08czZN-9J0g_Wi">](https://music.youtube.com/watch?v=KkawxCGFhck)
 
+Dreamcatcher - BOCA
 
-  
-    Dreamcatcher official
-  
-  
-  
-    Dreamcatcher official
-  
+**Albums**: [Dystopia : Lose Myself]
 
-
-
-
-  공식 아티스트 채널
-
-
- - Fairytale
-
-**Albums**: Not supported
-
-Last updated at 01/15/2023 17:19
+Last updated at 01/18/2023 14:59
