@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6u8PcQRjUlnUNbB1vcwDuSNKeOnrbMoHRPLv685-PTV_eU1AvYnQHdoEg2N-A3UDCy43oXs2BKkUOOq6">](https://music.youtube.com/watch?v=Pd5CT9KrXZY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aSBhrtWUAiHcHZXeGxGzNKc5SCH-NA8P7Za6mWqXLeandpMQDk2R0LLnNw6UsAySjxpDuVJTgSSggVtV">](https://music.youtube.com/watch?v=DvMfs_aPIIQ)
 
-드림캐쳐 - MAISON
+Dreamcatcher - Odd Eye
 
-**Albums**: [Apocalypse : Save us]
+**Albums**: ［Dystopia : Road to Utopia］
 
-Last updated at 01/20/2023 06:47
+Last updated at 01/20/2023 06:49
