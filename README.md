@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QRVDhXzMDUtsX9hrAL9XQ8VvdwFHbz9na0A6Q2u0k-nX656hhz8AHTs8BgJWfYbc15AP3U2OIpzoMNwOxw">](https://music.youtube.com/watch?v=N3DYbKD-C70)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uAxlSvSvAYe6rA-h3vItHWMuGqER3GJa9YMoZsf3Obmr_T47HggwKaQf8GsaufArJq0u9Cj8w8KxsVY">](https://music.youtube.com/watch?v=Z8E0apklL2w)
 
-카이 및 정선아 - 어쩌면
+Yerin Baek - 그건 아마 우리의 잘못은 아닐 거야
 
-**Albums**: 카이 온 뮤지컬
+**Albums**: Our Love is Great
 
-Last updated at 01/19/2023 11:17
+Last updated at 01/19/2023 11:21
