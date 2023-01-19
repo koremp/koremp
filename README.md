@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCcd0t-9ZY10egXxpTTROaPw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCLx8m3I4zQAQc0tdASjdAfw)
 
 
   
-    하현상 HA HYUN SANG
+    Labrinth
   
   
   
-    하현상 HA HYUN SANG
+    Labrinth
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Be My Birthday
+ - All For Us
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 05:17
+Last updated at 01/20/2023 05:21
