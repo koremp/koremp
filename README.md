@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lHjdoh6RVTmsU_g5GYjJyWWMjHRvl_1GF1cWCHjm6LE6KVS99jZDFRpYq-vCut0FVqC4EOWK2KQHIHHG_w">](https://music.youtube.com/watch?v=DEsEv6WAig0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LkXjHAujZpOj-6Os9Rvvc_ms8eEsR8gYAnJVVEXp6IdFYOWcrxPUD5G6-kbgmikQZ_fiCmvP09SytXsd">](https://music.youtube.com/watch?v=rD6yUyBXQsw)
 
-Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
+미쓰 에이(miss A) - 남자 없이 잘 살아 I Don't Need a Man
 
-**Albums**: Playing The Piano
+**Albums**: Independent Women Pt. III
 
-Last updated at 01/19/2023 13:02
+Last updated at 01/19/2023 13:06
