@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
+[<img align="left" width="100" src="">](https://www.youtube.com/@hyukoh)
 
 
   
-    Ryuichi Sakamoto
+    HYUKOH
   
   
   
-    Ryuichi Sakamoto
+    HYUKOH
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Bolerish
+ - HYUKOH(혁오) - TOMBOY(톰보이 뮤직비디오) M/V
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 07:31
+Last updated at 01/20/2023 07:35
