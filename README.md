@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8TjDZHGcFRV1JP0Vq7BTqF-xvbwkPDcJ2D72hJMGc5oS4B4-wj7LDpggOuJuMW3d526pfNqfVdRLJtjenw">](https://music.youtube.com/watch?v=CnlMTBwsBHs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/U9xcqeWAKWexB3c7mjCF73oL3yaQtxvR7xsSOiuH8K114yn8EmEXLmG2ix6hXaPmtjaJtbyCMd7HN1WA">](https://music.youtube.com/watch?v=Q7VNqAV9Rps)
 
-Vaundy - 踊り子
+새소년 - The Wave 파도
 
-**Albums**: 踊り子
+**Albums**: The Wave 파도
 
-Last updated at 01/19/2023 11:38
+Last updated at 01/19/2023 11:40
