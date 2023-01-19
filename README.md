@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ui3Z-9lajSA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ui3Z-9lajSA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=gbU9w4NXiEI)
 
-TVCHOSUN - TV조선 - 여름 향기처럼 통통 튀는 멜로디🌞 ‘사랑과 행복 그리고 이별’♪ TV CHOSUN 220720 방송 | [바람의 남자들 – 1회] | TV조선
+Dominic Fike, Zendaya 및 Labrinth - Elliot's Song
 
-**Albums**: 조회수 5.3만회
+**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
 
-Last updated at 01/19/2023 13:14
+Last updated at 01/19/2023 13:18
