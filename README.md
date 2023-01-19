@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kB42Mn8JZAPAWs2ngVDsQBFku3J866sz8n3w_bSoMz3VoBCDL1R5X6dQ0DHNq7E8Z9s_K_97A_akA7N9">](https://music.youtube.com/watch?v=QF0cq8FlxnI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aSBhrtWUAiHcHZXeGxGzNKc5SCH-NA8P7Za6mWqXLeandpMQDk2R0LLnNw6UsAySjxpDuVJTgSSggVtV">](https://music.youtube.com/watch?v=w8rCz3gSuH0)
 
-드림캐쳐 - Fly high
+Dreamcatcher - 바람아 (Wind Blows)
 
-**Albums**: Prequel
+**Albums**: ［Dystopia : Road to Utopia］
 
-Last updated at 01/20/2023 07:15
+Last updated at 01/20/2023 07:19
