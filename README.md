@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCh-4c1ZoBPNP1C8c-7iVvUQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCCL-yoaPLR-7bxZM1xlcQcQ)
 
 
   
-    David Guetta
+    Bon Jovi
   
   
   
-    David Guetta
+    Bon Jovi
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - The Alphabeat
+ - You Give Love A Bad Name
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 05:38
+Last updated at 01/20/2023 05:46
