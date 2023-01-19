@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aSBhrtWUAiHcHZXeGxGzNKc5SCH-NA8P7Za6mWqXLeandpMQDk2R0LLnNw6UsAySjxpDuVJTgSSggVtV">](https://music.youtube.com/watch?v=w8rCz3gSuH0)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCa5b_7ImijW-GNEt4hNUzWg)
 
-Dreamcatcher - 바람아 (Wind Blows)
 
-**Albums**: ［Dystopia : Road to Utopia］
+  
+    Yerin Baek
+  
+  
+  
+    Yerin Baek
+  
 
-Last updated at 01/20/2023 07:19
+
+
+
+  공식 아티스트 채널
+
+
+ - 내가 날 모르는 것처럼 (Feat. 카더가든) I Don’t Know (Feat. Car, the garden)
+
+**Albums**: Not supported
+
+Last updated at 01/20/2023 07:27
