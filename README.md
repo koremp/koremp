@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=y2ZYZePW_94)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0QlEGK5aiiCmyrGegjlvVB7lWlfWyEsSKqcBUc5I34aeLQTkH9DUp6rsiyEX6YzQTmV9Ol9x1_VsEYU">](https://music.youtube.com/watch?v=Hha6DfqgLus)
 
-Labrinth - I'm Tired (Long Version)
+드림캐쳐 - REASON
 
-**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
+**Albums**: [REASON]
 
-Last updated at 01/20/2023 06:29
+Last updated at 01/20/2023 06:31
