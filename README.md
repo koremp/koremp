@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LkXjHAujZpOj-6Os9Rvvc_ms8eEsR8gYAnJVVEXp6IdFYOWcrxPUD5G6-kbgmikQZ_fiCmvP09SytXsd">](https://music.youtube.com/watch?v=rD6yUyBXQsw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S0hhSN3peE1gdD_Orw7zhilp_o5b_uUGf0b45YEG8A6DVRmSpYpDHkNlSdsIxI9kNax73FvRAWWVbtc">](https://music.youtube.com/watch?v=_ytAJBUCxRE)
 
-미쓰 에이(miss A) - 남자 없이 잘 살아 I Don't Need a Man
+Nakamori Akina - Fin (2012 Remastered)
 
-**Albums**: Independent Women Pt. III
+**Albums**: Best II
 
-Last updated at 01/19/2023 13:06
+Last updated at 01/19/2023 13:10
