@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCcozhiTOkGB1HCOgdBlEFPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZeE1g4xevNUYH6zCrKkFfxIWUNgMPeM98AGUdMjKFReG0qKobV93d1zxTUdfGDsDFNhN1JaDQa9Wczc">](https://music.youtube.com/watch?v=qNxyTO9SqlM)
 
+Vaundy - 東京フラッシュ
 
-  
-    Tears For Fears
-  
-  
-  
-    Tears For Fears
-  
+**Albums**: strobo
 
-
-
-
-  공식 아티스트 채널
-
-
- - Everybody Wants To Rule The World
-
-**Albums**: Not supported
-
-Last updated at 01/20/2023 05:50
+Last updated at 01/20/2023 06:27
