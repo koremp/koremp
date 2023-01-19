@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LZEb2xfl3kV_XwPqVSXU-X2grs4NTJambQjmzhc-M38UUvLm5o2LtyzhucxdWjIRY4iNrhjUvkMSbMQ">](https://music.youtube.com/watch?v=jITtvlqyxr0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZeE1g4xevNUYH6zCrKkFfxIWUNgMPeM98AGUdMjKFReG0qKobV93d1zxTUdfGDsDFNhN1JaDQa9Wczc">](https://music.youtube.com/watch?v=qNxyTO9SqlM)
 
-새소년 - NAN CHUN 난춘
+Vaundy - 東京フラッシュ
 
-**Albums**: NAN CHUN 난춘
+**Albums**: strobo
 
-Last updated at 01/19/2023 11:24
+Last updated at 01/19/2023 11:28
