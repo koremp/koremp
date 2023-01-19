@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCLx8m3I4zQAQc0tdASjdAfw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCCF_6PwrZf1u70yghKms3Mw)
 
 
   
-    Labrinth
+    Lil Nas X
   
   
   
-    Labrinth
+    Lil Nas X
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Mount Everest
+ - STAR WALKIN' (League of Legends Worlds Anthem)
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 05:25
+Last updated at 01/20/2023 05:27
