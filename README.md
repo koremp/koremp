@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZnGDU2XjmIFOnHHeTpl4ahotiaCWQYHKQdtVeGr4gSfuUtsh_r-9uK924A7XTw-Yukqt5RuY4BTBC4lk">](https://music.youtube.com/watch?v=XKX-cGysRyU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QRVDhXzMDUtsX9hrAL9XQ8VvdwFHbz9na0A6Q2u0k-nX656hhz8AHTs8BgJWfYbc15AP3U2OIpzoMNwOxw">](https://music.youtube.com/watch?v=N3DYbKD-C70)
 
-전동석 - 뮤지컬 엘리자벳 (Original Musical Soundtrack) - 마지막 춤
+카이 및 정선아 - 어쩌면
 
-**Albums**: 뮤지컬 엘리자벳 (Original Musical Soundtrack) - 마지막 춤
+**Albums**: 카이 온 뮤지컬
 
-Last updated at 01/19/2023 11:13
+Last updated at 01/19/2023 11:17
