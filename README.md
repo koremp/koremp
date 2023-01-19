@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=n89SKAymNfA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lHjdoh6RVTmsU_g5GYjJyWWMjHRvl_1GF1cWCHjm6LE6KVS99jZDFRpYq-vCut0FVqC4EOWK2KQHIHHG_w">](https://music.youtube.com/watch?v=DEsEv6WAig0)
 
-RADWIMPS(래드윔프스) - Nandemonaiya - movie ver.
+Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
 
-**Albums**: Your Name.
+**Albums**: Playing The Piano
 
-Last updated at 01/19/2023 12:56
+Last updated at 01/19/2023 13:02
