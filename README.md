@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=RLbP0sCj2wk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=WyqMeAEqisk)
 
-RADWIMPS(래드윔프스) - Kuchikamizake trip
+RADWIMPS(래드윔프스) - Council of war
 
 **Albums**: Your Name.
 
-Last updated at 01/19/2023 12:26
+Last updated at 01/19/2023 12:28
