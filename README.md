@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uAxlSvSvAYe6rA-h3vItHWMuGqER3GJa9YMoZsf3Obmr_T47HggwKaQf8GsaufArJq0u9Cj8w8KxsVY">](https://music.youtube.com/watch?v=Z8E0apklL2w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LZEb2xfl3kV_XwPqVSXU-X2grs4NTJambQjmzhc-M38UUvLm5o2LtyzhucxdWjIRY4iNrhjUvkMSbMQ">](https://music.youtube.com/watch?v=jITtvlqyxr0)
 
-Yerin Baek - 그건 아마 우리의 잘못은 아닐 거야
+새소년 - NAN CHUN 난춘
 
-**Albums**: Our Love is Great
+**Albums**: NAN CHUN 난춘
 
-Last updated at 01/19/2023 11:21
+Last updated at 01/19/2023 11:24
