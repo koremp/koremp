@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCqxneFT-NdkFAyVdmhD9drg)
 
 
   
-    Jaurim
+    권은비 KWON EUN BI
   
   
   
-    Jaurim
+    권은비 KWON EUN BI
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Shining (샤이닝)
+ - Underwater (Underwater)
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 08:32
+Last updated at 01/20/2023 08:34
