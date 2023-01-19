@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCLx8m3I4zQAQc0tdASjdAfw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCh-4c1ZoBPNP1C8c-7iVvUQ)
 
 
   
-    Labrinth
+    David Guetta
   
   
   
-    Labrinth
+    David Guetta
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Pros & Cons
+ - The Alphabeat
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 05:34
+Last updated at 01/20/2023 05:38
