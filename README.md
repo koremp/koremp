@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCa5b_7ImijW-GNEt4hNUzWg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
 
 
   
-    Yerin Baek
+    Ryuichi Sakamoto
   
   
   
-    Yerin Baek
+    Ryuichi Sakamoto
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 내가 날 모르는 것처럼 (Feat. 카더가든) I Don’t Know (Feat. Car, the garden)
+ - Bolerish
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 07:27
+Last updated at 01/20/2023 07:31
