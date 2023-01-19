@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCTsmtown)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZnGDU2XjmIFOnHHeTpl4ahotiaCWQYHKQdtVeGr4gSfuUtsh_r-9uK924A7XTw-Yukqt5RuY4BTBC4lk">](https://music.youtube.com/watch?v=XKX-cGysRyU)
 
+전동석 - 뮤지컬 엘리자벳 (Original Musical Soundtrack) - 마지막 춤
 
-  
-    NCT
-  
-  
-  
-    NCT
-  
+**Albums**: 뮤지컬 엘리자벳 (Original Musical Soundtrack) - 마지막 춤
 
-
-
-
-  공식 아티스트 채널
-
-
- - 스스로에 취하는 느낌…✨🖤🤍 | DOYOUNG in Tokyo
-
-**Albums**: Not supported
-
-Last updated at 01/18/2023 16:12
+Last updated at 01/19/2023 11:13
