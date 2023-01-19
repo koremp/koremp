@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/83y2p2VIUNcObH_awkHWgA1xp1iztcIndNciP-Fj4U40Oy4pE9PquedAizKxli06C8TSbymLDa9ENJHxNw">](https://music.youtube.com/watch?v=-g9I2neQR7w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/F618Qwn2yRlYhCqlMtEMnFHajg4rGZSGeWOF4ro7l3I9R6y7aGfowqqiNQqj6CgVR0yepTK6T5aRSfAF">](https://music.youtube.com/watch?v=8ybQKl8HMFY)
 
-NewJeans - Ditto
+Harry Styles - Music For a Sushi Restaurant
 
-**Albums**: Ditto
+**Albums**: Harry's House
 
-Last updated at 01/19/2023 13:36
+Last updated at 01/19/2023 13:38
