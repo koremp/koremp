@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=gbU9w4NXiEI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=LFa-VPIAcuo)
 
-Dominic Fike, Zendaya 및 Labrinth - Elliot's Song
+윤하 - 6년 230일
 
-**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
+**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
 
-Last updated at 01/19/2023 13:18
+Last updated at 01/19/2023 13:20
