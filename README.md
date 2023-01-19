@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZeE1g4xevNUYH6zCrKkFfxIWUNgMPeM98AGUdMjKFReG0qKobV93d1zxTUdfGDsDFNhN1JaDQa9Wczc">](https://music.youtube.com/watch?v=qNxyTO9SqlM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CWX4YCTA0LaPNQstef6Z84h47u6BhwWy2EwpVJCUDAUegvGYIlOffZxMLFP-xarjDqRlJXtumCRbbwo">](https://music.youtube.com/watch?v=IFCDLIKSArs)
 
-Vaundy - 東京フラッシュ
+Fujii Kaze - Kirari
 
-**Albums**: strobo
+**Albums**: LOVE ALL SERVE ALL
 
-Last updated at 01/19/2023 11:28
+Last updated at 01/19/2023 11:34
