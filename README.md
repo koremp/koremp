@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=c9c67BKQjqU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=iP6ZABrm8Lo)
 
-RADWIMPS(래드윔프스) - Persuading mayor
+RADWIMPS(래드윔프스) - Theme of Mitsuha
 
 **Albums**: Your Name.
 
-Last updated at 01/19/2023 12:32
+Last updated at 01/19/2023 12:34
