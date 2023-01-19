@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCDnqbjv0zR9Bs8go3Blaijg)
 
 
   
-    Ryuichi Sakamoto
+    민수 / Minsu
   
   
   
-    Ryuichi Sakamoto
+    민수 / Minsu
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - A Flower Is Not a Flower
+ - I Like Me
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 08:00
+Last updated at 01/20/2023 08:24
