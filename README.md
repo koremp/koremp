@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0QlEGK5aiiCmyrGegjlvVB7lWlfWyEsSKqcBUc5I34aeLQTkH9DUp6rsiyEX6YzQTmV9Ol9x1_VsEYU">](https://music.youtube.com/watch?v=Hha6DfqgLus)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gcTmzbGY2jzZN_UPn5bAFDJLu0i6FP2sJbzh-8G0erQQLfRhUU3pvmEQxYFWq2qkFG08czZN-9J0g_Wi">](https://music.youtube.com/watch?v=KkawxCGFhck)
 
-드림캐쳐 - REASON
+Dreamcatcher - BOCA
 
-**Albums**: [REASON]
+**Albums**: [Dystopia : Lose Myself]
 
-Last updated at 01/20/2023 06:31
+Last updated at 01/20/2023 06:33
