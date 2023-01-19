@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=qp0AktOIAag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">](https://music.youtube.com/watch?v=TTHskdFvhtU)
 
-RADWIMPS(래드윔프스) - Zenzenzense - movie ver.
+RADWIMPS(래드윔프스) - Goshintai
 
 **Albums**: Your Name.
 
-Last updated at 01/19/2023 12:02
+Last updated at 01/19/2023 12:06
