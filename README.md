@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCqxneFT-NdkFAyVdmhD9drg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_XwAL54oPW1027oqFz2kog)
 
 
   
-    권은비 KWON EUN BI
+    LUCY ISLAND
   
   
   
-    권은비 KWON EUN BI
+    LUCY ISLAND
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Underwater (Underwater)
+ - Flowering (개화 (Flowering))
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 08:34
+Last updated at 01/20/2023 08:40
