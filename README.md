@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@chloemoriondo)
+[<img align="left" width="100" src="">](https://www.youtube.com/@JessieJVEVO)
 
 
   
-    chloe moriondo
+    Jessie J
   
   
   
-    chloe moriondo
+    Jessie J
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - la vie en rose - edith piaf (cover)
+ - Jessie J - Thunder (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 07:45
+Last updated at 01/20/2023 07:48
