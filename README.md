@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CWX4YCTA0LaPNQstef6Z84h47u6BhwWy2EwpVJCUDAUegvGYIlOffZxMLFP-xarjDqRlJXtumCRbbwo">](https://music.youtube.com/watch?v=IFCDLIKSArs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8TjDZHGcFRV1JP0Vq7BTqF-xvbwkPDcJ2D72hJMGc5oS4B4-wj7LDpggOuJuMW3d526pfNqfVdRLJtjenw">](https://music.youtube.com/watch?v=CnlMTBwsBHs)
 
-Fujii Kaze - Kirari
+Vaundy - 踊り子
 
-**Albums**: LOVE ALL SERVE ALL
+**Albums**: 踊り子
 
-Last updated at 01/19/2023 11:34
+Last updated at 01/19/2023 11:38
