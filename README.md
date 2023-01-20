@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@arcticmonkeys)
+[<img align="left" width="100" src="">](https://www.youtube.com/@oasisinetofficial)
 
 
   
-    Official Arctic Monkeys
+    Oasis
   
   
   
-    Official Arctic Monkeys
+    Oasis
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Arctic Monkeys - Do I Wanna Know?  (Live)
+ - Oasis - Don't Look Back In Anger (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 01/20/2023 11:12
+Last updated at 01/20/2023 11:18
