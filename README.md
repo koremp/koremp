@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P7ZDD7zfpJqWbyxvS1cp-tNW-ita7-XahYz2nrapCfAb21p5MwI34ht5EKXdPQeWlnyW_hRZ37bHI_sQ">](https://music.youtube.com/watch?v=k1UbFZ_gkLU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5rbD2YBP5Tmapu43b0ev_0NMH5ZDfj1Zrnwdt0ilznrtkzh9xvsYyW5j1E1vBlawQTOmKdceYFAq8fw">](https://music.youtube.com/watch?v=kaCpxhwGD8M)
 
-파란노을 - 도피처
+드림캐쳐 - VISION
 
-**Albums**: White Ceiling / Black Dots Wandering Around
+**Albums**: [Apocalypse : Follow us]
 
-Last updated at 01/24/2023 03:06
+Last updated at 01/24/2023 03:12
