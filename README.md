@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pb6n3ova9sF2LrgO8FS_rm81lS-VQ_BbKdLL3jwLOr2XY0rCRoBDyM2QPQEfmRp9_xCpNtPa8B-EQR5q2A">](https://music.youtube.com/watch?v=LCp77Yf54_k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BP3czexigNN1E_ObNCmh0E7u6f1BwlyGnwzroUEEnEGwAudZIylX7oH6y9-LUS88aFqvVX9RiJsASVEY">](https://music.youtube.com/watch?v=CgLDTlzeVNQ)
 
-Blur - Girls and Boys
+Blur - Coffee and TV
 
-**Albums**: Parklife
+**Albums**: 13
 
-Last updated at 01/24/2023 05:23
+Last updated at 01/24/2023 05:27
