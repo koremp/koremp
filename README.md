@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K0m3RQNNJDMZ-huRUHoNjZmBxPywTNNdDmlPTfWfYH1DKcLeRVPtvb0Awqm4WOfQC4PEUa18JjofiedE">](https://music.youtube.com/watch?v=fBgKxsvl6M8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/z4J1R0TfQ14X1cfIgyfBWpD5DWYP_3ihvoYQSI0PBBqHaoaeX6WixMESfO7x3gZQgpItf9D187NRT783xw">](https://music.youtube.com/watch?v=ocoFTXla7dc)
 
-Bo Burnham - All Eyes On Me (Song Only)
+파란노을 - 우리는 밤이 되면 빛난다
 
-**Albums**: INSIDE
+**Albums**: 우리는 밤이 되면 빛난다
 
-Last updated at 01/24/2023 02:58
+Last updated at 01/24/2023 03:00
