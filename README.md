@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eTlvGsPtTaM1AHJXXdb-1aUT7p8rGKu-lAYWlbbE0Btyfasn_-ONpdnhaevqJkP_UC480Gsh7FRbSvI">](https://music.youtube.com/watch?v=LlFcvjDBSCU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/O54zV3IuO98KEFdas3wTYvfLGGlPPt6zqEHUmvEo8bg3osRYNLeZDNjHYbV1lo4We03fTJ0eDqUGomJu">](https://music.youtube.com/watch?v=63Wt2GFXzjY)
 
-DAY6(데이식스) - Love me or Leave me
+권은비 - Underwater
 
-**Albums**: The Book of Us : The Demon
+**Albums**: Lethality
 
-Last updated at 01/24/2023 03:32
+Last updated at 01/24/2023 03:36
