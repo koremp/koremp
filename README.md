@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=IpL74Jra0Kk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XruGvdP-G2y6GcA1XyvLehjJco6RfRdb74sOyr3xfh7__o432U7uxZPY6sXv97LM6HeLHob6xJQb5QlZ">](https://music.youtube.com/watch?v=hcMktKzONYs)
 
-NCT 127 - Faster
+f(x) - 첫 사랑니 Rum Pum Pum Pum
 
-**Albums**: 2 Baddies - The 4th Album
+**Albums**: Pink Tape - f(x) The 2nd Album
 
-Last updated at 01/24/2023 04:09
+Last updated at 01/24/2023 04:13
