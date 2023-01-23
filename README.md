@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uy4djfMVFcBHshAXKm4NUfraxgiKHT7QoLTmddKlqTtk3RYUzmbTohbUPvmzbNt9qmIMcWaq89y5hmU6Gg">](https://music.youtube.com/watch?v=nbCOAPR33ME)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TWWT47cHLv3yAugk4h9eOzQ46FHmXc_g-KmBVy2d4sbg_F-Gv6xrPglztRVzp8D_l-yzOnvh-QToM8s">](https://music.youtube.com/watch?v=7fv84nPfTH0)
 
-라디오헤드 - Karma Police
+Radiohead(라디오헤드) - High And Dry
 
-**Albums**: OK Computer OKNOTOK 1997 2017
+**Albums**: The Bends
 
-Last updated at 01/24/2023 05:41
+Last updated at 01/24/2023 05:45
