@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=MBbqqWqLPlI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TyOesqcK4L3FSYv-QPiM1fugshEVxHUMJI8G4OY-oGNAGaUPo49Ah8DI-G41pGEu06XgaO6gvPZ9PTxl">](https://music.youtube.com/watch?v=W2YkC5hr6hE)
 
-aespa - Girls
+ATEEZ (에이티즈) - Guerrilla
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: THE WORLD EP.1 : MOVEMENT
 
-Last updated at 01/24/2023 04:15
+Last updated at 01/24/2023 04:19
