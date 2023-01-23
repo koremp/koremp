@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9N_08w38RfHKgXqfmziaBPp_6UpHe9-6qyMk1-Rd12NRVXgxgIO4H940Mh8xqklygYsbwZPsBIPtW3RG">](https://music.youtube.com/watch?v=1tkdmY7sdUc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=OhIgBn3Dl9I)
 
-아이즈원 - Panorama
+Oasis(오아시스) - Champagne Supernova
 
-**Albums**: One-reeler / Act IV
+**Albums**: (What's The Story) Morning Glory? (Remastered)
 
-Last updated at 01/24/2023 04:27
+Last updated at 01/24/2023 05:11
