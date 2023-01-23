@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=OhIgBn3Dl9I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n7GTAZj0nfaGlJkE9OCYZnC_lmojUTDDXB2Z40vUGUPC8A6MmsupvFZM12950Q5ftgI3n6DR6mmQbxM">](https://music.youtube.com/watch?v=8nuMqPpoauo)
 
-Oasis(오아시스) - Champagne Supernova
+Oasis(오아시스) - Stand By Me
 
-**Albums**: (What's The Story) Morning Glory? (Remastered)
+**Albums**: Be Here Now
 
-Last updated at 01/24/2023 05:11
+Last updated at 01/24/2023 05:15
