@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/O54zV3IuO98KEFdas3wTYvfLGGlPPt6zqEHUmvEo8bg3osRYNLeZDNjHYbV1lo4We03fTJ0eDqUGomJu">](https://music.youtube.com/watch?v=63Wt2GFXzjY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YBJ7JNalqdVwdESAj47fYcYXTYu1iWZHVAAmee37W9XFQt48c_N9eKUkIJWQxcC3-WLFabKlcnMg1QB7bg">](https://music.youtube.com/watch?v=OYtjo3CTAOM)
 
-권은비 - Underwater
+(G)I-DLE - MOON
 
-**Albums**: Lethality
+**Albums**: I burn
 
-Last updated at 01/24/2023 03:36
+Last updated at 01/24/2023 03:38
