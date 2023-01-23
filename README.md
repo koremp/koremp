@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TpE4c3PWoD-YgLgQ4ETEgfqpbFRkphTGanaJtndGHYr7lbMryT428l34hw1Cu9xf9vUuqpTJcE5BQNEa">](https://music.youtube.com/watch?v=KIxU5caGD6c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=CC6koTdHRSI)
 
-그린 데이 - Holiday
+위수 - 교토
 
-**Albums**: Holiday
+**Albums**: 지나간 여름을 안타까워마
 
-Last updated at 01/24/2023 06:09
+Last updated at 01/24/2023 06:11
