@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TyOesqcK4L3FSYv-QPiM1fugshEVxHUMJI8G4OY-oGNAGaUPo49Ah8DI-G41pGEu06XgaO6gvPZ9PTxl">](https://music.youtube.com/watch?v=W2YkC5hr6hE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IbpKtQHQ8ucwgnXnzc2XCpnbocKHPjXvd2bzrZ6AEX9hSKiGtRqDyR8-t2ilVyTM7EDMzY8kYqF9rUkj">](https://music.youtube.com/watch?v=I2_NC900qYM)
 
-ATEEZ (에이티즈) - Guerrilla
+NCT 127 - Welcome To My Playground
 
-**Albums**: THE WORLD EP.1 : MOVEMENT
+**Albums**: NCT #127 Regulate - The 1st Album Repackage
 
-Last updated at 01/24/2023 04:19
+Last updated at 01/24/2023 04:23
