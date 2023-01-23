@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/z4J1R0TfQ14X1cfIgyfBWpD5DWYP_3ihvoYQSI0PBBqHaoaeX6WixMESfO7x3gZQgpItf9D187NRT783xw">](https://music.youtube.com/watch?v=ocoFTXla7dc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P7ZDD7zfpJqWbyxvS1cp-tNW-ita7-XahYz2nrapCfAb21p5MwI34ht5EKXdPQeWlnyW_hRZ37bHI_sQ">](https://music.youtube.com/watch?v=k1UbFZ_gkLU)
 
-파란노을 - 우리는 밤이 되면 빛난다
+파란노을 - 도피처
 
-**Albums**: 우리는 밤이 되면 빛난다
+**Albums**: White Ceiling / Black Dots Wandering Around
 
-Last updated at 01/24/2023 03:00
+Last updated at 01/24/2023 03:06
