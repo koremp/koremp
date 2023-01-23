@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uy4djfMVFcBHshAXKm4NUfraxgiKHT7QoLTmddKlqTtk3RYUzmbTohbUPvmzbNt9qmIMcWaq89y5hmU6Gg">](https://music.youtube.com/watch?v=FapBH3j6WoA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w">](https://music.youtube.com/watch?v=ljUtuoFt-8c)
 
-라디오헤드 - Exit Music (For a Film)
+Nirvana - Smells Like Teen Spirit
 
-**Albums**: OK Computer OKNOTOK 1997 2017
+**Albums**: Nevermind
 
-Last updated at 01/24/2023 05:55
+Last updated at 01/24/2023 05:57
