@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AUSr3Elb1NyFNzmDpvOj4B1JDPoYja-ntvZCJQ8L6I2mYhlgoMoGWJR-bHENLEohn3S3n0uhiNKW33M">](https://music.youtube.com/watch?v=vyuQAgDBKM4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5I1usujiXI-s31oTwMerYHjHdG-btnVBHxMUFOm9RevObBp3qPg22UobFfU1EV6Z0f_VH0WQq3Lz43HE">](https://music.youtube.com/watch?v=ExHR6nDtaMw)
 
-WENDY - Like Water
+Baek A 백아 - Edge 테두리
 
-**Albums**: Like Water
+**Albums**: Edge 테두리
 
-Last updated at 01/24/2023 06:37
+Last updated at 01/24/2023 06:41
