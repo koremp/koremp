@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w">](https://music.youtube.com/watch?v=ljUtuoFt-8c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD">](https://music.youtube.com/watch?v=BLZWkjBXfN8)
 
-Nirvana - Smells Like Teen Spirit
+Linkin Park(린킨 파크) - In the End
 
-**Albums**: Nevermind
+**Albums**: Hybrid Theory (Bonus Edition)
 
-Last updated at 01/24/2023 05:57
+Last updated at 01/24/2023 06:03
