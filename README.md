@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vmOomvwguiYjpib64asvQOqKIZ-wBn1gT-5VyQuZrYWKctA72Ox9Rk7pIJSngvcg7GzHp1xzovrZ0dg">](https://music.youtube.com/watch?v=E7ON5ieeyho)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CwrfrvHZenos-Fzb34gHLwMGMHXwLXekNBezjn5ZTsv_QDbdKSaw7HneUpzu_C7NWHQ_M8RT6fMjDh9H">](https://music.youtube.com/watch?v=kTVZpyrxaII)
 
-2024 및 Collective Arts - 달 Moon
+박소은 - 눈을 맞춰 술잔을 채워 See The Eyes, Fill It Up The Glass
 
-**Albums**: 달 Moon
+**Albums**: 눈을 맞춰 술잔을 채워 See The Eyes, Fill It Up The Glass
 
-Last updated at 01/24/2023 06:13
+Last updated at 01/24/2023 06:17
