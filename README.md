@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD">](https://music.youtube.com/watch?v=BLZWkjBXfN8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GLS1o7Vh-LFGBBkq1y9Ooadrvji-6ql0j1yOQT2-zqJIW1aLGdEfJA9JY56E3A71qgNJfHAsEQCrdaHiWg">](https://music.youtube.com/watch?v=27zOar_iEOA)
 
-Linkin Park(린킨 파크) - In the End
+Muse(뮤즈) - Hysteria
 
-**Albums**: Hybrid Theory (Bonus Edition)
+**Albums**: Absolution
 
-Last updated at 01/24/2023 06:03
+Last updated at 01/24/2023 06:05
