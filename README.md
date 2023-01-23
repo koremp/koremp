@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IbpKtQHQ8ucwgnXnzc2XCpnbocKHPjXvd2bzrZ6AEX9hSKiGtRqDyR8-t2ilVyTM7EDMzY8kYqF9rUkj">](https://music.youtube.com/watch?v=I2_NC900qYM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9N_08w38RfHKgXqfmziaBPp_6UpHe9-6qyMk1-Rd12NRVXgxgIO4H940Mh8xqklygYsbwZPsBIPtW3RG">](https://music.youtube.com/watch?v=1tkdmY7sdUc)
 
-NCT 127 - Welcome To My Playground
+아이즈원 - Panorama
 
-**Albums**: NCT #127 Regulate - The 1st Album Repackage
+**Albums**: One-reeler / Act IV
 
-Last updated at 01/24/2023 04:23
+Last updated at 01/24/2023 04:27
