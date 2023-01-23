@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GLS1o7Vh-LFGBBkq1y9Ooadrvji-6ql0j1yOQT2-zqJIW1aLGdEfJA9JY56E3A71qgNJfHAsEQCrdaHiWg">](https://music.youtube.com/watch?v=27zOar_iEOA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TpE4c3PWoD-YgLgQ4ETEgfqpbFRkphTGanaJtndGHYr7lbMryT428l34hw1Cu9xf9vUuqpTJcE5BQNEa">](https://music.youtube.com/watch?v=KIxU5caGD6c)
 
-Muse(뮤즈) - Hysteria
+그린 데이 - Holiday
 
-**Albums**: Absolution
+**Albums**: Holiday
 
-Last updated at 01/24/2023 06:05
+Last updated at 01/24/2023 06:09
