@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@Radiohead)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K0m3RQNNJDMZ-huRUHoNjZmBxPywTNNdDmlPTfWfYH1DKcLeRVPtvb0Awqm4WOfQC4PEUa18JjofiedE">](https://music.youtube.com/watch?v=fBgKxsvl6M8)
 
+Bo Burnham - All Eyes On Me (Song Only)
 
-  
-    Radiohead
-  
-  
-  
-    Radiohead
-  
+**Albums**: INSIDE
 
-
-
-
-  공식 아티스트 채널
-
-
- - Radiohead - In Rainbows From the Basement (April 2008)
-
-**Albums**: Not supported
-
-Last updated at 01/24/2023 01:22
+Last updated at 01/24/2023 02:58
