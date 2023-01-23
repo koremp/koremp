@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n7GTAZj0nfaGlJkE9OCYZnC_lmojUTDDXB2Z40vUGUPC8A6MmsupvFZM12950Q5ftgI3n6DR6mmQbxM">](https://music.youtube.com/watch?v=8nuMqPpoauo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aovas6mvuRwzzr5PD3dUFKLEFIG402lAnky4dHsTRI8J2sn9B9vnVCW1uuLm-VqzJ95yBSaC-RufXixoBw">](https://music.youtube.com/watch?v=SQrKCytWbj8)
 
-Oasis(오아시스) - Stand By Me
+Blur - Song 2
 
-**Albums**: Be Here Now
+**Albums**: Blur
 
-Last updated at 01/24/2023 05:15
+Last updated at 01/24/2023 05:21
