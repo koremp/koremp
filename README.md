@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XruGvdP-G2y6GcA1XyvLehjJco6RfRdb74sOyr3xfh7__o432U7uxZPY6sXv97LM6HeLHob6xJQb5QlZ">](https://music.youtube.com/watch?v=hcMktKzONYs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=MBbqqWqLPlI)
 
-f(x) - 첫 사랑니 Rum Pum Pum Pum
+aespa - Girls
 
-**Albums**: Pink Tape - f(x) The 2nd Album
+**Albums**: Girls - The 2nd Mini Album
 
-Last updated at 01/24/2023 04:13
+Last updated at 01/24/2023 04:15
