@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YBJ7JNalqdVwdESAj47fYcYXTYu1iWZHVAAmee37W9XFQt48c_N9eKUkIJWQxcC3-WLFabKlcnMg1QB7bg">](https://music.youtube.com/watch?v=OYtjo3CTAOM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=IpL74Jra0Kk)
 
-(G)I-DLE - MOON
+NCT 127 - Faster
 
-**Albums**: I burn
+**Albums**: 2 Baddies - The 4th Album
 
-Last updated at 01/24/2023 03:38
+Last updated at 01/24/2023 04:09
