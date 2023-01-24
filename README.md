@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5">](https://music.youtube.com/watch?v=V7hbIzqxhaE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3imxQo7tM8fkb99a7w6kNSiovA-6IFs_O4BmQeHShTzUDqsLz_VM2Z7A8zqJvHWVaG4V1-Jpn28UHdk">](https://music.youtube.com/watch?v=h8rxsShxan4)
 
-Skrillex(스크릴렉스) - Bangarang(feat. Sirah)
+Galantis(갈란티스) - Runaway (U & I)
 
-**Albums**: Bangarang
+**Albums**: Pharmacy
 
-Last updated at 01/24/2023 12:51
+Last updated at 01/24/2023 12:55
