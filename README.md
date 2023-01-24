@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
 
   
-    NCT 127
+    LE SSERAFIM
   
   
   
-    NCT 127
+    LE SSERAFIM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - NCT 127 엔시티 127 '영웅 (英雄; Kick It)' Performance Video
+ - ANTIFRAGILE
 
 **Albums**: Not supported
 
-Last updated at 01/24/2023 09:13
+Last updated at 01/24/2023 09:23
