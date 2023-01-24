@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
+[<img align="left" width="100" src="">](https://www.youtube.com/@KenshiYonezu)
 
 
   
-    NCT 127
+    Kenshi Yonezu  米津玄師
   
   
   
-    NCT 127
+    Kenshi Yonezu  米津玄師
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - NCT 127 'Love On The Floor' (Official Audio) | Favorite - The 3rd Album Repackage
+ - 米津玄師 Kenshi Yonezu - KICKBACK
 
 **Albums**: Not supported
 
-Last updated at 01/24/2023 10:15
+Last updated at 01/24/2023 10:29
