@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=U_h1NScp1_o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/watch?v=iR1sAex__VA)
 
-Jack Ü - Mind(feat. 카이(Kai))
+Avicii(아비치) - Waiting For Love
 
-**Albums**: Skrillex and Diplo present Jack Ü
+**Albums**: Stories
 
-Last updated at 01/24/2023 12:59
+Last updated at 01/24/2023 13:03
