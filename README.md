@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_XwAL54oPW1027oqFz2kog)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCTDREAM)
 
 
   
-    LUCY ISLAND
+    NCT DREAM
   
   
   
-    LUCY ISLAND
+    NCT DREAM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Flowering (개화 (Flowering))
+ - ‘오르골 (Life Is Still Going On)’, ’ANL’ Live Clip | NCT DREAM 엔시티 드림
 
 **Albums**: Not supported
 
-Last updated at 01/24/2023 09:27
+Last updated at 01/24/2023 09:39
