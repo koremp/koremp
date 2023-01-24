@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CpDF4u272Ond_S4lCHKTik0J1XcNhP5I0PvCWOMfvQz1Z5ewlgCvIn0EiSn2ca1-k8EfOQaI3c4AOm79cg">](https://music.youtube.com/watch?v=6lJjotvT4FQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mRpQ2qRULFtey8AWV7UUHWRc9uV2EU5upbOyjP-239md2QqCS9V-wMG9aAZ-ERd_-KIzWT9Es7FhZR4">](https://music.youtube.com/watch?v=5Tm_Q1MbODw)
 
-Skrillex(스크릴렉스) - Mumbai Power(feat. Beam)
+딜런 프랜시스 - Get Low
 
-**Albums**: Show Tracks
+**Albums**: Money Sucks, Friends Rule
 
-Last updated at 01/24/2023 13:07
+Last updated at 01/24/2023 13:09
