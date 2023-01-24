@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_XwAL54oPW1027oqFz2kog)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w">](https://music.youtube.com/watch?v=ljUtuoFt-8c)
 
+Nirvana - Smells Like Teen Spirit
 
-  
-    LUCY ISLAND
-  
-  
-  
-    LUCY ISLAND
-  
+**Albums**: Nevermind
 
-
-
-
-  공식 아티스트 채널
-
-
- - Some Day in the 21century
-
-**Albums**: Not supported
-
-Last updated at 01/24/2023 12:43
+Last updated at 01/24/2023 12:45
