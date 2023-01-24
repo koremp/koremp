@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCFEVXX0YX4eT6tdNkXi40vg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjqYTQjO-JG-8vLlt6-4iyQ)
 
 
   
-    DAY6
+    NCT 127
   
   
   
-    DAY6
+    NCT 127
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Love me or Leave me
+ - Welcome To My Playground
 
 **Albums**: Not supported
 
-Last updated at 01/24/2023 10:07
+Last updated at 01/24/2023 10:11
