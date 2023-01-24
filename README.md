@@ -122,7 +122,7 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjqYTQjO-JG-8vLlt6-4iyQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
 
 
   
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Welcome To My Playground
+ - NCT 127 'Love On The Floor' (Official Audio) | Favorite - The 3rd Album Repackage
 
 **Albums**: Not supported
 
-Last updated at 01/24/2023 10:11
+Last updated at 01/24/2023 10:15
