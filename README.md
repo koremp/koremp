@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCFEVXX0YX4eT6tdNkXi40vg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_XwAL54oPW1027oqFz2kog)
 
 
   
-    DAY6
+    LUCY ISLAND
   
   
   
-    DAY6
+    LUCY ISLAND
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 예뻤어 You Were Beautiful
+ - Some Day in the 21century
 
 **Albums**: Not supported
 
-Last updated at 01/24/2023 12:39
+Last updated at 01/24/2023 12:43
