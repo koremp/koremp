@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCTDREAM)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
 
 
   
-    NCT DREAM
+    NCT 127
   
   
   
-    NCT DREAM
+    NCT 127
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - ‘오르골 (Life Is Still Going On)’, ’ANL’ Live Clip | NCT DREAM 엔시티 드림
+ - NCT 127 엔시티 127 'Lemonade' Track Video #4
 
 **Albums**: Not supported
 
-Last updated at 01/24/2023 09:39
+Last updated at 01/24/2023 09:53
