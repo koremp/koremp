@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3imxQo7tM8fkb99a7w6kNSiovA-6IFs_O4BmQeHShTzUDqsLz_VM2Z7A8zqJvHWVaG4V1-Jpn28UHdk">](https://music.youtube.com/watch?v=h8rxsShxan4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=U_h1NScp1_o)
 
-Galantis(갈란티스) - Runaway (U & I)
+Jack Ü - Mind(feat. 카이(Kai))
 
-**Albums**: Pharmacy
+**Albums**: Skrillex and Diplo present Jack Ü
 
-Last updated at 01/24/2023 12:55
+Last updated at 01/24/2023 12:59
