@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
 
 
   
-    하현상 HA HYUN SANG
+    NCT 127
   
   
   
-    하현상 HA HYUN SANG
+    NCT 127
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - [Playlist] Cover by 하현상 모음 | 2020.05 ~ 2021.12
+ - NCT 127 엔시티 127 '영웅 (英雄; Kick It)' Performance Video
 
 **Albums**: Not supported
 
-Last updated at 01/24/2023 08:13
+Last updated at 01/24/2023 09:13
