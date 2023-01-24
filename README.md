@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w">](https://music.youtube.com/watch?v=ljUtuoFt-8c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI">](https://music.youtube.com/watch?v=YcJaYkamg5Y)
 
-Nirvana - Smells Like Teen Spirit
+Skrillex(스크릴렉스) - First of the Year (Equinox)
 
-**Albums**: Nevermind
+**Albums**: More Monsters and Sprites
 
-Last updated at 01/24/2023 12:45
+Last updated at 01/24/2023 12:47
