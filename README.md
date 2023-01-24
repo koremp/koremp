@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCFEVXX0YX4eT6tdNkXi40vg)
 
 
   
-    Jaurim
+    DAY6
   
   
   
-    Jaurim
+    DAY6
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Our failure (우리들의 실패)
+ - 예뻤어 You Were Beautiful
 
 **Albums**: Not supported
 
-Last updated at 01/24/2023 12:35
+Last updated at 01/24/2023 12:39
