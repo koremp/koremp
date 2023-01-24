@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/watch?v=iR1sAex__VA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CpDF4u272Ond_S4lCHKTik0J1XcNhP5I0PvCWOMfvQz1Z5ewlgCvIn0EiSn2ca1-k8EfOQaI3c4AOm79cg">](https://music.youtube.com/watch?v=6lJjotvT4FQ)
 
-Avicii(아비치) - Waiting For Love
+Skrillex(스크릴렉스) - Mumbai Power(feat. Beam)
 
-**Albums**: Stories
+**Albums**: Show Tracks
 
-Last updated at 01/24/2023 13:03
+Last updated at 01/24/2023 13:07
