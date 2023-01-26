@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zNbE3SfaWnIXl6PREd_Pwb6xtWYZHqCf297APAF9c_in8aoUO7s0Qbu62EGfB4jXPzGBc3C5hBlrSDZh">](https://music.youtube.com/watch?v=3mWbRB3Y4R8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/o6a9-03zCQPF42BZmqtX-rpJhuNuOooWz6uBArFZjsyYAtf3s8kajfvA98G0WM1Y-ByP8rEQmMefIWNS">](https://music.youtube.com/watch?v=Rs1HqzgM-q8)
 
-Swedish House Mafia - Don't You Worry Child (Radio Edit)(feat. 욘 마르틴)
+Axwell Λ Ingrosso - More Than You Know
 
-**Albums**: Don't You Worry Child
+**Albums**: More Than You Know
 
-Last updated at 01/26/2023 13:21
+Last updated at 01/26/2023 13:25
