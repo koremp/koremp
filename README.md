@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbQvmYqxKwEbLPj5zSlYe5vrxipjJAaCxqB1cJxyzljnvIr9i4Ix9fyxK9h9BXq5a3jyvPdvGKI_2vWXnA">](https://music.youtube.com/watch?v=pIWaVJPl0-c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/t9cdOnt85ATKz8E9FkA-6hZoiZGNbks7_e1iS17oFtH5AR2NkHLeaq7DeBHNrIute0pZ-Izb3yO0mwA">](https://music.youtube.com/watch?v=sf2s8US-Pfw)
 
-앨런 워커 - Faded
+Regard - Ride It
 
-**Albums**: Different World
+**Albums**: Ride It
 
-Last updated at 01/26/2023 12:40
+Last updated at 01/26/2023 12:44
