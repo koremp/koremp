@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7IgYMc17yQwGCt6pii4Lc4alXKH2A3kKHW_8LByTNZekgtnRGnwb6a9FQpQIOvDp8tF01vQZI-KlUTQ4">](https://music.youtube.com/watch?v=_mmHxzGjUZQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/D8Htysq7B-4StDFUiGaTIVjQouWIZdM3KWKZV2s3ip7IYspQE7qUBZzp1WEpH774FkS5IunY8GzuK_9x">](https://music.youtube.com/watch?v=HxSuYH7IS2s)
 
-Major Lazer - Lean On (feat. MØ & DJ Snake)
+OMI - Cheerleader (Felix Jaehn Remix) (Radio Edit)
 
-**Albums**: Peace Is the Mission
+**Albums**: Me 4 U
 
-Last updated at 01/26/2023 13:57
+Last updated at 01/26/2023 13:59
