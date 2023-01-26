@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LyZeQg4GTbzezDZ0uLB3NirHognp1vnb8wr7hDMtrOsVAPJNvyRHTg-jI0pbejAOn3Npgp3E3miEQtk">](https://music.youtube.com/watch?v=lw3iCVeTe30)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_lO1HgxzDhWtc9yoekDynK2jxvfYQNqbH6FxBp7IhmJ9eQIou3ghCy8MS-2yo3rdfpuJ8FN-C7k-I-nZJQ">](https://music.youtube.com/watch?v=iXzA8MfB-FE)
 
-Eric Prydz - Call on Me (Radio Mix)
+Tiësto 및 Oliver Heldens - The Right Song(feat. 나탈리 라 로서)
 
-**Albums**: Call on Me (Radio Mix)
+**Albums**: The Right Song
 
-Last updated at 01/26/2023 15:09
+Last updated at 01/26/2023 15:11
