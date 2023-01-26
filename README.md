@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZxlLxqxcQ4xhOaGXppEp8DOs2W5IbqOXj3oixV_RW_l0GPKdvaTTxUmm_KPBKw7Fh4OpRa790jKf-u4Njw">](https://music.youtube.com/watch?v=31PJ32nt8Sw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1ZwZK0YNgU8xxQIhsW_rBRxmE0xasmGPE-Suj9VFa6UGF-gWHaOP4oh0-eFrWugpaIjnbYXCJlWIvG6j">](https://music.youtube.com/watch?v=dz4WCVP0gEI)
 
-박은태, 유준상 및 프랑켄슈타인 앙상블 - 단 하나의 미래
+박기영 및 조유진 - 나에게로의 초대 (이상한 나라의 앨리스, 하트다 하트여왕)
 
-**Albums**: 프랑켄슈타인
+**Albums**: 복면가왕 89회 (Live Version)
 
-Last updated at 01/26/2023 11:53
+Last updated at 01/26/2023 11:57
