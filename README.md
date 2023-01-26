@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XincHWEjkXhpbavoQEHWRbTcVdvHsujjr7OAw-73KUCILFgjLdevPW8vkoaRMibnwkTtGWkEDyKbuNeK">](https://music.youtube.com/watch?v=OjpX8ILe2N4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LSMdyd7T2RNpZw2iCkWju-mdr2ba9u13e1bFoFcUgE4xA1JImWjGNhC3tW7EWGNx0U428BPxiTYuCdJJVw">](https://music.youtube.com/watch?v=LRPGqNeav_M)
 
-Avicii(아비치) - Hey Brother
+David Guetta(데이빗 게타) - Titanium(feat. Sia(시아))
 
-**Albums**: True (Bonus Edition)
+**Albums**: Nothing but the Beat Ultimate
 
-Last updated at 01/26/2023 13:10
+Last updated at 01/26/2023 13:14
