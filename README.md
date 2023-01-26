@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xqzng3ZXR0AGmKdSMC0g4rfY7f3ov-uRg7139uOWpFMz8sarUnXmxTTgf-g_Mq3t8s9l1pEW7UJalIs">](https://music.youtube.com/watch?v=RK4Vplud0SM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SSHn4bziTZmSsRBGy_EeUQxzG2behown2SQYd55DTF9NrqLTdl4yD6LpzFjDHc856Hva9N8P3WZwdTxA">](https://music.youtube.com/watch?v=AxQ6pUmh61Q)
 
-The Chainsmokers(체인스모커스) - #SELFIE
+DJ Snake 및 AlunaGeorge - You Know You Like It
 
-**Albums**: #SELFIE
+**Albums**: You Know You Like It
 
-Last updated at 01/26/2023 14:31
+Last updated at 01/26/2023 14:35
