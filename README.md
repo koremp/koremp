@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xtb2zGmxDoUfXnIlv2EyJbM7pu4hQWQFmKdXxG1MqxcppUxWGDFTx409RB-ZRujqRWfCtDKtK9UqL57i">](https://music.youtube.com/watch?v=xWEPCdrzC6Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZxlLxqxcQ4xhOaGXppEp8DOs2W5IbqOXj3oixV_RW_l0GPKdvaTTxUmm_KPBKw7Fh4OpRa790jKf-u4Njw">](https://music.youtube.com/watch?v=31PJ32nt8Sw)
 
-자우림 - 스물다섯, 스물하나
+박은태, 유준상 및 프랑켄슈타인 앙상블 - 단 하나의 미래
 
-**Albums**: Goodbye, grief.
+**Albums**: 프랑켄슈타인
 
-Last updated at 01/26/2023 11:47
+Last updated at 01/26/2023 11:53
