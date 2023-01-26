@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BJSXLMa6L0PJ2Dq6pyPJsVo2gTUmm5bFWkT4eMIeuA8SzPujw0zKFiI0_cT4ro9AC3lVvU90Lm-Z-No">](https://music.youtube.com/watch?v=6ZL9CsBl4ME)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xKS1GIQRC4PkSVmvY5ayZFD7v3hypngxiIOUA86DLIvuYH5Jkt2vALAcwvpLV2BGT9FCH7BX_3j4zVN">](https://music.youtube.com/watch?v=QgKYZWRH4DA)
 
-TAEYONG, JENO, HENDERY, YANGYANG 및 GISELLE - ZOO
+Marshmello(마시멜로) 및 Bastille - Happier
 
-**Albums**: 2021 Winter SMTOWN : SMCU EXPRESS
+**Albums**: Happier
 
-Last updated at 01/26/2023 12:24
+Last updated at 01/26/2023 12:28
