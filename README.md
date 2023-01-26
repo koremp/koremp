@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/o6a9-03zCQPF42BZmqtX-rpJhuNuOooWz6uBArFZjsyYAtf3s8kajfvA98G0WM1Y-ByP8rEQmMefIWNS">](https://music.youtube.com/watch?v=Rs1HqzgM-q8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ZW3K697oGr-NyKtbQEuUhkGK0A2pCDRbRqBWEmbbOVP1ewNMcpQ-vsHyTu3XkmbZ3HaY5Ekyab4FrJp">](https://music.youtube.com/watch?v=-MxGVSch7EU)
 
-Axwell Λ Ingrosso - More Than You Know
+Kygo(카이고) - Stole the Show
 
-**Albums**: More Than You Know
+**Albums**: Stole the Show
 
-Last updated at 01/26/2023 13:25
+Last updated at 01/26/2023 13:27
