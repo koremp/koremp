@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/B72nmrVP4Isp2eOQxbDcxVoZBiDef25-2_99jcNhn3o86A_FyhW4kmuWMgYiLnYn0I1j9ufB8uTYHkfO">](https://music.youtube.com/watch?v=9Z7qVahsIfE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2UTUgzceFC44xJOGOkvGMpHLBklqtlkRuJIY8RmJBE5XHQm9JmkuSRmecD3FVmua_3Ksz2SN8MzU9V0">](https://music.youtube.com/watch?v=Q3_vX-I16I0)
 
-TroyBoi - Do You?
+디스클로저 - You & Me (Flume Remix)(feat. Eliza Doolittle)
 
-**Albums**: V!BEZ, Vol. 3
+**Albums**: Settle (Special Edition)
 
-Last updated at 01/26/2023 14:53
+Last updated at 01/26/2023 14:57
