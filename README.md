@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iyLwgnH77uk1LjmZTyhPk7gNLj6aHL63G_ceeOW73oUphBVYEeaw3wA39ob3_g-89GxWl9JHh_kvarxt">](https://music.youtube.com/watch?v=488paN09KiE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FIbDZ8Fia-Xa3GP_AsZypcKESq7Da4jTyU1tgR7BJEluFoioOeOhJzJ_zoSo-1MK93AeFNt3E9gvYc9R">](https://music.youtube.com/watch?v=o2eD7WNYqfQ)
 
-Meduza - Piece Of Your Heart(feat. Goodboys)
+캘빈 해리스 - How Deep Is Your Love
 
-**Albums**: Piece Of Your Heart
+**Albums**: How Deep Is Your Love
 
-Last updated at 01/26/2023 13:04
+Last updated at 01/26/2023 13:06
