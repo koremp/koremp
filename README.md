@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BB-BXnzAzQZkaUXAnaWW57iqrGUmEfDYpPwbttp5UahneSG_xDcHbXZWA5mcQGuCBG5UPJDoHGkriyx9wQ">](https://music.youtube.com/watch?v=f5i7yvgzPUU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/B72nmrVP4Isp2eOQxbDcxVoZBiDef25-2_99jcNhn3o86A_FyhW4kmuWMgYiLnYn0I1j9ufB8uTYHkfO">](https://music.youtube.com/watch?v=9Z7qVahsIfE)
 
-The Chainsmokers(체인스모커스) - Don't Let Me Down (Illenium Remix)(feat. Daya)
+TroyBoi - Do You?
 
-**Albums**: Don't Let Me Down (Remixes)
+**Albums**: V!BEZ, Vol. 3
 
-Last updated at 01/26/2023 14:49
+Last updated at 01/26/2023 14:53
