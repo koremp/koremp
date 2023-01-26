@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SSHn4bziTZmSsRBGy_EeUQxzG2behown2SQYd55DTF9NrqLTdl4yD6LpzFjDHc856Hva9N8P3WZwdTxA">](https://music.youtube.com/watch?v=AxQ6pUmh61Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1sjXHgwlp45I6ixx95jmcx2Q-P_MwTEMePc_WbJF9e4-TUVAO1qOMUi01SYTdOFX_M3Lr54krxCRj6xY">](https://music.youtube.com/watch?v=UGT6v4No9U8)
 
-DJ Snake 및 AlunaGeorge - You Know You Like It
+캘빈 해리스 및 Alesso - Under Control(feat. 허츠)
 
-**Albums**: You Know You Like It
+**Albums**: Under Control
 
-Last updated at 01/26/2023 14:35
+Last updated at 01/26/2023 14:39
