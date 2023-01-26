@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1ZwZK0YNgU8xxQIhsW_rBRxmE0xasmGPE-Suj9VFa6UGF-gWHaOP4oh0-eFrWugpaIjnbYXCJlWIvG6j">](https://music.youtube.com/watch?v=dz4WCVP0gEI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0nU01lXGnV7H_GPNUknz2fSI4BBPh-tfD1L_1-oAVuDHjBV-PWi_PwB8z4U3r_nUZMCyA_Px-qiD8kI">](https://music.youtube.com/watch?v=Mhyi9p7T7OM)
 
-박기영 및 조유진 - 나에게로의 초대 (이상한 나라의 앨리스, 하트다 하트여왕)
+DAY6(데이식스) - 예뻤어 You Were Beautiful
 
-**Albums**: 복면가왕 89회 (Live Version)
+**Albums**: Every DAY6 February
 
-Last updated at 01/26/2023 11:57
+Last updated at 01/26/2023 12:01
