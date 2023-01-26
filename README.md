@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tgDKXG9pHrKFMGjwDM9waFSOs_KlSXF05uymprrGyHvLLg6KGl6U-O34pI2cNukVMatNft6lY-SyaEzHxQ">](https://music.youtube.com/watch?v=Lur-rvf6A1c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NajKtnNcEz1NnOiZkKdEvaf9o4UbiJ0cgwBmpN5G5FCwJPg8I3gA_DOzI6V0Vm48vzdBRKni_OuVq39COA">](https://music.youtube.com/watch?v=VNLffimQn-k)
 
-Zedd(제드) - Clarity(feat. Foxes)
+캐런 하딩 및 디지털 팜 애니멀스 - Undo My Heart
 
-**Albums**: Clarity
+**Albums**: Undo My Heart
 
-Last updated at 01/26/2023 12:32
+Last updated at 01/26/2023 12:36
