@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0nU01lXGnV7H_GPNUknz2fSI4BBPh-tfD1L_1-oAVuDHjBV-PWi_PwB8z4U3r_nUZMCyA_Px-qiD8kI">](https://music.youtube.com/watch?v=Mhyi9p7T7OM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI">](https://music.youtube.com/watch?v=pZ79wTVoBZ4)
 
-DAY6(데이식스) - 예뻤어 You Were Beautiful
+Skrillex(스크릴렉스) - Recess
 
-**Albums**: Every DAY6 February
+**Albums**: Recess
 
-Last updated at 01/26/2023 12:01
+Last updated at 01/26/2023 12:03
