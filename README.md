@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jeRM5isA6456HV5ZL0MW3w6pUhOoQYoSFXQLKEzZnCHS9YDfVdqWF9cr_BTJhEtjfq88gYgpwmnu0Rc">](https://music.youtube.com/watch?v=e7kmq5lDVQ0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xqzng3ZXR0AGmKdSMC0g4rfY7f3ov-uRg7139uOWpFMz8sarUnXmxTTgf-g_Mq3t8s9l1pEW7UJalIs">](https://music.youtube.com/watch?v=RK4Vplud0SM)
 
-Kygo, Gryffin 및 Calum Scott - Woke Up in Love
+The Chainsmokers(체인스모커스) - #SELFIE
 
-**Albums**: Thrill Of The Chase
+**Albums**: #SELFIE
 
-Last updated at 01/26/2023 14:27
+Last updated at 01/26/2023 14:31
