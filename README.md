@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LSMdyd7T2RNpZw2iCkWju-mdr2ba9u13e1bFoFcUgE4xA1JImWjGNhC3tW7EWGNx0U428BPxiTYuCdJJVw">](https://music.youtube.com/watch?v=LRPGqNeav_M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bEvxV3q3ofcGTRAdWV8D-_YSr5aUrrdS6o157kJW7NFpjRPO7c4-ckcqD2Dzpgh2oOIeQ7XyPVh92oMO">](https://music.youtube.com/watch?v=lNM9HlEK4q4)
 
-David Guetta(데이빗 게타) - Titanium(feat. Sia(시아))
+앨런 워커 - The Spectre
 
-**Albums**: Nothing but the Beat Ultimate
+**Albums**: The Spectre
 
-Last updated at 01/26/2023 13:14
+Last updated at 01/26/2023 13:17
