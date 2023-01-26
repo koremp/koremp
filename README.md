@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t0oK4cW4pBaOHpAhNSSvaz9uHu3TrBf55d9OwfcDDU8AbK60u6ivgRbZU94TVmY3l42JLrqwWIqpuU-3">](https://music.youtube.com/watch?v=VWQ-e0qXX0M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TiZnPsN0xleT9GJk9jrWlcdyyZHPMpxiBNj-8BYrQdp0y9w-IIQpPSiHE8b6ktn9qEp1iUJ_zqGjNyyy">](https://music.youtube.com/watch?v=Ypw7cVsnQxU)
 
-Dynoro 및 지기 고스티아노 - In My Mind
+SAINt JHN - Roses (Imanbek Remix)
 
-**Albums**: In My Mind
+**Albums**: Roses (Imanbek Remix)
 
-Last updated at 01/26/2023 12:54
+Last updated at 01/26/2023 12:58
