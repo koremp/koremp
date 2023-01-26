@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yp7-teSZS1K7BnalU7-JfwNaUzqmwpr-BPSkexKFa3sP5Qg2EvwhAi3avIAw87je6LSCwiY6H-C667bLBQ">](https://music.youtube.com/watch?v=-d4jwvzt0RI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lJklGBZrteai3SvZdVDyuqj5KqbiTa2QhAT1KUiyHBjaq6MbZJuT0PTyQb0UyDyuf-wE4hO0tWbVf6Lk">](https://music.youtube.com/watch?v=OBs1Fb8adGQ)
 
-쁘띠 비스킷 - Sunset Lover
+Marshmello(마시멜로) - Alone
 
-**Albums**: Petit Biscuit
+**Albums**: Alone
 
-Last updated at 01/26/2023 13:31
+Last updated at 01/26/2023 13:35
