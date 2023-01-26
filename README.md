@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hLlec1B9IaW18q6X2Uo1F1jW1rIa4RRbLOYgryYK9u6FBTB_H8LyW9utpX7tMKbRPi-PpLnZofqLo01IQw">](https://music.youtube.com/watch?v=tdQ35RJzEHU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l4Tto02b0Ob01Mw4dMDt7_Zt9pARoBt6jPK3PHwpi2KOxImTlaKpMlpm5Fc8fQ7azamHroGp3p77lNbt">](https://music.youtube.com/watch?v=RFt6ttbtC7Y)
 
-Loud Luxury - Body(feat. brando)
+Above & Beyond - Sun & Moon(feat. 리처드 베드포드)
 
-**Albums**: WeArmada 2018
+**Albums**: Group Therapy
 
-Last updated at 01/26/2023 12:46
+Last updated at 01/26/2023 12:48
