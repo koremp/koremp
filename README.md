@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r7Zud63EbAR1-8zendC8cmffZsXgj3G6s0mtkVJOTnJFaA-dUaGAWECqGTRbiXlKdSwRifZJ1YmpBeix">](https://music.youtube.com/watch?v=LsCHjlYw2oM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7IgYMc17yQwGCt6pii4Lc4alXKH2A3kKHW_8LByTNZekgtnRGnwb6a9FQpQIOvDp8tF01vQZI-KlUTQ4">](https://music.youtube.com/watch?v=_mmHxzGjUZQ)
 
-Galantis(갈란티스) - No Money
+Major Lazer - Lean On (feat. MØ & DJ Snake)
 
-**Albums**: The Aviary
+**Albums**: Peace Is the Mission
 
-Last updated at 01/26/2023 13:53
+Last updated at 01/26/2023 13:57
