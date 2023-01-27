@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4RAA8DTjbTlmZy561mmq4Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI">](https://music.youtube.com/watch?v=pZ79wTVoBZ4)
 
+Skrillex(스크릴렉스) - Recess
 
-  
-    Dreamcatcher official
-  
-  
-  
-    Dreamcatcher official
-  
+**Albums**: Recess
 
-
-
-
-  공식 아티스트 채널
-
-
- - Fairytale
-
-**Albums**: Not supported
-
-Last updated at 01/27/2023 16:30
+Last updated at 01/27/2023 17:45
