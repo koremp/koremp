@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LyZeQg4GTbzezDZ0uLB3NirHognp1vnb8wr7hDMtrOsVAPJNvyRHTg-jI0pbejAOn3Npgp3E3miEQtk">](https://music.youtube.com/watch?v=lw3iCVeTe30)
+[<img align="left" width="100" src="">](https://www.youtube.com/@KenshiYonezu)
 
-Eric Prydz - Call on Me (Radio Mix)
 
-**Albums**: Call on Me (Radio Mix)
+  
+    Kenshi Yonezu  米津玄師
+  
+  
+  
+    Kenshi Yonezu  米津玄師
+  
 
-Last updated at 01/27/2023 15:28
+
+
+
+  공식 아티스트 채널
+
+
+ - 米津玄師 Kenshi Yonezu - KICKBACK
+
+**Albums**: Not supported
+
+Last updated at 01/27/2023 16:26
