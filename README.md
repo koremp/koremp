@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jeRM5isA6456HV5ZL0MW3w6pUhOoQYoSFXQLKEzZnCHS9YDfVdqWF9cr_BTJhEtjfq88gYgpwmnu0Rc">](https://music.youtube.com/watch?v=yQnVtStcXA8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BB-BXnzAzQZkaUXAnaWW57iqrGUmEfDYpPwbttp5UahneSG_xDcHbXZWA5mcQGuCBG5UPJDoHGkriyx9wQ">](https://music.youtube.com/watch?v=f5i7yvgzPUU)
 
-Kygo - The Way We Were(feat. Plested)
+The Chainsmokers(체인스모커스) - Don't Let Me Down (Illenium Remix)(feat. Daya)
 
-**Albums**: Thrill Of The Chase
+**Albums**: Don't Let Me Down (Remixes)
 
-Last updated at 01/27/2023 15:06
+Last updated at 01/27/2023 15:10
