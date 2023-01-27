@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI">](https://music.youtube.com/watch?v=pZ79wTVoBZ4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3imxQo7tM8fkb99a7w6kNSiovA-6IFs_O4BmQeHShTzUDqsLz_VM2Z7A8zqJvHWVaG4V1-Jpn28UHdk">](https://music.youtube.com/watch?v=nAXP8wb7VWI)
 
-Skrillex(스크릴렉스) - Recess
+Galantis(갈란티스) - Peanut Butter Jelly
 
-**Albums**: Recess
+**Albums**: Pharmacy
 
-Last updated at 01/27/2023 17:45
+Last updated at 01/27/2023 17:49
