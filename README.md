@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@KenshiYonezu)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4RAA8DTjbTlmZy561mmq4Q)
 
 
   
-    Kenshi Yonezu  米津玄師
+    Dreamcatcher official
   
   
   
-    Kenshi Yonezu  米津玄師
+    Dreamcatcher official
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 米津玄師 Kenshi Yonezu - KICKBACK
+ - Fairytale
 
 **Albums**: Not supported
 
-Last updated at 01/27/2023 16:26
+Last updated at 01/27/2023 16:30
