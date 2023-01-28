@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gMyiCraskhI-ktQe72qBFhByXIhiyDYGwjp8niBwIIQacb-Qpz5sq5YsZZtpA3EQ13OJri4N-1jTtTrs">](https://music.youtube.com/watch?v=UQBwlhAm6Yk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v8Of5L5aVz1WLpY39sJ_-aFbSal2vOqh_Hm6esSyfiwB4h1OYzuj_1xjHw3NgykIUK4-R2VeHRy9skY">](https://music.youtube.com/watch?v=1_4loksDQ5k)
 
-K/DA - POP/STARS(feat. (G)I-DLE, Madison Beer, Jaira Burns, League of Legends)
+ATEEZ (에이티즈) - 멋 (The Real) (흥:興 Ver.)
 
-**Albums**: POP/STARS
+**Albums**: ZERO: FEVER EPILOGUE
 
-Last updated at 01/28/2023 10:15
+Last updated at 01/28/2023 10:19
