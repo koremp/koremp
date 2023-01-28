@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/z2sylhgBjlWwyLKHyjdX1p-EPQQ_tcQiK7Hz3sd0f2PzuZgET6Y2VkxEFJv1oobmzv3hTeUzgTEFQj8">](https://music.youtube.com/watch?v=jAk2WBAjzlI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vKFS34qRlbpWEBjRPwKtpr-E9GuO7FSPBPnFeohyOrEUZpTwGbXO8WnWvPGxCmwhNHZ_Od76jstQ5-Az">](https://music.youtube.com/watch?v=WX-9EL7fqdg)
 
-SEVENTEEN - HOT
+NMIXX - DICE
 
-**Albums**: SEVENTEEN 4th Album 'Face the Sun'
+**Albums**: ENTWURF
 
-Last updated at 01/28/2023 09:45
+Last updated at 01/28/2023 09:49
