@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=MBbqqWqLPlI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-B283YFQFiAUJ-aboQZuH4SzYX7IaA0_c9U0beCoy_yk7OM1T4aHCCci_Bn9iOYFOoOVBcVVTSaCmFJQXg">](https://music.youtube.com/watch?v=L3-ZE2UHXm4)
 
-aespa - Girls
+GOT the beat - Stamp On It
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: Stamp On It - The 1st Mini Album
 
-Last updated at 01/28/2023 09:33
+Last updated at 01/28/2023 09:37
