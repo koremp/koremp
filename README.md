@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vKFS34qRlbpWEBjRPwKtpr-E9GuO7FSPBPnFeohyOrEUZpTwGbXO8WnWvPGxCmwhNHZ_Od76jstQ5-Az">](https://music.youtube.com/watch?v=WX-9EL7fqdg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eTlvGsPtTaM1AHJXXdb-1aUT7p8rGKu-lAYWlbbE0Btyfasn_-ONpdnhaevqJkP_UC480Gsh7FRbSvI">](https://music.youtube.com/watch?v=LlFcvjDBSCU)
 
-NMIXX - DICE
+DAY6(데이식스) - Love me or Leave me
 
-**Albums**: ENTWURF
+**Albums**: The Book of Us : The Demon
 
-Last updated at 01/28/2023 09:49
+Last updated at 01/28/2023 09:51
