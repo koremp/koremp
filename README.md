@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/U5pDajt-YjmVWGMwSoVVd9V7qAxnL7qKyqIlHYD3BInII0BlzKqApsCw_v_PJna5rEcYi04jIorKcNAYow">](https://music.youtube.com/watch?v=wSsQmJmydrI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvjaEL_h0fOHl8ssUHspQNmR7AmgHWHnBo1MjHS5GRxubKz7rDL8aZSYIBwabn2Y7r8mtx816yHAZ1A">](https://music.youtube.com/watch?v=jxM5V0FBxFs)
 
-SHINee - Don't Call Me
+Red Velvet - 피카부 (Peek-A-Boo)
 
-**Albums**: Don't Call Me: The 7th Album
+**Albums**: Perfect Velvet
 
-Last updated at 01/28/2023 10:05
+Last updated at 01/28/2023 10:09
