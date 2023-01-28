@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n0u-_1CQAmyvvPmx21t4rrl8cOZuH8PhWRaeQfihYkS1JZkoWGsO_uOTZAsNjjBrnC4x9qctdM0r574">](https://music.youtube.com/watch?v=wSQV73Pavi8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VcshoZ0mG_qqpYt4btH3W9nxjrad45oeNyxKyFoOynKw-Je5I0LNzMRRq1NQAJLifrnnLuTlFg7ECtD1">](https://music.youtube.com/watch?v=5d-N5nfjDYw)
 
-NCT 127 - Lemonade
+NCT DREAM - 버퍼링 Glitch Mode
 
-**Albums**: Sticker - The 3rd Album
+**Albums**: Glitch Mode - The 2nd Album
 
-Last updated at 01/28/2023 09:15
+Last updated at 01/28/2023 09:17
