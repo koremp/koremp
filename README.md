@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v8Of5L5aVz1WLpY39sJ_-aFbSal2vOqh_Hm6esSyfiwB4h1OYzuj_1xjHw3NgykIUK4-R2VeHRy9skY">](https://music.youtube.com/watch?v=1_4loksDQ5k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tE5BqBoKx44nzZQizCo75bN6R5VJQU_taIQo8WP4Pl7prWtYtt3NGdn8XQtjLpERYS-4JrNbkGSRZLP8">](https://music.youtube.com/watch?v=AJzLTlG-p4Y)
 
-ATEEZ (에이티즈) - 멋 (The Real) (흥:興 Ver.)
+태민(TAEMIN) - Criminal
 
-**Albums**: ZERO: FEVER EPILOGUE
+**Albums**: Never Gonna Dance Again : Act 1 - The 3rd Album
 
-Last updated at 01/28/2023 10:19
+Last updated at 01/28/2023 10:21
