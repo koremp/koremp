@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvjaEL_h0fOHl8ssUHspQNmR7AmgHWHnBo1MjHS5GRxubKz7rDL8aZSYIBwabn2Y7r8mtx816yHAZ1A">](https://music.youtube.com/watch?v=jxM5V0FBxFs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VuyVvPoVWNoWsVwNEviga2n9faIIFvfI7OJNHZ8mYH8t6sEjSLFOdPB1TgKsWCbfgZXw_ZUAhUYW9LuF">](https://music.youtube.com/watch?v=xgiN9zNZCuM)
 
-Red Velvet - 피카부 (Peek-A-Boo)
+ITZY - WANNABE
 
-**Albums**: Perfect Velvet
+**Albums**: IT'z ME
 
-Last updated at 01/28/2023 10:09
+Last updated at 01/28/2023 10:11
