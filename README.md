@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VuyVvPoVWNoWsVwNEviga2n9faIIFvfI7OJNHZ8mYH8t6sEjSLFOdPB1TgKsWCbfgZXw_ZUAhUYW9LuF">](https://music.youtube.com/watch?v=xgiN9zNZCuM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gMyiCraskhI-ktQe72qBFhByXIhiyDYGwjp8niBwIIQacb-Qpz5sq5YsZZtpA3EQ13OJri4N-1jTtTrs">](https://music.youtube.com/watch?v=UQBwlhAm6Yk)
 
-ITZY - WANNABE
+K/DA - POP/STARS(feat. (G)I-DLE, Madison Beer, Jaira Burns, League of Legends)
 
-**Albums**: IT'z ME
+**Albums**: POP/STARS
 
-Last updated at 01/28/2023 10:11
+Last updated at 01/28/2023 10:15
