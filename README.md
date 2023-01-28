@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=ghrlZIMDzbM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUpjCQtgdhQYB4jsDu2rdQ9a48DBfyj8G4y13m-kTl39sRdNhvGEL81Z07_I4J4gDhD-8roE77m6AIQ">](https://music.youtube.com/watch?v=EKlyYkD-eLA)
 
-NewJeans - Hype Boy
+카라 - WHEN I MOVE
 
-**Albums**: NewJeans 1st EP 'New Jeans'
+**Albums**: MOVE AGAIN
 
-Last updated at 01/28/2023 09:27
+Last updated at 01/28/2023 09:31
