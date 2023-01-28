@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/raYmhH77U_wfarPC8fIYADdVplBuxnI8E44GvxhtMN0-IxVQ0IpNMoM6WkSwVwiUNrWbDgImBwgu5A">](https://music.youtube.com/watch?v=gVGiqcNZgjQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/U5pDajt-YjmVWGMwSoVVd9V7qAxnL7qKyqIlHYD3BInII0BlzKqApsCw_v_PJna5rEcYi04jIorKcNAYow">](https://music.youtube.com/watch?v=wSsQmJmydrI)
 
-SuperM - 호랑이
+SHINee - Don't Call Me
 
-**Albums**: Super One
+**Albums**: Don't Call Me: The 7th Album
 
-Last updated at 01/28/2023 10:01
+Last updated at 01/28/2023 10:05
