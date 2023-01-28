@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aQNcyZv4nXpTiurl7kdS79VnG4joyJcbE_TXwDmbdoWmXyKJp5On5x-9JiWa12MiXe9BtBbDReqr800">](https://music.youtube.com/watch?v=usWZz-MMeP0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/z2sylhgBjlWwyLKHyjdX1p-EPQQ_tcQiK7Hz3sd0f2PzuZgET6Y2VkxEFJv1oobmzv3hTeUzgTEFQj8">](https://music.youtube.com/watch?v=jAk2WBAjzlI)
 
-SEULGI - 28 Reasons
+SEVENTEEN - HOT
 
-**Albums**: 28 Reasons - The 1st Mini Album
+**Albums**: SEVENTEEN 4th Album 'Face the Sun'
 
-Last updated at 01/28/2023 09:41
+Last updated at 01/28/2023 09:45
