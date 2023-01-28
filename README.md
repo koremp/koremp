@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3imxQo7tM8fkb99a7w6kNSiovA-6IFs_O4BmQeHShTzUDqsLz_VM2Z7A8zqJvHWVaG4V1-Jpn28UHdk">](https://music.youtube.com/watch?v=nAXP8wb7VWI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=IpL74Jra0Kk)
 
-Galantis(갈란티스) - Peanut Butter Jelly
+NCT 127 - Faster
 
-**Albums**: Pharmacy
+**Albums**: 2 Baddies - The 4th Album
 
-Last updated at 01/27/2023 17:49
+Last updated at 01/28/2023 09:11
