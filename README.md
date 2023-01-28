@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9N_08w38RfHKgXqfmziaBPp_6UpHe9-6qyMk1-Rd12NRVXgxgIO4H940Mh8xqklygYsbwZPsBIPtW3RG">](https://music.youtube.com/watch?v=1tkdmY7sdUc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/raYmhH77U_wfarPC8fIYADdVplBuxnI8E44GvxhtMN0-IxVQ0IpNMoM6WkSwVwiUNrWbDgImBwgu5A">](https://music.youtube.com/watch?v=gVGiqcNZgjQ)
 
-아이즈원 - Panorama
+SuperM - 호랑이
 
-**Albums**: One-reeler / Act IV
+**Albums**: Super One
 
-Last updated at 01/28/2023 09:57
+Last updated at 01/28/2023 10:01
