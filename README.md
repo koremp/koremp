@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=IpL74Jra0Kk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n0u-_1CQAmyvvPmx21t4rrl8cOZuH8PhWRaeQfihYkS1JZkoWGsO_uOTZAsNjjBrnC4x9qctdM0r574">](https://music.youtube.com/watch?v=wSQV73Pavi8)
 
-NCT 127 - Faster
+NCT 127 - Lemonade
 
-**Albums**: 2 Baddies - The 4th Album
+**Albums**: Sticker - The 3rd Album
 
-Last updated at 01/28/2023 09:11
+Last updated at 01/28/2023 09:15
