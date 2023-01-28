@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VcshoZ0mG_qqpYt4btH3W9nxjrad45oeNyxKyFoOynKw-Je5I0LNzMRRq1NQAJLifrnnLuTlFg7ECtD1">](https://music.youtube.com/watch?v=5d-N5nfjDYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jx9UXUQ3Df_sn0lKCFxCeWicGHGXj1tJkTBMyot0j_n3UlTyaWJjbKHL17oB4n7T5BlmxgQl3oGfnXI-">](https://music.youtube.com/watch?v=gM8esyUQo58)
 
-NCT DREAM - 버퍼링 Glitch Mode
+NCT U - BOSS
 
-**Albums**: Glitch Mode - The 2nd Album
+**Albums**: NCT 2018 EMPATHY
 
-Last updated at 01/28/2023 09:17
+Last updated at 01/28/2023 09:21
