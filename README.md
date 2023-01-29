@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dv9Oonhr6VS4O6B6MaRqCCCf5DUblUwf7MiG4hAbaCL3VYm3xVDjUhZ5XnbrS6rcMixT4D2lXUsjI4PDcg">](https://music.youtube.com/watch?v=IoNrByu93BA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/A3RN43GhOTiC1e9c_8c0TlZ-z2vRRADPNASjU6VzjiFYXxLWWKNWR2_8lY-t_nZyXaNagfL9giJ5oLg">](https://music.youtube.com/watch?v=1Tq1TkK8aFc)
 
-(여자)아이들 - 한(一)
+스테이씨 - SO BAD
 
-**Albums**: 한(一)
+**Albums**: Star To A Young Culture
 
-Last updated at 01/29/2023 22:28
+Last updated at 01/29/2023 22:32
