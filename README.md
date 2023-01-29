@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dw0dI0otTtLQbdYk9u0NxRUkMSkxb9QqxWU5Nxuqd9I_cXK0MVK9AXRNTCjLcZp1hQ6a-rmG7mH9Wbks">](https://music.youtube.com/watch?v=PcAwnsMVw9Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FkXfvyUcLHSsc2firk4RH7L23sAH47tcCZPxQbiRNg4o1Dl8m7H1LLIHZnXyJR1FE05cfjkGSpWW3Bo">](https://music.youtube.com/watch?v=i_EIF7DB0bM)
 
-드림캐쳐(Dreamcatcher) - PIRI
+유아 - 숲의 아이 (Bon voyage)
 
-**Albums**: The End of Nightmare
+**Albums**: Bon Voyage
 
-Last updated at 01/29/2023 22:18
+Last updated at 01/29/2023 22:22
