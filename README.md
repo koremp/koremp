@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FkXfvyUcLHSsc2firk4RH7L23sAH47tcCZPxQbiRNg4o1Dl8m7H1LLIHZnXyJR1FE05cfjkGSpWW3Bo">](https://music.youtube.com/watch?v=i_EIF7DB0bM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JIC_5NBHuAZOX-0rUW5lzxZScpaFygUK7i-aGiaSBEUTmFoaYAurgp_2PlX6So5hr41pyqHuI26n1do0">](https://music.youtube.com/watch?v=ZpD59tu5_Rk)
 
-유아 - 숲의 아이 (Bon voyage)
+ITZY - ICY
 
-**Albums**: Bon Voyage
+**Albums**: IT'z ICY
 
-Last updated at 01/29/2023 22:22
+Last updated at 01/29/2023 22:26
