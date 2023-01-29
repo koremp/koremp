@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JIC_5NBHuAZOX-0rUW5lzxZScpaFygUK7i-aGiaSBEUTmFoaYAurgp_2PlX6So5hr41pyqHuI26n1do0">](https://music.youtube.com/watch?v=ZpD59tu5_Rk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dv9Oonhr6VS4O6B6MaRqCCCf5DUblUwf7MiG4hAbaCL3VYm3xVDjUhZ5XnbrS6rcMixT4D2lXUsjI4PDcg">](https://music.youtube.com/watch?v=IoNrByu93BA)
 
-ITZY - ICY
+(여자)아이들 - 한(一)
 
-**Albums**: IT'z ICY
+**Albums**: 한(一)
 
-Last updated at 01/29/2023 22:26
+Last updated at 01/29/2023 22:28
