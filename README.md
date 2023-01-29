@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A3RN43GhOTiC1e9c_8c0TlZ-z2vRRADPNASjU6VzjiFYXxLWWKNWR2_8lY-t_nZyXaNagfL9giJ5oLg">](https://music.youtube.com/watch?v=1Tq1TkK8aFc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Iu-sRmwTV-qZmVvKKHSqCP558qF6rYXw3m8o0YTaJlOToc9vkvsywH2Nytl6hskRrkEHtioWmFHLmm8">](https://music.youtube.com/watch?v=VIb8XkMyv8Q)
 
-스테이씨 - SO BAD
+Apink (에이핑크) - Dilemma
 
-**Albums**: Star To A Young Culture
+**Albums**: HORN
 
-Last updated at 01/29/2023 22:32
+Last updated at 01/29/2023 22:36
