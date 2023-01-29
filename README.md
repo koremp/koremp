@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Iu-sRmwTV-qZmVvKKHSqCP558qF6rYXw3m8o0YTaJlOToc9vkvsywH2Nytl6hskRrkEHtioWmFHLmm8">](https://music.youtube.com/watch?v=VIb8XkMyv8Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/as1VQnQ4NFTm1TuBpBDFO_guuCJB9SJEtLAfcaHkKJjr2eXjpFrDWtzgKLkmwKEj_vGfK8ezfmAdGKh-">](https://music.youtube.com/watch?v=WnvJ9RAoaOo)
 
-Apink (에이핑크) - Dilemma
+CHUNG HA - Stay Tonight
 
-**Albums**: HORN
+**Albums**: Querencia
 
-Last updated at 01/29/2023 22:36
+Last updated at 01/29/2023 22:40
