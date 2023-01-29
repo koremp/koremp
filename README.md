@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ABEfsJ48FwPUsOllIOBJhCvk6fAMs_8dW_hRjPBNFHsPGUo_9HE_JIgGu0hW4-Wgw5dfcMj-n-yG7Iig">](https://music.youtube.com/watch?v=eUqwF1-jjwQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0k_u5oGZBtfPplIXhZ1FKJqny8H-EF66U7hDPtoFqOg3A9-eJc6qHPKbKv0EbkBE1VzShL6BSFl27GwD">](https://music.youtube.com/watch?v=46YuYoiyBcA)
 
-윤하(Younha) - 26
+윤하 (YOUNHA) - 나는 계획이 있다
 
-**Albums**: UNSTABLE MINDSET
+**Albums**: END THEORY
 
-Last updated at 01/29/2023 22:44
+Last updated at 01/29/2023 22:48
