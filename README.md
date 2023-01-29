@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3kEs18YDp2rgB-gXECHp_Yp1ktJD-ZL3UxY0cekXWWbYssAoktgRGYDZB-O8VvKIKJef-ooJyBIs-duDhw">](https://music.youtube.com/watch?v=JOHbf_ZhzV4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ABEfsJ48FwPUsOllIOBJhCvk6fAMs_8dW_hRjPBNFHsPGUo_9HE_JIgGu0hW4-Wgw5dfcMj-n-yG7Iig">](https://music.youtube.com/watch?v=eUqwF1-jjwQ)
 
-Weeekly (위클리) - Weekend
+윤하(Younha) - 26
 
-**Albums**: Play Game : Holiday
+**Albums**: UNSTABLE MINDSET
 
-Last updated at 01/29/2023 22:42
+Last updated at 01/29/2023 22:44
