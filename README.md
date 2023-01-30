@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/twOhjT3jWPtfM9sESMBDpCpXMK-PTZJOh6hbq1fS3PmgAuQrWePrdrYDpJauRNq_ZlSIvKVuwl3_Dl84">](https://music.youtube.com/watch?v=od2q-e5K-Zc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QkMB7knhehjXADFlGfwAFwI7t94WVV7HZYfKZt3x9wTqynbTTR7Ku9WEVBP-tcdy4s_0B3nCWKSQY6c">](https://music.youtube.com/watch?v=_UWOHofs0kA)
 
-Arctic Monkeys - Fluorescent Adolescent
+버브 - Bitter Sweet Symphony (Radio Edit)
 
-**Albums**: Favourite Worst Nightmare
+**Albums**: Bitter Sweet Symphony
 
-Last updated at 01/30/2023 13:29
+Last updated at 01/30/2023 13:31
