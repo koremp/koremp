@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCuKdaTsJ9Jv94hVV_I9aRxQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA)
 
 
   
-    NCT DREAM
+    aespa
   
   
   
-    NCT DREAM
+    aespa
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 버퍼링 Glitch Mode
+ - 도깨비불 Illusion
 
 **Albums**: Not supported
 
-Last updated at 01/30/2023 18:59
+Last updated at 01/30/2023 19:03
