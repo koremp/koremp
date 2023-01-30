@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=iYDRg40UVko)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5TDQYLomOz018mQJz5GjCxysUJ4__rVl5V20k9apaEnws8tNMzK7Wm_2rZfx-tPDh78_XWYOEmBfS0g">](https://music.youtube.com/watch?v=_m6Gg9c3FMQ)
 
-세인트 빈센트 - Los Ageless
+Joji - Gimme Love
 
-**Albums**: MASSEDUCTION
+**Albums**: Nectar
 
-Last updated at 01/30/2023 17:08
+Last updated at 01/30/2023 17:13
