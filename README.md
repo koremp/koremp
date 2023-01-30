@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HsEwUQH8tH10S_G33c9a-iv7iUJ7Ksbfbdpemb2B_uNqjYvf-hB4AMGHNf6gDurP4g4ZTa-3GnMGGwIa">](https://music.youtube.com/watch?v=rXsQmkz1T7A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=rj5wZqReXQE)
 
-Empire Of The Sun - Walking On A Dream
+Oasis(오아시스) - Wonderwall
 
-**Albums**: Walking On A Dream (10th Anniversary Edition)
+**Albums**: (What's The Story) Morning Glory? (Remastered)
 
-Last updated at 01/30/2023 13:17
+Last updated at 01/30/2023 13:21
