@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bJNnYip46gxea7hUHUNIlXYFhTdaEr1pdLWb0i1wWP6nnvc-IOsNPtPGkpygHBeIrvqLfwYkG_phNAQ">](https://music.youtube.com/watch?v=z8UKyfeCKQQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LNJ2g2BaaEf4vn1clf3h32bg9zHkQS2bu47kqDWUd6lmC4upsiI8jBKKWEE4sr0ZCIBHppqTdl_6AAqc">](https://music.youtube.com/watch?v=tUsH87zLvAg)
 
-The White Stripes - Icky Thump
+피터 비욘 앤 존 - Young Folks
 
-**Albums**: Icky Thump
+**Albums**: Writer's Block
 
-Last updated at 01/30/2023 13:43
+Last updated at 01/30/2023 13:49
