@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qq3Qgwp8yIRD1I4Kv38ZhyfOJD_fyCEHjmCcFSaciFs-Fh6USailpDdG6TbXWWBJAI7YoZ-HpGAcEXmKVg">](https://music.youtube.com/watch?v=zgIfcF3WPA4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5VJie4A0982gncqSzs56jN8adzdXpe0_YZP61sWdO6ZII-XsMBvGh_ouWKDsk_sN-fJnQBGPN36LBPzq_Q">](https://music.youtube.com/watch?v=z3gq8u9OuM8)
 
-The Killers - Somebody Told Me
+Lorde - Buzzcut Season
 
-**Albums**: Hot Fuss
+**Albums**: Pure Heroine
 
-Last updated at 01/30/2023 17:45
+Last updated at 01/30/2023 17:47
