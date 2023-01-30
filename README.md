@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5VJie4A0982gncqSzs56jN8adzdXpe0_YZP61sWdO6ZII-XsMBvGh_ouWKDsk_sN-fJnQBGPN36LBPzq_Q">](https://music.youtube.com/watch?v=z3gq8u9OuM8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8hi_v1lMPkjF5MKixWjf-OEQPB-Fos24iun1ZZQ6KKcdXaH4N0r4fwD1Dv6iei_NVgwH4ITFwhtMTX_0">](https://music.youtube.com/watch?v=ot2p0CzNF4k)
 
-Lorde - Buzzcut Season
+리암 갤러거 - For What It's Worth
 
-**Albums**: Pure Heroine
+**Albums**: As You Were (Deluxe Edition)
 
-Last updated at 01/30/2023 17:47
+Last updated at 01/30/2023 17:51
