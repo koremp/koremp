@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WZlsF2xiTHo2n0EUvZBNxNMB0jPORCcegb9KaQ1-C5J5HhjsPOQVwB9s2SJyqpOZbOaySJdM2XH7jqcy8Q">](https://music.youtube.com/watch?v=TU3dMFiNZNc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jpb3TTXCzYej5Ura4lcyCTbQcgcoXuPMtCpQ5M572etZ_NYkkRV0WI1kSFS_SQNhFyWvzq7hu9z0AN9Z">](https://music.youtube.com/watch?v=dfSr0b0eFmo)
 
-Skrillex, Fred again.. 및 Flowdan - Rumble
+Skrillex, Noisia, josh pan 및 Dylan Brady - Supersonic (My Existence)
 
-**Albums**: Rumble
+**Albums**: Supersonic (My Existence)
 
-Last updated at 01/30/2023 11:40
+Last updated at 01/30/2023 11:42
