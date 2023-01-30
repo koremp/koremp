@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8hi_v1lMPkjF5MKixWjf-OEQPB-Fos24iun1ZZQ6KKcdXaH4N0r4fwD1Dv6iei_NVgwH4ITFwhtMTX_0">](https://music.youtube.com/watch?v=ot2p0CzNF4k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LYjHpF-QIHav0sUvGmnJs74GRb4_PWTtDYiOSVwBAEk0pWxkyPaEKscjuhXrspmrZCL0uf__nw63Gjk">](https://music.youtube.com/watch?v=d11xns8lE4w)
 
-리암 갤러거 - For What It's Worth
+Franz Ferdinand - Take Me Out
 
-**Albums**: As You Were (Deluxe Edition)
+**Albums**: Franz Ferdinand
 
-Last updated at 01/30/2023 17:51
+Last updated at 01/30/2023 17:55
