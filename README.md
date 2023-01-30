@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NJ0RHEHf32WA3bpOVX4loVrdtMQE2DdCziR4zn8XgunZV3sGhRNBF1hBatzg-bch6BcF6z00JjTOEQyW">](https://music.youtube.com/watch?v=mjaDHD1E8Bs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RcPMBngw0AHzk2CL1A72UKHJNzIVyPxCtmgebW5Csjkz10wLTZBO5-VDwRobkELaLj0oB57ZFXnQFgl1">](https://music.youtube.com/watch?v=2G9_5ZQYXVY)
 
-The Kooks - Naive
+Muse(뮤즈) - Starlight
 
-**Albums**: Inside In / Inside Out (Deluxe)
+**Albums**: Black Holes And Revelations
 
-Last updated at 01/30/2023 13:53
+Last updated at 01/30/2023 13:57
