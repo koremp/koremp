@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5TDQYLomOz018mQJz5GjCxysUJ4__rVl5V20k9apaEnws8tNMzK7Wm_2rZfx-tPDh78_XWYOEmBfS0g">](https://music.youtube.com/watch?v=_m6Gg9c3FMQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w">](https://music.youtube.com/watch?v=_oWUgfpGi0M)
 
-Joji - Gimme Love
+Nirvana - Lithium
 
-**Albums**: Nectar
+**Albums**: Nevermind
 
-Last updated at 01/30/2023 17:13
+Last updated at 01/30/2023 17:17
