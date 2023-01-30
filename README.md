@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5">](https://music.youtube.com/watch?v=tH8SxBsRfqM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ZW3K697oGr-NyKtbQEuUhkGK0A2pCDRbRqBWEmbbOVP1ewNMcpQ-vsHyTu3XkmbZ3HaY5Ekyab4FrJp">](https://music.youtube.com/watch?v=-MxGVSch7EU)
 
-Skrillex(스크릴렉스) - Summit(feat. Ellie Goulding(엘리 굴딩))
+Kygo(카이고) - Stole the Show
 
-**Albums**: Bangarang
+**Albums**: Stole the Show
 
-Last updated at 01/30/2023 14:51
+Last updated at 01/30/2023 14:57
