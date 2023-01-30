@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0k_u5oGZBtfPplIXhZ1FKJqny8H-EF66U7hDPtoFqOg3A9-eJc6qHPKbKv0EbkBE1VzShL6BSFl27GwD">](https://music.youtube.com/watch?v=46YuYoiyBcA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WZlsF2xiTHo2n0EUvZBNxNMB0jPORCcegb9KaQ1-C5J5HhjsPOQVwB9s2SJyqpOZbOaySJdM2XH7jqcy8Q">](https://music.youtube.com/watch?v=TU3dMFiNZNc)
 
-윤하 (YOUNHA) - 나는 계획이 있다
+Skrillex, Fred again.. 및 Flowdan - Rumble
 
-**Albums**: END THEORY
+**Albums**: Rumble
 
-Last updated at 01/29/2023 22:48
+Last updated at 01/30/2023 11:40
