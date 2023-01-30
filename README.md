@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kf2IZW1LGP5P_YXr2cdzyE92k23oHlIjqyYY1GmdfrAV02JqTuIkFawEZX7I-QC8JornwtljrYuG-goLDg">](https://music.youtube.com/watch?v=qthf2xvvyNc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PCX3oqSxWUfSZ2kSWWMT1MFvwQwGSPLecTBSOc7ds1VHv7RkQHbXCKQl1NPYHsp51_y4-tV02nEBSURVaA">](https://music.youtube.com/watch?v=6hBxfe_K9n0)
 
-Tove Lo - Habits (Stay High) (Hippie Sabotage Remix)
+Disco Lines - Baby Girl (George IV's UK Sunshine Flip)
 
-**Albums**: Queen Of The Clouds (Blueprint Edition)
+**Albums**: Baby Girl (George IV's UK Sunshine Flip)
 
-Last updated at 01/30/2023 12:36
+Last updated at 01/30/2023 12:40
