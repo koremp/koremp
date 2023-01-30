@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LNJ2g2BaaEf4vn1clf3h32bg9zHkQS2bu47kqDWUd6lmC4upsiI8jBKKWEE4sr0ZCIBHppqTdl_6AAqc">](https://music.youtube.com/watch?v=tUsH87zLvAg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NJ0RHEHf32WA3bpOVX4loVrdtMQE2DdCziR4zn8XgunZV3sGhRNBF1hBatzg-bch6BcF6z00JjTOEQyW">](https://music.youtube.com/watch?v=mjaDHD1E8Bs)
 
-피터 비욘 앤 존 - Young Folks
+The Kooks - Naive
 
-**Albums**: Writer's Block
+**Albums**: Inside In / Inside Out (Deluxe)
 
-Last updated at 01/30/2023 13:49
+Last updated at 01/30/2023 13:53
