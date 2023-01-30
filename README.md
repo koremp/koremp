@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4hS_9ub51gwNE3daO8YxJcyc3TqXre20EIGPKqN10hwLtsFF_OSHkgvhxhoUpO5URH12w-KxvK_87pVMog">](https://music.youtube.com/watch?v=icfVOaVrY18)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SY1HWZpFpZuOoRn6a1dILZXlWufmRT7ucCoP8g5ZqqeGYixGWIaMS3I44xX46xOK9NKueGjvMgQ1HJs">](https://music.youtube.com/watch?v=eoGT6R_14zA)
 
-Stela Cole - Graveyard Shift
+GTA - Red Lips [Skrillex Remix](feat. Sam Bruno)
 
-**Albums**: Graveyard Shift
+**Albums**: Red Lips feat. Sam Bruno [Skrillex Remix]
 
-Last updated at 01/30/2023 12:06
+Last updated at 01/30/2023 12:08
