@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r7Zud63EbAR1-8zendC8cmffZsXgj3G6s0mtkVJOTnJFaA-dUaGAWECqGTRbiXlKdSwRifZJ1YmpBeix">](https://music.youtube.com/watch?v=LsCHjlYw2oM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=X59TlszGtfM)
 
-Galantis(갈란티스) - No Money
+Oasis(오아시스) - Don't Look Back in Anger
 
-**Albums**: The Aviary
+**Albums**: (What's The Story) Morning Glory? (Remastered)
 
-Last updated at 01/30/2023 15:05
+Last updated at 01/30/2023 16:40
