@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LYjHpF-QIHav0sUvGmnJs74GRb4_PWTtDYiOSVwBAEk0pWxkyPaEKscjuhXrspmrZCL0uf__nw63Gjk">](https://music.youtube.com/watch?v=d11xns8lE4w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/d6pFi9FEWWgDmo-_eqLfIljbHqm5g_ZSfxWRIUAdTvlaIeyVvK-8f4a_u6BVHNujBKnuVr8QyPhXpw__">](https://music.youtube.com/watch?v=Et51PwPWFX0)
 
-Franz Ferdinand - Take Me Out
+퀸스 오브 더 스톤 에이지 - No One Knows
 
-**Albums**: Franz Ferdinand
+**Albums**: Songs For The Deaf
 
-Last updated at 01/30/2023 17:55
+Last updated at 01/30/2023 17:59
