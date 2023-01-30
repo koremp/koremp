@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IkjmGRNEs8pjJNVufyMdJxbZkPAcgRpfgalWkkKDBwTP6V_jiwkkWAwA3HrwVsmE3inaA_vqul68Rr94">](https://music.youtube.com/watch?v=YdRjNeu11Ww)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/twOhjT3jWPtfM9sESMBDpCpXMK-PTZJOh6hbq1fS3PmgAuQrWePrdrYDpJauRNq_ZlSIvKVuwl3_Dl84">](https://music.youtube.com/watch?v=od2q-e5K-Zc)
 
-The Strokes - Reptilia
+Arctic Monkeys - Fluorescent Adolescent
 
-**Albums**: Room On Fire
+**Albums**: Favourite Worst Nightmare
 
-Last updated at 01/30/2023 13:25
+Last updated at 01/30/2023 13:29
