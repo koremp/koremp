@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GLS1o7Vh-LFGBBkq1y9Ooadrvji-6ql0j1yOQT2-zqJIW1aLGdEfJA9JY56E3A71qgNJfHAsEQCrdaHiWg">](https://music.youtube.com/watch?v=27zOar_iEOA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JM-ZCXPByV_ZtMEcJ6daaQZRZm0EE2c-ndAOuz39XuMde8Ns7C7MbnnAe8xI3QtyrlOSMrZ23A6IZ6qJ">](https://music.youtube.com/watch?v=P43XYXqJJlU)
 
-Muse(뮤즈) - Hysteria
+Fall Out Boy(폴 아웃 보이) - Dance, Dance
 
-**Albums**: Absolution
+**Albums**: From Under The Cork Tree
 
-Last updated at 01/30/2023 17:23
+Last updated at 01/30/2023 17:27
