@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H0aJfFpktsiFOhLxFRNGKqKYIGZ7OsXVmMtWvTP45jpcs3zk-4XiKwSX-SUEDQXuicid6KMAfIRGEfPV">](https://music.youtube.com/watch?v=xyNZ4M2mI8s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7nh-pzkBSpuTpq7UVhBix_8XeoaS7bJ7r-IKDOvk6syztmAtXyWNu3jU8qYwAETOjEM1WjXLlOJmLT4">](https://music.youtube.com/watch?v=taMgE1YpiLo)
 
-Naughty Boy - La La La(feat. Sam Smith(샘 스미스))
+Party Favor - Be Ok
 
-**Albums**: Hotel Cabana (Deluxe Version)
+**Albums**: Layers
 
-Last updated at 01/30/2023 12:24
+Last updated at 01/30/2023 12:28
