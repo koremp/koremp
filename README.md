@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtUVt_dPJKx39ueAK2RNJvU0IrQ9yXSi_G2M_McJwtlo8fhm1A55KXlBTcR-sJobGPxD-hieg1-n07c">](https://music.youtube.com/watch?v=uOjjnMeGfZY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GLS1o7Vh-LFGBBkq1y9Ooadrvji-6ql0j1yOQT2-zqJIW1aLGdEfJA9JY56E3A71qgNJfHAsEQCrdaHiWg">](https://music.youtube.com/watch?v=27zOar_iEOA)
 
-Labrinth - Love Is Complicated (The Angels Sing)
+Muse(뮤즈) - Hysteria
 
-**Albums**: Euphoria Season 2 Official Score (From The HBO Original Series)
+**Albums**: Absolution
 
-Last updated at 01/30/2023 17:21
+Last updated at 01/30/2023 17:23
