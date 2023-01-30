@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K87aN5LW1H5nVWjwmf0rpdzgnJum_u1HMlaElIKi-q4gMDKvIkHmLcLAX6jDh7L69RbdzcwG8dARzBS_Dw">](https://music.youtube.com/watch?v=bRXTMuH2WVc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HD9G0WqT33lrYP5YajR2GmqqvcgWTdzJqVcE6CxcRuRTyRt35N_wQFFINEoo-QZ71_wB0Mk9ynXaDsgU">](https://music.youtube.com/watch?v=P3xx8fyr12k)
 
-The Killers - Human
+Jet - Are You Gonna Be My Girl
 
-**Albums**: Day & Age (Bonus Tracks)
+**Albums**: Are You Gonna Be My Girl (Deluxe EP)
 
-Last updated at 01/30/2023 14:01
+Last updated at 01/30/2023 14:05
