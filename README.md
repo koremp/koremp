@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FfH4vvXOm_MgZh0qQArVvKczW3LPzVzF5ZHfIrcB-q5KSqa-mdtcx6CXwKjwjthxkkKQJjHZqgdr7uDt">](https://music.youtube.com/watch?v=tZKe908QmIg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4hS_9ub51gwNE3daO8YxJcyc3TqXre20EIGPKqN10hwLtsFF_OSHkgvhxhoUpO5URH12w-KxvK_87pVMog">](https://music.youtube.com/watch?v=icfVOaVrY18)
 
-Unlike Pluto - Everything Black
+Stela Cole - Graveyard Shift
 
-**Albums**: Everything Black
+**Albums**: Graveyard Shift
 
-Last updated at 01/30/2023 12:02
+Last updated at 01/30/2023 12:06
