@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/q7PQeGAA0KHGHE3SlIYwAyWzkdkHaQprUQCl8VuU4u7-4bm_eLZCwYbUYhDxVIeKCd6-GVcm2jqxgyY">](https://music.youtube.com/watch?v=lmdIYJLDTjQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=R3MuRY7LAg8)
 
-King Princess - I Hate Myself, I Want To Party
+나씽 벗 띠브즈 - Amsterdam
 
-**Albums**: Hold On Baby
+**Albums**: Broken Machine (Deluxe)
 
-Last updated at 01/30/2023 16:46
+Last updated at 01/30/2023 16:50
