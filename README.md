@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jpb3TTXCzYej5Ura4lcyCTbQcgcoXuPMtCpQ5M572etZ_NYkkRV0WI1kSFS_SQNhFyWvzq7hu9z0AN9Z">](https://music.youtube.com/watch?v=dfSr0b0eFmo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/34ejNeIsUHkNv1K6VxT18Fg1BktLZI03t1659fWqvub6o5TdIA47snjpLmzswKEYcccoIiw6AaxdBPUI">](https://music.youtube.com/watch?v=ZM0Gi1X0dkM)
 
-Skrillex, Noisia, josh pan 및 Dylan Brady - Supersonic (My Existence)
+ZHU - Working For It
 
-**Albums**: Supersonic (My Existence)
+**Albums**: Genesis Series
 
-Last updated at 01/30/2023 11:42
+Last updated at 01/30/2023 11:46
