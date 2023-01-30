@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/soFyZYOggw-Ae05b91WiVDnq9ahXLOrNJiR4wWiQemfclVliG_BHht1bH6f0cjLB0KzKlyGBTsPrtQEn">](https://music.youtube.com/watch?v=m2zUrruKjDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_3LJKVh0dy-71CwQzWKt0q7JHI7M2rxIMGGAdT0wEhmGEEELRX98ACJFdKK5Fyl226nuNfQ0OAMc-JtP">](https://music.youtube.com/watch?v=NxxjLD2pmlk)
 
-The Killers - Mr. Brightside
+Gorillaz(고릴라즈) - Feel Good Inc.
 
-**Albums**: Hot Fuss
+**Albums**: Demon Days
 
-Last updated at 01/30/2023 12:54
+Last updated at 01/30/2023 12:58
