@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/g8g0VH_6UKxlXXkK8rNkxqJFJVgxlegkrKRcjd7BuMlCMgyLUFDiv7cdjqsUbXq490OrKCWvlAIciJU">](https://music.youtube.com/watch?v=zKFzKIa_pIM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EVVOnC4ySHC6JccfjupSWm6s1uIPUCKl4Swse_mKuK3JJ52rlPxEnJWU2M-nreLI4cmMiG2F861Fki0MaQ">](https://music.youtube.com/watch?v=l9EhLOvxUSI)
 
-트웬티 원 파일럿츠 - Chlorine
+Imagine Dragons - It's Time
 
-**Albums**: Trench
+**Albums**: It’s Time
 
-Last updated at 01/30/2023 17:31
+Last updated at 01/30/2023 17:37
