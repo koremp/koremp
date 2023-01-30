@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vZjPAJ-koVxjee1Il7hXBU8tylQWG4qGLM7m8DnP2fmH0ZnHsLk1tBVZ-Z2Z5NxMhztKq2VaaJ2KwYw">](https://music.youtube.com/watch?v=SiYcNktjyFU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kf2IZW1LGP5P_YXr2cdzyE92k23oHlIjqyYY1GmdfrAV02JqTuIkFawEZX7I-QC8JornwtljrYuG-goLDg">](https://music.youtube.com/watch?v=qthf2xvvyNc)
 
-Alix Perez - Burning Babylon
+Tove Lo - Habits (Stay High) (Hippie Sabotage Remix)
 
-**Albums**: Burning Babylon
+**Albums**: Queen Of The Clouds (Blueprint Edition)
 
-Last updated at 01/30/2023 12:30
+Last updated at 01/30/2023 12:36
