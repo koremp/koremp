@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HylLNyVN7N6wrrfcX-4VTJ1c1Mw4edJme66nRg7P566IpU6n3V2DWTdzkKHhNeYcWlhHTdwn3hPdYTlw">](https://music.youtube.com/watch?v=IOo4slVdwuQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ond7bzyvLRgppE6e31TdY8T3R1JDC5dZOdPZjb1cPoB49HDwhoZknvgkFAFvO2YISdg8UQjcs9bK9UQ5">](https://music.youtube.com/watch?v=96L5sV7rqX0)
 
-윤미래 및 비비 (BIBI) - LAW (Prod. by Czaer)
+Macklemore & Ryan Lewis - Can't Hold Us(feat. 레이 달튼)
 
-**Albums**: 스트릿 맨 파이터 (SMF) Original Vol.3 (계급미션)
+**Albums**: The Heist
 
-Last updated at 01/30/2023 12:12
+Last updated at 01/30/2023 12:16
