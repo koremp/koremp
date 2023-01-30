@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RNsC4IIArffVIpusLyonzKv_ijRbLmZYXkrQtKNrtLomjWr_sGnvPoDRoNSSDzq9F_ax-TOFmxuYS6hMRg">](https://music.youtube.com/watch?v=GfiJowcJiVw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aXTJre72cWUMOFjCn5i_0W6LucuIC-68guAsN_rIjTxRMwo-o-ak5ZUTqfeXb8XIWp5bdqUCR1NvUM6O">](https://music.youtube.com/watch?v=u6cdQFpP88w)
 
-The Weeknd (위켄드) - The Hills
+Avicii(아비치) - Levels (Skrillex Remix)
 
-**Albums**: Beauty Behind The Madness
+**Albums**: Levels (Remixes)
 
-Last updated at 01/30/2023 11:54
+Last updated at 01/30/2023 11:58
