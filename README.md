@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=P_DCkMbQaHs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RNsC4IIArffVIpusLyonzKv_ijRbLmZYXkrQtKNrtLomjWr_sGnvPoDRoNSSDzq9F_ax-TOFmxuYS6hMRg">](https://music.youtube.com/watch?v=GfiJowcJiVw)
 
-Jack Ü - Take Ü There(feat. Kiesza)
+The Weeknd (위켄드) - The Hills
 
-**Albums**: Skrillex and Diplo present Jack Ü
+**Albums**: Beauty Behind The Madness
 
-Last updated at 01/30/2023 11:50
+Last updated at 01/30/2023 11:54
