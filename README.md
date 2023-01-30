@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=R3MuRY7LAg8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5A8HNW2FmsutZWsPRyXGvaGKt1bAPmNm4HUnwzlceEZ4Nv52oGSIpnxXn8TZlFXCASRzBwfoSBrkaKTV">](https://music.youtube.com/watch?v=Oncu0bgdcXU)
 
-나씽 벗 띠브즈 - Amsterdam
+Coldplay - Fix You
 
-**Albums**: Broken Machine (Deluxe)
+**Albums**: X&Y
 
-Last updated at 01/30/2023 16:50
+Last updated at 01/30/2023 16:54
