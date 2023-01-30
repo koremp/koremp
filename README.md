@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HD9G0WqT33lrYP5YajR2GmqqvcgWTdzJqVcE6CxcRuRTyRt35N_wQFFINEoo-QZ71_wB0Mk9ynXaDsgU">](https://music.youtube.com/watch?v=P3xx8fyr12k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q8RcGVqCxiTY_TK3FNYopB_mNLkHqfpPmBGpw0udfXSxu-B4ttlJf5m7DLiHU0IhmVobZBtoRpZfC7jJ">](https://music.youtube.com/watch?v=EDpXR2_-WSY)
 
-Jet - Are You Gonna Be My Girl
+The Temper Trap - Sweet Disposition
 
-**Albums**: Are You Gonna Be My Girl (Deluxe EP)
+**Albums**: Sweet Disposition (Remixes)
 
-Last updated at 01/30/2023 14:05
+Last updated at 01/30/2023 14:09
