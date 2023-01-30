@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/U7k2oSmy45dhhj8ACdsUr1hQAvoY1IcOlHI_ZwU2rckJte1UEcTyrBUPUGr6Q-HT9-zeY0BwJ05xlOOJ">](https://music.youtube.com/watch?v=zFYEYRcjK2g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HsEwUQH8tH10S_G33c9a-iv7iUJ7Ksbfbdpemb2B_uNqjYvf-hB4AMGHNf6gDurP4g4ZTa-3GnMGGwIa">](https://music.youtube.com/watch?v=rXsQmkz1T7A)
 
-Radiohead - Creep
+Empire Of The Sun - Walking On A Dream
 
-**Albums**: Pablo Honey
+**Albums**: Walking On A Dream (10th Anniversary Edition)
 
-Last updated at 01/30/2023 13:14
+Last updated at 01/30/2023 13:17
