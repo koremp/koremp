@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCuKdaTsJ9Jv94hVV_I9aRxQ)
 
 
   
-    NCT 127
+    NCT DREAM
   
   
   
-    NCT 127
+    NCT DREAM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - NCT 127 엔시티 127 'Lemonade' Track Video #4
+ - 버퍼링 Glitch Mode
 
 **Albums**: Not supported
 
-Last updated at 01/30/2023 18:57
+Last updated at 01/30/2023 18:59
