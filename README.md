@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vNc8YlBrxxN2K5FHfex4hTKVDXyJipHorhnH7NqYdgBtikdGT3N4wmbvWvd7wZeMBzIXtHC59S1L1ke2">](https://music.youtube.com/watch?v=EOjm4SEDMu8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hYGkCiYs1HVz1Btw0b6SeeS0yt3IcnFMdq2Hq3nk5dd8MXFj9iKBy8lcpnzKGHZ61Y_jw6ZvKDPphNbu">](https://music.youtube.com/watch?v=wdo_ATH_ITg)
 
-킹스 오브 리언 - Sex On Fire
+Arctic Monkeys - Do I Wanna Know?
 
-**Albums**: Only By The Night
+**Albums**: Do I Wanna Know?
 
-Last updated at 01/30/2023 13:02
+Last updated at 01/30/2023 13:06
