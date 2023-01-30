@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SY1HWZpFpZuOoRn6a1dILZXlWufmRT7ucCoP8g5ZqqeGYixGWIaMS3I44xX46xOK9NKueGjvMgQ1HJs">](https://music.youtube.com/watch?v=eoGT6R_14zA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HylLNyVN7N6wrrfcX-4VTJ1c1Mw4edJme66nRg7P566IpU6n3V2DWTdzkKHhNeYcWlhHTdwn3hPdYTlw">](https://music.youtube.com/watch?v=IOo4slVdwuQ)
 
-GTA - Red Lips [Skrillex Remix](feat. Sam Bruno)
+윤미래 및 비비 (BIBI) - LAW (Prod. by Czaer)
 
-**Albums**: Red Lips feat. Sam Bruno [Skrillex Remix]
+**Albums**: 스트릿 맨 파이터 (SMF) Original Vol.3 (계급미션)
 
-Last updated at 01/30/2023 12:08
+Last updated at 01/30/2023 12:12
