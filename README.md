@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bOdw07PpZhxSPjjLSApW9X4jkjCAnKpgMQ9_n0ams1A_fjVidS03DAauLPGYu0EjJdm-SkyFC64aN4WN">](https://music.youtube.com/watch?v=-zfXSf5yh3c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mHdLiJjd-vT88c2ZheLiKNa6BR15mAfTcKcW2qgto722xwko-VsOu9zAA1NvdzUw7Oau8EeWQo8bawfetQ">](https://music.youtube.com/watch?v=wJhWwt1OmT8)
 
-스켑타 - That's Not Me(feat. 제이미)
+Oasis(오아시스) - Live Forever
 
-**Albums**: Konnichiwa
+**Albums**: Definitely Maybe (Deluxe)
 
-Last updated at 01/30/2023 12:44
+Last updated at 01/30/2023 12:46
