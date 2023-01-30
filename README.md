@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YTKwsJicv1Hi6R5qJpgiBAkNcWPYOVSGMsqRM8bmhKuMHDWk2zJ3ee3UcT930KmId02LYThjfGoBAEib">](https://music.youtube.com/watch?v=g40o6EpiEtM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=iYDRg40UVko)
 
-Sia(시아) - Elastic Heart
+세인트 빈센트 - Los Ageless
 
-**Albums**: 1000 Forms Of Fear (Deluxe Version)
+**Albums**: MASSEDUCTION
 
-Last updated at 01/30/2023 17:04
+Last updated at 01/30/2023 17:08
