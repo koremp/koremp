@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PCX3oqSxWUfSZ2kSWWMT1MFvwQwGSPLecTBSOc7ds1VHv7RkQHbXCKQl1NPYHsp51_y4-tV02nEBSURVaA">](https://music.youtube.com/watch?v=6hBxfe_K9n0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bOdw07PpZhxSPjjLSApW9X4jkjCAnKpgMQ9_n0ams1A_fjVidS03DAauLPGYu0EjJdm-SkyFC64aN4WN">](https://music.youtube.com/watch?v=-zfXSf5yh3c)
 
-Disco Lines - Baby Girl (George IV's UK Sunshine Flip)
+스켑타 - That's Not Me(feat. 제이미)
 
-**Albums**: Baby Girl (George IV's UK Sunshine Flip)
+**Albums**: Konnichiwa
 
-Last updated at 01/30/2023 12:40
+Last updated at 01/30/2023 12:44
