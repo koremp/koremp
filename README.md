@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=rj5wZqReXQE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IkjmGRNEs8pjJNVufyMdJxbZkPAcgRpfgalWkkKDBwTP6V_jiwkkWAwA3HrwVsmE3inaA_vqul68Rr94">](https://music.youtube.com/watch?v=YdRjNeu11Ww)
 
-Oasis(오아시스) - Wonderwall
+The Strokes - Reptilia
 
-**Albums**: (What's The Story) Morning Glory? (Remastered)
+**Albums**: Room On Fire
 
-Last updated at 01/30/2023 13:21
+Last updated at 01/30/2023 13:25
