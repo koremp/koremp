@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JM-ZCXPByV_ZtMEcJ6daaQZRZm0EE2c-ndAOuz39XuMde8Ns7C7MbnnAe8xI3QtyrlOSMrZ23A6IZ6qJ">](https://music.youtube.com/watch?v=P43XYXqJJlU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/g8g0VH_6UKxlXXkK8rNkxqJFJVgxlegkrKRcjd7BuMlCMgyLUFDiv7cdjqsUbXq490OrKCWvlAIciJU">](https://music.youtube.com/watch?v=zKFzKIa_pIM)
 
-Fall Out Boy(폴 아웃 보이) - Dance, Dance
+트웬티 원 파일럿츠 - Chlorine
 
-**Albums**: From Under The Cork Tree
+**Albums**: Trench
 
-Last updated at 01/30/2023 17:27
+Last updated at 01/30/2023 17:31
