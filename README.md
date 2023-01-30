@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OK0Po1w-qs-125i0MhGl0MrTQP6G8WLM8eQTYCMUhIp4aQb505TT1hnHHbphbRd-rEF6tUo-WZgljpY">](https://music.youtube.com/watch?v=_1RYVmLFaK8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ExfSqv6naG7jtPrjbsfLMxp4xeLkBDslbQ_YaN9lE9R5fhjMKnStXQCzOmQIDcoDAgjZLRE1O5YSZ28">](https://music.youtube.com/watch?v=OztC_7nkAd8)
 
-The Cure - Friday I'm In Love
+더 스미스 - How Soon Is Now?
 
-**Albums**: Wish
+**Albums**: Hatful of Hollow
 
-Last updated at 01/30/2023 14:15
+Last updated at 01/30/2023 14:19
