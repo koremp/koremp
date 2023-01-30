@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aXTJre72cWUMOFjCn5i_0W6LucuIC-68guAsN_rIjTxRMwo-o-ak5ZUTqfeXb8XIWp5bdqUCR1NvUM6O">](https://music.youtube.com/watch?v=u6cdQFpP88w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FfH4vvXOm_MgZh0qQArVvKczW3LPzVzF5ZHfIrcB-q5KSqa-mdtcx6CXwKjwjthxkkKQJjHZqgdr7uDt">](https://music.youtube.com/watch?v=tZKe908QmIg)
 
-Avicii(아비치) - Levels (Skrillex Remix)
+Unlike Pluto - Everything Black
 
-**Albums**: Levels (Remixes)
+**Albums**: Everything Black
 
-Last updated at 01/30/2023 11:58
+Last updated at 01/30/2023 12:02
