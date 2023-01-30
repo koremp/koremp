@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mHdLiJjd-vT88c2ZheLiKNa6BR15mAfTcKcW2qgto722xwko-VsOu9zAA1NvdzUw7Oau8EeWQo8bawfetQ">](https://music.youtube.com/watch?v=wJhWwt1OmT8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tntNX15loRQ3Bqmw4MJunOy_lC43qU2Dqu3eBGWBSbQodGgzIDbnNDLtHCYpsKggh592RmaHnDdSacEe">](https://music.youtube.com/watch?v=D_QLxj8jCF0)
 
-Oasis(오아시스) - Live Forever
+The White Stripes - Seven Nation Army
 
-**Albums**: Definitely Maybe (Deluxe)
+**Albums**: Elephant
 
-Last updated at 01/30/2023 12:46
+Last updated at 01/30/2023 12:50
