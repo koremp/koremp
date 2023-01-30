@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=X59TlszGtfM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/q7PQeGAA0KHGHE3SlIYwAyWzkdkHaQprUQCl8VuU4u7-4bm_eLZCwYbUYhDxVIeKCd6-GVcm2jqxgyY">](https://music.youtube.com/watch?v=lmdIYJLDTjQ)
 
-Oasis(오아시스) - Don't Look Back in Anger
+King Princess - I Hate Myself, I Want To Party
 
-**Albums**: (What's The Story) Morning Glory? (Remastered)
+**Albums**: Hold On Baby
 
-Last updated at 01/30/2023 16:40
+Last updated at 01/30/2023 16:46
