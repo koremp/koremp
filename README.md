@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RcPMBngw0AHzk2CL1A72UKHJNzIVyPxCtmgebW5Csjkz10wLTZBO5-VDwRobkELaLj0oB57ZFXnQFgl1">](https://music.youtube.com/watch?v=2G9_5ZQYXVY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K87aN5LW1H5nVWjwmf0rpdzgnJum_u1HMlaElIKi-q4gMDKvIkHmLcLAX6jDh7L69RbdzcwG8dARzBS_Dw">](https://music.youtube.com/watch?v=bRXTMuH2WVc)
 
-Muse(뮤즈) - Starlight
+The Killers - Human
 
-**Albums**: Black Holes And Revelations
+**Albums**: Day & Age (Bonus Tracks)
 
-Last updated at 01/30/2023 13:57
+Last updated at 01/30/2023 14:01
