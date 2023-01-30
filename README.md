@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - NCT 127 엔시티 127 '영웅 (英雄; Kick It)' Performance Video
+ - NCT 127 엔시티 127 'Lemonade' Track Video #4
 
 **Albums**: Not supported
 
-Last updated at 01/30/2023 18:49
+Last updated at 01/30/2023 18:57
