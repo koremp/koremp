@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DL3OY3_3qsWb5oTzapJXUvSdPykUvlaeXbhvb7gWFTH-ixzca1FBV8fr-lxPP_PJqEqBVCBaQfyqr40xAw">](https://music.youtube.com/watch?v=kUO9za_0fbE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H0aJfFpktsiFOhLxFRNGKqKYIGZ7OsXVmMtWvTP45jpcs3zk-4XiKwSX-SUEDQXuicid6KMAfIRGEfPV">](https://music.youtube.com/watch?v=xyNZ4M2mI8s)
 
-Ragga Twins - Bad Man (Skrillex Remix)
+Naughty Boy - La La La(feat. Sam Smith(샘 스미스))
 
-**Albums**: OWSLA Spring Compilation 2015
+**Albums**: Hotel Cabana (Deluxe Version)
 
-Last updated at 01/30/2023 12:20
+Last updated at 01/30/2023 12:24
