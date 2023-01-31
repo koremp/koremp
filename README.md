@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
 
   
-    aespa
+    LE SSERAFIM
   
   
   
-    aespa
+    LE SSERAFIM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 도깨비불 Illusion
+ - ANTIFRAGILE
 
 **Albums**: Not supported
 
-Last updated at 01/30/2023 19:03
+Last updated at 01/31/2023 13:32
