@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCwPKPUAWE8ah0lkOcvNh8_Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCFEVXX0YX4eT6tdNkXi40vg)
 
 
   
-    NCT
+    DAY6
   
   
   
-    NCT
+    DAY6
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Make A Wish (Birthday Song)
+ - Love me or Leave me
 
 **Albums**: Not supported
 
-Last updated at 01/31/2023 13:48
+Last updated at 01/31/2023 13:52
