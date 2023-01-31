@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="">](https://www.youtube.com/@SamSmithWorldVEVO)
 
 
   
-    하현상 HA HYUN SANG
+    SAM SMITH
   
   
   
-    하현상 HA HYUN SANG
+    SAM SMITH
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - [Playlist] Cover by 하현상 모음 | 2020.05 ~ 2021.12
+ - Sam Smith - I'm Not Here To Make Friends
 
 **Albums**: Not supported
 
-Last updated at 01/31/2023 14:00
+Last updated at 02/01/2023 05:29
