@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-3lx6MQfhwZBsgYmLDx5MH5QkBIqHw5MzAOgDz7LWUQgEnrcSuAOwVijYCRYEw8JCOiz4VZQWLF8HS6">](https://music.youtube.com/watch?v=l2CRCJAUfg8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=ZyzPfgzWG4s)
 
-정우 - 숙희에게 Letter
+위수 - Dosi
 
-**Albums**: 여섯 번째 토요일 6th Saturday
+**Albums**: 지나간 여름을 안타까워마
 
-Last updated at 02/01/2023 15:38
+Last updated at 02/01/2023 15:41
