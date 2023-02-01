@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t9cdOnt85ATKz8E9FkA-6hZoiZGNbks7_e1iS17oFtH5AR2NkHLeaq7DeBHNrIute0pZ-Izb3yO0mwA">](https://music.youtube.com/watch?v=sf2s8US-Pfw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hLlec1B9IaW18q6X2Uo1F1jW1rIa4RRbLOYgryYK9u6FBTB_H8LyW9utpX7tMKbRPi-PpLnZofqLo01IQw">](https://music.youtube.com/watch?v=tdQ35RJzEHU)
 
-Regard - Ride It
+Loud Luxury - Body(feat. brando)
 
-**Albums**: Ride It
+**Albums**: WeArmada 2018
 
-Last updated at 02/01/2023 15:08
+Last updated at 02/01/2023 15:12
