@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/soFyZYOggw-Ae05b91WiVDnq9ahXLOrNJiR4wWiQemfclVliG_BHht1bH6f0cjLB0KzKlyGBTsPrtQEn">](https://music.youtube.com/watch?v=m2zUrruKjDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xKS1GIQRC4PkSVmvY5ayZFD7v3hypngxiIOUA86DLIvuYH5Jkt2vALAcwvpLV2BGT9FCH7BX_3j4zVN">](https://music.youtube.com/watch?v=QgKYZWRH4DA)
 
-The Killers - Mr. Brightside
+Marshmello(마시멜로) 및 Bastille - Happier
 
-**Albums**: Hot Fuss
+**Albums**: Happier
 
-Last updated at 02/01/2023 14:50
+Last updated at 02/01/2023 14:54
