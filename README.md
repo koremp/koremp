@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZrPTG4bWV7ghQcQlADT4VMHridOsQDcEj65OIJ0u41EDaVdQxabZmepcySXgvJtUYIHy1hKMw51EiiblrA">](https://music.youtube.com/watch?v=7jxlsVRylq8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vmOomvwguiYjpib64asvQOqKIZ-wBn1gT-5VyQuZrYWKctA72Ox9Rk7pIJSngvcg7GzHp1xzovrZ0dg">](https://music.youtube.com/watch?v=E7ON5ieeyho)
 
-LUCY - 개화 (Flowering)
+2024 및 Collective Arts - 달 Moon
 
-**Albums**: DEAR.
+**Albums**: 달 Moon
 
-Last updated at 02/01/2023 15:20
+Last updated at 02/01/2023 15:24
