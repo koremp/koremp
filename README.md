@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l4Tto02b0Ob01Mw4dMDt7_Zt9pARoBt6jPK3PHwpi2KOxImTlaKpMlpm5Fc8fQ7azamHroGp3p77lNbt">](https://music.youtube.com/watch?v=RFt6ttbtC7Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZrPTG4bWV7ghQcQlADT4VMHridOsQDcEj65OIJ0u41EDaVdQxabZmepcySXgvJtUYIHy1hKMw51EiiblrA">](https://music.youtube.com/watch?v=7jxlsVRylq8)
 
-Above & Beyond - Sun & Moon(feat. 리처드 베드포드)
+LUCY - 개화 (Flowering)
 
-**Albums**: Group Therapy
+**Albums**: DEAR.
 
-Last updated at 02/01/2023 15:14
+Last updated at 02/01/2023 15:20
