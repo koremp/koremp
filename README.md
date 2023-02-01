@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jkwdfHbNNI59cIBtlIHJkY3I63jL7_4FzgKOgpHwrXKXRV8a6Js7DHwOXEPvTuZaY44GKUjwfURY8Wk">](https://music.youtube.com/watch?v=I_yz7g8fZSg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WMRoE8e7rsMYDsyLjTUF2Gvv6hUZXvXVFjms4knh6vlto6c4U8tJ4ts8k2hiCS_Xqy-n2q_DNYupNFGZaA">](https://music.youtube.com/watch?v=x_Y_TWbRWCA)
 
-박소은 - 이상해 보여
+페퍼톤스 (Peppertones) - 행운을 빌어요
 
-**Albums**: 재활용
+**Albums**: Beginner's Luck
 
-Last updated at 02/01/2023 15:30
+Last updated at 02/01/2023 15:34
