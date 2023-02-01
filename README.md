@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vmOomvwguiYjpib64asvQOqKIZ-wBn1gT-5VyQuZrYWKctA72Ox9Rk7pIJSngvcg7GzHp1xzovrZ0dg">](https://music.youtube.com/watch?v=E7ON5ieeyho)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=DzZRp3tHqPs)
 
-2024 및 Collective Arts - 달 Moon
+하현상 - 하이웨이
 
-**Albums**: 달 Moon
+**Albums**: Calibrate
 
-Last updated at 02/01/2023 15:24
+Last updated at 02/01/2023 15:26
