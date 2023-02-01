@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tntNX15loRQ3Bqmw4MJunOy_lC43qU2Dqu3eBGWBSbQodGgzIDbnNDLtHCYpsKggh592RmaHnDdSacEe">](https://music.youtube.com/watch?v=D_QLxj8jCF0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/soFyZYOggw-Ae05b91WiVDnq9ahXLOrNJiR4wWiQemfclVliG_BHht1bH6f0cjLB0KzKlyGBTsPrtQEn">](https://music.youtube.com/watch?v=m2zUrruKjDQ)
 
-The White Stripes - Seven Nation Army
+The Killers - Mr. Brightside
 
-**Albums**: Elephant
+**Albums**: Hot Fuss
 
-Last updated at 02/01/2023 14:46
+Last updated at 02/01/2023 14:50
