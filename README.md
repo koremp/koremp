@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WMRoE8e7rsMYDsyLjTUF2Gvv6hUZXvXVFjms4knh6vlto6c4U8tJ4ts8k2hiCS_Xqy-n2q_DNYupNFGZaA">](https://music.youtube.com/watch?v=x_Y_TWbRWCA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-3lx6MQfhwZBsgYmLDx5MH5QkBIqHw5MzAOgDz7LWUQgEnrcSuAOwVijYCRYEw8JCOiz4VZQWLF8HS6">](https://music.youtube.com/watch?v=l2CRCJAUfg8)
 
-페퍼톤스 (Peppertones) - 행운을 빌어요
+정우 - 숙희에게 Letter
 
-**Albums**: Beginner's Luck
+**Albums**: 여섯 번째 토요일 6th Saturday
 
-Last updated at 02/01/2023 15:34
+Last updated at 02/01/2023 15:38
