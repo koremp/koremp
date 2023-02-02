@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i-GtZEgJcnDsfVm0wqUcCF6QT91rRLLlWOcl7lI61kqLJcNRD5qrXNtN_P4Y-IAq2NcIGH-CQ96t3GEa">](https://music.youtube.com/watch?v=ZyzPfgzWG4s)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NMIXXOfficial)
 
-위수 - Dosi
 
-**Albums**: 지나간 여름을 안타까워마
+  
+    NMIXX
+  
+  
+  
+    NMIXX
+  
 
-Last updated at 02/01/2023 15:41
+
+
+
+  공식 아티스트 채널
+
+
+ - Welcome to 춘식 world
+
+**Albums**: Not supported
+
+Last updated at 02/02/2023 19:42
