@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@SamSmithWorldVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
 
   
-    SAM SMITH
+    NewJeans
   
   
   
-    SAM SMITH
+    NewJeans
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Sam Smith - I’m Not The Only One (Live) (Honda Stage at the iHeartRadio Theater)
+ - OMG
 
 **Albums**: Not supported
 
-Last updated at 02/03/2023 11:02
+Last updated at 02/03/2023 11:10
