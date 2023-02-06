@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8GKyRvsdmOHTBt7dXWeaP1o6R8F4ly8JPSq-5IllU4TGYp8ZmuvOiH0kxgwB8XC91DLS5vRn1bcqXekN9w">](https://music.youtube.com/watch?v=H0dIa3k6YIc)
 
+ohmadmoon 및 sucozy - Martini Haze
 
-  
-    NCT 127
-  
-  
-  
-    NCT 127
-  
+**Albums**: Martini Haze
 
-
-
-
-  공식 아티스트 채널
-
-
- - NCT 127 엔시티 127 'Lemonade' Track Video #4
-
-**Albums**: Not supported
-
-Last updated at 02/06/2023 15:48
+Last updated at 02/06/2023 18:17
