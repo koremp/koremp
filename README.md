@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8GKyRvsdmOHTBt7dXWeaP1o6R8F4ly8JPSq-5IllU4TGYp8ZmuvOiH0kxgwB8XC91DLS5vRn1bcqXekN9w">](https://music.youtube.com/watch?v=H0dIa3k6YIc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OSki11AeXZ5ANXaV-L4wf54Ih9SW9E4TgZ_z49PGuVromN2RVEGLQp_Pykx9YllJv3h3zlnkr1R-0Ld4">](https://music.youtube.com/watch?v=G7IPXok5A2s)
 
-ohmadmoon 및 sucozy - Martini Haze
+매디엑스피 - HWAN (feat. SLEEQ)
 
-**Albums**: Martini Haze
+**Albums**: HWAN
 
-Last updated at 02/06/2023 18:17
+Last updated at 02/06/2023 18:21
