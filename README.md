@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCkhjJ1ozo9YkGtZ2Vl-QpwA)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
 
 
   
-    KygoMusic
+    NCT 127
   
   
   
-    KygoMusic
+    NCT 127
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Stole the Show
+ - NCT 127 엔시티 127 'Lemonade' Track Video #4
 
 **Albums**: Not supported
 
-Last updated at 02/03/2023 11:14
+Last updated at 02/06/2023 15:48
