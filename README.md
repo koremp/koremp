@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=0IGtEQ8Mnrg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=4Cqn_VheE1k)
 
-브로큰 발렌타인 - Standing in my way
+브로큰 발렌타인 - Let it burn
 
 **Albums**: 3
 
-Last updated at 02/07/2023 21:09
+Last updated at 02/07/2023 21:13
