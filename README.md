@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=3gnGXENQIf8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=zQFAqoaUdAI)
 
-브로큰 발렌타인 - Crash it, Burn it, Break it (2023 Version)
+세인트 빈센트 - Hang On Me
 
-**Albums**: 3
+**Albums**: MASSEDUCTION
 
-Last updated at 02/07/2023 21:31
+Last updated at 02/07/2023 21:33
