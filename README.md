@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3XLqWdd4342EZne0dOVFGttdn0EdVIIsET2f9rkeRRKOb9GBMyu99S_LMFWyUXfOGEhmaA0Vt6huCq0">](https://music.youtube.com/watch?v=PgcPXmqfLYo)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
 
-매디엑스피 - 호랑이
 
-**Albums**: EPOCALYPSE
+  
+    NCT 127
+  
+  
+  
+    NCT 127
+  
 
-Last updated at 02/06/2023 18:33
+
+
+
+  공식 아티스트 채널
+
+
+ - NCT 127 엔시티 127 'Ay-Yo' Performance Video
+
+**Albums**: Not supported
+
+Last updated at 02/07/2023 09:03
