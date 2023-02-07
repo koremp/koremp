@@ -120,12 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on SoundCloud
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-zuSzie8Tk8j4aFlP-E8T8KQ-t120x120.jpg">](https://soundcloud.com/ohmadmoon/hwan-feat-sleeq)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=0IGtEQ8Mnrg)
 
-MADDYXP - HWAN (feat. SLEEQ)
+브로큰 발렌타인 - Standing in my way
 
-**Albums**: Not supported
+**Albums**: 3
 
-Last updated at 02/07/2023 20:43
+Last updated at 02/07/2023 21:09
