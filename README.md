@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mOu4pfTFGse_TPUKhQAxjTKbaNDBBLcwanKgJef-EZ3msrVXdHgBESnngIKoCiHC7AnH7FeRGxBAl6mm">](https://music.youtube.com/watch?v=mkK9fbw8YWs)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
 
-세인트 빈센트 - Masseduction
 
-**Albums**: MASSEDUCTION
+  
+    NCT 127
+  
+  
+  
+    NCT 127
+  
 
-Last updated at 02/07/2023 21:41
+
+
+
+  공식 아티스트 채널
+
+
+ - 📺여기가 바로 즐기는 놈들의 𝑽𝒂𝒍𝒉𝒂𝒍𝒍𝒂✌️🎤 | Ay-Yo SHOW EP.1
+
+**Albums**: Not supported
+
+Last updated at 02/08/2023 15:09
