@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCIMmuidNJdncfMEelOU08Fg)
 
 
   
-    NCT 127
+    Stray Kids
   
   
   
-    NCT 127
+    Stray Kids
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - NCT 127 엔시티 127 'Ay-Yo' Performance Video
+ - MANIAC
 
 **Albums**: Not supported
 
-Last updated at 02/10/2023 11:54
+Last updated at 02/10/2023 11:57
