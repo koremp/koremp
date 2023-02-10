@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=CpQsz4LkGQI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=txAXZUG-WDM)
 
-브로큰 발렌타인 - Not yours (2023 Version)
+브로큰 발렌타인 - 언젠가 눈물 속의 시간이 지나면
 
 **Albums**: 3
 
-Last updated at 02/10/2023 13:23
+Last updated at 02/10/2023 13:25
