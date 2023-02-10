@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=txAXZUG-WDM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=3gnGXENQIf8)
 
-브로큰 발렌타인 - 언젠가 눈물 속의 시간이 지나면
+브로큰 발렌타인 - Crash it, Burn it, Break it (2023 Version)
 
 **Albums**: 3
 
-Last updated at 02/10/2023 13:25
+Last updated at 02/10/2023 13:29
