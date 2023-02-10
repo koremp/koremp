@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 📺여기가 바로 즐기는 놈들의 𝑽𝒂𝒍𝒉𝒂𝒍𝒍𝒂✌️🎤 | Ay-Yo SHOW EP.1
+ - NCT 127 엔시티 127 'Ay-Yo' Performance Video
 
 **Albums**: Not supported
 
-Last updated at 02/08/2023 15:09
+Last updated at 02/10/2023 11:54
