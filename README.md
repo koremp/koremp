@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2rzi4C1Wf-CJ4YQ2ycHeoSzl6_hThVCgBrtjcOykPQNDVnrNOedL2goHDt70VkKWmPWm0LrWzhXp5Z4">](https://music.youtube.com/watch?v=C0B7Az0XqdY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FN-nocKNWR_YMxvW3eawJRxiKE11GOuS-_H9H_89MJibYJKOhD60mwksw9Ow1e-3QgNCaJABBzCc4r4">](https://music.youtube.com/watch?v=r0jCjd-IAu0)
 
-선우정아 - 구애 Propose
+백예린 - 물고기
 
-**Albums**: 구애 Propose
+**Albums**: 물고기
 
-Last updated at 02/12/2023 17:38
+Last updated at 02/12/2023 17:42
