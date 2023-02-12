@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZqadXNvqVVYKr7VZ3jzPffzyOzqk180hnyBGncu0MLnFxCEfB3VVXiY6ZRzl7j-lBgq4COKXgElfUUvFCQ">](https://music.youtube.com/watch?v=uVXu2McmpYs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=5DhAts7WcPk)
 
-레드벨벳-아이린&슬기 - 놀이 Naughty
+aespa - 자각몽 Lucid Dream
 
-**Albums**: 놀이 Naughty
+**Albums**: Savage - The 1st Mini Album
 
-Last updated at 02/13/2023 08:19
+Last updated at 02/13/2023 08:23
