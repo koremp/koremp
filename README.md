@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/m0J572dI6UeLa4L0qRXW9IQSLFNyWiA3iYMRj9P66GUIac9kwAToS2AAeGDOM0NIE-3sSXCSj9TNtjPPpw">](https://music.youtube.com/watch?v=KTaa3Pbv9c0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l6sUKZur-XIL2Apilx4IXRVHksBWdwFgPEZtJh0ek2lHj4GFiBCZdosdpN7ywnu4V5uVwuJbt5Rfb94ABw">](https://music.youtube.com/watch?v=2MlarXqQP34)
 
-Red Velvet - Day 1
+TAEYEON - 혼자서 걸어요
 
-**Albums**: The Red - The 1st Album
+**Albums**: Ballad Pop City
 
-Last updated at 02/12/2023 16:44
+Last updated at 02/12/2023 16:46
