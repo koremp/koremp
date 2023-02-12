@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/COFBRD6GDIkwnlWYON62L4UwGdvKjw_xAsID5YeI66lpSrM6-Az-WzfTyRFgfGnu5OsL9IWRa8DMU8nr">](https://music.youtube.com/watch?v=KWjDSRdIFgc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/u-eBWpU3clMsJcyy_n9neEU_XoQyO9DZw7clvcb2RXsTa1n5dPB14ixxYy5HzB-S9nBWxfm9nSugbW8">](https://music.youtube.com/watch?v=P8W4p5UIfqA)
 
-아이유(IU) - 잼잼
+NMIXX - O.O
 
-**Albums**: Palette
+**Albums**: AD MARE
 
-Last updated at 02/13/2023 08:50
+Last updated at 02/13/2023 08:54
