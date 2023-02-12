@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dLEpuYur7-DpfINgWrEpVQ-hoc3Xe2rfJaLP497xKD0GiIF15b874PRF1u5OyFPuHYZwxoBZld1afgKA">](https://music.youtube.com/watch?v=BYyVDi8BpZw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=j1uXcHwLhHM)
 
-델리스파이스 (DELISPICE) - 고백
+윤하 - 사건의 지평선
 
-**Albums**: Espresso
+**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
 
-Last updated at 02/12/2023 16:54
+Last updated at 02/12/2023 17:00
