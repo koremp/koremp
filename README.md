@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A6CY7bUvsCIe8RAr5m7W5uyYZcPukP0bJIUOPOnF4jtgwT-LZC1k84hX5tGSvfFYSOt-qa8qtLoKdQU">](https://music.youtube.com/watch?v=ytHMBYLwgVU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SZ2M9y0L5no1kT3VeDthm88mhc7DIffyYj00osbrsdk8B8Ib2QuHjdLKQPLH7tS5ApLQ6JbBFFWmANMV">](https://music.youtube.com/watch?v=Rmb8GPQtqXo)
 
-Chet Baker - There Will Never Be Another You (Vocal Version)
+Bill Evans - How Deep Is The Ocean
 
-**Albums**: Chet Baker Sings
+**Albums**: Explorations [Original Jazz Classics Remasters]
 
-Last updated at 02/12/2023 16:36
+Last updated at 02/12/2023 16:38
