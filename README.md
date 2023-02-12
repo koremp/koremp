@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aFPI_9wY-o1Yfrvuup6E1ZQ3PNxc8qDZ7A79oTsBdWuAl5gDMT90aHe_9hsRoOu1_O3aOdOXLycOQobQHw">](https://music.youtube.com/watch?v=HKy5mg4Qj9M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0nU01lXGnV7H_GPNUknz2fSI4BBPh-tfD1L_1-oAVuDHjBV-PWi_PwB8z4U3r_nUZMCyA_Px-qiD8kI">](https://music.youtube.com/watch?v=Mhyi9p7T7OM)
 
-이찬혁 - 마지막 인사(feat. 청하)
+DAY6(데이식스) - 예뻤어 You Were Beautiful
 
-**Albums**: ERROR
+**Albums**: Every DAY6 February
 
-Last updated at 02/12/2023 17:24
+Last updated at 02/12/2023 17:28
