@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SZ2M9y0L5no1kT3VeDthm88mhc7DIffyYj00osbrsdk8B8Ib2QuHjdLKQPLH7tS5ApLQ6JbBFFWmANMV">](https://music.youtube.com/watch?v=Rmb8GPQtqXo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WnSQNBnt0YNgDqcTA4r2xyzSeZlVHzOpT16z9-1CH6Dmxq9FPOW-WUYydaA9CpAY0NYZ6EuiWYzdQsQ">](https://music.youtube.com/watch?v=LPpZmpMMs5w)
 
-Bill Evans - How Deep Is The Ocean
+웨스턴 카잇 - 심.장.박.동
 
-**Albums**: Explorations [Original Jazz Classics Remasters]
+**Albums**: hi love
 
-Last updated at 02/12/2023 16:38
+Last updated at 02/12/2023 16:40
