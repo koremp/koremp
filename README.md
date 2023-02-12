@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/f957JfwyXKfpCKo5nOb3Dx6owv2g80Y8V9S1F4MuW0hQUALn8Kwy_-pNPx-IIR8NMwCUgF3vpfglqqg">](https://music.youtube.com/watch?v=bpi4tmDfbFw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7a5Y-capHxe5YxW1AMQksFyIaj2ErtoXmW5VuT4xrA8DX3HnsUYAqCS3rzmptsWplJwWNlT8Or-UrB-MuQ">](https://music.youtube.com/watch?v=W0x7GcZkvH4)
 
-Red Velvet - 롤러코스터 On A Ride
+STAYC(스테이씨) - RUN2U
 
-**Albums**: ‘The ReVe Festival 2022 - Birthday’
+**Albums**: YOUNG-LUV.COM
 
-Last updated at 02/13/2023 08:33
+Last updated at 02/13/2023 08:37
