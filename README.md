@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7a5Y-capHxe5YxW1AMQksFyIaj2ErtoXmW5VuT4xrA8DX3HnsUYAqCS3rzmptsWplJwWNlT8Or-UrB-MuQ">](https://music.youtube.com/watch?v=W0x7GcZkvH4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nr7wKC-bmSY7R26hDwExm59FHTrawSsowNvzJcxKi0sH8874gCIAmk3EjkN8_bMnPVdiz2Qc--iCeddqkg">](https://music.youtube.com/watch?v=BROIvR9EPyw)
 
-STAYC(스테이씨) - RUN2U
+우주소녀 쪼꼬미 - 슈퍼 그럼요
 
-**Albums**: YOUNG-LUV.COM
+**Albums**: 슈퍼 그럼요
 
-Last updated at 02/13/2023 08:37
+Last updated at 02/13/2023 08:40
