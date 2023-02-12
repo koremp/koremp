@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nr7wKC-bmSY7R26hDwExm59FHTrawSsowNvzJcxKi0sH8874gCIAmk3EjkN8_bMnPVdiz2Qc--iCeddqkg">](https://music.youtube.com/watch?v=BROIvR9EPyw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0k_u5oGZBtfPplIXhZ1FKJqny8H-EF66U7hDPtoFqOg3A9-eJc6qHPKbKv0EbkBE1VzShL6BSFl27GwD">](https://music.youtube.com/watch?v=58IEh6YkuzQ)
 
-우주소녀 쪼꼬미 - 슈퍼 그럼요
+윤하 (YOUNHA) - 오르트구름
 
-**Albums**: 슈퍼 그럼요
+**Albums**: END THEORY
 
-Last updated at 02/13/2023 08:40
+Last updated at 02/13/2023 08:44
