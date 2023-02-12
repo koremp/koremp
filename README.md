@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0k_u5oGZBtfPplIXhZ1FKJqny8H-EF66U7hDPtoFqOg3A9-eJc6qHPKbKv0EbkBE1VzShL6BSFl27GwD">](https://music.youtube.com/watch?v=58IEh6YkuzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gMyiCraskhI-ktQe72qBFhByXIhiyDYGwjp8niBwIIQacb-Qpz5sq5YsZZtpA3EQ13OJri4N-1jTtTrs">](https://music.youtube.com/watch?v=UQBwlhAm6Yk)
 
-윤하 (YOUNHA) - 오르트구름
+K/DA - POP/STARS(feat. (G)I-DLE, Madison Beer, Jaira Burns, League of Legends)
 
-**Albums**: END THEORY
+**Albums**: POP/STARS
 
-Last updated at 02/13/2023 08:44
+Last updated at 02/13/2023 08:48
