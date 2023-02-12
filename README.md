@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gMyiCraskhI-ktQe72qBFhByXIhiyDYGwjp8niBwIIQacb-Qpz5sq5YsZZtpA3EQ13OJri4N-1jTtTrs">](https://music.youtube.com/watch?v=UQBwlhAm6Yk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/COFBRD6GDIkwnlWYON62L4UwGdvKjw_xAsID5YeI66lpSrM6-Az-WzfTyRFgfGnu5OsL9IWRa8DMU8nr">](https://music.youtube.com/watch?v=KWjDSRdIFgc)
 
-K/DA - POP/STARS(feat. (G)I-DLE, Madison Beer, Jaira Burns, League of Legends)
+아이유(IU) - 잼잼
 
-**Albums**: POP/STARS
+**Albums**: Palette
 
-Last updated at 02/13/2023 08:48
+Last updated at 02/13/2023 08:50
