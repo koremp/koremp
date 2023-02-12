@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WnSQNBnt0YNgDqcTA4r2xyzSeZlVHzOpT16z9-1CH6Dmxq9FPOW-WUYydaA9CpAY0NYZ6EuiWYzdQsQ">](https://music.youtube.com/watch?v=LPpZmpMMs5w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aFPI_9wY-o1Yfrvuup6E1ZQ3PNxc8qDZ7A79oTsBdWuAl5gDMT90aHe_9hsRoOu1_O3aOdOXLycOQobQHw">](https://music.youtube.com/watch?v=HKy5mg4Qj9M)
 
-웨스턴 카잇 - 심.장.박.동
+이찬혁 - 마지막 인사(feat. 청하)
 
-**Albums**: hi love
+**Albums**: ERROR
 
-Last updated at 02/12/2023 17:22
+Last updated at 02/12/2023 17:24
