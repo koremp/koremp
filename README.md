@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/m0J572dI6UeLa4L0qRXW9IQSLFNyWiA3iYMRj9P66GUIac9kwAToS2AAeGDOM0NIE-3sSXCSj9TNtjPPpw">](https://music.youtube.com/watch?v=KTaa3Pbv9c0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=0IGtEQ8Mnrg)
 
-Red Velvet - Day 1
+브로큰 발렌타인 - Standing in my way
 
-**Albums**: The Red - The 1st Album
+**Albums**: 3
 
-Last updated at 02/12/2023 17:16
+Last updated at 02/12/2023 17:20
