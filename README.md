@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=j1uXcHwLhHM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8TjDZHGcFRV1JP0Vq7BTqF-xvbwkPDcJ2D72hJMGc5oS4B4-wj7LDpggOuJuMW3d526pfNqfVdRLJtjenw">](https://music.youtube.com/watch?v=CnlMTBwsBHs)
 
-윤하 - 사건의 지평선
+Vaundy - 踊り子
 
-**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
+**Albums**: 踊り子
 
-Last updated at 02/12/2023 17:00
+Last updated at 02/12/2023 17:04
