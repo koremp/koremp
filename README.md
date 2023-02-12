@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/O54zV3IuO98KEFdas3wTYvfLGGlPPt6zqEHUmvEo8bg3osRYNLeZDNjHYbV1lo4We03fTJ0eDqUGomJu">](https://music.youtube.com/watch?v=63Wt2GFXzjY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZqadXNvqVVYKr7VZ3jzPffzyOzqk180hnyBGncu0MLnFxCEfB3VVXiY6ZRzl7j-lBgq4COKXgElfUUvFCQ">](https://music.youtube.com/watch?v=uVXu2McmpYs)
 
-권은비 - Underwater
+레드벨벳-아이린&슬기 - 놀이 Naughty
 
-**Albums**: Lethality
+**Albums**: 놀이 Naughty
 
-Last updated at 02/13/2023 08:17
+Last updated at 02/13/2023 08:19
