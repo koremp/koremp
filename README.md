@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=rByUm5TK6ao)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8GKyRvsdmOHTBt7dXWeaP1o6R8F4ly8JPSq-5IllU4TGYp8ZmuvOiH0kxgwB8XC91DLS5vRn1bcqXekN9w">](https://music.youtube.com/watch?v=H0dIa3k6YIc)
 
-브로큰 발렌타인 - 무제 (2023 Version)
+ohmadmoon 및 sucozy - Martini Haze
 
-**Albums**: 3
+**Albums**: Martini Haze
 
-Last updated at 02/10/2023 13:39
+Last updated at 02/12/2023 15:20
