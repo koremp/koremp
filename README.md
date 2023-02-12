@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/phZ4cPFxIODWhcgKNSXJytX1VkCIQmvvnX-T0O9Z8f3wSCWc3a1tSub_mER10UaTyE8gziB_9BUVQKSq">](https://music.youtube.com/watch?v=V9Wsm0hlLUI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dLEpuYur7-DpfINgWrEpVQ-hoc3Xe2rfJaLP497xKD0GiIF15b874PRF1u5OyFPuHYZwxoBZld1afgKA">](https://music.youtube.com/watch?v=BYyVDi8BpZw)
 
-LE SSERAFIM - Sour Grapes
+델리스파이스 (DELISPICE) - 고백
 
-**Albums**: FEARLESS
+**Albums**: Espresso
 
-Last updated at 02/12/2023 16:50
+Last updated at 02/12/2023 16:54
