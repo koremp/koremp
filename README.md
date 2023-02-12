@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0nU01lXGnV7H_GPNUknz2fSI4BBPh-tfD1L_1-oAVuDHjBV-PWi_PwB8z4U3r_nUZMCyA_Px-qiD8kI">](https://music.youtube.com/watch?v=Mhyi9p7T7OM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wO1e34ZIcA1kJp5IXYqt2JGE2IxrajoiHM_04M9Pgk8RqSxVBsAw1EK4DOuzb_r6NG1d8f9LHN4pcTLo">](https://music.youtube.com/watch?v=dd3tlEL9Cmg)
 
-DAY6(데이식스) - 예뻤어 You Were Beautiful
+LE SSERAFIM - Impurities
 
-**Albums**: Every DAY6 February
+**Albums**: ANTIFRAGILE
 
-Last updated at 02/12/2023 17:28
+Last updated at 02/12/2023 17:32
