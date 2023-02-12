@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rRNhGZel5py4g7sQwyOb7q6PpByniPGYF8VTDAIynbKKWiW5vQb5Eo-CxlgTlCEqEMmHcUvQypBclA">](https://music.youtube.com/watch?v=46OZn8cYXCI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2rzi4C1Wf-CJ4YQ2ycHeoSzl6_hThVCgBrtjcOykPQNDVnrNOedL2goHDt70VkKWmPWm0LrWzhXp5Z4">](https://music.youtube.com/watch?v=C0B7Az0XqdY)
 
-조유리 - Loveable
+선우정아 - 구애 Propose
 
-**Albums**: Op.22 Y-Waltz : in Minor
+**Albums**: 구애 Propose
 
-Last updated at 02/12/2023 17:36
+Last updated at 02/12/2023 17:38
