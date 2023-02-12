@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WnSQNBnt0YNgDqcTA4r2xyzSeZlVHzOpT16z9-1CH6Dmxq9FPOW-WUYydaA9CpAY0NYZ6EuiWYzdQsQ">](https://music.youtube.com/watch?v=LPpZmpMMs5w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/m0J572dI6UeLa4L0qRXW9IQSLFNyWiA3iYMRj9P66GUIac9kwAToS2AAeGDOM0NIE-3sSXCSj9TNtjPPpw">](https://music.youtube.com/watch?v=KTaa3Pbv9c0)
 
-웨스턴 카잇 - 심.장.박.동
+Red Velvet - Day 1
 
-**Albums**: hi love
+**Albums**: The Red - The 1st Album
 
-Last updated at 02/12/2023 17:12
+Last updated at 02/12/2023 17:16
