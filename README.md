@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-3lx6MQfhwZBsgYmLDx5MH5QkBIqHw5MzAOgDz7LWUQgEnrcSuAOwVijYCRYEw8JCOiz4VZQWLF8HS6">](https://music.youtube.com/watch?v=1wlTZF7CaF4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/40AyOaByJjuvOgTwFOEnYwcgyTzsCuAwm1v2RQr63HDQ-6lhx3vYXKyif82caAyGFFrXr1Bgf4gZ6QV8">](https://music.youtube.com/watch?v=EQhJVjgtdmQ)
 
-정우 - 공중댄스 Fall Dance
+정우 - 전야 Send My Love
 
-**Albums**: 여섯 번째 토요일 6th Saturday
+**Albums**: 제비다방 컴필레이션 Jebidabang Compilation 2019/2020
 
-Last updated at 02/13/2023 15:51
+Last updated at 02/13/2023 15:57
