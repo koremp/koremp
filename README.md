@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TF_z8iMBnkpY7ZImXoafoARIMwJCPYkecOm7oYDOdHmmlhF41M8sDTJB2JEBvOjoZsTTk59gy7z07pQ">](https://music.youtube.com/watch?v=hlrP9GXTx84)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZKINUFCtfMUKB4CH4wJcQyHi6-bmuHz2exRBV6SORUd96KsC1jo2nrDImg2zlLnvHgJPGBxreYVjunGycg">](https://music.youtube.com/watch?v=D8RZbI1jfQ0)
 
-NCT DREAM - 고래 Dive into You
+BLACKPINK - Lovesick Girls
 
-**Albums**: Hello Future - The 1st Album Repackage
+**Albums**: THE ALBUM
 
-Last updated at 02/13/2023 09:06
+Last updated at 02/13/2023 09:10
