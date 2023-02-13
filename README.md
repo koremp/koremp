@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=j1uXcHwLhHM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/phZ4cPFxIODWhcgKNSXJytX1VkCIQmvvnX-T0O9Z8f3wSCWc3a1tSub_mER10UaTyE8gziB_9BUVQKSq">](https://music.youtube.com/watch?v=V9Wsm0hlLUI)
 
-윤하 - 사건의 지평선
+LE SSERAFIM - Sour Grapes
 
-**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
+**Albums**: FEARLESS
 
-Last updated at 02/13/2023 09:26
+Last updated at 02/13/2023 09:32
