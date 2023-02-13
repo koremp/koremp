@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-3lx6MQfhwZBsgYmLDx5MH5QkBIqHw5MzAOgDz7LWUQgEnrcSuAOwVijYCRYEw8JCOiz4VZQWLF8HS6">](https://music.youtube.com/watch?v=XHgKAmLV9K4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vwiqw7Gcx-JgBJMp5QF8D22sXzflwsX2z7ARKrMiUpXenNDJY9PCucUJcaKXSMfSXxSBrtMlf1ETQgeO">](https://music.youtube.com/watch?v=C9hqwSZWE7M)
 
-정우 - 나에게서 당신에게 From Me To You
+정우 - 양
 
-**Albums**: 여섯 번째 토요일 6th Saturday
+**Albums**: 양｜종말
 
-Last updated at 02/13/2023 15:41
+Last updated at 02/13/2023 15:47
