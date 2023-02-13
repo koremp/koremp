@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WrpWmKjvfv8vdZGGuJqDlLDp38N1aPgsBQGz6pp89Tmcp2rknoUyhm9CFvsEhl6XlCJs41RDcbICDSWq">](https://music.youtube.com/watch?v=qcdqsnua5rg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TF_z8iMBnkpY7ZImXoafoARIMwJCPYkecOm7oYDOdHmmlhF41M8sDTJB2JEBvOjoZsTTk59gy7z07pQ">](https://music.youtube.com/watch?v=hlrP9GXTx84)
 
-이소이 - Swim&Dive
+NCT DREAM - 고래 Dive into You
 
-**Albums**: Swim&Dive
+**Albums**: Hello Future - The 1st Album Repackage
 
-Last updated at 02/13/2023 09:04
+Last updated at 02/13/2023 09:06
