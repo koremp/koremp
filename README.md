@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WnSQNBnt0YNgDqcTA4r2xyzSeZlVHzOpT16z9-1CH6Dmxq9FPOW-WUYydaA9CpAY0NYZ6EuiWYzdQsQ">](https://music.youtube.com/watch?v=LPpZmpMMs5w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Eb4F6fw9Q10ZXODpe4iFDSSn_AQgC3r19HkGT9B1FDOjxg-4vsAMUEqIrjTckWodpjMu4Wb48J1eig5J">](https://music.youtube.com/watch?v=INLFlN-PZq4)
 
-웨스턴 카잇 - 심.장.박.동
+태연 (TAEYEON) - Weekend
 
-**Albums**: hi love
+**Albums**: Weekend
 
-Last updated at 02/13/2023 09:14
+Last updated at 02/13/2023 09:16
