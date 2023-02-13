@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZKINUFCtfMUKB4CH4wJcQyHi6-bmuHz2exRBV6SORUd96KsC1jo2nrDImg2zlLnvHgJPGBxreYVjunGycg">](https://music.youtube.com/watch?v=D8RZbI1jfQ0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WnSQNBnt0YNgDqcTA4r2xyzSeZlVHzOpT16z9-1CH6Dmxq9FPOW-WUYydaA9CpAY0NYZ6EuiWYzdQsQ">](https://music.youtube.com/watch?v=LPpZmpMMs5w)
 
-BLACKPINK - Lovesick Girls
+웨스턴 카잇 - 심.장.박.동
 
-**Albums**: THE ALBUM
+**Albums**: hi love
 
-Last updated at 02/13/2023 09:10
+Last updated at 02/13/2023 09:14
