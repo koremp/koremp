@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wO1e34ZIcA1kJp5IXYqt2JGE2IxrajoiHM_04M9Pgk8RqSxVBsAw1EK4DOuzb_r6NG1d8f9LHN4pcTLo">](https://music.youtube.com/watch?v=vouaohkX-HU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=l_WfuK1BVHk)
 
-LE SSERAFIM - No Celestial
+NCT 127 - Gold Dust
 
-**Albums**: ANTIFRAGILE
+**Albums**: 2 Baddies - The 4th Album
 
-Last updated at 02/13/2023 08:56
+Last updated at 02/13/2023 09:00
