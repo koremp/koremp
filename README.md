@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Eb4F6fw9Q10ZXODpe4iFDSSn_AQgC3r19HkGT9B1FDOjxg-4vsAMUEqIrjTckWodpjMu4Wb48J1eig5J">](https://music.youtube.com/watch?v=INLFlN-PZq4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mRM2l2RuJG2z90YBzt_yiWxlfQZqvFs64xwCYiMJcm9Li01h3IJYk8977rXcqzbB6Pdhz-JJj2HQnuFZ">](https://music.youtube.com/watch?v=QrSV24rlWeM)
 
-태연 (TAEYEON) - Weekend
+Palmertrees - BOYFRIEND KILLER
 
-**Albums**: Weekend
+**Albums**: BOYFRIEND KILLER
 
-Last updated at 02/13/2023 09:16
+Last updated at 02/13/2023 09:20
