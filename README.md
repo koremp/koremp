@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-3lx6MQfhwZBsgYmLDx5MH5QkBIqHw5MzAOgDz7LWUQgEnrcSuAOwVijYCRYEw8JCOiz4VZQWLF8HS6">](https://music.youtube.com/watch?v=XHgKAmLV9K4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=0IGtEQ8Mnrg)
 
-정우 - 나에게서 당신에게 From Me To You
+브로큰 발렌타인 - Standing in my way
 
-**Albums**: 여섯 번째 토요일 6th Saturday
+**Albums**: 3
 
-Last updated at 02/13/2023 16:11
+Last updated at 02/13/2023 16:15
