@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=l_WfuK1BVHk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WrpWmKjvfv8vdZGGuJqDlLDp38N1aPgsBQGz6pp89Tmcp2rknoUyhm9CFvsEhl6XlCJs41RDcbICDSWq">](https://music.youtube.com/watch?v=qcdqsnua5rg)
 
-NCT 127 - Gold Dust
+이소이 - Swim&Dive
 
-**Albums**: 2 Baddies - The 4th Album
+**Albums**: Swim&Dive
 
-Last updated at 02/13/2023 09:00
+Last updated at 02/13/2023 09:04
