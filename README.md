@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3XLqWdd4342EZne0dOVFGttdn0EdVIIsET2f9rkeRRKOb9GBMyu99S_LMFWyUXfOGEhmaA0Vt6huCq0">](https://music.youtube.com/watch?v=ix53BZsFwZc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4OhECy6uNIzOJxUGbiln5IkrUmEqGbKMiqRaFjqLGB3LFLdaLTFGFmtVjmpYGlQKCVWZQkMgBvE2RLlkwQ">](https://music.youtube.com/watch?v=6dWwwsNNRbs)
 
-매디엑스피 - SOWON II
+JUNGWOO - Dawn
 
-**Albums**: EPOCALYPSE
+**Albums**: Dawn
 
-Last updated at 02/13/2023 10:30
+Last updated at 02/13/2023 15:33
