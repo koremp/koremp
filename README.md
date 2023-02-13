@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/40AyOaByJjuvOgTwFOEnYwcgyTzsCuAwm1v2RQr63HDQ-6lhx3vYXKyif82caAyGFFrXr1Bgf4gZ6QV8">](https://music.youtube.com/watch?v=EQhJVjgtdmQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LZGFdtZlal1Aq5NvOwVCJBW-mCh3odzGZq_73qn-7WAJXmFfvrFQV9v7qssDa1iIbro3p04TF0DhHa_C">](https://music.youtube.com/watch?v=FYOJIEerXTw)
 
-정우 - 전야 Send My Love
+정우, Yeonsuk Yoo 및 Hojoon Sohn - Feeling Only You
 
-**Albums**: 제비다방 컴필레이션 Jebidabang Compilation 2019/2020
+**Albums**: Reply 1994 Director's Cut (Original Television Series Soundtrack)
 
-Last updated at 02/13/2023 15:57
+Last updated at 02/13/2023 16:07
