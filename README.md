@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@TheBirthday)
+[<img align="left" width="100" src="">](https://www.youtube.com/@10-FEET)
 
 
   
-    The Birthday
+    10-FEET
   
   
   
-    The Birthday
+    10-FEET
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - The Birthday - LOVE ROCKETS [MV] (더 퍼스트 슬램덩크"THE FIRST SLAM DUNK" 주제곡)
+ - 10-FEET – 第ゼロ感 (『THE FIRST SLAM DUNK』 주제곡)　#더 퍼스트 슬램덩크
 
 **Albums**: Not supported
 
-Last updated at 02/16/2023 08:01
+Last updated at 02/16/2023 08:11
