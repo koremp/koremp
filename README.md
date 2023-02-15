@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=0IGtEQ8Mnrg)
+[<img align="left" width="100" src="">](https://www.youtube.com/@user-qp1wk7et7p)
 
-브로큰 발렌타인 - Standing in my way
 
-**Albums**: 3
+  
+    あいみょん
+  
+  
+  
+    あいみょん
+  
 
-Last updated at 02/13/2023 16:15
+
+
+
+  공식 아티스트 채널
+
+
+ - あいみょん - 愛を伝えたいだとか 【OFFICIAL MUSIC VIDEO】
+
+**Albums**: Not supported
+
+Last updated at 02/15/2023 12:44
