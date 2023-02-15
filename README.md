@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@thevolunteers)
+[<img align="left" width="100" src="">](https://www.youtube.com/@nbuna)
 
 
   
-    The Volunteers
+    ヨルシカ / n-buna Official
   
   
   
-    The Volunteers
+    ヨルシカ / n-buna Official
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Radio - The volunteers
+ - 요루시카 - 말해줘.(Music Video)
 
 **Albums**: Not supported
 
-Last updated at 02/16/2023 08:15
+Last updated at 02/16/2023 08:23
