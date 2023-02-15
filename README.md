@@ -122,7 +122,7 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCD_570ahG8lya6c4ncI5X9Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/@TheBirthday)
 
 
   
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - LOVE ROCKETS
+ - The Birthday - LOVE ROCKETS [MV] (더 퍼스트 슬램덩크"THE FIRST SLAM DUNK" 주제곡)
 
 **Albums**: Not supported
 
-Last updated at 02/15/2023 12:48
+Last updated at 02/16/2023 08:01
