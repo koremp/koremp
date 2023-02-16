@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@nbuna)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=GpLM6eLLnN4)
 
+tripleS (트리플에스) - Generation
 
-  
-    ヨルシカ / n-buna Official
-  
-  
-  
-    ヨルシカ / n-buna Official
-  
+**Albums**: Acid Angel from Asia <ACCESS>
 
-
-
-
-  공식 아티스트 채널
-
-
- - 요루시카 - 말해줘.(Music Video)
-
-**Albums**: Not supported
-
-Last updated at 02/16/2023 08:23
+Last updated at 02/16/2023 12:40
