@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mG2Sdsfbw-ItAkoZs2gYd9M43LBzMvbaGhhDOyt-PPfUpdZW8CHE14XA7C1zxQtM6xQycIDolN8ym60">](https://music.youtube.com/watch?v=CpQsz4LkGQI)
+[<img align="left" width="100" src="">](https://www.youtube.com/@TheBirthday)
 
-브로큰 발렌타인 - Not yours (2023 Version)
 
-**Albums**: 3
+  
+    The Birthday
+  
+  
+  
+    The Birthday
+  
 
-Last updated at 02/16/2023 12:57
+
+
+
+  공식 아티스트 채널
+
+
+ - The Birthday - LOVE ROCKETS [MV] (더 퍼스트 슬램덩크"THE FIRST SLAM DUNK" 주제곡)
+
+**Albums**: Not supported
+
+Last updated at 02/18/2023 10:33
