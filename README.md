@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCa5b_7ImijW-GNEt4hNUzWg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UChT-gK2vEdLZcVu6Z1nXcIA)
 
 
   
-    Yerin Baek
+    Nothing But Thieves
   
   
   
-    Yerin Baek
+    Nothing But Thieves
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Big world
+ - Particles (Piano Version)
 
 **Albums**: Not supported
 
-Last updated at 02/23/2023 17:12
+Last updated at 02/23/2023 17:18
