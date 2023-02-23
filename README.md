@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/U7k2oSmy45dhhj8ACdsUr1hQAvoY1IcOlHI_ZwU2rckJte1UEcTyrBUPUGr6Q-HT9-zeY0BwJ05xlOOJ">](https://music.youtube.com/watch?v=zFYEYRcjK2g)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCa5b_7ImijW-GNEt4hNUzWg)
 
-Radiohead - Creep
 
-**Albums**: Pablo Honey
+  
+    Yerin Baek
+  
+  
+  
+    Yerin Baek
+  
 
-Last updated at 02/22/2023 15:56
+
+
+
+  공식 아티스트 채널
+
+
+ - Fuckin' New Year
+
+**Albums**: Not supported
+
+Last updated at 02/23/2023 17:08
