@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCwiHPGVc8ysb9mhOw9HjcTA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCK49WVAaBRnVci8fmM4NiLQ)
 
 
   
-    조유리 JO YURI
+    yeahyeahyeahsmusic
   
   
   
-    조유리 JO YURI
+    yeahyeahyeahsmusic
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Loveable
+ - Heads Will Roll (A-Trak Remix)
 
 **Albums**: Not supported
 
-Last updated at 02/23/2023 17:22
+Last updated at 02/23/2023 17:24
