@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/odA6_qeJ9p6lVUyLsd7lSU-CHjB3ND8ni0laJkSUPvQylbJeXNF_2S_Gv9epMiuvIjoe3GS0xjUEsU39">](https://music.youtube.com/watch?v=zspA0I7xme4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/66EpHGyem-ugtKnE26KSrvSaRzjXtVo67TOODAdvPCt10MlHGww0T6N8WxrxOS4xZbaNpjWW8mXDwS2A">](https://music.youtube.com/watch?v=7HYWDkypgyA)
 
-GOT the beat - Step Back
+DAY6 - You make Me
 
-**Albums**: Step Back
+**Albums**: The Book of Us: Negentropy - Chaos swallowed up in love
 
-Last updated at 02/26/2023 16:15
+Last updated at 02/26/2023 16:19
