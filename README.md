@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/66EpHGyem-ugtKnE26KSrvSaRzjXtVo67TOODAdvPCt10MlHGww0T6N8WxrxOS4xZbaNpjWW8mXDwS2A">](https://music.youtube.com/watch?v=7HYWDkypgyA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8J2SExQcgcK6emYZzhCFrsLght5KDsHpIKuVhBHIR7cKKCBqOXeGjmBq6zM5AIPlkNlpOIGyvgid-uo">](https://music.youtube.com/watch?v=OmEPFmyKO74)
 
-DAY6 - You make Me
+iKON - LOVE SCENARIO (사랑을 했다)
 
-**Albums**: The Book of Us: Negentropy - Chaos swallowed up in love
+**Albums**: Return
 
-Last updated at 02/26/2023 16:19
+Last updated at 02/26/2023 16:23
