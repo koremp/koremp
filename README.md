@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qT5NtfEJvHhPKL0Cp3ef3LaosF0Pn19NJZZoLmg73R3_qpMXl3d2dkJq9g5FYMyEMK2o4P3qomcWJDl0">](https://music.youtube.com/watch?v=2XMnkRsW1Gs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jx9UXUQ3Df_sn0lKCFxCeWicGHGXj1tJkTBMyot0j_n3UlTyaWJjbKHL17oB4n7T5BlmxgQl3oGfnXI-">](https://music.youtube.com/watch?v=Oy60afte5vM)
 
-NCT 127 - Ay-Yo
+NCT 127 - TOUCH
 
-**Albums**: Ay-Yo - The 4th Album Repackage
+**Albums**: NCT 2018 EMPATHY
 
-Last updated at 02/26/2023 15:59
+Last updated at 02/26/2023 16:01
