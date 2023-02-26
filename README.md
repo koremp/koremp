@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GvH5XosavVVtAhcsxClhWtnXdp1IitLGsfAP_2pAWLBVC6DJQNe3UIHbf74qLvOz-_zLXzW-MUkC4PSv">](https://music.youtube.com/watch?v=PyyT5tHbOLw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xC-wO6mYHANzTmaRAmFHrkqo2bXLkq6MFUXZ83IBxdClQL8dXNiVDwjcvJIN9fP8XiEaepJR_GOfEh5v">](https://music.youtube.com/watch?v=xRAoISJGVwM)
 
-Red Velvet - Psycho
+NCT U - 일곱 번째 감각 The 7th Sense (Sung by TAEYONG, MARK, JAEHYUN, DOYOUNG, TEN)
 
-**Albums**: The ReVe Festival: Finale
+**Albums**: 일곱 번째 감각 The 7th Sense
 
-Last updated at 02/26/2023 16:31
+Last updated at 02/26/2023 16:35
