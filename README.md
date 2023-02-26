@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MOL4_Ula9hocErkX2xK_7mISFiWvQz51vReT14KCHF9wsqCEH6sO8iilFFelWMn7JOYIk2WFa-gMmw2uvw">](https://music.youtube.com/watch?v=BL-aIpCLWnU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1zJQeKEbH6zGFD_SnFiiMBrWvDNaCx_tNbH4AbgyjtKffdrd-sAHqyaMHmj1WTApvKyFupA5mJ192u_T">](https://music.youtube.com/watch?v=jPe0bX_GtBo)
 
-aespa - Black Mamba
+Lil Nas X 및 Jack Harlow - INDUSTRY BABY
 
-**Albums**: Black Mamba
+**Albums**: INDUSTRY BABY
 
-Last updated at 02/26/2023 12:25
+Last updated at 02/26/2023 12:27
