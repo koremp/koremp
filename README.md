@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/C5m5SYqUm1EW-AZT7TP8VUAXkJzbBNOcyiF_9ddvFTfcsU9Epx8FOjbKPk4pXev3LBpwJy006rtPent4">](https://music.youtube.com/watch?v=-uOShlFu1v8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=0M4QMVQJRsw)
 
-ITZY - SNEAKERS
+NewJeans - Cookie
 
-**Albums**: CHECKMATE
+**Albums**: NewJeans 1st EP 'New Jeans'
 
-Last updated at 02/26/2023 12:31
+Last updated at 02/26/2023 12:33
