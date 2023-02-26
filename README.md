@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1zJQeKEbH6zGFD_SnFiiMBrWvDNaCx_tNbH4AbgyjtKffdrd-sAHqyaMHmj1WTApvKyFupA5mJ192u_T">](https://music.youtube.com/watch?v=jPe0bX_GtBo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/C5m5SYqUm1EW-AZT7TP8VUAXkJzbBNOcyiF_9ddvFTfcsU9Epx8FOjbKPk4pXev3LBpwJy006rtPent4">](https://music.youtube.com/watch?v=-uOShlFu1v8)
 
-Lil Nas X 및 Jack Harlow - INDUSTRY BABY
+ITZY - SNEAKERS
 
-**Albums**: INDUSTRY BABY
+**Albums**: CHECKMATE
 
-Last updated at 02/26/2023 12:27
+Last updated at 02/26/2023 12:31
