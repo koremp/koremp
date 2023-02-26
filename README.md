@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCK49WVAaBRnVci8fmM4NiLQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qT5NtfEJvHhPKL0Cp3ef3LaosF0Pn19NJZZoLmg73R3_qpMXl3d2dkJq9g5FYMyEMK2o4P3qomcWJDl0">](https://music.youtube.com/watch?v=2XMnkRsW1Gs)
 
+NCT 127 - Ay-Yo
 
-  
-    yeahyeahyeahsmusic
-  
-  
-  
-    yeahyeahyeahsmusic
-  
+**Albums**: Ay-Yo - The 4th Album Repackage
 
-
-
-
-  공식 아티스트 채널
-
-
- - Heads Will Roll (A-Trak Remix)
-
-**Albums**: Not supported
-
-Last updated at 02/23/2023 17:24
+Last updated at 02/26/2023 12:11
