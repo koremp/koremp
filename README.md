@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jz6HoguffP1-iy1sRM-d5IoNYozgAXnx0gbYLVZmkIYk_eM3YqSwg7RmEg914T_DqTzwXAS_-QIBTdBM">](https://music.youtube.com/watch?v=w6ZaxNKzwac)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IbpKtQHQ8ucwgnXnzc2XCpnbocKHPjXvd2bzrZ6AEX9hSKiGtRqDyR8-t2ilVyTM7EDMzY8kYqF9rUkj">](https://music.youtube.com/watch?v=p6CBcMhZjNw)
 
-효린 - Dally(feat. 그레이)
+NCT 127 - Regular (English Version)
 
-**Albums**: SAY MY NAME
+**Albums**: NCT #127 Regulate - The 1st Album Repackage
 
-Last updated at 02/26/2023 12:41
+Last updated at 02/26/2023 12:43
