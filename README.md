@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3LV6GoLom0Vb_oNFTXI_e2NIua0D-WocCifEFnSQattWpLfswpayWPzZ2BeClAB5QxR2EnGZkgh7QI7j">](https://music.youtube.com/watch?v=XZ868t23Pb4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jz6HoguffP1-iy1sRM-d5IoNYozgAXnx0gbYLVZmkIYk_eM3YqSwg7RmEg914T_DqTzwXAS_-QIBTdBM">](https://music.youtube.com/watch?v=w6ZaxNKzwac)
 
-Ariana Grande(아리아나 그란데) - 7 rings
+효린 - Dally(feat. 그레이)
 
-**Albums**: thank u, next
+**Albums**: SAY MY NAME
 
-Last updated at 02/26/2023 12:37
+Last updated at 02/26/2023 12:41
