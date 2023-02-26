@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/z9CRcjqBFHC_GY3p9pAfuTd1BuG-02DsmpcHm5CoyV_WFVnK0rcuYHdPSW-zjo_WlKiZv_vByOT-X0yOqQ">](https://music.youtube.com/watch?v=miqQAzOXPBo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/W5eFbCfnH3dQpjEskQe4gSW_7MaKD_jvqLcmvRKcRR8BYKU4EwLoGyLJDhVzR89LIxkzV7xSOxvZYQ_zSQ">](https://music.youtube.com/watch?v=VG4lpTHuytc)
 
-ITZY - 달라달라 DALLA DALLA
+Stray Kids - MANIAC
 
-**Albums**: IT'z Different
+**Albums**: ODDINARY
 
-Last updated at 02/26/2023 16:05
+Last updated at 02/26/2023 16:09
