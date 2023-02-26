@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xC-wO6mYHANzTmaRAmFHrkqo2bXLkq6MFUXZ83IBxdClQL8dXNiVDwjcvJIN9fP8XiEaepJR_GOfEh5v">](https://music.youtube.com/watch?v=xRAoISJGVwM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RNsC4IIArffVIpusLyonzKv_ijRbLmZYXkrQtKNrtLomjWr_sGnvPoDRoNSSDzq9F_ax-TOFmxuYS6hMRg">](https://music.youtube.com/watch?v=ricvj03PHSU)
 
-NCT U - 일곱 번째 감각 The 7th Sense (Sung by TAEYONG, MARK, JAEHYUN, DOYOUNG, TEN)
+The Weeknd (위켄드) - Can't Feel My Face
 
-**Albums**: 일곱 번째 감각 The 7th Sense
+**Albums**: Beauty Behind The Madness
 
-Last updated at 02/26/2023 16:35
+Last updated at 02/26/2023 16:39
