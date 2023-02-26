@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5QfmugFI_-0JV0y1va_7qFUKvojcnPerN9enurxp3WOyfivXZ04K20cXrT06qoP67LMivb_Np7vB7yT6">](https://music.youtube.com/watch?v=s3CjsNjiKyc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GriPb4nuy0ykhBVO0s1K0aYQBrbosi_ML1F0HYOCrHouOFTpUIm1zijUz7cZVNoVfd_XPWm_DEEhGVk">](https://music.youtube.com/watch?v=950BdJKBhGo)
 
-세븐틴(SEVENTEEN) - 아주 NICE
+BLACKPINK - Shut Down
 
-**Albums**: Love & Letter (Repackage)
+**Albums**: BORN PINK
 
-Last updated at 02/26/2023 16:25
+Last updated at 02/26/2023 16:29
