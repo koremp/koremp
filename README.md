@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GriPb4nuy0ykhBVO0s1K0aYQBrbosi_ML1F0HYOCrHouOFTpUIm1zijUz7cZVNoVfd_XPWm_DEEhGVk">](https://music.youtube.com/watch?v=950BdJKBhGo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GvH5XosavVVtAhcsxClhWtnXdp1IitLGsfAP_2pAWLBVC6DJQNe3UIHbf74qLvOz-_zLXzW-MUkC4PSv">](https://music.youtube.com/watch?v=PyyT5tHbOLw)
 
-BLACKPINK - Shut Down
+Red Velvet - Psycho
 
-**Albums**: BORN PINK
+**Albums**: The ReVe Festival: Finale
 
-Last updated at 02/26/2023 16:29
+Last updated at 02/26/2023 16:31
