@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gRk1Vvr_npypqKGddf-Bm5F0nOhPQ3TCbwlZCAIpcURsKyQUyyf7dEJvAF9rP1AXD9oWH6FD5U3dzItD2w">](https://music.youtube.com/watch?v=iaPw_t_t-2k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jFaQSwiqG6yIWfOuscZTJsDZSe_mNsHCjHcoXU9MH9hZogX953RTOK8KeilxStWjYti9LZpl__ymOft4">](https://music.youtube.com/watch?v=4YSHPGn9-LM)
 
-NCT 127 - Day Dream (白日夢)
+LISA - MONEY
 
-**Albums**: Neo Zone - The 2nd Album
+**Albums**: LALISA
 
-Last updated at 02/26/2023 12:17
+Last updated at 02/26/2023 12:19
