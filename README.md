@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=0M4QMVQJRsw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3LV6GoLom0Vb_oNFTXI_e2NIua0D-WocCifEFnSQattWpLfswpayWPzZ2BeClAB5QxR2EnGZkgh7QI7j">](https://music.youtube.com/watch?v=XZ868t23Pb4)
 
-NewJeans - Cookie
+Ariana Grande(아리아나 그란데) - 7 rings
 
-**Albums**: NewJeans 1st EP 'New Jeans'
+**Albums**: thank u, next
 
-Last updated at 02/26/2023 12:33
+Last updated at 02/26/2023 12:37
