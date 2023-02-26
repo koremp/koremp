@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IbpKtQHQ8ucwgnXnzc2XCpnbocKHPjXvd2bzrZ6AEX9hSKiGtRqDyR8-t2ilVyTM7EDMzY8kYqF9rUkj">](https://music.youtube.com/watch?v=p6CBcMhZjNw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eCIta9QeIjzJIl-oxOLZwV_t6OAFQOsLG76j6ylubepq7mFcsmrmyl7hD5gcl5n8CV72hzYqvXV9N5yw">](https://music.youtube.com/watch?v=aHR8zak8Xsc)
 
-NCT 127 - Regular (English Version)
+STAYC(스테이씨) - ASAP
 
-**Albums**: NCT #127 Regulate - The 1st Album Repackage
+**Albums**: STAYDOM
 
-Last updated at 02/26/2023 12:43
+Last updated at 02/26/2023 12:47
