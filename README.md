@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eCIta9QeIjzJIl-oxOLZwV_t6OAFQOsLG76j6ylubepq7mFcsmrmyl7hD5gcl5n8CV72hzYqvXV9N5yw">](https://music.youtube.com/watch?v=aHR8zak8Xsc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jFaQSwiqG6yIWfOuscZTJsDZSe_mNsHCjHcoXU9MH9hZogX953RTOK8KeilxStWjYti9LZpl__ymOft4">](https://music.youtube.com/watch?v=4YSHPGn9-LM)
 
-STAYC(스테이씨) - ASAP
+LISA - MONEY
 
-**Albums**: STAYDOM
+**Albums**: LALISA
 
-Last updated at 02/26/2023 12:47
+Last updated at 02/26/2023 13:06
