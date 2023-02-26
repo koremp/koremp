@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8J2SExQcgcK6emYZzhCFrsLght5KDsHpIKuVhBHIR7cKKCBqOXeGjmBq6zM5AIPlkNlpOIGyvgid-uo">](https://music.youtube.com/watch?v=OmEPFmyKO74)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5QfmugFI_-0JV0y1va_7qFUKvojcnPerN9enurxp3WOyfivXZ04K20cXrT06qoP67LMivb_Np7vB7yT6">](https://music.youtube.com/watch?v=s3CjsNjiKyc)
 
-iKON - LOVE SCENARIO (사랑을 했다)
+세븐틴(SEVENTEEN) - 아주 NICE
 
-**Albums**: Return
+**Albums**: Love & Letter (Repackage)
 
-Last updated at 02/26/2023 16:23
+Last updated at 02/26/2023 16:25
