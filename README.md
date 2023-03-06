@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RNsC4IIArffVIpusLyonzKv_ijRbLmZYXkrQtKNrtLomjWr_sGnvPoDRoNSSDzq9F_ax-TOFmxuYS6hMRg">](https://music.youtube.com/watch?v=ricvj03PHSU)
+[<img align="left" width="100" src="">](https://www.youtube.com/@cleanbandit)
 
-The Weeknd (위켄드) - Can't Feel My Face
 
-**Albums**: Beauty Behind The Madness
+  
+    Clean Bandit
+  
+  
+  
+    Clean Bandit
+  
 
-Last updated at 02/26/2023 16:39
+
+
+
+  공식 아티스트 채널
+
+
+ - Clean Bandit - Symphony (feat. Zara Larsson) [Official Video]
+
+**Albums**: Not supported
+
+Last updated at 03/06/2023 18:15
