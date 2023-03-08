@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bDVOniHmkfmQOQdZealt35U_klYGiT2XXWeIn_0Tml9w5keEPGQta6NGQ1IIn3yuXGCePASMsNWxoYap">](https://music.youtube.com/watch?v=0BA4-B4YBps)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bDVOniHmkfmQOQdZealt35U_klYGiT2XXWeIn_0Tml9w5keEPGQta6NGQ1IIn3yuXGCePASMsNWxoYap">](https://music.youtube.com/watch?v=uokqiHIpqxk)
 
-DC The Don - Live From The Gutta!
+DC The Don - Diamonds & Rubies
 
 **Albums**: My Own Worst Enemy
 
-Last updated at 03/08/2023 15:58
+Last updated at 03/08/2023 16:06
