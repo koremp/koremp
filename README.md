@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bDVOniHmkfmQOQdZealt35U_klYGiT2XXWeIn_0Tml9w5keEPGQta6NGQ1IIn3yuXGCePASMsNWxoYap">](https://music.youtube.com/watch?v=uokqiHIpqxk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/watch?v=W3d9cNkF4bA)
 
-DC The Don - Diamonds & Rubies
+Harry Styles(해리 스타일스) - Lights Up
 
-**Albums**: My Own Worst Enemy
+**Albums**: Fine Line
 
-Last updated at 03/08/2023 16:06
+Last updated at 03/08/2023 16:50
