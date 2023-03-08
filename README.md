@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-xCiJRwI232ReBygJxzyLqsQNK8uYIsom8Ke0dfnWdGxpTRJy_sVsZVSSGnNPOsYVgVxTOYkttCzEwGBfA">](https://music.youtube.com/watch?v=tbdpv7G_PPg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jPvk6BJJ7TaKiAX7nhLUaIbcBOLMZjWCnXy3Mm0YkBnY27c-4V5YcilK1CSV4TLZtSDeCYMaLlhbhGk">](https://music.youtube.com/watch?v=oGD7y2PnSY0)
 
-Pink Floyd - Have a Cigar
+베를린 필하모니 관현악단 및 로린 마젤 - Rachmaninov: Symphony No.2 in E Minor, Op.27 - 1. Largo - Allegro moderato
 
-**Albums**: Wish You Were Here
+**Albums**: Rachmaninov: 3 Symphonies
 
-Last updated at 03/08/2023 17:04
+Last updated at 03/08/2023 17:12
