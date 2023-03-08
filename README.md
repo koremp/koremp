@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@cleanbandit)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bDVOniHmkfmQOQdZealt35U_klYGiT2XXWeIn_0Tml9w5keEPGQta6NGQ1IIn3yuXGCePASMsNWxoYap">](https://music.youtube.com/watch?v=0BA4-B4YBps)
 
+DC The Don - Live From The Gutta!
 
-  
-    Clean Bandit
-  
-  
-  
-    Clean Bandit
-  
+**Albums**: My Own Worst Enemy
 
-
-
-
-  공식 아티스트 채널
-
-
- - Clean Bandit - Symphony (feat. Zara Larsson) [Official Video]
-
-**Albums**: Not supported
-
-Last updated at 03/06/2023 18:15
+Last updated at 03/08/2023 15:58
