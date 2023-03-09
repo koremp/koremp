@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCTsmtown)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCuKdaTsJ9Jv94hVV_I9aRxQ)
 
 
   
-    NCT
+    NCT DREAM
   
   
   
-    NCT
+    NCT DREAM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - NCT U 엔시티 유 '90's Love' Dance Practice
+ - 무대로 Déjà Vu; 舞代路
 
 **Albums**: Not supported
 
-Last updated at 03/09/2023 14:38
+Last updated at 03/09/2023 15:36
