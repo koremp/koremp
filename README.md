@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jPvk6BJJ7TaKiAX7nhLUaIbcBOLMZjWCnXy3Mm0YkBnY27c-4V5YcilK1CSV4TLZtSDeCYMaLlhbhGk">](https://music.youtube.com/watch?v=JATZZZFiTWQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCTsmtown)
 
-베를린 필하모니 관현악단 및 로린 마젤 - Rachmaninov: Symphony No.2 in E minor, Op.27 - 2. Allegro molto
 
-**Albums**: Rachmaninov: 3 Symphonies
+  
+    NCT
+  
+  
+  
+    NCT
+  
 
-Last updated at 03/08/2023 17:30
+
+
+
+  공식 아티스트 채널
+
+
+ - NCT U 엔시티 유 '90's Love' Dance Practice
+
+**Albums**: Not supported
+
+Last updated at 03/09/2023 14:38
