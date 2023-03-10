@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCCzULu3prrEaPvM2ZtkJlYQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/@EarthWindandFireVEVO)
 
 
   
-    Fleetwood Mac
+    Earth Wind & Fire
   
   
   
-    Fleetwood Mac
+    Earth Wind & Fire
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - The Chain (2004 Remaster)
+ - Earth, Wind & Fire - That's the Way of the World (Official Audio)
 
 **Albums**: Not supported
 
-Last updated at 03/10/2023 15:53
+Last updated at 03/10/2023 15:59
