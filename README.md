@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@EarthWindandFireVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/@redhearsevevo3115)
 
 
   
-    Earth Wind & Fire
+    Red Hearse
   
   
   
-    Earth Wind & Fire
+    Red Hearse
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Earth, Wind & Fire - That's the Way of the World (Official Audio)
+ - Red Hearse - Red Hearse (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 03/10/2023 15:59
+Last updated at 03/10/2023 16:11
