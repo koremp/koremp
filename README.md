@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@niteshift)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEzdgmyecdeMyZLnxPRrA4g)
 
 
   
-    Absofacto Presents: NITESHIFT
+    The Hoosiers
   
   
   
-    Absofacto Presents: NITESHIFT
+    The Hoosiers
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - DISSOLVE (by Absofacto) | NITESHIFT
+ - Killer
 
 **Albums**: Not supported
 
-Last updated at 03/10/2023 16:23
+Last updated at 03/10/2023 16:27
