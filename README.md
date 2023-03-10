@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Gorillaz - Rockit (Official Video)
+ - Gorillaz - We Got The Power (Official Audio)
 
 **Albums**: Not supported
 
-Last updated at 03/10/2023 16:13
+Last updated at 03/10/2023 16:17
