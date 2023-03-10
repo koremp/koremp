@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCuKdaTsJ9Jv94hVV_I9aRxQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCKVGAKHaccQDimoPBOrC8uA)
 
 
   
-    NCT DREAM
+    King Princess
   
   
   
-    NCT DREAM
+    King Princess
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 내게 말해줘 7 Days
+ - 1950
 
 **Albums**: Not supported
 
-Last updated at 03/09/2023 15:58
+Last updated at 03/10/2023 15:27
