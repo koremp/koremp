@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCKVGAKHaccQDimoPBOrC8uA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC25j4DwEaTkGHCUpQo2mZPQ)
 
 
   
-    King Princess
+    Crosby, Stills and Nash
   
   
   
-    King Princess
+    Crosby, Stills and Nash
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 1950
+ - Ohio
 
 **Albums**: Not supported
 
-Last updated at 03/10/2023 15:27
+Last updated at 03/10/2023 15:39
