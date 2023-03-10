@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC25j4DwEaTkGHCUpQo2mZPQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCNIV5B_aJnLrKDSnW_MOmcQ)
 
 
   
-    Crosby, Stills and Nash
+    Gorillaz
   
   
   
-    Crosby, Stills and Nash
+    Gorillaz
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Ohio
+ - Tarantula
 
 **Albums**: Not supported
 
-Last updated at 03/10/2023 15:39
+Last updated at 03/10/2023 15:41
