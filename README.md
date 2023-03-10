@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@ChristianKuria)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCCzULu3prrEaPvM2ZtkJlYQ)
 
 
   
-    Christian Kuria
+    Fleetwood Mac
   
   
   
-    Christian Kuria
+    Fleetwood Mac
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Christian Kuria - Deep Green (Lyric Video)
+ - The Chain (2004 Remaster)
 
 **Albums**: Not supported
 
-Last updated at 03/10/2023 15:45
+Last updated at 03/10/2023 15:53
