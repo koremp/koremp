@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@Gorillaz)
+[<img align="left" width="100" src="">](https://www.youtube.com/@rolemodelvevo2421)
 
 
   
-    Gorillaz
+    ROLE MODEL
   
   
   
-    Gorillaz
+    ROLE MODEL
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Gorillaz - We Got The Power (Official Audio)
+ - ROLE MODEL - hello!
 
 **Albums**: Not supported
 
-Last updated at 03/10/2023 16:17
+Last updated at 03/10/2023 16:19
