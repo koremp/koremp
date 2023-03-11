@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCuKdaTsJ9Jv94hVV_I9aRxQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mk9HENqymTxF9M7aByp_d_Apa9TJGykwGUiXaAO_SvA2fc7uV4su85VroEv2667TEsmEMLvrzNm7kxiJKA">](https://music.youtube.com/watch?v=t0Dizy9PHvc)
 
+St. Mark's Philharmonic Orchestra - The 4 Seasons, Op. 8/2, RV 315, "Summer"
 
-  
-    NCT DREAM
-  
-  
-  
-    NCT DREAM
-  
+**Albums**: Vivaldi: All Time Greatest Moments
 
-
-
-
-  공식 아티스트 채널
-
-
- - 무대로 Déjà Vu; 舞代路
-
-**Albums**: Not supported
-
-Last updated at 03/11/2023 12:21
+Last updated at 03/11/2023 14:48
