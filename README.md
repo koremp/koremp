@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EN6MppEhywxNeUjcI_39OJWyrGZzlfh0I6b-cmvRb3oJ_ZxeLqhjPwc7_z0AD6Zj9lsBREUoB7DnDhYO">](https://music.youtube.com/watch?v=tiFpz-FxSJg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZFznpMZLd-XN0vM608ZaLtlkS-hj-mUzOVROn48NeinGJBGjDHewaSirt5M9t7xHXazjtI0mNkeXNOYx">](https://music.youtube.com/watch?v=Ryn5oAQppro)
 
-Yerin Baek - Bye bye my blue
+윤지영 - 죄책감이
 
-**Albums**: Bye bye my blue
+**Albums**: Blue bird
 
-Last updated at 03/13/2023 14:49
+Last updated at 03/13/2023 14:53
