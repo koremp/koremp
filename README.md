@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Id5QFKlSAR7W_zvdZpyxYff61ChmXzhlRNNpmLegi5Z8JUB2YfpZIkny_1DAfCZzhv3-Pvi-1sx82zK63A">](https://music.youtube.com/watch?v=R3VghWzVulg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LSlQ566qdtka2psFTODyboq0Y9NJdJaYn7WT5RV1ZG9hygV4sg3cwEdwYQy0a98xn6TgcGtRg5bG3Zs">](https://music.youtube.com/watch?v=B8sTvdEcfOg)
 
-선우정아 - black coffee(feat. 우원재)
+Mandy Harvey - I Wont Cry
 
-**Albums**: Studio X {1. Phase}
+**Albums**: After You've Gone
 
-Last updated at 03/13/2023 15:01
+Last updated at 03/13/2023 15:05
