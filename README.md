@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AUSr3Elb1NyFNzmDpvOj4B1JDPoYja-ntvZCJQ8L6I2mYhlgoMoGWJR-bHENLEohn3S3n0uhiNKW33M">](https://music.youtube.com/watch?v=vyuQAgDBKM4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EN6MppEhywxNeUjcI_39OJWyrGZzlfh0I6b-cmvRb3oJ_ZxeLqhjPwc7_z0AD6Zj9lsBREUoB7DnDhYO">](https://music.youtube.com/watch?v=tiFpz-FxSJg)
 
-WENDY - Like Water
+Yerin Baek - Bye bye my blue
 
-**Albums**: Like Water
+**Albums**: Bye bye my blue
 
-Last updated at 03/13/2023 14:45
+Last updated at 03/13/2023 14:49
