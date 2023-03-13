@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3HCevhtSYA3wvfCCbl7e_XzmshCsjM9acf5yRicwVBXqvpPnHN9Jy506pJgYRknpc0SniEK3P8p1-HCE">](https://music.youtube.com/watch?v=Hrak07v2mOo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iJcSjH7UuZW7w62ipcszA-A57_ZFZR7ffbOqkonMYubVzdUz0R5WpsYvEvRKvL00eoKLNeFHV1Fw5wc0">](https://music.youtube.com/watch?v=K3Fzp-nYYfg)
 
-핫펠트 - Life Sucks
+자우림 - 있지
 
-**Albums**: 1719
+**Albums**: 자우림
 
-Last updated at 03/13/2023 14:39
+Last updated at 03/13/2023 14:41
