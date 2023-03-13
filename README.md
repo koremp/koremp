@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iJcSjH7UuZW7w62ipcszA-A57_ZFZR7ffbOqkonMYubVzdUz0R5WpsYvEvRKvL00eoKLNeFHV1Fw5wc0">](https://music.youtube.com/watch?v=K3Fzp-nYYfg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AUSr3Elb1NyFNzmDpvOj4B1JDPoYja-ntvZCJQ8L6I2mYhlgoMoGWJR-bHENLEohn3S3n0uhiNKW33M">](https://music.youtube.com/watch?v=vyuQAgDBKM4)
 
-자우림 - 있지
+WENDY - Like Water
 
-**Albums**: 자우림
+**Albums**: Like Water
 
-Last updated at 03/13/2023 14:41
+Last updated at 03/13/2023 14:45
