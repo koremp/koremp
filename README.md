@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZFznpMZLd-XN0vM608ZaLtlkS-hj-mUzOVROn48NeinGJBGjDHewaSirt5M9t7xHXazjtI0mNkeXNOYx">](https://music.youtube.com/watch?v=Ryn5oAQppro)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pMy0SlsGWRxRNC0PTswgO7Zve2uADMUfCKYBzvIuhwLQMrEdwTPccCoIpppPrE-tGYy6ucBv8wxvGLa-">](https://music.youtube.com/watch?v=CJdxJkTmc5Y)
 
-윤지영 - 죄책감이
+스텔라장 - 미세먼지
 
-**Albums**: Blue bird
+**Albums**: 유해물질
 
-Last updated at 03/13/2023 14:53
+Last updated at 03/13/2023 14:57
