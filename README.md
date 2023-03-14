@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ldn2zd7THwOFCPWJkEc1IM7mL1HcaR6IEF9oUHc90VvkJYu7CHIsRpLg2ajQugWCB_hmsDcXMS4N4XMU">](https://music.youtube.com/watch?v=aBKEt3MhNMM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lOCrTkPE01ZHxrOJXSPpcz_SDfpmwsxfBRKUFUne_aTNOeIF1b7hZFVlIefmOOaXgaHkBzwL86Ul8PgS">](https://music.youtube.com/watch?v=VpkJ47NB3Nw)
 
-David Bowie - Starman
+Electric Light Orchestra - Turn to Stone (2012 Version)
 
-**Albums**: The Rise and Fall of Ziggy Stardust and the Spiders from Mars
+**Albums**: Mr. Blue Sky: The Very Best of Electric Light Orchestra
 
-Last updated at 03/14/2023 13:27
+Last updated at 03/14/2023 13:31
