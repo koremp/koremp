@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8FN64nTMFsj9HJIihIwL8KEmZzHVjrThxyZ9dSyvnvHvJT3bpe4UbJS6Alw54DJEhXsx5a1VXIRFO3Y">](https://music.youtube.com/watch?v=fixo3HjMryo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ldn2zd7THwOFCPWJkEc1IM7mL1HcaR6IEF9oUHc90VvkJYu7CHIsRpLg2ajQugWCB_hmsDcXMS4N4XMU">](https://music.youtube.com/watch?v=aBKEt3MhNMM)
 
-Jukebox the Ghost - Victoria
+David Bowie - Starman
 
-**Albums**: Let Live & Let Ghosts
+**Albums**: The Rise and Fall of Ziggy Stardust and the Spiders from Mars
 
-Last updated at 03/14/2023 13:23
+Last updated at 03/14/2023 13:27
