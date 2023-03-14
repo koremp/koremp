@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lOCrTkPE01ZHxrOJXSPpcz_SDfpmwsxfBRKUFUne_aTNOeIF1b7hZFVlIefmOOaXgaHkBzwL86Ul8PgS">](https://music.youtube.com/watch?v=VpkJ47NB3Nw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YFGIUuuXUoN3hIW0CY-5c0-eBgTVma0NafBUpOYM6G_JtPQpD9DHyveqpwyNHoIdRuWg2GR78bO-yJ8">](https://music.youtube.com/watch?v=E1-G4zyIAs8)
 
-Electric Light Orchestra - Turn to Stone (2012 Version)
+Paul McCartney - Coming Up
 
-**Albums**: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+**Albums**: McCartney II (Archive Edition)
 
-Last updated at 03/14/2023 13:31
+Last updated at 03/14/2023 13:35
