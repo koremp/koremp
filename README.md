@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-E1oxpuDW_SZjJiuUnpNtvtILLFiff3ilS6bVSENrRCrn71QVA86ufEIHjKuuNfNVIgapGlKShr7nZ4">](https://music.youtube.com/watch?v=6Jf_GsFZDfI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ObgPaYLRq5Ls-nLePedPEJtS1dPWm63vTfFZHE5KzpZk48Zk9ktY3fWu6ft8RiSMIc61xQzvZQ_b-UzyHQ">](https://music.youtube.com/watch?v=12fJAnaif34)
 
-John Denver(존 덴버) - Take Me Home, Country Roads
+키스 - I Was Made For Lovin' You
 
-**Albums**: Road Trip Sing-Alongs
+**Albums**: Dynasty
 
-Last updated at 03/14/2023 13:43
+Last updated at 03/14/2023 13:45
