@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RMcxlcAqNQ5oCK0gzhmXtjcNRDPerL1_eqZmcQkdKUURmGN1oljhlh0YUdr-0OqgK_pc7HYYNAp4OE4X">](https://music.youtube.com/watch?v=WsURKnXOvXo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Kgyzy7ZSr0-MQaYImEaCz6BGXuLQWvn14ZV4WPAVyfrEe8XxEKUro9t0p2XNbnxYUD1U1F-2fDKt56jF">](https://music.youtube.com/watch?v=DsjwpNLosvs)
 
-Freddie Mercury - There Must Be More To Life Than This (Special Edition)
+이글스 오브 데스 메탈 - San Berdoo Sunburn
 
-**Albums**: Mr Bad Guy (Special Edition)
+**Albums**: Peace Love Death Metal
 
-Last updated at 03/14/2023 13:49
+Last updated at 03/14/2023 13:53
