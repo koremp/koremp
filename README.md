@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r7FUIs4CwI2tr7vFGnvIo8-EgGLBC7LOh5V3OJOIKEneTOAIhgEbUwHeAPizEa2roidqNYaAK-Su48fP1A">](https://music.youtube.com/watch?v=wwrTkhD_zm8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8FN64nTMFsj9HJIihIwL8KEmZzHVjrThxyZ9dSyvnvHvJT3bpe4UbJS6Alw54DJEhXsx5a1VXIRFO3Y">](https://music.youtube.com/watch?v=fixo3HjMryo)
 
-The Beatles(비틀스) - Strawberry Fields Forever (Stereo Mix 2015)
+Jukebox the Ghost - Victoria
 
-**Albums**: Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)
+**Albums**: Let Live & Let Ghosts
 
-Last updated at 03/14/2023 13:19
+Last updated at 03/14/2023 13:23
