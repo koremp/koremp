@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LSlQ566qdtka2psFTODyboq0Y9NJdJaYn7WT5RV1ZG9hygV4sg3cwEdwYQy0a98xn6TgcGtRg5bG3Zs">](https://music.youtube.com/watch?v=B8sTvdEcfOg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6hjq3k6ihQEHLcwKN1onPysp0MmIvwyuFZ6yZ65xSs2-08TxVbtUk4uLZ0oWmDIOkStM0y2Gn2Nymw">](https://music.youtube.com/watch?v=ktkVV9znNjs)
 
-Mandy Harvey - I Wont Cry
+re:plus - White flames
 
-**Albums**: After You've Gone
+**Albums**: Floating in the midnight sun
 
-Last updated at 03/13/2023 15:05
+Last updated at 03/14/2023 13:11
