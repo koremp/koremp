@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ">](https://music.youtube.com/watch?v=248_MbDJoWc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iSp4bKNyFnhc63fM6J5DQLxJ35Jip-mnXfMx9nns1bbqCvRZoGQYWMtFRadASJo23NLHiA_ZcW-AoDB-qw">](https://music.youtube.com/watch?v=x8hUwP_5Qc4)
 
-Queen - Seaside Rendezvous
+퀸 - Somebody To Love
 
-**Albums**: A Night At The Opera
+**Albums**: A Day At The Races (Deluxe Edition 2011 Remaster)
 
-Last updated at 03/14/2023 13:13
+Last updated at 03/14/2023 13:15
