@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ObgPaYLRq5Ls-nLePedPEJtS1dPWm63vTfFZHE5KzpZk48Zk9ktY3fWu6ft8RiSMIc61xQzvZQ_b-UzyHQ">](https://music.youtube.com/watch?v=12fJAnaif34)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RMcxlcAqNQ5oCK0gzhmXtjcNRDPerL1_eqZmcQkdKUURmGN1oljhlh0YUdr-0OqgK_pc7HYYNAp4OE4X">](https://music.youtube.com/watch?v=WsURKnXOvXo)
 
-키스 - I Was Made For Lovin' You
+Freddie Mercury - There Must Be More To Life Than This (Special Edition)
 
-**Albums**: Dynasty
+**Albums**: Mr Bad Guy (Special Edition)
 
-Last updated at 03/14/2023 13:45
+Last updated at 03/14/2023 13:49
