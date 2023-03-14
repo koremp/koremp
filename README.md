@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iSp4bKNyFnhc63fM6J5DQLxJ35Jip-mnXfMx9nns1bbqCvRZoGQYWMtFRadASJo23NLHiA_ZcW-AoDB-qw">](https://music.youtube.com/watch?v=x8hUwP_5Qc4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r7FUIs4CwI2tr7vFGnvIo8-EgGLBC7LOh5V3OJOIKEneTOAIhgEbUwHeAPizEa2roidqNYaAK-Su48fP1A">](https://music.youtube.com/watch?v=wwrTkhD_zm8)
 
-퀸 - Somebody To Love
+The Beatles(비틀스) - Strawberry Fields Forever (Stereo Mix 2015)
 
-**Albums**: A Day At The Races (Deluxe Edition 2011 Remaster)
+**Albums**: Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)
 
-Last updated at 03/14/2023 13:15
+Last updated at 03/14/2023 13:19
