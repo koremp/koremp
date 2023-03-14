@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6hjq3k6ihQEHLcwKN1onPysp0MmIvwyuFZ6yZ65xSs2-08TxVbtUk4uLZ0oWmDIOkStM0y2Gn2Nymw">](https://music.youtube.com/watch?v=ktkVV9znNjs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ">](https://music.youtube.com/watch?v=248_MbDJoWc)
 
-re:plus - White flames
+Queen - Seaside Rendezvous
 
-**Albums**: Floating in the midnight sun
+**Albums**: A Night At The Opera
 
-Last updated at 03/14/2023 13:11
+Last updated at 03/14/2023 13:13
