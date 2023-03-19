@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Kgyzy7ZSr0-MQaYImEaCz6BGXuLQWvn14ZV4WPAVyfrEe8XxEKUro9t0p2XNbnxYUD1U1F-2fDKt56jF">](https://music.youtube.com/watch?v=DsjwpNLosvs)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NMIXXOfficial)
 
-이글스 오브 데스 메탈 - San Berdoo Sunburn
 
-**Albums**: Peace Love Death Metal
+  
+    NMIXX
+  
+  
+  
+    NMIXX
+  
 
-Last updated at 03/14/2023 13:53
+
+
+
+  공식 아티스트 채널
+
+
+ - [NMIXX] "Young, Dumb, Stupid" Performance Video
+
+**Albums**: Not supported
+
+Last updated at 03/20/2023 08:54
