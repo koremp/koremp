@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/seLCBdQ99ms8y1PyEKrrd6T6xtTeGqFtLdvX2ZrjADY1iTQ2LPlW_ncR_NpkHYPwPXFmFsr7ZwLhyy8l">](https://music.youtube.com/watch?v=C613PXzWPbo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/seLCBdQ99ms8y1PyEKrrd6T6xtTeGqFtLdvX2ZrjADY1iTQ2LPlW_ncR_NpkHYPwPXFmFsr7ZwLhyy8l">](https://music.youtube.com/watch?v=bKfA6WHzGkc)
 
-Lim Kim 및 JAMIE - Love Me Crazy
+Lim Kim 및 JAMIE - Love Me Crazy (Instrumental)
 
 **Albums**: Love Me Crazy - SM STATION
 
-Last updated at 03/20/2023 13:41
+Last updated at 03/20/2023 13:43
