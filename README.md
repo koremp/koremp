@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LByf0mMLcFCMrgzQe6adcPHZusdCRCxaD7WIjesH93TCnvrJzKUpqFzznB9W3h8mW6zG4RXRSeLhtCwK">](https://music.youtube.com/watch?v=CeLmJFg6ANY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7FixjDHPFT0ZryQswjR22QlGYEWJYEfQmtEC6qPdVXCpNhUKgDQ2o4td_0GeFHFhUWJdULA87j8gYOaS">](https://music.youtube.com/watch?v=YlXl6ZfdSc4)
 
-tripleS (트리플에스) - Rising
+Anne-Marie, 민니 및 (여자)아이들 - Expectations
 
-**Albums**: ASSEMBLE
+**Albums**: Expectations
 
-Last updated at 03/20/2023 14:09
+Last updated at 03/20/2023 14:11
