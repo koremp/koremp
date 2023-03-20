@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ">](https://music.youtube.com/watch?v=248_MbDJoWc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w25dZH4fQY59tVA6V8dQbc3cnSXs-hTAtdsNXY3mhOOE_xTOlmeE_q5eMNF8hwwuPX088uGGgldLKMuu0Q">](https://music.youtube.com/watch?v=7N51rLloymo)
 
-Queen - Seaside Rendezvous
+Paul McCartney - Michelle (Live In Boulder)
 
-**Albums**: A Night At The Opera
+**Albums**: Paul Is Live
 
-Last updated at 03/20/2023 13:45
+Last updated at 03/20/2023 13:47
