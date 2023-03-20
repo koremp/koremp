@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/De2qH8Uwg4XEgI0l3mWJlQJ1Vh3Gq1LX4baJJE1Bws9OsUG83tC7h392Uc1TE4-rVajykiTJ6bulSbwrJg">](https://music.youtube.com/watch?v=Ye9hGotPPVk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/O0BM0qveWB40423x8L9AdJxuMcBhFg0x_UtCbFQ_pRwbF412bmnlKj420gEPx1wwwAVpyXHpHp35cAU">](https://music.youtube.com/watch?v=oVW6wJ7MYDM)
 
-Elton John - I'm Still Standing
+The Beatles(비틀스) - Come Together
 
-**Albums**: Too Low For Zero
+**Albums**: 1
 
-Last updated at 03/20/2023 13:53
+Last updated at 03/20/2023 13:57
