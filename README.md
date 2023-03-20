@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UAogzti6-fw6P_xYdWpct3oDveXo3Ib2r6AqVaA6_ekin0F-Om9pqW_lchRG5hN9wiFFAHupHRgq_xQi">](https://music.youtube.com/watch?v=WY4E6rKcjEY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n7Z9SyAeHBC5Bk2kyB4BfOzWP9zRE9SSZZMkEF9Wn6Cn4HZI95QbRoI0Ai5x2kjcDrtfQ8KrkPic--3z8w">](https://music.youtube.com/watch?v=hkLkm8M9oRs)
 
-황민현 - Hidden Side
+MXFRUIT - strawberry ice cream
 
-**Albums**: 'Truth or Lie' - 1st MINI ALBUM
+**Albums**: strawberry ice cream
 
-Last updated at 03/20/2023 18:54
+Last updated at 03/20/2023 18:56
