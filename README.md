@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cqII76A8vmJK_MH5DGY4JgW1D_5bTrncuAgbcE2yjY_B-g7IyUM9vo2NXVMmlIxwz8UHkgfrsC_igLc">](https://music.youtube.com/watch?v=_RYey4cABLk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/F13Lr_ZyedUP2-b0d31BAOxX3sO8jLbpQFwwLXU8Jb68NmHTNh3U7P37JejvNV5qu5o6O3g8TcyobUr6">](https://music.youtube.com/watch?v=WFq-AO3_nI4)
 
-벅체리 - Radio Song
+Kavinsky 및 Prudence - Zenith(feat. Morgan Phalen)
 
 **Albums**: Not supported
 
-Last updated at 03/20/2023 13:15
+Last updated at 03/20/2023 13:19
