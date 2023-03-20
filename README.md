@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z9eRe-9--V-57CN6RPJ_bhHYCwZCW1Wn6L22hLVUOEr-d6NQqjyKx8WsfZxOA8CX3FubX6VC5Blwy_CB">](https://music.youtube.com/watch?v=EoO2MTDkpJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RoU59Wcsua4wlPWK_SF0mabd6ZVJU66IUGr5OsS9e27szO8Dy0h_HrBk8h5cr27EgEuAM2U6IL06VsQ">](https://music.youtube.com/watch?v=kX4sTbLdnhU)
 
-STAYC(스테이씨) - Teddy Bear
+뎁트 - Cozy(feat. Kelsey Kuan, Kevin Chung)
 
-**Albums**: Teddy Bear
+**Albums**: Lullaby
 
-Last updated at 03/20/2023 19:06
+Last updated at 03/20/2023 19:10
