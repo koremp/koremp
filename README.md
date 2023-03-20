@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LByf0mMLcFCMrgzQe6adcPHZusdCRCxaD7WIjesH93TCnvrJzKUpqFzznB9W3h8mW6zG4RXRSeLhtCwK">](https://music.youtube.com/watch?v=feeJZePrIcc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bjaw7WZ9NaGj4oZ1IfUk5hUh-YSfZT54BgFRUIbYdKR0gso8xc3ryKQRtKMYXg_j4AvuFjBfkPFabffj">](https://music.youtube.com/watch?v=zduUVTbZddU)
 
-tripleS (트리플에스) - New Look
+BIBI 및 Princesa Alba - BIBI Vengeance [Remix](feat. Baby Tate)
 
-**Albums**: ASSEMBLE
+**Albums**: BIBI Vengeance (Remix)
 
-Last updated at 03/20/2023 18:46
+Last updated at 03/20/2023 18:50
