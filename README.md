@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S2kwcZDIwUQNRS5QrLV5EF2F8Kx-TRtRUg8rZVGiWzJrWu4YLCPL8d-bTUPI5rNQ5DF8WHDdQDU50gTy">](https://music.youtube.com/watch?v=ZRTCx_1Reec)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cltB12oz-TQ4DqBTTUfvWQL7_MvdxC7D9j8N4tCdAK_xEmi0_fXgYg9z4QkYQEhDT4pB3sjEfMOBkc0">](https://music.youtube.com/watch?v=Lpi5TmRaNcY)
 
-Lesley Gore - You Don't Own Me
+Luna Luna - For You
 
-**Albums**: 20th Century Masters: The Millennium Collection: Best Of Lesley Gore
+**Albums**: Not supported
 
-Last updated at 03/20/2023 13:09
+Last updated at 03/20/2023 13:11
