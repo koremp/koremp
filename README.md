@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aPSE3Xzgpic9Vqphc31Pgzx32bEBGrpi2umdgJAYjga4tLuFlvJUnZQP6h46GrOu6H5ht_1APIU7kMWv">](https://music.youtube.com/watch?v=virmvDBfJxs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S2kwcZDIwUQNRS5QrLV5EF2F8Kx-TRtRUg8rZVGiWzJrWu4YLCPL8d-bTUPI5rNQ5DF8WHDdQDU50gTy">](https://music.youtube.com/watch?v=ZRTCx_1Reec)
 
-킹 프린세스 - Watching My Phone
+Lesley Gore - You Don't Own Me
 
-**Albums**: Cheap Queen (Deluxe)
+**Albums**: 20th Century Masters: The Millennium Collection: Best Of Lesley Gore
 
-Last updated at 03/20/2023 13:05
+Last updated at 03/20/2023 13:09
