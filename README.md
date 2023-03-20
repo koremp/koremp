@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/b41vQwnO9ifWbnxc9fK_IC18TnZpWe5HONbxQUMpPniAnjfo0UotCMfDUS7LKNTUNQT49u16jX0wm50">](https://music.youtube.com/watch?v=bdf_ll68Z8o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/De2qH8Uwg4XEgI0l3mWJlQJ1Vh3Gq1LX4baJJE1Bws9OsUG83tC7h392Uc1TE4-rVajykiTJ6bulSbwrJg">](https://music.youtube.com/watch?v=Ye9hGotPPVk)
 
-Queen - Another One Bites The Dust
+Elton John - I'm Still Standing
 
-**Albums**: The Game (Deluxe Edition 2011 Remaster)
+**Albums**: Too Low For Zero
 
-Last updated at 03/20/2023 13:49
+Last updated at 03/20/2023 13:53
