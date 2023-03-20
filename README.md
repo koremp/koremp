@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n7Z9SyAeHBC5Bk2kyB4BfOzWP9zRE9SSZZMkEF9Wn6Cn4HZI95QbRoI0Ai5x2kjcDrtfQ8KrkPic--3z8w">](https://music.youtube.com/watch?v=hkLkm8M9oRs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BS52e2ZFXYhAJoe-NRhoLIfRMq7r2OsrcmxJCpSeE749h8ypJHtx-HVS0jqwzBsHcq_dDDlizsrLTIiOVg">](https://music.youtube.com/watch?v=kfNo80drrCw)
 
-MXFRUIT - strawberry ice cream
+레인보우 - Tell Me Tell Me
 
-**Albums**: strawberry ice cream
+**Albums**: Rainbow Syndrome
 
-Last updated at 03/20/2023 18:56
+Last updated at 03/20/2023 19:00
