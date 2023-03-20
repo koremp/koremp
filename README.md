@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FzXe6xIBzYoS63IhWzAAXzZEmiKxpbkom3uRcQyJz-_igaUHE-tBmfdDq9jFz4ZrFrGzOGcloB4EjsFh2w">](https://music.youtube.com/watch?v=LfgNorryffc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4Pp2Bj6UeIem89BpzckeOO2vdz8ufxCJ5eyv73Khk2Ezdp7HbM_B8IJ_qmBjQoaMo0tVmx-jM0Gfi3p9">](https://music.youtube.com/watch?v=Eqhsz-vVvQ4)
 
-Kavinsky - Nightcall
+Joji - Die For You
 
 **Albums**: Not supported
 
-Last updated at 03/20/2023 10:17
+Last updated at 03/20/2023 10:21
