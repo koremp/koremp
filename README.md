@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8TjDZHGcFRV1JP0Vq7BTqF-xvbwkPDcJ2D72hJMGc5oS4B4-wj7LDpggOuJuMW3d526pfNqfVdRLJtjenw">](https://music.youtube.com/watch?v=CnlMTBwsBHs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WtguRBcZBnumiwRrd9qL0XkE_UkM_cCCCAcSy-bV0z6TnQ4H7j9TaoLbZiMBLSkIg4vzkRFvSYDEEFE">](https://music.youtube.com/watch?v=SX54UKCOeRI)
 
-Vaundy - 踊り子
+NMIXX - Young, Dumb, Stupid
 
-**Albums**: 踊り子
+**Albums**: Young, Dumb, Stupid
 
-Last updated at 03/20/2023 18:42
+Last updated at 03/20/2023 18:44
