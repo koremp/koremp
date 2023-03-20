@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/watch?v=J0xe5DcnYSA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EWOqhEVkITrbSUxj71vMC_qxIzNdfewkmLtsSWo8CLQjjd0bVIiDnbbCtBEqk5_fAcKv0JyqPlI1sRA">](https://music.youtube.com/watch?v=Gh6rklMU-f0)
 
-Green Day - Holiday / Boulevard of Broken Dreams
+Wet Bandits - Movies As Friends
 
-**Albums**: American Idiot
+**Albums**: E.P-2 // Banditry
 
-Last updated at 03/20/2023 12:51
+Last updated at 03/20/2023 12:59
