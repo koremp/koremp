@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SPHeXqlEhzw-pPbAx3AQU4HSD-XuSMlPtLsptfvHOjOTd6F_1ZbELaOYn1d8-jGZ5HW8O1R0pLqausuVZw">](https://music.youtube.com/watch?v=_fTWmUlTEqE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/z-eDUfHVG5AqR36qO66nRHFWj969IyS-F9R6or21Yk8z0aNTzibCn4Tck9YR8Yv4N-wBoQpceRLBnhfl">](https://music.youtube.com/watch?v=6XsMMGCi0kE)
 
-Radiohead - Subterranean Homesick Alien
+주디 갈런드 - Smile
 
-**Albums**: OK Computer
+**Albums**: Lost Treasures
 
-Last updated at 03/20/2023 10:07
+Last updated at 03/20/2023 10:11
