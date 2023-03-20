@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uy4djfMVFcBHshAXKm4NUfraxgiKHT7QoLTmddKlqTtk3RYUzmbTohbUPvmzbNt9qmIMcWaq89y5hmU6Gg">](https://music.youtube.com/watch?v=f-Eu5ZvcLb0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8TjDZHGcFRV1JP0Vq7BTqF-xvbwkPDcJ2D72hJMGc5oS4B4-wj7LDpggOuJuMW3d526pfNqfVdRLJtjenw">](https://music.youtube.com/watch?v=CnlMTBwsBHs)
 
-라디오헤드 - Subterranean Homesick Alien
+Vaundy - 踊り子
 
-**Albums**: OK Computer OKNOTOK 1997 2017
+**Albums**: 踊り子
 
-Last updated at 03/20/2023 14:35
+Last updated at 03/20/2023 18:42
