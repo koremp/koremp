@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JXCB_iqpd0Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JXCB_iqpd0Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ojuczwcDDWbRkpBByYI1isKAGgtAlIFQ_yEcwbTvrIizYcxp-Vq6qNHag5j54Gy7jXBRKNXMLVAbbIDjAw">](https://music.youtube.com/watch?v=0BmnbBWwxlw)
 
-nite swim - nite swim - Everybody's Someone in LA (Official Audio)
+Sports - Whatever You Want
 
-**Albums**: 조회수 9천회
+**Albums**: Not supported
 
-Last updated at 03/20/2023 10:35
+Last updated at 03/20/2023 10:37
