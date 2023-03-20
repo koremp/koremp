@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9qu74D6Jx5VOYl29-iT0jTtEJY0oREpj8jdQB5BYFsBJk4a7RBmolE4jN4-_RZuKTDGHKtV7nwVNp7n">](https://music.youtube.com/watch?v=md5WOtyt7Oo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oFhoux5yqbya6Z_6Vy-_2NDrscX4s5W0rRnPR0-Vhy2x9WcbqxkuD7PqS64gmYxePg03zsoOKVa16AOT">](https://music.youtube.com/watch?v=B55lLyVZYG0)
 
-HUH YUNJIN - love you twice
+JUNNY - Optimist(feat. Blase)
 
-**Albums**: love you twice
+**Albums**: Optimist (Feat. Blase)
 
-Last updated at 03/20/2023 19:12
+Last updated at 03/20/2023 19:16
