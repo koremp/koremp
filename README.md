@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/watch?v=W3d9cNkF4bA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NxQrG8DyEGgra0Zoj8tLiw_QzkHSjSAH8hECsSEZAZuGbyvz0Zn6xwpz8uHxarnYqzcCMgCJJpWgDiOo">](https://music.youtube.com/watch?v=4MzDZMDZ6OI)
 
-Harry Styles(해리 스타일스) - Lights Up
+ABSRDST - Driving Me Sane
 
-**Albums**: Not supported
+**Albums**: Imaginary Friend
 
-Last updated at 03/20/2023 10:25
+Last updated at 03/20/2023 10:29
