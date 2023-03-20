@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bjaw7WZ9NaGj4oZ1IfUk5hUh-YSfZT54BgFRUIbYdKR0gso8xc3ryKQRtKMYXg_j4AvuFjBfkPFabffj">](https://music.youtube.com/watch?v=zduUVTbZddU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UAogzti6-fw6P_xYdWpct3oDveXo3Ib2r6AqVaA6_ekin0F-Om9pqW_lchRG5hN9wiFFAHupHRgq_xQi">](https://music.youtube.com/watch?v=WY4E6rKcjEY)
 
-BIBI 및 Princesa Alba - BIBI Vengeance [Remix](feat. Baby Tate)
+황민현 - Hidden Side
 
-**Albums**: BIBI Vengeance (Remix)
+**Albums**: 'Truth or Lie' - 1st MINI ALBUM
 
-Last updated at 03/20/2023 18:50
+Last updated at 03/20/2023 18:54
