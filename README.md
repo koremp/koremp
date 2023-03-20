@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oFhoux5yqbya6Z_6Vy-_2NDrscX4s5W0rRnPR0-Vhy2x9WcbqxkuD7PqS64gmYxePg03zsoOKVa16AOT">](https://music.youtube.com/watch?v=B55lLyVZYG0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XbfeZvJWWdz3-Pmgihrfdho-P7T_h9XMv9RqMyTCqoetrDfNQnOOlmP8eFrN3-FfbJ2aNwGdK3Am12Iy">](https://music.youtube.com/watch?v=vfv0nVdUrqE)
 
-JUNNY - Optimist(feat. Blase)
+크리스티안 지메르만 - 베토벤: 피아노 협주곡 5번 E플랫장조, Op.73 "황제": 1. Allegro
 
-**Albums**: Optimist (Feat. Blase)
+**Albums**: 베토벤: 피아노 협주곡 5번
 
-Last updated at 03/20/2023 19:16
+Last updated at 03/20/2023 19:18
