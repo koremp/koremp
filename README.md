@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BS52e2ZFXYhAJoe-NRhoLIfRMq7r2OsrcmxJCpSeE749h8ypJHtx-HVS0jqwzBsHcq_dDDlizsrLTIiOVg">](https://music.youtube.com/watch?v=kfNo80drrCw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Mu-SOxwcJzaiQpjsFsNiKSBGXZNx6xJ4aZoyi-vZNLfxXpuD0wXQH_-qT172MN-Z7YxuFzf60QW6yVPQDA">](https://music.youtube.com/watch?v=t31xgKtLjwo)
 
-레인보우 - Tell Me Tell Me
+Ariana Grande(아리아나 그란데) - no tears left to cry
 
-**Albums**: Rainbow Syndrome
+**Albums**: Sweetener
 
-Last updated at 03/20/2023 19:00
+Last updated at 03/20/2023 19:04
