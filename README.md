@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/F13Lr_ZyedUP2-b0d31BAOxX3sO8jLbpQFwwLXU8Jb68NmHTNh3U7P37JejvNV5qu5o6O3g8TcyobUr6">](https://music.youtube.com/watch?v=WFq-AO3_nI4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9WKdOo3ZWh-RX8cDJFstFmRVcHKryi8duxdX2ZtssqzWD9P5hVbde1ILZBy_IatjJg3TN2IstLZFuesV">](https://music.youtube.com/watch?v=1sn3bJ5Ya-A)
 
-Kavinsky 및 Prudence - Zenith(feat. Morgan Phalen)
+U2 - Stuck In A Moment You Can't Get Out Of
 
 **Albums**: Not supported
 
-Last updated at 03/20/2023 13:19
+Last updated at 03/20/2023 13:29
