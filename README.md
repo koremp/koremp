@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EWOqhEVkITrbSUxj71vMC_qxIzNdfewkmLtsSWo8CLQjjd0bVIiDnbbCtBEqk5_fAcKv0JyqPlI1sRA">](https://music.youtube.com/watch?v=Gh6rklMU-f0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pWjvqsBUv5Fj-YG0n_SO_hMQ46N58iJ8E4LcfwfrPJCwP7aiQOs89sxnIw0aRmNAwbUrB4bgZdC-Ecwm_A">](https://music.youtube.com/watch?v=ODFX_saGtcA)
 
-Wet Bandits - Movies As Friends
+Michi - Sugarbaby
 
-**Albums**: E.P-2 // Banditry
+**Albums**: Not supported
 
-Last updated at 03/20/2023 12:59
+Last updated at 03/20/2023 13:03
