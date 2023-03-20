@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/seLCBdQ99ms8y1PyEKrrd6T6xtTeGqFtLdvX2ZrjADY1iTQ2LPlW_ncR_NpkHYPwPXFmFsr7ZwLhyy8l">](https://music.youtube.com/watch?v=bKfA6WHzGkc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ">](https://music.youtube.com/watch?v=248_MbDJoWc)
 
-Lim Kim 및 JAMIE - Love Me Crazy (Instrumental)
+Queen - Seaside Rendezvous
 
-**Albums**: Love Me Crazy - SM STATION
+**Albums**: A Night At The Opera
 
-Last updated at 03/20/2023 13:43
+Last updated at 03/20/2023 13:45
