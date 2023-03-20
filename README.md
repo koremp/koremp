@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PUFomqBydVJyjWf41HjnsoBmEgA2AkCuy3u9x1Xz6jzVjNgpf01SMhUvgz3kgacUQ6rmXnSpc4UVD4tL">](https://music.youtube.com/watch?v=ikFFVfObwss)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WtguRBcZBnumiwRrd9qL0XkE_UkM_cCCCAcSy-bV0z6TnQ4H7j9TaoLbZiMBLSkIg4vzkRFvSYDEEFE">](https://music.youtube.com/watch?v=SX54UKCOeRI)
 
-AC/DC - Highway to Hell
+NMIXX - Young, Dumb, Stupid
 
-**Albums**: Highway to Hell
+**Albums**: Young, Dumb, Stupid
 
-Last updated at 03/20/2023 14:01
+Last updated at 03/20/2023 14:05
