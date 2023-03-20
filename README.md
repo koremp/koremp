@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y8P5fCUcMAcT81rVO5CZ_8x23fuofYXOvs6Nwc8LJgn0jiQg1PllRPrCZ8aWKXxM05yWlB1eW6aEwWM4">](https://music.youtube.com/watch?v=ijhQTqymNMk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/seLCBdQ99ms8y1PyEKrrd6T6xtTeGqFtLdvX2ZrjADY1iTQ2LPlW_ncR_NpkHYPwPXFmFsr7ZwLhyy8l">](https://music.youtube.com/watch?v=C613PXzWPbo)
 
-킹 크림슨 - Fallen Angel
+Lim Kim 및 JAMIE - Love Me Crazy
 
-**Albums**: Not supported
+**Albums**: Love Me Crazy - SM STATION
 
-Last updated at 03/20/2023 13:33
+Last updated at 03/20/2023 13:41
