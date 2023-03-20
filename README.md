@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pWjvqsBUv5Fj-YG0n_SO_hMQ46N58iJ8E4LcfwfrPJCwP7aiQOs89sxnIw0aRmNAwbUrB4bgZdC-Ecwm_A">](https://music.youtube.com/watch?v=ODFX_saGtcA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aPSE3Xzgpic9Vqphc31Pgzx32bEBGrpi2umdgJAYjga4tLuFlvJUnZQP6h46GrOu6H5ht_1APIU7kMWv">](https://music.youtube.com/watch?v=virmvDBfJxs)
 
-Michi - Sugarbaby
+킹 프린세스 - Watching My Phone
 
-**Albums**: Not supported
+**Albums**: Cheap Queen (Deluxe)
 
-Last updated at 03/20/2023 13:03
+Last updated at 03/20/2023 13:05
