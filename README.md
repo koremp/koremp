@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uy4djfMVFcBHshAXKm4NUfraxgiKHT7QoLTmddKlqTtk3RYUzmbTohbUPvmzbNt9qmIMcWaq89y5hmU6Gg">](https://music.youtube.com/watch?v=dkOz9Ve2mio)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/watch?v=J0xe5DcnYSA)
 
-라디오헤드 - Climbing Up the Walls
+Green Day - Holiday / Boulevard of Broken Dreams
 
-**Albums**: OK Computer OKNOTOK 1997 2017
+**Albums**: American Idiot
 
-Last updated at 03/20/2023 10:39
+Last updated at 03/20/2023 12:51
