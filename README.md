@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w25dZH4fQY59tVA6V8dQbc3cnSXs-hTAtdsNXY3mhOOE_xTOlmeE_q5eMNF8hwwuPX088uGGgldLKMuu0Q">](https://music.youtube.com/watch?v=7N51rLloymo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/b41vQwnO9ifWbnxc9fK_IC18TnZpWe5HONbxQUMpPniAnjfo0UotCMfDUS7LKNTUNQT49u16jX0wm50">](https://music.youtube.com/watch?v=bdf_ll68Z8o)
 
-Paul McCartney - Michelle (Live In Boulder)
+Queen - Another One Bites The Dust
 
-**Albums**: Paul Is Live
+**Albums**: The Game (Deluxe Edition 2011 Remaster)
 
-Last updated at 03/20/2023 13:47
+Last updated at 03/20/2023 13:49
