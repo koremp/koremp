@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NMIXXOfficial)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/naV2N1K0A3g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=naV2N1K0A3g)
 
+ElFamosoDemon - jinsang - feelings.
 
-  
-    NMIXX
-  
-  
-  
-    NMIXX
-  
+**Albums**: 조회수 469만회
 
-
-
-
-  공식 아티스트 채널
-
-
- - [NMIXX] "Young, Dumb, Stupid" Performance Video
-
-**Albums**: Not supported
-
-Last updated at 03/20/2023 08:54
+Last updated at 03/20/2023 09:27
