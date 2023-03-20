@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rQZJRXOxtxuCSqS0CZjEOntbzkBmvDO0P9sSSpIxhITMXGnpIDSIoV3aMk9vQYx1i3RgjwdwMwpyUmeVXg">](https://music.youtube.com/watch?v=MpqfFBnDXxk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JXCB_iqpd0Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JXCB_iqpd0Y)
 
-River Sam - The Whistle Song
+nite swim - nite swim - Everybody's Someone in LA (Official Audio)
 
-**Albums**: The Whistle Song
+**Albums**: 조회수 9천회
 
-Last updated at 03/20/2023 10:31
+Last updated at 03/20/2023 10:35
