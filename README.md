@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NxQrG8DyEGgra0Zoj8tLiw_QzkHSjSAH8hECsSEZAZuGbyvz0Zn6xwpz8uHxarnYqzcCMgCJJpWgDiOo">](https://music.youtube.com/watch?v=4MzDZMDZ6OI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rQZJRXOxtxuCSqS0CZjEOntbzkBmvDO0P9sSSpIxhITMXGnpIDSIoV3aMk9vQYx1i3RgjwdwMwpyUmeVXg">](https://music.youtube.com/watch?v=MpqfFBnDXxk)
 
-ABSRDST - Driving Me Sane
+River Sam - The Whistle Song
 
-**Albums**: Imaginary Friend
+**Albums**: The Whistle Song
 
-Last updated at 03/20/2023 10:29
+Last updated at 03/20/2023 10:31
