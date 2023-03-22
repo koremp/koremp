@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_gT1tjd4LJsXEi2lVDuGgqFgq0v897OijjYUVne9NY0JqfO1PzFKmd8zpzvquOKVZuejiFfO4FVMMwE">](https://music.youtube.com/watch?v=g6FF-iNOJYA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NJzFvIdARbJuotpuQNTILx0GUhiuXmqeLdDDkh33U2Qmr2uEXrPVnNoon3BhfCBsDUrfAj87Hwvy2sG9">](https://music.youtube.com/watch?v=hNg-enl49y4)
 
-세레노 - Letter to the Moon
+세레노 (Sereno) - 유성의 하모니
 
-**Albums**: 달에게 쓰는 편지
+**Albums**: Starry Night : Harmonics
 
-Last updated at 03/22/2023 16:41
+Last updated at 03/22/2023 16:45
