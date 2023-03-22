@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pc9D6vqraEkBtLx_XIXvm0GuY1GSgNdh9edWh2beZC31hVSotOeWpbtIN4kC-woFZge110GLyW_xdpM">](https://music.youtube.com/watch?v=8gBDBm9OxZE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qz0XcoSxX-YynYvU42Ox28quhsQR4w76yp2wJxIAxEQTz98PcyhjpKytgAZV3sLaFMjFKEdZgfCBFrSR">](https://music.youtube.com/watch?v=5i3mA2gmjDo)
 
-세레노 - 행복찾기
+세레노 (Sereno) - Polaris, Memories (북극성의 기억)
 
-**Albums**: 행복찾기
+**Albums**: Polaris And
 
-Last updated at 03/22/2023 16:49
+Last updated at 03/22/2023 16:53
