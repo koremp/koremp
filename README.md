@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NJzFvIdARbJuotpuQNTILx0GUhiuXmqeLdDDkh33U2Qmr2uEXrPVnNoon3BhfCBsDUrfAj87Hwvy2sG9">](https://music.youtube.com/watch?v=hNg-enl49y4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pc9D6vqraEkBtLx_XIXvm0GuY1GSgNdh9edWh2beZC31hVSotOeWpbtIN4kC-woFZge110GLyW_xdpM">](https://music.youtube.com/watch?v=8gBDBm9OxZE)
 
-세레노 (Sereno) - 유성의 하모니
+세레노 - 행복찾기
 
-**Albums**: Starry Night : Harmonics
+**Albums**: 행복찾기
 
-Last updated at 03/22/2023 16:45
+Last updated at 03/22/2023 16:49
