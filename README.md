@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qz0XcoSxX-YynYvU42Ox28quhsQR4w76yp2wJxIAxEQTz98PcyhjpKytgAZV3sLaFMjFKEdZgfCBFrSR">](https://music.youtube.com/watch?v=5i3mA2gmjDo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cRcv4hOKAoW-lhzBr-BUHEnkVi7U-I9cUYqp-DOa4slOYuqPnQamSqQ1aBNThqGqscngu6D12mkDvGcfYA">](https://music.youtube.com/watch?v=85blcsevfvI)
 
-세레노 (Sereno) - Polaris, Memories (북극성의 기억)
+모과이 - I'm Jim Morrison, I'm Dead
 
-**Albums**: Polaris And
+**Albums**: The Hawk Is Howling
 
-Last updated at 03/22/2023 16:53
+Last updated at 03/23/2023 16:43
