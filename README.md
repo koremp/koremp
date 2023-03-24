@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cRcv4hOKAoW-lhzBr-BUHEnkVi7U-I9cUYqp-DOa4slOYuqPnQamSqQ1aBNThqGqscngu6D12mkDvGcfYA">](https://music.youtube.com/watch?v=85blcsevfvI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3XLqWdd4342EZne0dOVFGttdn0EdVIIsET2f9rkeRRKOb9GBMyu99S_LMFWyUXfOGEhmaA0Vt6huCq0">](https://music.youtube.com/watch?v=s407OOpWhPg)
 
-모과이 - I'm Jim Morrison, I'm Dead
+매디엑스피 - TOWER ATOM
 
-**Albums**: The Hawk Is Howling
+**Albums**: EPOCALYPSE
 
-Last updated at 03/23/2023 16:43
+Last updated at 03/24/2023 15:13
