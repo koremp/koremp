@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@Yoonjiyoung)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
 
 
   
-    윤지영 / Yoon ji young
+    Ryuichi Sakamoto
   
   
   
-    윤지영 / Yoon ji young
+    Ryuichi Sakamoto
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 당신은 내가 눈을 좋아하던 걸 기억할까 (fiction video)
+ - Bolerish
 
 **Albums**: Not supported
 
-Last updated at 03/25/2023 09:31
+Last updated at 03/25/2023 13:00
