@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@SilicaGel)
+[<img align="left" width="100" src="">](https://www.youtube.com/@Yoonjiyoung)
 
 
   
-    Silica Gel 실리카겔
+    윤지영 / Yoon ji young
   
   
   
-    Silica Gel 실리카겔
+    윤지영 / Yoon ji young
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 실리카겔 (Silica Gel) - NO PAIN [MV]
+ - 당신은 내가 눈을 좋아하던 걸 기억할까 (fiction video)
 
 **Albums**: Not supported
 
-Last updated at 03/24/2023 16:48
+Last updated at 03/25/2023 09:31
