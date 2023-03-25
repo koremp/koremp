@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/U3celp0_C0eecLCLGj39kBAhhnOhCDyxEGeUMMBjGSozO_l-TCuKZiabwL6LJTA-bWmHJbcC98jwJEP7">](https://music.youtube.com/watch?v=iBdgpdGTIwI)
 
+Avril Lavigne - Cannonball
 
-  
-    Ryuichi Sakamoto
-  
-  
-  
-    Ryuichi Sakamoto
-  
+**Albums**: Love Sux
 
-
-
-
-  공식 아티스트 채널
-
-
- - Bolerish
-
-**Albums**: Not supported
-
-Last updated at 03/25/2023 13:00
+Last updated at 03/25/2023 23:50
