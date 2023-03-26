@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/U3celp0_C0eecLCLGj39kBAhhnOhCDyxEGeUMMBjGSozO_l-TCuKZiabwL6LJTA-bWmHJbcC98jwJEP7">](https://music.youtube.com/watch?v=iBdgpdGTIwI)
+[<img align="left" width="100" src="">](https://www.youtube.com/@parannoul2256)
 
-Avril Lavigne - Cannonball
 
-**Albums**: Love Sux
+  
+    파란노을 (Parannoul)
+  
+  
+  
+    파란노을 (Parannoul)
+  
 
-Last updated at 03/25/2023 23:50
+
+
+
+  공식 아티스트 채널
+
+
+ - 파란노을 (Parannoul) - 아름다운 세상 (Beautiful World)
+
+**Albums**: Not supported
+
+Last updated at 03/27/2023 00:25
