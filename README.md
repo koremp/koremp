@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@JUNSUXIAOfficial)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCWT2ZfW7d8YI-HinHEVhyCA)
 
 
   
-    김준수 XIA
+    (G)I-DLE (여자)아이들 (Official YouTube Channel)
   
   
   
-    김준수 XIA
+    (G)I-DLE (여자)아이들 (Official YouTube Channel)
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - [M/V] 김준수(XIA) - 2018 뮤지컬 엘리자벳 '마지막 춤 (Der letzte Tanz)'
+ - MOON
 
 **Albums**: Not supported
 
-Last updated at 03/29/2023 12:36
+Last updated at 03/29/2023 12:40
