@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@parannoul2256)
+[<img align="left" width="100" src="">](https://www.youtube.com/@JUNSUXIAOfficial)
 
 
   
-    파란노을 (Parannoul)
+    김준수 XIA
   
   
   
-    파란노을 (Parannoul)
+    김준수 XIA
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 파란노을 (Parannoul) - 아름다운 세상 (Beautiful World)
+ - [M/V] 김준수(XIA) - 2018 뮤지컬 엘리자벳 '마지막 춤 (Der letzte Tanz)'
 
 **Albums**: Not supported
 
-Last updated at 03/27/2023 00:25
+Last updated at 03/29/2023 12:36
