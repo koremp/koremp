@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@Concertgebouworkest)
+[<img align="left" width="100" src="">](https://www.youtube.com/@aimyong)
 
 
   
-    Concertgebouworkest
+    あいみょん
   
   
   
-    Concertgebouworkest
+    あいみょん
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Mahler - Symphony No. 2 'Auferstehung' - Mariss Jansons | Concertgebouworkest
+ - あいみょん – 君はロックを聴かない 【AIMYON TOUR 2019 -SIXTH SENSE STORY- IN YOKOHAMA ARENA】
 
 **Albums**: Not supported
 
-Last updated at 03/30/2023 17:01
+Last updated at 04/01/2023 20:24
