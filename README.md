@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@Yoonjiyoung)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3XLqWdd4342EZne0dOVFGttdn0EdVIIsET2f9rkeRRKOb9GBMyu99S_LMFWyUXfOGEhmaA0Vt6huCq0">](https://music.youtube.com/watch?v=s407OOpWhPg)
 
+매디엑스피 - TOWER ATOM
 
-  
-    윤지영 / Yoon ji young
-  
-  
-  
-    윤지영 / Yoon ji young
-  
+**Albums**: EPOCALYPSE
 
-
-
-
-  공식 아티스트 채널
-
-
- - 윤지영(Yoon Jiyoung) - 네가 좋은 사람일 수는 없을까 & Blue bird (Title 1hr) / EP 'Blue bird'
-
-**Albums**: Not supported
-
-Last updated at 04/03/2023 11:11
+Last updated at 04/03/2023 13:24
