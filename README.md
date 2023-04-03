@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EpsBfg9gACyWrXuq-AHYc0KO5avSRC-vVXoTQpyzY7XcrD-qetsgWOs-7CQpGhF2C-xZEE1FN9PRJF3qBA">](https://music.youtube.com/watch?v=j-seAiANLG8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HS_r_2sLVcQqdnG5di6U1-14SgB5CKfH9b7R6EssFBAjPI3_TJXIyOo7FfzLNmhzTU8xNAPyAfdfnlC_">](https://music.youtube.com/watch?v=TJCL8b7ufKo)
 
-Heize - And July(feat. DEAN, DJ Friz)
+러브홀릭 - Loveholic
 
-**Albums**: And July
+**Albums**: F.L.O.R.I.S.T
 
-Last updated at 04/03/2023 13:44
+Last updated at 04/03/2023 13:48
