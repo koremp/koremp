@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FaRjOINrqE3tLYfYkA0FvPP3slIWtaphztH717bu0_2-8mpYhEPNxORpn-eDFRsD6mLu5Jt6dvA5_bg">](https://music.youtube.com/watch?v=StKmyeRbIws)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0k_u5oGZBtfPplIXhZ1FKJqny8H-EF66U7hDPtoFqOg3A9-eJc6qHPKbKv0EbkBE1VzShL6BSFl27GwD">](https://music.youtube.com/watch?v=58IEh6YkuzQ)
 
-이고도 - Mouse
+윤하 (YOUNHA) - 오르트구름
 
-**Albums**: Mouse
+**Albums**: END THEORY
 
-Last updated at 04/03/2023 14:04
+Last updated at 04/03/2023 14:08
