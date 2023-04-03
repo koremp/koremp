@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YeIhbeW4bRgKEqIO_zYChcX_LMLMpmAgjQTjruViuLEIbY5Vb0qjcjRM9j2xBnVfq-Q2S2QwxUInMoYnXw">](https://music.youtube.com/watch?v=x4Kx_Fkr0Cw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOVz0rr_K25IB9OlVBRBon0B_LAtEh2qTkKBI6JUqaEN-43twUfBSAuD4NSLBdh9FnoPuP8QsBb-tiU">](https://music.youtube.com/watch?v=lFmOK85fzsc)
 
-스텔라장 - 보통날의 기적(feat. 폴킴(Paul Kim))
+정인 및 윤종신 - Uphill Road 오르막길 (Monthly Project 2012 June Yoon Jong Shin)
 
-**Albums**: 보통날의 기적
+**Albums**: Uphill Road 오르막길 (Monthly Project 2012 June Yoon Jong Shin)
 
-Last updated at 04/03/2023 14:16
+Last updated at 04/03/2023 14:38
