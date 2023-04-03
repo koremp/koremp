@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xtb2zGmxDoUfXnIlv2EyJbM7pu4hQWQFmKdXxG1MqxcppUxWGDFTx409RB-ZRujqRWfCtDKtK9UqL57i">](https://music.youtube.com/watch?v=xWEPCdrzC6Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=kPn2RFxcGYY)
 
-자우림 - 스물다섯, 스물하나
+파보 예르비 - Symphony No.9 in D Minor, op.125: I. Allegro ma non troppo e un poco maestoso
 
-**Albums**: Goodbye, grief.
+**Albums**: Beethoven: Symphony No.9
 
-Last updated at 04/03/2023 14:46
+Last updated at 04/03/2023 14:48
