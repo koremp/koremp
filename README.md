@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iZkj4cYVaKJNmg0bghKY7_n-mNnE9J0WU1VM7zrJYWhTArRomwlgk56qMk75dlGjUQ9nTzXrc72RSiwQ">](https://music.youtube.com/watch?v=MDNzHG4DDhE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YeIhbeW4bRgKEqIO_zYChcX_LMLMpmAgjQTjruViuLEIbY5Vb0qjcjRM9j2xBnVfq-Q2S2QwxUInMoYnXw">](https://music.youtube.com/watch?v=x4Kx_Fkr0Cw)
 
-윤도현 - 사랑했나봐
+스텔라장 - 보통날의 기적(feat. 폴킴(Paul Kim))
 
-**Albums**: Difference
+**Albums**: 보통날의 기적
 
-Last updated at 04/03/2023 14:12
+Last updated at 04/03/2023 14:16
