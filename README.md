@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YvgSgURW6spUsQtTn_xPg5b9x99iwD3aPkDq7hhcfqSbJ3ZLrFQ1doUKMQlMAHjF4osfZ7cuwWsTx2U">](https://music.youtube.com/watch?v=SdZPS5OZwL8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xtb2zGmxDoUfXnIlv2EyJbM7pu4hQWQFmKdXxG1MqxcppUxWGDFTx409RB-ZRujqRWfCtDKtK9UqL57i">](https://music.youtube.com/watch?v=xWEPCdrzC6Q)
 
-정인 - 미워요 I Hate You
+자우림 - 스물다섯, 스물하나
 
-**Albums**: 정인 Jung In from Andromeda
+**Albums**: Goodbye, grief.
 
-Last updated at 04/03/2023 14:42
+Last updated at 04/03/2023 14:46
