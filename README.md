@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@aimyong)
+[<img align="left" width="100" src="">](https://www.youtube.com/@Yoonjiyoung)
 
 
   
-    あいみょん
+    윤지영 / Yoon ji young
   
   
   
-    あいみょん
+    윤지영 / Yoon ji young
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - あいみょん – 君はロックを聴かない 【AIMYON TOUR 2019 -SIXTH SENSE STORY- IN YOKOHAMA ARENA】
+ - 윤지영(Yoon Jiyoung) - 네가 좋은 사람일 수는 없을까 & Blue bird (Title 1hr) / EP 'Blue bird'
 
 **Albums**: Not supported
 
-Last updated at 04/01/2023 20:24
+Last updated at 04/03/2023 11:11
