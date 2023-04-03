@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOVz0rr_K25IB9OlVBRBon0B_LAtEh2qTkKBI6JUqaEN-43twUfBSAuD4NSLBdh9FnoPuP8QsBb-tiU">](https://music.youtube.com/watch?v=lFmOK85fzsc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YvgSgURW6spUsQtTn_xPg5b9x99iwD3aPkDq7hhcfqSbJ3ZLrFQ1doUKMQlMAHjF4osfZ7cuwWsTx2U">](https://music.youtube.com/watch?v=SdZPS5OZwL8)
 
-정인 및 윤종신 - Uphill Road 오르막길 (Monthly Project 2012 June Yoon Jong Shin)
+정인 - 미워요 I Hate You
 
-**Albums**: Uphill Road 오르막길 (Monthly Project 2012 June Yoon Jong Shin)
+**Albums**: 정인 Jung In from Andromeda
 
-Last updated at 04/03/2023 14:38
+Last updated at 04/03/2023 14:42
