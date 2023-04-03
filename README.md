@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HS_r_2sLVcQqdnG5di6U1-14SgB5CKfH9b7R6EssFBAjPI3_TJXIyOo7FfzLNmhzTU8xNAPyAfdfnlC_">](https://music.youtube.com/watch?v=TJCL8b7ufKo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xtb2zGmxDoUfXnIlv2EyJbM7pu4hQWQFmKdXxG1MqxcppUxWGDFTx409RB-ZRujqRWfCtDKtK9UqL57i">](https://music.youtube.com/watch?v=xWEPCdrzC6Q)
 
-러브홀릭 - Loveholic
+자우림 - 스물다섯, 스물하나
 
-**Albums**: F.L.O.R.I.S.T
+**Albums**: Goodbye, grief.
 
-Last updated at 04/03/2023 13:48
+Last updated at 04/03/2023 13:52
