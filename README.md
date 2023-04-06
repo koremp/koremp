@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zvdm3DJDJv8oPtx8f2pnOwT2ysUG1L1fI__OJx_eHzizC8I9foSOdNLSqH5oO80GSvbArRKLCV6ybUdm">](https://music.youtube.com/watch?v=kPn2RFxcGYY)
+[<img align="left" width="100" src="">](https://www.youtube.com/@RyuichiSakamotoArchive)
 
-파보 예르비 - Symphony No.9 in D Minor, op.125: I. Allegro ma non troppo e un poco maestoso
 
-**Albums**: Beethoven: Symphony No.9
+  
+    Ryuichi Sakamoto
+  
+  
+  
+    Ryuichi Sakamoto
+  
 
-Last updated at 04/03/2023 14:48
+
+
+
+  공식 아티스트 채널
+
+
+ - Ryuichi Sakamoto: Playing the Piano for the Isolated
+
+**Albums**: Not supported
+
+Last updated at 04/06/2023 10:19
