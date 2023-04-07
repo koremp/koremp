@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mHdLiJjd-vT88c2ZheLiKNa6BR15mAfTcKcW2qgto722xwko-VsOu9zAA1NvdzUw7Oau8EeWQo8bawfetQ">](https://music.youtube.com/watch?v=GWMjtmYtmDs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ED1ppb4ndnNURR9U_JaTjoZCoG6ApSq1S6GjIQ6W40htmgndukqQqsddFRItkI9uRk41grfyeBfXcG2g">](https://music.youtube.com/watch?v=uGYrhFYE_mc)
 
-Oasis(오아시스) - Whatever
+Maroon 5(마룬 파이브) - Won't Go Home Without You
 
-**Albums**: Definitely Maybe (Deluxe)
+**Albums**: It Won't Be Soon Before Long (International Version)
 
-Last updated at 04/07/2023 11:08
+Last updated at 04/07/2023 11:14
