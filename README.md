@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TWWT47cHLv3yAugk4h9eOzQ46FHmXc_g-KmBVy2d4sbg_F-Gv6xrPglztRVzp8D_l-yzOnvh-QToM8s">](https://music.youtube.com/watch?v=7fv84nPfTH0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mHdLiJjd-vT88c2ZheLiKNa6BR15mAfTcKcW2qgto722xwko-VsOu9zAA1NvdzUw7Oau8EeWQo8bawfetQ">](https://music.youtube.com/watch?v=GWMjtmYtmDs)
 
-Radiohead(라디오헤드) - High And Dry
+Oasis(오아시스) - Whatever
 
-**Albums**: The Bends
+**Albums**: Definitely Maybe (Deluxe)
 
-Last updated at 04/07/2023 11:04
+Last updated at 04/07/2023 11:08
