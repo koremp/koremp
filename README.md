@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@RyuichiSakamotoArchive)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6cJtTw4ovCRflBzXbvCwba_w-wuG-M5dzaNccl9Hi5SESJiUu6Fq-HI13xHE7tx9N3um6Oa8j5HBV7SS2g">](https://music.youtube.com/watch?v=N2QSvYwrEaI)
 
+Son Lux - This Is A Life (Extended)
 
-  
-    Ryuichi Sakamoto
-  
-  
-  
-    Ryuichi Sakamoto
-  
+**Albums**: Everything Everywhere All at Once (Original Motion Picture Soundtrack)
 
-
-
-
-  공식 아티스트 채널
-
-
- - Ryuichi Sakamoto: Playing the Piano for the Isolated
-
-**Albums**: Not supported
-
-Last updated at 04/06/2023 10:19
+Last updated at 04/07/2023 10:40
