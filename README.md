@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6cJtTw4ovCRflBzXbvCwba_w-wuG-M5dzaNccl9Hi5SESJiUu6Fq-HI13xHE7tx9N3um6Oa8j5HBV7SS2g">](https://music.youtube.com/watch?v=oZFMh9sQoOI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=OhIgBn3Dl9I)
 
-Son Lux - What a Fast Elevator!
+Oasis(오아시스) - Champagne Supernova
 
-**Albums**: Everything Everywhere All at Once (Original Motion Picture Soundtrack)
+**Albums**: (What's The Story) Morning Glory? (Remastered)
 
-Last updated at 04/07/2023 10:54
+Last updated at 04/07/2023 10:56
