@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ED1ppb4ndnNURR9U_JaTjoZCoG6ApSq1S6GjIQ6W40htmgndukqQqsddFRItkI9uRk41grfyeBfXcG2g">](https://music.youtube.com/watch?v=uGYrhFYE_mc)
+[<img align="left" width="100" src="">](https://www.youtube.com/@RayChenViolinist)
 
-Maroon 5(마룬 파이브) - Won't Go Home Without You
 
-**Albums**: It Won't Be Soon Before Long (International Version)
+  
+    Ray Chen
+  
+  
+  
+    Ray Chen
+  
 
-Last updated at 04/07/2023 11:14
+
+
+
+  공식 아티스트 채널
+
+
+ - Vitali "Chaconne" for Violin & Piano | Ray Chen & Julien Quentin
+
+**Albums**: Not supported
+
+Last updated at 04/08/2023 21:02
