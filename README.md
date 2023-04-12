@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fu0kUkT0NOAnyiSh7-by8IgWS8o8va1yoBCQa-uDbAkBVQSE1b4rgo9bl87pqkuCv-SLvbCFZe1iCUYY">](https://music.youtube.com/watch?v=KczYjTVrK_o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8vPxoSryY8hd6In5rwVz0nUSF55Bd6jQ5rDPcMMJMChhMyQ6jA8U19dVTCgO7KYiZnwCJ1yS609jP6bEoA">](https://music.youtube.com/watch?v=iUrl56Q0eTM)
 
-악동뮤지션 - 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
+이선희 - 그 중에 그대를 만나
 
-**Albums**: 항해
+**Albums**: 15집 [SERENDIPITY] 30주년 기념앨범
 
-Last updated at 04/12/2023 16:48
+Last updated at 04/12/2023 16:52
