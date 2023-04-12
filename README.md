@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NMIXXOfficial)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/k6lNoIFfdbRX-fqs54DQMHEN9jwgaQZYxlTSS9O9iDrI3XZg_u1eQjZj7-lCFTP8Lrh15gHrSEw9H-9c">](https://music.youtube.com/watch?v=e6YwevnuNDY)
 
+이선희 - 그대 손 놓아요
 
-  
-    NMIXX
-  
-  
-  
-    NMIXX
-  
+**Albums**: 옷소매 붉은 끝동 OST, Part 8
 
-
-
-
-  공식 아티스트 채널
-
-
- - [NMIXX] “Love Me Like This" Performance Video
-
-**Albums**: Not supported
-
-Last updated at 04/12/2023 11:37
+Last updated at 04/12/2023 13:59
