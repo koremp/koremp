@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/k6lNoIFfdbRX-fqs54DQMHEN9jwgaQZYxlTSS9O9iDrI3XZg_u1eQjZj7-lCFTP8Lrh15gHrSEw9H-9c">](https://music.youtube.com/watch?v=e6YwevnuNDY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xtb2zGmxDoUfXnIlv2EyJbM7pu4hQWQFmKdXxG1MqxcppUxWGDFTx409RB-ZRujqRWfCtDKtK9UqL57i">](https://music.youtube.com/watch?v=xWEPCdrzC6Q)
 
-이선희 - 그대 손 놓아요
+자우림 - 스물다섯, 스물하나
 
-**Albums**: 옷소매 붉은 끝동 OST, Part 8
+**Albums**: Goodbye, grief.
 
-Last updated at 04/12/2023 13:59
+Last updated at 04/12/2023 14:03
