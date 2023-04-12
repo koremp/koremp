@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xtb2zGmxDoUfXnIlv2EyJbM7pu4hQWQFmKdXxG1MqxcppUxWGDFTx409RB-ZRujqRWfCtDKtK9UqL57i">](https://music.youtube.com/watch?v=xWEPCdrzC6Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H7DWjRldtCdV6aJO9t0v1_UsAhTE7SqyxNeSYq7FjRblniVJmpEo4oqj8IOBzarQhAyTKXyQIJQsfWMqTw">](https://music.youtube.com/watch?v=G5Lj9tsCK6A)
 
-자우림 - 스물다섯, 스물하나
+에일리 Ailee - I Will Go To You Like the First Snow
 
-**Albums**: Goodbye, grief.
+**Albums**: Guardian (Original Television Soundtrack), Pt. 9
 
-Last updated at 04/12/2023 14:03
+Last updated at 04/12/2023 14:07
