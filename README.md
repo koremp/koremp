@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S22blu-1OjAPrGPzbFV5CQTylYT-SpTcrsxHepk3TnfBrHqwO32xGGMt2mVAgOn7CkjbZcll7Nu4mnqr">](https://music.youtube.com/watch?v=GPD_Guaepd0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/b_YY3vEUjSm4Pu0z6nAVK6MMiK38yhg1AJWyra1e5UN8UPcUDZB-hiKkhMggKJpHr9JNPN-UXJEYKNId">](https://music.youtube.com/watch?v=DgqLGRuH3JM)
 
-이선희 - 바람꽃
+케이윌 - 시간을 거슬러 (낮에 뜨는 달 X 케이윌)
 
-**Albums**: 푸른 바다의 전설 OST Part.6
+**Albums**: 시간을 거슬러 (낮에 뜨는 달 X 케이윌)
 
-Last updated at 04/12/2023 16:36
+Last updated at 04/12/2023 16:40
