@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@triplescosmos)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NMIXXOfficial)
 
 
   
-    tripleS official
+    NMIXX
   
   
   
-    tripleS official
+    NMIXX
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 트리플에스(tripleS) 'Rising' MV
+ - [NMIXX] “Love Me Like This" Performance Video
 
 **Albums**: Not supported
 
-Last updated at 04/12/2023 11:31
+Last updated at 04/12/2023 11:37
