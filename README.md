@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8vPxoSryY8hd6In5rwVz0nUSF55Bd6jQ5rDPcMMJMChhMyQ6jA8U19dVTCgO7KYiZnwCJ1yS609jP6bEoA">](https://music.youtube.com/watch?v=iUrl56Q0eTM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8DDqkKH4dUQNw-kfxEpc-VrasH0RwXXPoOd7YbleyL_l6K75FgQjpqZzGGfvAi2QbXtYe-gLHZNoBh2E">](https://music.youtube.com/watch?v=qewsZWhwoWM)
 
-이선희 - 그 중에 그대를 만나
+이선희 - 인연
 
-**Albums**: 15집 [SERENDIPITY] 30주년 기념앨범
+**Albums**: 사춘기 (四春期)
 
-Last updated at 04/12/2023 16:52
+Last updated at 04/12/2023 16:54
