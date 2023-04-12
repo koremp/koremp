@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nmREs_SESnH5J51FMYnWJqlj6xHq_S1UqIuSSjVRWz80roEmvs7NjmFrgMVdycMb4CFyXDrobeom5Vk">](https://music.youtube.com/watch?v=pU4YJwuzLGo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XG43m8BXeLunTQR8GG5mpmTHQtSRe6nsN9ApgAjyL6UEXFo0cGSjHomtuZC9XHlvbrELswcHSZZG3_Q">](https://music.youtube.com/watch?v=tRyJofBYoJs)
 
-백예린 - Big world
+Soumbalgwang 소음발광 - 왜냐하면 23
 
-**Albums**: New Year
+**Albums**: Huh 풋
 
-Last updated at 04/12/2023 17:06
+Last updated at 04/12/2023 17:10
