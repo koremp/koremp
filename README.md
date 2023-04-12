@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OHcWeekKrq-ZpBHirsHHY8IBD6YNfS3BXyINvWp6dgTgEPNZj1_97YkjFbVgUChGzEntzLBZoA3Ow5zu">](https://music.youtube.com/watch?v=SREBUSgwe5I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/k6lNoIFfdbRX-fqs54DQMHEN9jwgaQZYxlTSS9O9iDrI3XZg_u1eQjZj7-lCFTP8Lrh15gHrSEw9H-9c">](https://music.youtube.com/watch?v=e6YwevnuNDY)
 
-XIA (준수) - 네가 불어오는 이곳에서 난 여전히
+이선희 - 그대 손 놓아요
 
-**Albums**: 옷소매 붉은 끝동 OST Part.7
+**Albums**: 옷소매 붉은 끝동 OST, Part 8
 
-Last updated at 04/12/2023 14:11
+Last updated at 04/12/2023 16:32
