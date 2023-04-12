@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=eeu2Y3mdSkU)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NBTVEVO)
 
-나씽 벗 띠브즈 - Particles (Piano Version)
 
-**Albums**: Broken Machine (Deluxe)
+  
+    Nothing But Thieves
+  
+  
+  
+    Nothing But Thieves
+  
 
-Last updated at 04/12/2023 17:12
+
+
+
+  공식 아티스트 채널
+
+
+ - Nothing But Thieves - Impossible (Official Video)
+
+**Albums**: Not supported
+
+Last updated at 04/13/2023 01:06
