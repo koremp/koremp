@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@KodalineVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NBTVEVO)
 
 
   
-    Kodaline
+    Nothing But Thieves
   
   
   
-    Kodaline
+    Nothing But Thieves
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Kodaline - All I Want (Official Live Video)
+ - Nothing But Thieves - If I Get High (Live Session)
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 07:57
+Last updated at 04/14/2023 08:09
