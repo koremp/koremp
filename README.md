@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NBTVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/@BastilleVEVO)
 
 
   
-    Nothing But Thieves
+    BASTILLEvideos
   
   
   
-    Nothing But Thieves
+    BASTILLEvideos
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Nothing But Thieves - Wake Up Call (Official Video)
+ - Bastille - Million Pieces ft. The Chamber Orchestra Of London (Live)
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 08:11
+Last updated at 04/14/2023 08:15
