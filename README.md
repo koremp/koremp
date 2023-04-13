@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NBTVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/@oasisinetofficial)
 
 
   
-    Nothing But Thieves
+    Oasis
   
   
   
-    Nothing But Thieves
+    Oasis
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Nothing But Thieves - Impossible (Orchestral Version - Live at Abbey Road)
+ - Oasis - Don't Look Back In Anger (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 07:06
+Last updated at 04/14/2023 07:12
