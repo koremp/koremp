@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@HarryStylesVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NothingButThieves)
 
 
   
-    Harry Styles
+    Nothing But Thieves
   
   
   
-    Harry Styles
+    Nothing But Thieves
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Harry Styles - Sign of the Times (Official Video)
+ - Nothing But Thieves :: Emergency (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 08:27
+Last updated at 04/14/2023 08:33
