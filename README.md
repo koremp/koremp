@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@oasisinetofficial)
+[<img align="left" width="100" src="">](https://www.youtube.com/@HozierVEVO)
 
 
   
-    Oasis
+    Hozier
   
   
   
-    Oasis
+    Hozier
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Oasis - Don't Look Back In Anger (Official Video)
+ - Hozier - Take Me To Church
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 07:12
+Last updated at 04/14/2023 07:15
