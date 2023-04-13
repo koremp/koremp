@@ -122,7 +122,7 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NothingButThieves)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NBTVEVO)
 
 
   
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Nothing But Thieves :: Emergency (Official Video)
+ - Nothing But Thieves - Lover, Please Stay (Live)
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 08:33
+Last updated at 04/14/2023 08:37
