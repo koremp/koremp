@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UChT-gK2vEdLZcVu6Z1nXcIA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCwiHPGVc8ysb9mhOw9HjcTA)
 
 
   
-    Nothing But Thieves
+    조유리 JO YURI
   
   
   
-    Nothing But Thieves
+    조유리 JO YURI
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Particles (Piano Version)
+ - Loveable
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 10:28
+Last updated at 04/14/2023 10:32
