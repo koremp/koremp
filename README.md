@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/omCs21jqwK4Ss_VZxPFKwQP5z0UY0vi_8gXu4XNxHKDgE-GHYHWkIw80XR1uzFgdyhM3PvVUZeZ8iAfF">](https://music.youtube.com/watch?v=gGwN25z7FrE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/81FK3h8BEgE_-05_jgW0cXbJKswBgdpI8GsHVhB12nNN9zZSdt3VBsPZjRbkZZ_K2_ixgsH-vdJa6yg">](https://music.youtube.com/watch?v=E49T3rdx2Bc)
 
-Taylor Swift - Anti-Hero
+Machine Gun Kelly - Bad Things
 
-**Albums**: Midnights
+**Albums**: bloom
 
-Last updated at 04/14/2023 15:47
+Last updated at 04/14/2023 15:49
