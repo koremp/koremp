@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/y6b4yT6dCKEVmzBvATUWodOFLYc81vwxuK0nTgE-scZ3BvyuY9639NL_UyGc6zc_ASoELG67fDUNta0">](https://music.youtube.com/watch?v=XqoanTj5pNY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0E9HBL8a3DsxPJZvkb7ufoTHcVA3LvKWHmA7DF0di8iU-XFLtI7BLNODn1e2Gsb0OhuhqkOKSJQLzgrD">](https://music.youtube.com/watch?v=H9NJenpBV2I)
 
-Adele - Someone Like You
+Adele - Easy On Me
 
-**Albums**: 21
+**Albums**: Easy On Me
 
-Last updated at 04/14/2023 11:59
+Last updated at 04/14/2023 12:05
