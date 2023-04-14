@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsKRGdJdubNmpx-f5r1GSL9vknmVtv1tAYu4WGmKZYoke-g0i5SKxRFnPY8HxIx9TEkAqMIPX6JkBplG">](https://music.youtube.com/watch?v=OsfAnsMY21M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7sMjbNSjtNC2vVrXNtXT1m2bD6vxtIF2CceQIFBn2Dq-PcUbkcA0prNgWAREezxeHAaHrzO9-_xd-FM">](https://music.youtube.com/watch?v=67ibXO8viXE)
 
-두아 리파 - Levitating
+Sam Smith(샘 스미스) - I'm Not The Only One
 
-**Albums**: Future Nostalgia
+**Albums**: In The Lonely Hour
 
-Last updated at 04/14/2023 14:13
+Last updated at 04/14/2023 14:17
