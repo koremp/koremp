@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KBA-ncuT4o-6_3mWmV4Q0Is79Kyn2hwGjjBw8RmvO3K39GgTV6z-GVC3Z6WPZzaz1NxIWcTHDaDL-0E2YQ">](https://music.youtube.com/watch?v=q11Ezg7nOxY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PL7vgoHxrkITylGw2shdHlPHuBAclcLvpgiR6kuOd2KQfD256UgJ0uGcEaauEHmsc2z2qO1AQKJ6wtAR">](https://music.youtube.com/watch?v=LeI63QngLDw)
 
-Hailee Steinfeld - Most Girls
+사샤 슬론 - Runaway
 
-**Albums**: Herstory in the Making
+**Albums**: Runaway
 
-Last updated at 04/14/2023 15:53
+Last updated at 04/14/2023 15:57
