@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0E9HBL8a3DsxPJZvkb7ufoTHcVA3LvKWHmA7DF0di8iU-XFLtI7BLNODn1e2Gsb0OhuhqkOKSJQLzgrD">](https://music.youtube.com/watch?v=H9NJenpBV2I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LRj9RZOKcS7PrG-NvXKnwSekCqXNWMItrnuF6WXmr3MeujS1HxqjiATe6H5HCM6-hoHNYncjmlIovaaH">](https://music.youtube.com/watch?v=-hzFTJDJGkQ)
 
-Adele - Easy On Me
+Adele(아델) - Love in the Dark
 
-**Albums**: Easy On Me
+**Albums**: 25
 
-Last updated at 04/14/2023 12:05
+Last updated at 04/14/2023 12:07
