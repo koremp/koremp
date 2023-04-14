@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uimtOO9FPrfJBLL3cJhqdVvkVfliVgIZuPW9-2DQjZRa8fwjiXwQP1lv7Bf83yBfZXRpr-rpc9Tfkq0">](https://music.youtube.com/watch?v=8VKD-IlvibI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iXNs16I7PMj0nLbmzuRwv6_NSt9ZIjT6Pt9jXgNINzJa3r6A0M33H84Iwor1N2cxiUnwc9T2wPVPXjkr">](https://music.youtube.com/watch?v=yJMzimTPsEo)
 
-Sam Smith 및 Kim Petras - Unholy
+R3HAB, ZAYN 및 Jungleboi - Flames
 
-**Albums**: Unholy
+**Albums**: Flames (The EP)
 
-Last updated at 04/14/2023 15:41
+Last updated at 04/14/2023 15:43
