@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UWM-x77xhcEEAK8tKICtlDSxsYedoFxQhdiDPzW-Ww59DWs7rDQpD_idJQ6h5YEJruURgpEr1O-0oq5Y">](https://music.youtube.com/watch?v=2Kff0U8w-aU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mkL9IhDIiqFBdaOyAESbM_R5yMD0baUUvpSkuzu9PbPPiO0XO35dHivQvQ8FQvcJWHu5s2CkPV0DFzM">](https://music.youtube.com/watch?v=o0Zvv2p4YiU)
 
-NewJeans - OMG
+Anne-Marie - Then
 
-**Albums**: NewJeans 'OMG'
+**Albums**: Speak Your Mind (Deluxe)
 
-Last updated at 04/14/2023 13:59
+Last updated at 04/14/2023 14:03
