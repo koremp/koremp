@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ihO_uJ8LtO4nj9T3gxQf_nZIR4ylbZYkFV_lb1f6TB45cNqsYfiJcqSRohdCmOuuLC7bxNufD0PP1oBHyw">](https://music.youtube.com/watch?v=Hm8cUhc4tWM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yW3Ly_WOLilk7t7tcMCQj2gyw4CYaU5b1c02Hz5l7v0QxgN8M_uMJ9x62c60ApBJMCjvUEW-a6_y69C0">](https://music.youtube.com/watch?v=BBBN6yUcef0)
 
-Zedd(제드) 및 Kehlani(켈라니) - Good Thing
+킹 프린세스 - 1950
 
-**Albums**: Good Thing
+**Albums**: 1950
 
-Last updated at 04/14/2023 14:25
+Last updated at 04/14/2023 14:37
