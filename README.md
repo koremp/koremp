@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/asRURuGHQ82PdSHSSP-5MSB7RPHav5nB8ANPpLlWTd5qHLMauainYaEq37pzz6XSufRdIPVvnVROqViA">](https://music.youtube.com/watch?v=CA3ZD2TZ_SA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=oc6qyUQTMFA)
 
-Adele - I Drink Wine (Live at The BRIT Awards 2022)
+Bebe Rexha(비비 렉사) - Ferrari
 
-**Albums**: I Drink Wine (Live at The BRIT Awards 2022)
+**Albums**: Expectations
 
-Last updated at 04/14/2023 13:07
+Last updated at 04/14/2023 13:11
