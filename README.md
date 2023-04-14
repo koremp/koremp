@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7sMjbNSjtNC2vVrXNtXT1m2bD6vxtIF2CceQIFBn2Dq-PcUbkcA0prNgWAREezxeHAaHrzO9-_xd-FM">](https://music.youtube.com/watch?v=67ibXO8viXE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/t7lZdMlbD0-tmKgFnxi9FHcYeViQ06Knbh64TIT4Y-Ikt22aHYXNXnHxdMwe6a235VQOSEtnPCyMu8M">](https://music.youtube.com/watch?v=yIQcsvKnxqw)
 
-Sam Smith(샘 스미스) - I'm Not The Only One
+Regard, Troye Sivan 및 Tate McRae - You
 
-**Albums**: In The Lonely Hour
+**Albums**: You
 
-Last updated at 04/14/2023 14:17
+Last updated at 04/14/2023 14:21
