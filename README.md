@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VcsDIQ-UUP6zgDhZ1lXR7SJq4IatKm1oFU2UsseP60F2jrZ_cZEE2DaeefDl8Flfd6TDgPUpcniHwm2S">](https://music.youtube.com/watch?v=4ujBQOzs6Lw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/y6b4yT6dCKEVmzBvATUWodOFLYc81vwxuK0nTgE-scZ3BvyuY9639NL_UyGc6zc_ASoELG67fDUNta0">](https://music.youtube.com/watch?v=a2giXO6eyuI)
 
-Adele - Rolling in the Deep
+Adele - Set Fire to the Rain
 
-**Albums**: Rolling in the Deep
+**Albums**: 21
 
-Last updated at 04/14/2023 11:51
+Last updated at 04/14/2023 11:55
