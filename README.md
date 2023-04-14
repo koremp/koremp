@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PZV9KrvUe8Xh0se7tSP1mxDjIVwSm_nVsWdCz6-EpOUetrs71W10RR0jTSkB7YlaMNTkTRsCJXRsuFMb7w">](https://music.youtube.com/watch?v=mowtPJ5pwuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y5_M3ecuG8L0XCN2Uz2Ny-rTTHG49w16_tS_mQJxtzr2kkGp5KNUlSMqhOpitbhIrTb42dSSZDHtaz0T">](https://music.youtube.com/watch?v=EhofbISZeKs)
 
-Bebe Rexha(비비 렉사) - Baby, I'm Jealous(feat. Doja Cat(도자캣))
+Zedd(제드) 및 Jasmine Thompson - Funny
 
-**Albums**: Baby, I'm Jealous
+**Albums**: Funny
 
-Last updated at 04/14/2023 16:13
+Last updated at 04/14/2023 16:17
