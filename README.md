@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjqYTQjO-JG-8vLlt6-4iyQ)
 
 
   
-    Maroon 5
+    NCT 127
   
   
   
-    Maroon 5
+    NCT 127
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Wait
+ - Sun & Moon
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 11:25
+Last updated at 04/14/2023 11:31
