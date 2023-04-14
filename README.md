@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yW3Ly_WOLilk7t7tcMCQj2gyw4CYaU5b1c02Hz5l7v0QxgN8M_uMJ9x62c60ApBJMCjvUEW-a6_y69C0">](https://music.youtube.com/watch?v=BBBN6yUcef0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/39KUo_MyYmSY6AHx_io_WlP5_zNqMykWbNOvcUTIpvCaqfZFp0XMGX5gQE70WvM_yE3-uyXm_oD3GqJq5Q">](https://music.youtube.com/watch?v=b5Ib1bnIPN8)
 
-킹 프린세스 - 1950
+Alma 및 French Montana - Phases
 
-**Albums**: 1950
+**Albums**: Phases
 
-Last updated at 04/14/2023 14:37
+Last updated at 04/14/2023 14:41
