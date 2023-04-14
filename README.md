@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iXNs16I7PMj0nLbmzuRwv6_NSt9ZIjT6Pt9jXgNINzJa3r6A0M33H84Iwor1N2cxiUnwc9T2wPVPXjkr">](https://music.youtube.com/watch?v=yJMzimTPsEo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/omCs21jqwK4Ss_VZxPFKwQP5z0UY0vi_8gXu4XNxHKDgE-GHYHWkIw80XR1uzFgdyhM3PvVUZeZ8iAfF">](https://music.youtube.com/watch?v=gGwN25z7FrE)
 
-R3HAB, ZAYN 및 Jungleboi - Flames
+Taylor Swift - Anti-Hero
 
-**Albums**: Flames (The EP)
+**Albums**: Midnights
 
-Last updated at 04/14/2023 15:43
+Last updated at 04/14/2023 15:47
