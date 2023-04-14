@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/39KUo_MyYmSY6AHx_io_WlP5_zNqMykWbNOvcUTIpvCaqfZFp0XMGX5gQE70WvM_yE3-uyXm_oD3GqJq5Q">](https://music.youtube.com/watch?v=b5Ib1bnIPN8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CegaHZBAm9fvJJAimNB2jWSzFumJj4178ccnZsR2-7ukYHAoVUvRzmW4w72kbSv4t7ZIjFKOudT2ztTOcw">](https://music.youtube.com/watch?v=mrukuuMUu_s)
 
-Alma 및 French Montana - Phases
+Machine Gun Kelly, X Ambassadors 및 Bebe Rexha - Home
 
-**Albums**: Phases
+**Albums**: Home
 
-Last updated at 04/14/2023 14:41
+Last updated at 04/14/2023 14:45
