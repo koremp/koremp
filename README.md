@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xKS1GIQRC4PkSVmvY5ayZFD7v3hypngxiIOUA86DLIvuYH5Jkt2vALAcwvpLV2BGT9FCH7BX_3j4zVN">](https://music.youtube.com/watch?v=QgKYZWRH4DA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsKRGdJdubNmpx-f5r1GSL9vknmVtv1tAYu4WGmKZYoke-g0i5SKxRFnPY8HxIx9TEkAqMIPX6JkBplG">](https://music.youtube.com/watch?v=OsfAnsMY21M)
 
-Marshmello(마시멜로) 및 Bastille - Happier
+두아 리파 - Levitating
 
-**Albums**: Happier
+**Albums**: Future Nostalgia
 
-Last updated at 04/14/2023 14:11
+Last updated at 04/14/2023 14:13
