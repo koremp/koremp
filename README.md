@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@Skrillex)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRw0x9_EfawqmgDI2IgQLLg)
 
 
   
-    Skrillex
+    Adele
   
   
   
-    Skrillex
+    Adele
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Skrillex with Bobby Raps - Leave Me Like This
+ - Love Is A Game
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 11:41
+Last updated at 04/14/2023 11:49
