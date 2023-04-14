@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CegaHZBAm9fvJJAimNB2jWSzFumJj4178ccnZsR2-7ukYHAoVUvRzmW4w72kbSv4t7ZIjFKOudT2ztTOcw">](https://music.youtube.com/watch?v=mrukuuMUu_s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=oc6qyUQTMFA)
 
-Machine Gun Kelly, X Ambassadors 및 Bebe Rexha - Home
+Bebe Rexha(비비 렉사) - Ferrari
 
-**Albums**: Home
+**Albums**: Expectations
 
-Last updated at 04/14/2023 14:45
+Last updated at 04/14/2023 14:49
