@@ -122,25 +122,22 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCK49WVAaBRnVci8fmM4NiLQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC8_Ag6BVp43Vmrx6eillK9g)
 
 
   
-    yeahyeahyeahsmusic
+    Vaundy
   
   
   
-    yeahyeahyeahsmusic
+    Vaundy
   
 
 
 
 
-  공식 아티스트 채널
-
-
- - Heads Will Roll (A-Trak Remix)
+ - 東京フラッシュ
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 10:36
+Last updated at 04/14/2023 11:19
