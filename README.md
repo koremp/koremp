@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xe9bE6n-eibnXPIlc-UEemlqsMMcz-S100IjrclFeaKrw1ATP9rbPrNy9jLA1zA02Zc-3YAFROuNEFKA">](https://music.youtube.com/watch?v=7pfX1OKqP80)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xKS1GIQRC4PkSVmvY5ayZFD7v3hypngxiIOUA86DLIvuYH5Jkt2vALAcwvpLV2BGT9FCH7BX_3j4zVN">](https://music.youtube.com/watch?v=QgKYZWRH4DA)
 
-Coldplay(콜드플레이) - Everglow
+Marshmello(마시멜로) 및 Bastille - Happier
 
-**Albums**: A Head Full of Dreams
+**Albums**: Happier
 
-Last updated at 04/14/2023 14:05
+Last updated at 04/14/2023 14:11
