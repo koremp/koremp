@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/y6b4yT6dCKEVmzBvATUWodOFLYc81vwxuK0nTgE-scZ3BvyuY9639NL_UyGc6zc_ASoELG67fDUNta0">](https://music.youtube.com/watch?v=dJg4_rL9h7Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PhVU-kMJ5nBN-2e-L_JCVTW5kan4xPPMteWl4ta9CVDxwzL8OwQpdMPytZeelTb53xNr-dwuQIoOUrq9ZQ">](https://music.youtube.com/watch?v=LJzp_mDxaT0)
 
-Adele - One And Only
+Adele(아델) - Skyfall
 
-**Albums**: 21
+**Albums**: Skyfall
 
-Last updated at 04/14/2023 12:45
+Last updated at 04/14/2023 12:49
