@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tgDKXG9pHrKFMGjwDM9waFSOs_KlSXF05uymprrGyHvLLg6KGl6U-O34pI2cNukVMatNft6lY-SyaEzHxQ">](https://music.youtube.com/watch?v=Lur-rvf6A1c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uimtOO9FPrfJBLL3cJhqdVvkVfliVgIZuPW9-2DQjZRa8fwjiXwQP1lv7Bf83yBfZXRpr-rpc9Tfkq0">](https://music.youtube.com/watch?v=8VKD-IlvibI)
 
-Zedd(제드) - Clarity(feat. Foxes)
+Sam Smith 및 Kim Petras - Unholy
 
-**Albums**: Clarity
+**Albums**: Unholy
 
-Last updated at 04/14/2023 15:37
+Last updated at 04/14/2023 15:41
