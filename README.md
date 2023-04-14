@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGLkHQhItLSV_RHmAV3ZIAmRAvG-hFhePudTmIBDDmpVaIjbXgDk0ret57oVhwGM72q7YoHcn-WiWMV4sg">](https://music.youtube.com/watch?v=4mUPy84mdb0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v4-5lDw7-B6SnIa9M8kt7Ey58uvmT00VR7rzWA1X8qJgQ4Cpb_06L9p9wWw2At33z4XwqQnF9bBQry7f">](https://music.youtube.com/watch?v=h-ttM62thcs)
 
-LSD - Audio(feat. Sia, Diplo, Labrinth)
+비 밀러 - like that
 
-**Albums**: Audio
+**Albums**: aurora
 
-Last updated at 04/14/2023 16:01
+Last updated at 04/14/2023 16:03
