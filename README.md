@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t7lZdMlbD0-tmKgFnxi9FHcYeViQ06Knbh64TIT4Y-Ikt22aHYXNXnHxdMwe6a235VQOSEtnPCyMu8M">](https://music.youtube.com/watch?v=yIQcsvKnxqw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ihO_uJ8LtO4nj9T3gxQf_nZIR4ylbZYkFV_lb1f6TB45cNqsYfiJcqSRohdCmOuuLC7bxNufD0PP1oBHyw">](https://music.youtube.com/watch?v=Hm8cUhc4tWM)
 
-Regard, Troye Sivan 및 Tate McRae - You
+Zedd(제드) 및 Kehlani(켈라니) - Good Thing
 
-**Albums**: You
+**Albums**: Good Thing
 
-Last updated at 04/14/2023 14:21
+Last updated at 04/14/2023 14:25
