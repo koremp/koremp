@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x1aJfVvycE3JUA_Hmo6kAzlm0IXLb9OCqio3mHp904M7GSAhPAk-7ur6f17Gs8RieaHsh6J5L_hqLwc">](https://music.youtube.com/watch?v=b3jInWRaEZE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kdxNs0ahH_gfU8my_Oyd9Tw_3lUkwxXkR6gKrVIhmMi45g5M2zfteMgE5NwxG4u13FSAnNDBjzCXVBi6">](https://music.youtube.com/watch?v=3SuWvAcL3VI)
 
-이모셔널 오렌지스 - West Coast Love
+샤이 마틴 - Out of My Hands
 
-**Albums**: The Juice: Vol. II
+**Albums**: Out of My Hands
 
-Last updated at 04/14/2023 16:07
+Last updated at 04/14/2023 16:11
