@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mkL9IhDIiqFBdaOyAESbM_R5yMD0baUUvpSkuzu9PbPPiO0XO35dHivQvQ8FQvcJWHu5s2CkPV0DFzM">](https://music.youtube.com/watch?v=o0Zvv2p4YiU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xe9bE6n-eibnXPIlc-UEemlqsMMcz-S100IjrclFeaKrw1ATP9rbPrNy9jLA1zA02Zc-3YAFROuNEFKA">](https://music.youtube.com/watch?v=7pfX1OKqP80)
 
-Anne-Marie - Then
+Coldplay(콜드플레이) - Everglow
 
-**Albums**: Speak Your Mind (Deluxe)
+**Albums**: A Head Full of Dreams
 
-Last updated at 04/14/2023 14:03
+Last updated at 04/14/2023 14:05
