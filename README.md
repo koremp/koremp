@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LRj9RZOKcS7PrG-NvXKnwSekCqXNWMItrnuF6WXmr3MeujS1HxqjiATe6H5HCM6-hoHNYncjmlIovaaH">](https://music.youtube.com/watch?v=a1IuJLebHgM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Aedl8eDTStNDV5zX97WbmLWuSOsSRcnwRXKdNrk6BNxDZc5PeCJSYlzCHSuVusXZVOIqUpkscegTqfw">](https://music.youtube.com/watch?v=urKPQtbE_bs)
 
-Adele(아델) - When We Were Young
+Adele - Chasing Pavements
 
-**Albums**: 25
+**Albums**: Chasing Pavements
 
-Last updated at 04/14/2023 12:35
+Last updated at 04/14/2023 12:41
