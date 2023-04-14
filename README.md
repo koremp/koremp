@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4RAA8DTjbTlmZy561mmq4Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/@Skrillex)
 
 
   
-    Dreamcatcher official
+    Skrillex
   
   
   
-    Dreamcatcher official
+    Skrillex
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - BOCA
+ - Skrillex with Bobby Raps - Leave Me Like This
 
 **Albums**: Not supported
 
-Last updated at 04/14/2023 11:35
+Last updated at 04/14/2023 11:41
