@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y5_M3ecuG8L0XCN2Uz2Ny-rTTHG49w16_tS_mQJxtzr2kkGp5KNUlSMqhOpitbhIrTb42dSSZDHtaz0T">](https://music.youtube.com/watch?v=EhofbISZeKs)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCgpBsaDW2n_6ruzht3wvP0A)
 
-Zedd(제드) 및 Jasmine Thompson - Funny
 
-**Albums**: Funny
+  
+    SAM SMITH
+  
+  
+  
+    SAM SMITH
+  
 
-Last updated at 04/14/2023 16:17
+
+
+
+  공식 아티스트 채널
+
+
+ - Unholy
+
+**Albums**: Not supported
+
+Last updated at 04/15/2023 22:19
