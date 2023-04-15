@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCgpBsaDW2n_6ruzht3wvP0A)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
 
   
-    SAM SMITH
+    NewJeans
   
   
   
-    SAM SMITH
+    NewJeans
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Unholy
+ - Attention
 
 **Albums**: Not supported
 
-Last updated at 04/15/2023 22:19
+Last updated at 04/15/2023 22:23
