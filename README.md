@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@weareoneEXO)
+[<img align="left" width="100" src="">](https://www.youtube.com/@SuperM)
 
 
   
-    EXO
+    SuperM
   
   
   
-    EXO
+    SuperM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - [#BAEKHYUN Cam] 'LOVE ME RIGHT' | EXO @2023 EXO FANMEETING "EXO’ CLOCK"
+ - SuperM 슈퍼엠 'One (Monster & Infinity)' Live Performance @tvN SuperM's As We Wish
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 22:51
+Last updated at 04/16/2023 23:13
