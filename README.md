@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@RayChenViolinist)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
 
   
-    Ray Chen
+    Bomsori 김봄소리
   
   
   
-    Ray Chen
+    Bomsori 김봄소리
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Vitali "Chaconne" for Violin & Piano | Ray Chen & Julien Quentin
+ - 비에냐프스키 폴로네이즈 라장조, 작품 4 - 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 19:13
+Last updated at 04/16/2023 19:27
