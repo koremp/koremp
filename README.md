@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCPC0L1d253x-KuMNwa05TpA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UChT-gK2vEdLZcVu6Z1nXcIA)
 
 
   
-    Taylor Swift
+    Nothing But Thieves
   
   
   
-    Taylor Swift
+    Nothing But Thieves
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Delicate
+ - Particles (Piano Version)
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 18:41
+Last updated at 04/16/2023 18:45
