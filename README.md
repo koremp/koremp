@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@SuperM)
+[<img align="left" width="100" src="">](https://www.youtube.com/@weareoneEXO)
 
 
   
-    SuperM
+    EXO
   
   
   
-    SuperM
+    EXO
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - SuperM 슈퍼엠 ‘호랑이 (Tiger Inside)’ Dance Practice
+ - [#BAEKHYUN Cam] 'LOVE ME RIGHT' | EXO @2023 EXO FANMEETING "EXO’ CLOCK"
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 20:45
+Last updated at 04/16/2023 22:51
