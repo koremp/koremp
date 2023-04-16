@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NBTVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/@RayChenViolinist)
 
 
   
-    Nothing But Thieves
+    Ray Chen
   
   
   
-    Nothing But Thieves
+    Ray Chen
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Nothing But Thieves - Impossible (Official Video)
+ - Vitali "Chaconne" for Violin & Piano | Ray Chen & Julien Quentin
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 18:47
+Last updated at 04/16/2023 19:13
