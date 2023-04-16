@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEUX9tUYqTFfPQdAgVNsKTA)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCTsmtown)
 
 
   
-    EXO
+    NCT
   
   
   
-    EXO
+    NCT
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 불공평해 Unfair
+ - NCT U 엔시티 유 'Baby Don't Stop' Stage Video
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 23:53
+Last updated at 04/17/2023 00:05
