@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjqYTQjO-JG-8vLlt6-4iyQ)
 
 
   
-    Bebe Rexha
+    NCT 127
   
   
   
-    Bebe Rexha
+    NCT 127
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Break My Heart Myself (feat. Travis Barker)
+ - Sun & Moon
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 18:33
+Last updated at 04/16/2023 18:35
