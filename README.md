@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCTsmtown)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
 
 
   
-    NCT
+    NCT 127
   
   
   
-    NCT
+    NCT 127
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - NCT U 엔시티 유 'Baby Don't Stop' Stage Video
+ - NCT 127 엔시티 127 'Ay-Yo' Performance Video
 
 **Albums**: Not supported
 
-Last updated at 04/17/2023 00:05
+Last updated at 04/17/2023 00:21
