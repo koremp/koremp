@@ -122,7 +122,7 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UChT-gK2vEdLZcVu6Z1nXcIA)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NBTVEVO)
 
 
   
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Particles (Piano Version)
+ - Nothing But Thieves - Impossible (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 18:45
+Last updated at 04/16/2023 18:47
