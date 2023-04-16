@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCPC0L1d253x-KuMNwa05TpA)
 
 
   
-    NewJeans
+    Taylor Swift
   
   
   
-    NewJeans
+    Taylor Swift
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Attention
+ - Delicate
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 18:39
+Last updated at 04/16/2023 18:41
