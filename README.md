@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCs8JR1ngAf-t8wZkidmHEPA)
 
 
   
-    Bomsori 김봄소리
+    Seong-Jin Cho
   
   
   
-    Bomsori 김봄소리
+    Seong-Jin Cho
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 비에냐프스키 폴로네이즈 라장조, 작품 4 - 김봄소리
+ - Debussy: Suite bergamasque, L. 75 - II. Menuet
 
 **Albums**: Not supported
 
-Last updated at 04/16/2023 19:27
+Last updated at 04/16/2023 19:47
