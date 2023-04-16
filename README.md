@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@NCT127)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCTDREAM)
 
 
   
-    NCT 127
+    NCT DREAM
   
   
   
-    NCT 127
+    NCT DREAM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - NCT 127 엔시티 127 'Ay-Yo' Performance Video
+ - NCT DREAM 엔시티 드림 '맛 (Hot Sauce)' Dance Practice (Moving Ver.)
 
 **Albums**: Not supported
 
-Last updated at 04/17/2023 00:21
+Last updated at 04/17/2023 00:59
