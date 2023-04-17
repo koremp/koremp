@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=xK0-qPQ_hk0)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UChT-gK2vEdLZcVu6Z1nXcIA)
 
-Jack Ü 및 Skrillex - To Ü(feat. Aluna)
 
-**Albums**: Skrillex and Diplo present Jack Ü
+  
+    Nothing But Thieves
+  
+  
+  
+    Nothing But Thieves
+  
 
-Last updated at 04/17/2023 11:53
+
+
+
+  공식 아티스트 채널
+
+
+ - Particles (Piano Version)
+
+**Albums**: Not supported
+
+Last updated at 04/17/2023 11:57
