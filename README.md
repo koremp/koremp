@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ti--UulzzX8bSQ1Wl7DwZVbieYblhz5h9M0mC-EJ1guvCKvl7yvbMsHqlQK5dGTSBe78tqvrWlUMlBs">](https://music.youtube.com/watch?v=6H7lTyzVCEU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fnr_qibcoQ5Z_DoJOP0NWBWWHX6xcq7JvXF5DZYLfmH0Zo3KZM1xkCwgfYxBUTWCQVYA3vdQ6q1ZrLSCYw">](https://music.youtube.com/watch?v=-eUYBNIntTI)
 
-Skrillex 및 Nai Barghouti - XENA
+10-FEET - 第ゼロ感
 
-**Albums**: XENA
+**Albums**: 제ZERO감 (Dai Zero Kan)
 
-Last updated at 04/17/2023 11:44
+Last updated at 04/17/2023 11:48
