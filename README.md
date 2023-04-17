@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Gf1Kc877-gzDvslE1ZrHfCWadJgzVvB_l4KLD-AKCbW9P20R8hFoxD3S8UstsEGZ6sXnYjiqk8SpqlqG">](https://music.youtube.com/watch?v=6xKMUYXddV4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Gf1Kc877-gzDvslE1ZrHfCWadJgzVvB_l4KLD-AKCbW9P20R8hFoxD3S8UstsEGZ6sXnYjiqk8SpqlqG">](https://music.youtube.com/watch?v=5yIiHzMN1kQ)
 
-베를린 필하모니 관현악단 및 Herbert von Karajan - Borodin: Polovtsian Dances From Prince Igor - Dance Of The Polovtsian Maidens
+베를린 필하모니 관현악단 및 Herbert von Karajan - Borodin: Polovtsian Dances From Prince Igor - Polovtsian Dances
 
 **Albums**: Rimsky-Korsakov: Scheherazade / Borodin: Polovtsian Dances
 
-Last updated at 04/17/2023 11:28
+Last updated at 04/17/2023 11:32
