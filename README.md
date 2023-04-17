@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fnr_qibcoQ5Z_DoJOP0NWBWWHX6xcq7JvXF5DZYLfmH0Zo3KZM1xkCwgfYxBUTWCQVYA3vdQ6q1ZrLSCYw">](https://music.youtube.com/watch?v=-eUYBNIntTI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=xK0-qPQ_hk0)
 
-10-FEET - 第ゼロ感
+Jack Ü 및 Skrillex - To Ü(feat. Aluna)
 
-**Albums**: 제ZERO감 (Dai Zero Kan)
+**Albums**: Skrillex and Diplo present Jack Ü
 
-Last updated at 04/17/2023 11:48
+Last updated at 04/17/2023 11:53
