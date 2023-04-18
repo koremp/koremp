@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UChT-gK2vEdLZcVu6Z1nXcIA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=oc6qyUQTMFA)
 
+Bebe Rexha(비비 렉사) - Ferrari
 
-  
-    Nothing But Thieves
-  
-  
-  
-    Nothing But Thieves
-  
+**Albums**: Expectations
 
-
-
-
-  공식 아티스트 채널
-
-
- - Particles (Piano Version)
-
-**Albums**: Not supported
-
-Last updated at 04/17/2023 11:57
+Last updated at 04/18/2023 09:38
