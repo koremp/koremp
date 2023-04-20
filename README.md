@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC49r4GNHHpc-eQ9hmD2Rg6A)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
 
   
-    Eagles
+    Bomsori 김봄소리
   
   
   
-    Eagles
+    Bomsori 김봄소리
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Desperado (2013 Remaster)
+ - 생상 서주와 론도 카프리치오소, 작품 28 - 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 04/20/2023 10:18
+Last updated at 04/20/2023 11:44
