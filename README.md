@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@SuperM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TgX2Kf1bK-oasRMnLSSeu9_JBYFrWEFm3iQHa3ddK45vXd1V5v-BHk-KSAg30CD7YkySVEwBiFdgjEk3">](https://music.youtube.com/watch?v=mjb9iChNPuk)
 
+Nothing But Thieves - Welcome to the DCC
 
-  
-    SuperM
-  
-  
-  
-    SuperM
-  
+**Albums**: Welcome to the DCC
 
-
-
-
-  공식 아티스트 채널
-
-
- - SuperM 슈퍼엠 ‘호랑이 (Tiger Inside)’ Dance Practice
-
-**Albums**: Not supported
-
-Last updated at 04/22/2023 08:14
+Last updated at 04/24/2023 04:32
