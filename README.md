@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=5yiyNUqxn_Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/g271eam15RPGCmEHm7t-OEVVgLGslfc_gPhQ14Yer1IAIyCdAuFZ6DO5hSnir-aFMvWq7fX-6jRMFROZHQ">](https://music.youtube.com/watch?v=itIg_NtAbnk)
 
-나씽 벗 띠브즈 - Sorry
+나씽 벗 띠브즈 - You Know Me Too Well
 
-**Albums**: Broken Machine (Deluxe)
+**Albums**: What Did You Think When You Made Me This Way?
 
-Last updated at 04/24/2023 04:48
+Last updated at 04/24/2023 04:52
