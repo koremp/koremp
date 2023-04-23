@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=I6g-FUVDdxw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kg5nLvN4rOL3EXbl-Lm68ZrF1S6ac2BfpzrGizH_A4Z2LibSbF-llfh_2Bv7pb78_7swsbAoxsOyAFLt">](https://music.youtube.com/watch?v=p5ufrKv7TTM)
 
-나씽 벗 띠브즈 - Honey Whiskey
+Nothing But Thieves - Futureproof
 
-**Albums**: Nothing But Thieves (Deluxe)
+**Albums**: Moral Panic II
 
-Last updated at 04/24/2023 04:56
+Last updated at 04/24/2023 04:58
