@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eVy4x0Sj_6FVkK8GOGG-xEYv4odeb9Kmig33brEiBEWdfsD8JRSQ2aJdGGfZjzbF9tIHSlZgPAUEq-bM">](https://music.youtube.com/watch?v=HSqGybG32zw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=VmbOkN8zhos)
 
-나씽 벗 띠브즈 - Impossible
+나씽 벗 띠브즈 - Particles
 
-**Albums**: Moral Panic
+**Albums**: Broken Machine (Deluxe)
 
-Last updated at 04/24/2023 05:06
+Last updated at 04/24/2023 05:10
