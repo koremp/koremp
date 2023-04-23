@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TgX2Kf1bK-oasRMnLSSeu9_JBYFrWEFm3iQHa3ddK45vXd1V5v-BHk-KSAg30CD7YkySVEwBiFdgjEk3">](https://music.youtube.com/watch?v=mjb9iChNPuk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=R3MuRY7LAg8)
 
-Nothing But Thieves - Welcome to the DCC
+나씽 벗 띠브즈 - Amsterdam
 
-**Albums**: Welcome to the DCC
+**Albums**: Broken Machine (Deluxe)
 
-Last updated at 04/24/2023 04:32
+Last updated at 04/24/2023 04:36
