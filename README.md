@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eVy4x0Sj_6FVkK8GOGG-xEYv4odeb9Kmig33brEiBEWdfsD8JRSQ2aJdGGfZjzbF9tIHSlZgPAUEq-bM">](https://music.youtube.com/watch?v=69ny1l5KnWA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=5yiyNUqxn_Y)
 
-나씽 벗 띠브즈 - Is Everybody Going Crazy?
+나씽 벗 띠브즈 - Sorry
 
-**Albums**: Moral Panic
+**Albums**: Broken Machine (Deluxe)
 
-Last updated at 04/24/2023 04:44
+Last updated at 04/24/2023 04:48
