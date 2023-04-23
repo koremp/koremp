@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=b0MUD0FDcqI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eVy4x0Sj_6FVkK8GOGG-xEYv4odeb9Kmig33brEiBEWdfsD8JRSQ2aJdGGfZjzbF9tIHSlZgPAUEq-bM">](https://music.youtube.com/watch?v=69ny1l5KnWA)
 
-나씽 벗 띠브즈 - If I Get High
+나씽 벗 띠브즈 - Is Everybody Going Crazy?
 
-**Albums**: Nothing But Thieves (Deluxe)
+**Albums**: Moral Panic
 
-Last updated at 04/24/2023 04:40
+Last updated at 04/24/2023 04:44
