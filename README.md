@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=P1DE0Jk9800)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eVy4x0Sj_6FVkK8GOGG-xEYv4odeb9Kmig33brEiBEWdfsD8JRSQ2aJdGGfZjzbF9tIHSlZgPAUEq-bM">](https://music.youtube.com/watch?v=HSqGybG32zw)
 
-나씽 벗 띠브즈 - Trip Switch
+나씽 벗 띠브즈 - Impossible
 
-**Albums**: Nothing But Thieves (Deluxe)
+**Albums**: Moral Panic
 
-Last updated at 04/24/2023 05:02
+Last updated at 04/24/2023 05:06
