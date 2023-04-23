@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/g271eam15RPGCmEHm7t-OEVVgLGslfc_gPhQ14Yer1IAIyCdAuFZ6DO5hSnir-aFMvWq7fX-6jRMFROZHQ">](https://music.youtube.com/watch?v=itIg_NtAbnk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=I6g-FUVDdxw)
 
-나씽 벗 띠브즈 - You Know Me Too Well
+나씽 벗 띠브즈 - Honey Whiskey
 
-**Albums**: What Did You Think When You Made Me This Way?
+**Albums**: Nothing But Thieves (Deluxe)
 
-Last updated at 04/24/2023 04:52
+Last updated at 04/24/2023 04:56
