@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=R3MuRY7LAg8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/watch?v=b0MUD0FDcqI)
 
-나씽 벗 띠브즈 - Amsterdam
+나씽 벗 띠브즈 - If I Get High
 
-**Albums**: Broken Machine (Deluxe)
+**Albums**: Nothing But Thieves (Deluxe)
 
-Last updated at 04/24/2023 04:36
+Last updated at 04/24/2023 04:40
