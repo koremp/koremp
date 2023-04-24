@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@ToveLoVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/@KenshiYonezu)
 
 
   
-    Tove Lo
+    Kenshi Yonezu  米津玄師
   
   
   
-    Tove Lo
+    Kenshi Yonezu  米津玄師
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Tove Lo - Habits (Stay High) - Hippie Sabotage Remix
+ - 米津玄師 Kenshi Yonezu - KICKBACK
 
 **Albums**: Not supported
 
-Last updated at 04/24/2023 23:08
+Last updated at 04/24/2023 23:14
