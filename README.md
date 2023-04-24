@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@jackuofficial)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCCF_6PwrZf1u70yghKms3Mw)
 
 
   
-    Jack Ü
+    Lil Nas X
   
   
   
-    Jack Ü
+    Lil Nas X
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Skrillex & Diplo - "Mind" feat. Kai (Official Video)
+ - INDUSTRY BABY
 
 **Albums**: Not supported
 
-Last updated at 04/24/2023 23:02
+Last updated at 04/24/2023 23:06
