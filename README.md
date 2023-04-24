@@ -122,7 +122,7 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@weareoneEXO)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEUX9tUYqTFfPQdAgVNsKTA)
 
 
   
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - EXO 엑소 'Obsession' Dance Practice
+ - LOVE ME RIGHT
 
 **Albums**: Not supported
 
-Last updated at 04/24/2023 13:43
+Last updated at 04/24/2023 21:21
