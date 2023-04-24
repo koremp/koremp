@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TOHQynM7-Q5JlZas0k59BGm3xfD3p8zssBBZNyWXiQEedzJIYv3hmHkvD0c2MkN3BGmcaE6K97ISkrri">](https://music.youtube.com/watch?v=VmbOkN8zhos)
+[<img align="left" width="100" src="">](https://www.youtube.com/@genhoshino)
 
-나씽 벗 띠브즈 - Particles
 
-**Albums**: Broken Machine (Deluxe)
+  
+    星野源
+  
+  
+  
+    星野源
+  
 
-Last updated at 04/24/2023 05:10
+
+
+
+  공식 아티스트 채널
+
+
+ - 호시노 겐 – 恋（Live at Tokyo Dome 2019）
+
+**Albums**: Not supported
+
+Last updated at 04/24/2023 13:39
