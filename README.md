@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@genhoshino)
+[<img align="left" width="100" src="">](https://www.youtube.com/@weareoneEXO)
 
 
   
-    星野源
+    EXO
   
   
   
-    星野源
+    EXO
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 호시노 겐 – 恋（Live at Tokyo Dome 2019）
+ - EXO 엑소 'Obsession' Dance Practice
 
 **Albums**: Not supported
 
-Last updated at 04/24/2023 13:39
+Last updated at 04/24/2023 13:43
