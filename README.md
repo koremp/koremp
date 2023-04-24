@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@Skrillex)
+[<img align="left" width="100" src="">](https://www.youtube.com/@jackuofficial)
 
 
   
-    Skrillex
+    Jack Ü
   
   
   
-    Skrillex
+    Jack Ü
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Skrillex & Kill The Noise - Recess Ft. Fatman Scoop and Michael Angelakos (Official Audio)
+ - Skrillex & Diplo - "Mind" feat. Kai (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 04/24/2023 22:50
+Last updated at 04/24/2023 23:02
