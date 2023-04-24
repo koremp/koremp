@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEUX9tUYqTFfPQdAgVNsKTA)
+[<img align="left" width="100" src="">](https://www.youtube.com/@Skrillex)
 
 
   
-    EXO
+    Skrillex
   
   
   
-    EXO
+    Skrillex
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - LOVE ME RIGHT
+ - Skrillex with Nai Barghouti - Xena (Official Audio)
 
 **Albums**: Not supported
 
-Last updated at 04/24/2023 21:21
+Last updated at 04/24/2023 22:05
