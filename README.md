@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DFuB0dnkBI2v-qbqAxpRB2a6EWagBm5u0RyeV35n5-U7C8AchzD1bdtkri8O3yPGBTmCwmo_rIC5XlA4">](https://music.youtube.com/watch?v=kK9l65NzL9g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DFuB0dnkBI2v-qbqAxpRB2a6EWagBm5u0RyeV35n5-U7C8AchzD1bdtkri8O3yPGBTmCwmo_rIC5XlA4">](https://music.youtube.com/watch?v=Ww7B7UVi0Ls)
 
-하현상 - 말야
+하현상 - 시간과 흔적
 
 **Albums**: Time and Trace
 
-Last updated at 04/27/2023 22:25
+Last updated at 04/27/2023 22:31
