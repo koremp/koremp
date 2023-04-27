@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DFuB0dnkBI2v-qbqAxpRB2a6EWagBm5u0RyeV35n5-U7C8AchzD1bdtkri8O3yPGBTmCwmo_rIC5XlA4">](https://music.youtube.com/watch?v=5Q58SY35Z7I)
 
+하현상 - Melancholy
 
-  
-    하현상 HA HYUN SANG
-  
-  
-  
-    하현상 HA HYUN SANG
-  
+**Albums**: Time and Trace
 
-
-
-
-  공식 아티스트 채널
-
-
- - 하현상 (Ha Hyun Sang) - 시간과 흔적 (Time and Trace) M/V
-
-**Albums**: Not supported
-
-Last updated at 04/27/2023 18:05
+Last updated at 04/27/2023 22:13
