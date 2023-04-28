@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jcAZnTe2fMQ_eyU3KkvXYxExpeN5_oYxvljCfyGZVu-bFbIyH19RnJ94LUxuqgsab8bKGq-TudiULzQmmQ">](https://music.youtube.com/watch?v=50vPM-vrhgY)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
-EVERGLOW (에버글로우) - LA DI DA
 
-**Albums**: -77.82x / -78.29
+  
+    Bomsori 김봄소리
+  
+  
+  
+    Bomsori 김봄소리
+  
 
-Last updated at 04/27/2023 22:33
+
+
+
+  공식 아티스트 채널
+
+
+ - 생상 서주와 론도 카프리치오소, 작품 28 - 김봄소리
+
+**Albums**: Not supported
+
+Last updated at 04/28/2023 10:21
