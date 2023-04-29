@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCcd0t-9ZY10egXxpTTROaPw)
 
 
   
-    Bomsori 김봄소리
+    하현상 HA HYUN SANG
   
   
   
-    Bomsori 김봄소리
+    하현상 HA HYUN SANG
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 생상 서주와 론도 카프리치오소, 작품 28 - 김봄소리
+ - One Day
 
 **Albums**: Not supported
 
-Last updated at 04/28/2023 10:21
+Last updated at 04/29/2023 17:21
