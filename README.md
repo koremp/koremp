@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" width="100" src="">](https://www.youtube.com/@Radiohead)
 
 
   
-    Jaurim
+    Radiohead
   
   
   
-    Jaurim
+    Radiohead
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 있지
+ - Radiohead - High and Dry
 
 **Albums**: Not supported
 
-Last updated at 04/29/2023 17:27
+Last updated at 04/29/2023 17:31
