@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCcd0t-9ZY10egXxpTTROaPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=DzZRp3tHqPs)
 
+하현상 - 하이웨이
 
-  
-    하현상 HA HYUN SANG
-  
-  
-  
-    하현상 HA HYUN SANG
-  
+**Albums**: Calibrate
 
-
-
-
-  공식 아티스트 채널
-
-
- - One Day
-
-**Albums**: Not supported
-
-Last updated at 04/29/2023 17:41
+Last updated at 05/01/2023 12:52
