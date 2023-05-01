@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqbnqcj6xoCmi5sCZqZcUsK5jYH9HRN0koZL-OIzxbqAovbLQa7zb5SL0DwjUD5VMawPs15EcbrsYm96">](https://music.youtube.com/watch?v=5xkD13Rk7EE)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCcd0t-9ZY10egXxpTTROaPw)
 
-하현상 - 어떤 이의 편지
 
-**Albums**: Calibrate
+  
+    하현상 HA HYUN SANG
+  
+  
+  
+    하현상 HA HYUN SANG
+  
 
-Last updated at 05/01/2023 13:10
+
+
+
+  공식 아티스트 채널
+
+
+ - Highway
+
+**Albums**: Not supported
+
+Last updated at 05/01/2023 22:03
