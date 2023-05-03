@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - LUCY - Intro(Paganini Caprice No.24) + Knowhow Concert Live Clip (@2022 Encore Concert) / ENG sub
+ - LUCY - 개화(Flowering) Concert Live Clip (@2023 INSERT COIN: amusement park) /ENG sub
 
 **Albums**: Not supported
 
-Last updated at 05/04/2023 06:58
+Last updated at 05/04/2023 07:06
