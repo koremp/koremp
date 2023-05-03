@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEUX9tUYqTFfPQdAgVNsKTA)
+[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
 
 
   
-    EXO
+    하현상 HA HYUN SANG
   
   
   
-    EXO
+    하현상 HA HYUN SANG
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 으르렁 Growl
+ - [Playlist] Cover by 하현상 모음 | 2020.05 ~ 2021.12
 
 **Albums**: Not supported
 
-Last updated at 05/02/2023 00:41
+Last updated at 05/04/2023 06:36
