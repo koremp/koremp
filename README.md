@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
+[<img align="left" width="100" src="">](https://www.youtube.com/@LUCYISLAND)
 
 
   
-    Bomsori 김봄소리
+    LUCY ISLAND
   
   
   
-    Bomsori 김봄소리
+    LUCY ISLAND
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 생상 서주와 론도 카프리치오소, 작품 28 - 김봄소리
+ - LUCY - Intro(Paganini Caprice No.24) + Knowhow Concert Live Clip (@2022 Encore Concert) / ENG sub
 
 **Albums**: Not supported
 
-Last updated at 05/04/2023 06:46
+Last updated at 05/04/2023 06:58
