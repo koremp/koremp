@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIWIRhfv7TSDb1IvZbQiBj6fVxFeTNPUU_yJAYJ7-p4BFQTMFoB54L2_AS09LyZmmb53E0i5mwOoz753">](https://music.youtube.com/watch?v=RDA6UTE7ntQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HqNwAzwzR2TUjn1Tz6bVx0DzP_YzhlvkxJ3WL0pvMwHkmERqiIFoW_ofPw2H6ZXIkDcNI_T962DzM8p3">](https://music.youtube.com/watch?v=4UTR7K3QDaw)
 
-tripleS (트리플에스) - Rolex
+소녀시대-태티서 (Girls` Generation-TTS) - Dear Santa
 
-**Albums**: Acid Angel from Asia <ACCESS>
+**Albums**: Dear Santa - X-Mas Special
 
-Last updated at 05/04/2023 11:28
+Last updated at 05/04/2023 11:30
