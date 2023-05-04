@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HqNwAzwzR2TUjn1Tz6bVx0DzP_YzhlvkxJ3WL0pvMwHkmERqiIFoW_ofPw2H6ZXIkDcNI_T962DzM8p3">](https://music.youtube.com/watch?v=4UTR7K3QDaw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwLoJUUVpdk7QU0BKzjHAoMiDxX1hadM9idh6MBKPTgJJoqFBPI1IXEofWtyCssl01XlUG9jPCIq1Dc">](https://music.youtube.com/watch?v=rjMcJHfzoIs)
 
-소녀시대-태티서 (Girls` Generation-TTS) - Dear Santa
+EXO - 으르렁 Growl (EXO-K Version)
 
-**Albums**: Dear Santa - X-Mas Special
+**Albums**: XOXO (Kiss&Hug) [Repackage]
 
-Last updated at 05/04/2023 11:30
+Last updated at 05/04/2023 11:32
