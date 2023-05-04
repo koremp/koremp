@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Young, Dumb, Stupid
+ - O.O
 
 **Albums**: Not supported
 
-Last updated at 05/04/2023 09:49
+Last updated at 05/04/2023 09:51
