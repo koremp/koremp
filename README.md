@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwLoJUUVpdk7QU0BKzjHAoMiDxX1hadM9idh6MBKPTgJJoqFBPI1IXEofWtyCssl01XlUG9jPCIq1Dc">](https://music.youtube.com/watch?v=rjMcJHfzoIs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xVjohX2D0CKfZXvE3mjqVSkkGK8wR1OF1bMrvDgi1_sBO16V1lj5zdG1jzyElwydyJKEqUMpvcoV-3HkEw">](https://music.youtube.com/watch?v=PCOf_gkIFuY)
 
-EXO - 으르렁 Growl (EXO-K Version)
+NCT 127 - Cherry Bomb
 
-**Albums**: XOXO (Kiss&Hug) [Repackage]
+**Albums**: NCT #127 CHERRY BOMB – The 3rd Mini Album
 
-Last updated at 05/04/2023 11:32
+Last updated at 05/04/2023 11:34
