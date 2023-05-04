@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_Cx288SDUD9liYn7CiJLAA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfWELfxrSN1ryuNWZtXqR3g)
 
 
   
-    NMIXX
+    Ryuichi Sakamoto
   
   
   
-    NMIXX
+    Ryuichi Sakamoto
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - O.O
+ - Merry Christmas Mr. Lawrence
 
 **Albums**: Not supported
 
-Last updated at 05/04/2023 09:51
+Last updated at 05/04/2023 10:37
