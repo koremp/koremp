@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h49Sjui2wvQdg8fMqLuadESwxCRxj-Tb6ZxFJNB0OvIRTDRWw595RqJBc9CSRQws_lvjk-Xfb6yfF7_T">](https://music.youtube.com/watch?v=Wu8halh9DXs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TF_z8iMBnkpY7ZImXoafoARIMwJCPYkecOm7oYDOdHmmlhF41M8sDTJB2JEBvOjoZsTTk59gy7z07pQ">](https://music.youtube.com/watch?v=xlSHPP4H-GU)
 
-EXO - CALL ME BABY
+NCT DREAM - 맛 Hot Sauce
 
-**Albums**: The 2nd Album ‘EXODUS’
+**Albums**: Hello Future - The 1st Album Repackage
 
-Last updated at 05/04/2023 11:38
+Last updated at 05/04/2023 11:42
