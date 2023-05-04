@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCIMmuidNJdncfMEelOU08Fg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_Cx288SDUD9liYn7CiJLAA)
 
 
   
-    Stray Kids
+    NMIXX
   
   
   
-    Stray Kids
+    NMIXX
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 소리꾼 Thunderous
+ - Young, Dumb, Stupid
 
 **Albums**: Not supported
 
-Last updated at 05/04/2023 09:45
+Last updated at 05/04/2023 09:49
