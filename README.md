@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Rising (Rising)
+ - Generation (Generation)
 
 **Albums**: Not supported
 
-Last updated at 05/04/2023 09:39
+Last updated at 05/04/2023 09:43
