@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gDFPgkvcIKn7n5JnswVafo5APUzgr1R_o2IsIvQOvsf2rqr5HV0iQnS8lX0FSaavK67OLfCZj8M2U4QvlA">](https://music.youtube.com/watch?v=78oicMpxe2Y)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEUX9tUYqTFfPQdAgVNsKTA)
 
-베를린 필하모니 관현악단 및 클라우디오 아바도 - 말러: 교향곡 1번 라장조: 1. Langsam. Schleppend
 
-**Albums**: 말러: 교향곡 1번
+  
+    EXO
+  
+  
+  
+    EXO
+  
 
-Last updated at 05/04/2023 13:18
+
+
+
+  공식 아티스트 채널
+
+
+ - 으르렁 Growl
+
+**Albums**: Not supported
+
+Last updated at 05/04/2023 13:38
