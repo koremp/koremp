@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCeoT9BqyKRktIHvQnWE8zug)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NL8YQ1ZSsfCK9gXHt7gzDK5YOhBqMNvHkdhZS2zSI2rvU1iis5nIiR1ZtI7eGq9XKJZYjl71rv4YpraLjw">](https://music.youtube.com/watch?v=VGYHcfRnwx4)
 
+Red Velvet 및 aespa - Beautiful Christmas
 
-  
-    Joe Hisaishi Official
-  
-  
-  
-    Joe Hisaishi Official
-  
+**Albums**: Beautiful Christmas
 
-
-
-
-  공식 아티스트 채널
-
-
- - Merry-Go-Round of Life (from 'Howl's Moving Castle')
-
-**Albums**: Not supported
-
-Last updated at 05/04/2023 10:53
+Last updated at 05/04/2023 11:18
