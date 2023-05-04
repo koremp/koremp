@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xVjohX2D0CKfZXvE3mjqVSkkGK8wR1OF1bMrvDgi1_sBO16V1lj5zdG1jzyElwydyJKEqUMpvcoV-3HkEw">](https://music.youtube.com/watch?v=PCOf_gkIFuY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/h49Sjui2wvQdg8fMqLuadESwxCRxj-Tb6ZxFJNB0OvIRTDRWw595RqJBc9CSRQws_lvjk-Xfb6yfF7_T">](https://music.youtube.com/watch?v=Wu8halh9DXs)
 
-NCT 127 - Cherry Bomb
+EXO - CALL ME BABY
 
-**Albums**: NCT #127 CHERRY BOMB – The 3rd Mini Album
+**Albums**: The 2nd Album ‘EXODUS’
 
-Last updated at 05/04/2023 11:34
+Last updated at 05/04/2023 11:38
