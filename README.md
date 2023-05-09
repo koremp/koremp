@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z9eRe-9--V-57CN6RPJ_bhHYCwZCW1Wn6L22hLVUOEr-d6NQqjyKx8WsfZxOA8CX3FubX6VC5Blwy_CB">](https://music.youtube.com/watch?v=5WAURat5GPM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/D-7AjZeLlzSxu5afmcPtFlfE2mmTWMj83Ktu3XaYU9QAIOorlYAvlPlRGiAo9QF8xSvLSx-w8mfJVd4">](https://music.youtube.com/watch?v=IZwze68yHuM)
 
-STAYC(스테이씨) - Poppy (Korean Ver.)
+(G)I-DLE - 덤디덤디 DUMDi DUMDi
 
-**Albums**: Teddy Bear
+**Albums**: 덤디덤디 (DUMDi DUMDi)
 
-Last updated at 05/09/2023 20:11
+Last updated at 05/09/2023 20:15
