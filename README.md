@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rRNhGZel5py4g7sQwyOb7q6PpByniPGYF8VTDAIynbKKWiW5vQb5Eo-CxlgTlCEqEMmHcUvQypBclA">](https://music.youtube.com/watch?v=46OZn8cYXCI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LByf0mMLcFCMrgzQe6adcPHZusdCRCxaD7WIjesH93TCnvrJzKUpqFzznB9W3h8mW6zG4RXRSeLhtCwK">](https://music.youtube.com/watch?v=feeJZePrIcc)
 
-조유리 - Loveable
+tripleS (트리플에스) - New Look
 
-**Albums**: Op.22 Y-Waltz : in Minor
+**Albums**: ASSEMBLE
 
-Last updated at 05/09/2023 19:55
+Last updated at 05/09/2023 19:57
