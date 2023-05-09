@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEUX9tUYqTFfPQdAgVNsKTA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
 
 
   
-    EXO
+    YOUNHA OFFICIAL
   
   
   
-    EXO
+    YOUNHA OFFICIAL
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 으르렁 Growl
+ - Event Horizon (사건의 지평선)
 
 **Albums**: Not supported
 
-Last updated at 05/04/2023 13:38
+Last updated at 05/09/2023 12:29
