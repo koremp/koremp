@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI">](https://music.youtube.com/watch?v=pZ79wTVoBZ4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z9eRe-9--V-57CN6RPJ_bhHYCwZCW1Wn6L22hLVUOEr-d6NQqjyKx8WsfZxOA8CX3FubX6VC5Blwy_CB">](https://music.youtube.com/watch?v=EoO2MTDkpJA)
 
-Skrillex(스크릴렉스) - Recess
+STAYC(스테이씨) - Teddy Bear
 
-**Albums**: Recess
+**Albums**: Teddy Bear
 
-Last updated at 05/09/2023 13:43
+Last updated at 05/09/2023 19:51
