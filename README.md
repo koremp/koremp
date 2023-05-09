@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw">](https://music.youtube.com/watch?v=fFU3VEimqe0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw">](https://music.youtube.com/watch?v=CRqx7dJhmHw)
 
-Skrillex, Fred again.. 및 Flowdan - Rumble
+Skrillex, Starrah 및 Four Tet - Butterflies
 
 **Albums**: Quest For Fire
 
-Last updated at 05/09/2023 12:51
+Last updated at 05/09/2023 12:53
