@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/D-7AjZeLlzSxu5afmcPtFlfE2mmTWMj83Ktu3XaYU9QAIOorlYAvlPlRGiAo9QF8xSvLSx-w8mfJVd4">](https://music.youtube.com/watch?v=IZwze68yHuM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JdidEvp4PTDr7PQa1oT33AIwk13PhDEnQIL-9XQezo8_nYWt0bK9zmkRTyNNHvwV43yKGyZTn3g2Wf5SMw">](https://music.youtube.com/watch?v=KLrcpz2p6UQ)
 
-(G)I-DLE - 덤디덤디 DUMDi DUMDi
+카라 - STEP
 
-**Albums**: 덤디덤디 (DUMDi DUMDi)
+**Albums**: KARA 3rd Album STEP
 
-Last updated at 05/09/2023 20:15
+Last updated at 05/09/2023 20:17
