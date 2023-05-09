@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw">](https://music.youtube.com/watch?v=i2FYhe3Yeek)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=U_h1NScp1_o)
 
-Skrillex, Porter Robinson 및 Bibi Bourelly - Still Here (with the ones that I came with)
+Jack Ü - Mind(feat. 카이(Kai))
 
-**Albums**: Quest For Fire
+**Albums**: Skrillex and Diplo present Jack Ü
 
-Last updated at 05/09/2023 13:23
+Last updated at 05/09/2023 13:27
