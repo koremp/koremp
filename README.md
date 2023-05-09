@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yg7U52lN4NMHddFXE1de6d99puDNeC-1U6q5PnLjXPatrexqW9AOoWC8a5EJBULlXraaEWU8OvKrFYrp1A">](https://music.youtube.com/watch?v=kdOS94IjzzE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qg1_MHQbTPhDPqc8f9M-47Kd7JrbOSRC-CxC5eoWZXfvRwMV8LKuUsFizLjxi1A1Jzp-vXbTumFd-gc">](https://music.youtube.com/watch?v=-QHLKZJQrKg)
 
-NewJeans - Attention
+샤이니 - Lucifer
 
-**Albums**: NewJeans 1st EP 'New Jeans'
+**Albums**: Hello - SHINee The 2nd Album Repackage
 
-Last updated at 05/09/2023 20:05
+Last updated at 05/09/2023 20:07
