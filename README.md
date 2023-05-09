@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z9eRe-9--V-57CN6RPJ_bhHYCwZCW1Wn6L22hLVUOEr-d6NQqjyKx8WsfZxOA8CX3FubX6VC5Blwy_CB">](https://music.youtube.com/watch?v=EoO2MTDkpJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rRNhGZel5py4g7sQwyOb7q6PpByniPGYF8VTDAIynbKKWiW5vQb5Eo-CxlgTlCEqEMmHcUvQypBclA">](https://music.youtube.com/watch?v=46OZn8cYXCI)
 
-STAYC(스테이씨) - Teddy Bear
+조유리 - Loveable
 
-**Albums**: Teddy Bear
+**Albums**: Op.22 Y-Waltz : in Minor
 
-Last updated at 05/09/2023 19:51
+Last updated at 05/09/2023 19:55
