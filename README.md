@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qg1_MHQbTPhDPqc8f9M-47Kd7JrbOSRC-CxC5eoWZXfvRwMV8LKuUsFizLjxi1A1Jzp-vXbTumFd-gc">](https://music.youtube.com/watch?v=-QHLKZJQrKg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z9eRe-9--V-57CN6RPJ_bhHYCwZCW1Wn6L22hLVUOEr-d6NQqjyKx8WsfZxOA8CX3FubX6VC5Blwy_CB">](https://music.youtube.com/watch?v=5WAURat5GPM)
 
-샤이니 - Lucifer
+STAYC(스테이씨) - Poppy (Korean Ver.)
 
-**Albums**: Hello - SHINee The 2nd Album Repackage
+**Albums**: Teddy Bear
 
-Last updated at 05/09/2023 20:07
+Last updated at 05/09/2023 20:11
