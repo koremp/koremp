@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw">](https://music.youtube.com/watch?v=tegMC5iYmSE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw">](https://music.youtube.com/watch?v=TQjK_P7jlJk)
 
-Skrillex, Aluna 및 Kito - Inhale Exhale
+Skrillex 및 Eli Keszler - A Street I Know
 
 **Albums**: Quest For Fire
 
-Last updated at 05/09/2023 12:57
+Last updated at 05/09/2023 13:01
