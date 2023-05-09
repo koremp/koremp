@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-Z36hDM3qPoz7zOQN0npbjGB1tAhuSNqmuKSGq_LmX7hzcqPOwf7HZTGfFq0dH4jevzJ5pL_GxwzfcbX">](https://music.youtube.com/watch?v=FrZ1bZDPqYk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI">](https://music.youtube.com/watch?v=pZ79wTVoBZ4)
 
-Fred again.. - Kelly (end of a nightmare)
+Skrillex(스크릴렉스) - Recess
 
-**Albums**: Actual Life 3 (January 1 - September 9 2022)
+**Albums**: Recess
 
-Last updated at 05/09/2023 13:39
+Last updated at 05/09/2023 13:43
