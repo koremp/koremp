@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9o2uTS7iNtq1kb9aoWfK969LMamMuqCg_piLLwMpxEXLaFWVvvyMr46cISJffx9Dzsx9YGIOQND3CfQ">](https://music.youtube.com/watch?v=LtqSUqei4To)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-Z36hDM3qPoz7zOQN0npbjGB1tAhuSNqmuKSGq_LmX7hzcqPOwf7HZTGfFq0dH4jevzJ5pL_GxwzfcbX">](https://music.youtube.com/watch?v=FrZ1bZDPqYk)
 
-JOYRYDE - DAMN(feat. Freddie Gibbs)
+Fred again.. - Kelly (end of a nightmare)
 
-**Albums**: BRAVE
+**Albums**: Actual Life 3 (January 1 - September 9 2022)
 
-Last updated at 05/09/2023 13:35
+Last updated at 05/09/2023 13:39
