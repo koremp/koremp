@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_SIQfr9yrbrFfJcty3RKFxFquHR_nLKQomUijrFWN8fZGZR9B-mixZdxXv01sc0nheOpEs1CnfJZpoRz3Q">](https://music.youtube.com/watch?v=SR37KLIZdNo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9o2uTS7iNtq1kb9aoWfK969LMamMuqCg_piLLwMpxEXLaFWVvvyMr46cISJffx9Dzsx9YGIOQND3CfQ">](https://music.youtube.com/watch?v=LtqSUqei4To)
 
-Marshmello - Unity
+JOYRYDE - DAMN(feat. Freddie Gibbs)
 
-**Albums**: Unity
+**Albums**: BRAVE
 
-Last updated at 05/09/2023 13:33
+Last updated at 05/09/2023 13:35
