@@ -122,22 +122,25 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@YOUNHAOFFICIAL)
+[<img align="left" width="100" src="">](https://www.youtube.com/@bomsori)
 
 
   
-    YOUNHA OFFICIAL
+    Bomsori 김봄소리
   
   
   
-    YOUNHA OFFICIAL
+    Bomsori 김봄소리
   
 
 
 
 
- - 윤하(YOUNHA) - 바람 M/V
+  공식 아티스트 채널
+
+
+ - 생상 서주와 론도 카프리치오소, 작품 28 - 김봄소리
 
 **Albums**: Not supported
 
-Last updated at 05/10/2023 18:41
+Last updated at 05/10/2023 18:53
