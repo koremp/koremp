@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 하현상 (Ha Hyun Sang) - 시간과 흔적 (Time and Trace) M/V (BAND LIVE Ver.)
+ - [Playlist] Cover by 하현상 모음 | 2020.05 ~ 2021.12
 
 **Albums**: Not supported
 
-Last updated at 05/15/2023 05:42
+Last updated at 05/15/2023 05:46
