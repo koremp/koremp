@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TlXKDSRGrj0ogqmGbzyGvZrsT9T0F6xgV-2-3pelbzRms0cODdb-ndDg6SpFzkHYMb4NMMMW957wmrObfw">](https://music.youtube.com/watch?v=JWE9bUDbMAg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=l4Z9kkYAggc)
 
-Charlie Puth(찰리 푸스) - Left Right Left
+aespa - Salty & Sweet
 
-**Albums**: Nine Track Mind
+**Albums**: MY WORLD - The 3rd Mini Album
 
-Last updated at 05/15/2023 16:38
+Last updated at 05/15/2023 16:40
