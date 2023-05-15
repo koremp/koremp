@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TF_z8iMBnkpY7ZImXoafoARIMwJCPYkecOm7oYDOdHmmlhF41M8sDTJB2JEBvOjoZsTTk59gy7z07pQ">](https://music.youtube.com/watch?v=hlrP9GXTx84)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M1wO9OhnG_tmmhuxNaKXdvKqUJdkjD8xKZpshXpSjogNGU7nA0_OI5roPpQbQ6JOBQz8mK_oxk3BavHDQA">](https://music.youtube.com/watch?v=Ex2BKaNX8xA)
 
-NCT DREAM - 고래 Dive into You
+SEVENTEEN - 손오공
 
-**Albums**: Hello Future - The 1st Album Repackage
+**Albums**: SEVENTEEN 10th Mini Album ‘FML’
 
-Last updated at 05/15/2023 16:42
+Last updated at 05/15/2023 16:46
