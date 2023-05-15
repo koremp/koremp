@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M1wO9OhnG_tmmhuxNaKXdvKqUJdkjD8xKZpshXpSjogNGU7nA0_OI5roPpQbQ6JOBQz8mK_oxk3BavHDQA">](https://music.youtube.com/watch?v=Ex2BKaNX8xA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=oc6qyUQTMFA)
 
-SEVENTEEN - 손오공
+Bebe Rexha(비비 렉사) - Ferrari
 
-**Albums**: SEVENTEEN 10th Mini Album ‘FML’
+**Albums**: Expectations
 
-Last updated at 05/15/2023 16:46
+Last updated at 05/15/2023 17:18
