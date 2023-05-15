@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZOiHDojrI75ITLfcfZEb6UxMeTW9KW29RHcwMwjx-K9N8kt8-Xfe9TE75d2fIScSntmg3qnLb2SiUg">](https://music.youtube.com/watch?v=7k12n9iexkY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TlXKDSRGrj0ogqmGbzyGvZrsT9T0F6xgV-2-3pelbzRms0cODdb-ndDg6SpFzkHYMb4NMMMW957wmrObfw">](https://music.youtube.com/watch?v=JWE9bUDbMAg)
 
-John K - cheap sunglasses
+Charlie Puth(찰리 푸스) - Left Right Left
 
-**Albums**: love + everything else
+**Albums**: Nine Track Mind
 
-Last updated at 05/15/2023 16:34
+Last updated at 05/15/2023 16:38
