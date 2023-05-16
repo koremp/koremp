@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=_ggFkc0irCc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=xUV9pcwhY0U)
 
-aespa - Welcome To MY World(feat. nævis)
+aespa - Spicy
 
 **Albums**: MY WORLD - The 3rd Mini Album
 
-Last updated at 05/16/2023 15:01
+Last updated at 05/16/2023 15:05
