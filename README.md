@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGLkHQhItLSV_RHmAV3ZIAmRAvG-hFhePudTmIBDDmpVaIjbXgDk0ret57oVhwGM72q7YoHcn-WiWMV4sg">](https://music.youtube.com/watch?v=4mUPy84mdb0)
+[<img align="left" width="100" src="">](https://www.youtube.com/@official_LCY)
 
-LSD - Audio(feat. Sia, Diplo, Labrinth)
 
-**Albums**: Audio
+  
+    LEE CHAE YEON
+  
+  
+  
+    LEE CHAE YEON
+  
 
-Last updated at 05/15/2023 17:24
+
+
+
+  공식 아티스트 채널
+
+
+ - (MV)LEE CHAE YEON(이채연)_KNOCK
+
+**Albums**: Not supported
+
+Last updated at 05/16/2023 14:55
