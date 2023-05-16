@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@triplescosmos)
+[<img align="left" width="100" src="">](https://www.youtube.com/@Yoonjiyoung)
 
 
   
-    tripleS official
+    윤지영 / Yoon ji young
   
   
   
-    tripleS official
+    윤지영 / Yoon ji young
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 트리플에스(tripleS) 'Rising' MV
+ - 윤지영 (Yoon Jiyoung) - City Seoul [MV]
 
 **Albums**: Not supported
 
-Last updated at 05/16/2023 15:09
+Last updated at 05/17/2023 02:29
