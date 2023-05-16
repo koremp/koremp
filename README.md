@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@official_LCY)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
 
   
-    LEE CHAE YEON
+    LE SSERAFIM
   
   
   
-    LEE CHAE YEON
+    LE SSERAFIM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - (MV)LEE CHAE YEON(이채연)_KNOCK
+ - UNFORGIVEN (feat. Nile Rodgers)
 
 **Albums**: Not supported
 
-Last updated at 05/16/2023 14:55
+Last updated at 05/16/2023 14:57
