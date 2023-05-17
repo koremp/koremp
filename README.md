@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/b_2740Ur9y69cJXFGnR3yk5d7BaMgO89SQxDjJbG3P9rd1SiBf4eTXgqh0DtOM6ltKfg9qZkZ4OI1ldnoA">](https://music.youtube.com/watch?v=pJRejTYMXSY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r5zB0jSp3-ll2Tdxdz3oR5Axg5hF2pufnpUOVZj4vGnhHFfdF_zjBXXteAkWR524-ZsdywUhoq7LYdXV">](https://music.youtube.com/watch?v=B0XRql8-ebI)
 
-FIFTY FIFTY - Lovin' Me
+윤하 - 스무살 어느 날
 
-**Albums**: THE FIFTY
+**Albums**: MINDSET
 
-Last updated at 05/17/2023 11:32
+Last updated at 05/17/2023 11:34
