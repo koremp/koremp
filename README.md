@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x7_1s7IkR-TA_WB1EMjlsUvORQkrlVxEUVFlxJLhzfrxwSW-cbs2hSYkQXtHGIfJrH-lvQklOqmAU1EM">](https://music.youtube.com/watch?v=khq6T9aHcI8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNYwueKXyXRauPqG7yd2m7ORbu18oJfE41tjt4mk6YkKrgtTlTl_dtD-9Jncl4MSg8xVG5IjAzcoSwI">](https://music.youtube.com/watch?v=CcAqoRmQWhA)
 
-IVE - Kitsch
+FIFTY FIFTY - Cupid
 
-**Albums**: I've IVE
+**Albums**: The Beginning: Cupid
 
-Last updated at 05/17/2023 09:54
+Last updated at 05/17/2023 09:56
