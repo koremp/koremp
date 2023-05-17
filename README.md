@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/b_2740Ur9y69cJXFGnR3yk5d7BaMgO89SQxDjJbG3P9rd1SiBf4eTXgqh0DtOM6ltKfg9qZkZ4OI1ldnoA">](https://music.youtube.com/watch?v=bAcNqTPa2T4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jEvwTQrVffHdh1JygyUJoyBUeB6H2jHIwABwcawKB1gP2s8KCa7Hk9z2W_YaF68gp23Ei7XwRQd2WQs">](https://music.youtube.com/watch?v=3kqqMNzvUSg)
 
-FIFTY FIFTY - Higher
+f(x) - 4 Walls
 
-**Albums**: THE FIFTY
+**Albums**: 4 Walls - The 4th Album
 
-Last updated at 05/17/2023 11:08
+Last updated at 05/17/2023 11:12
