@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i_lOVjz6yaha8molbaD7UVz5y0dhxfrllio0g1JQrakbtbn0DJ-V_C4wu6kgpsNmLJK9B3c7a6wid1Y">](https://music.youtube.com/watch?v=qblsN1iM604)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9N_08w38RfHKgXqfmziaBPp_6UpHe9-6qyMk1-Rd12NRVXgxgIO4H940Mh8xqklygYsbwZPsBIPtW3RG">](https://music.youtube.com/watch?v=1tkdmY7sdUc)
 
-tripleS (트리플에스) - Dimension (KRE Ver.)
+아이즈원 - Panorama
 
-**Albums**: +(KR)ystal Eyes <AESTHETIC>
+**Albums**: One-reeler / Act IV
 
-Last updated at 05/17/2023 11:18
+Last updated at 05/17/2023 11:20
