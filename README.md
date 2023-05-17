@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z9eRe-9--V-57CN6RPJ_bhHYCwZCW1Wn6L22hLVUOEr-d6NQqjyKx8WsfZxOA8CX3FubX6VC5Blwy_CB">](https://music.youtube.com/watch?v=EoO2MTDkpJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H78q6zL9AETQNIS8IIfT_94q6_O7AZ8yQfxuAySHwATKkJiILlnnVytdHDCNJcHFrHU-aNzttoRvPBU">](https://music.youtube.com/watch?v=Fmiu0L9XSVg)
 
-STAYC(스테이씨) - Teddy Bear
+NMIXX - Young, Dumb, Stupid
 
-**Albums**: Teddy Bear
+**Albums**: expérgo
 
-Last updated at 05/17/2023 09:40
+Last updated at 05/17/2023 09:42
