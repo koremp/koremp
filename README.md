@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nqYyL2UZsTjC-giQ99M9rE0iKaXVJoH1HE9mr-AOq5ycgpZtmyaVkWPraWnxOHAgVwTp0KsMx2cK7ucf">](https://music.youtube.com/watch?v=S0XFQcslcVA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jUmNvbsuZuEZzVvGTt7jPjeJYR0xA7Kcwfe7MsHO8CoSv_4rzIK8iMunsCdkuHh442cuRVqkoguZzzQ">](https://music.youtube.com/watch?v=vCxxSUWzZRI)
 
-Bebe Rexha - Break My Heart Myself(feat. Travis Barker)
+David Guetta 및 Bebe Rexha - I'm Good (Blue) [Oliver Heldens Remix]
 
-**Albums**: Better Mistakes
+**Albums**: I'm Good (Blue) (Oliver Heldens Remix)
 
-Last updated at 05/17/2023 12:26
+Last updated at 05/17/2023 12:28
