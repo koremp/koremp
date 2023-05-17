@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Usf6DMmQWh5JBXmbD7ZmybEQn4qHNPVs7g1tQ39JYR0Soa5QqmfG2Ga_PTsgmRhJlbJ90v07b1kygPy0">](https://music.youtube.com/watch?v=_yHWG_wrh7w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i_lOVjz6yaha8molbaD7UVz5y0dhxfrllio0g1JQrakbtbn0DJ-V_C4wu6kgpsNmLJK9B3c7a6wid1Y">](https://music.youtube.com/watch?v=qblsN1iM604)
 
-NCT DOJAEJUNG - 후유증 Can We Go Back
+tripleS (트리플에스) - Dimension (KRE Ver.)
 
-**Albums**: Perfume - The 1st Mini Album
+**Albums**: +(KR)ystal Eyes <AESTHETIC>
 
-Last updated at 05/17/2023 11:14
+Last updated at 05/17/2023 11:18
