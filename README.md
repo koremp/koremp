@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@Yoonjiyoung)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=xUV9pcwhY0U)
 
+aespa - Spicy
 
-  
-    윤지영 / Yoon ji young
-  
-  
-  
-    윤지영 / Yoon ji young
-  
+**Albums**: MY WORLD - The 3rd Mini Album
 
-
-
-
-  공식 아티스트 채널
-
-
- - 윤지영 (Yoon Jiyoung) - City Seoul [MV]
-
-**Albums**: Not supported
-
-Last updated at 05/17/2023 02:29
+Last updated at 05/17/2023 09:22
