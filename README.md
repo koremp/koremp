@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tFl_ArksBIRW0Q64sMS9l5RwsQYwrSdSmQO5qYhZ4KWqqkPb8YXsyGJ9vEVYm0y7hVLLrsuBzb__emSX">](https://music.youtube.com/watch?v=GhATpFG3l88)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nqYyL2UZsTjC-giQ99M9rE0iKaXVJoH1HE9mr-AOq5ycgpZtmyaVkWPraWnxOHAgVwTp0KsMx2cK7ucf">](https://music.youtube.com/watch?v=YcKE8vALYkE)
 
-Bebe Rexha(비비 렉사) - Bad Bitch(feat. Ty Dolla $ign)
+Bebe Rexha - Baby, I'm Jealous(feat. Doja Cat)
 
-**Albums**: All Your Fault: Pt. 1
+**Albums**: Better Mistakes
 
-Last updated at 05/17/2023 12:40
+Last updated at 05/17/2023 12:44
