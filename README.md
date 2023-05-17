@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ApFBPzKKqMmGr8aMHN73n0DwgTIVj9Pp2wtMEmZSRqrPf_HWtr3R7D_Zc4ySRrH43Uh6b7ac60-0G6-_5w">](https://music.youtube.com/watch?v=l_da1tdGs6Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H78q6zL9AETQNIS8IIfT_94q6_O7AZ8yQfxuAySHwATKkJiILlnnVytdHDCNJcHFrHU-aNzttoRvPBU">](https://music.youtube.com/watch?v=FxuVJeeKK_4)
 
-WOODZ - Journey
+NMIXX - Love Me Like This
 
-**Albums**: OO-LI
+**Albums**: expérgo
 
-Last updated at 05/17/2023 10:54
+Last updated at 05/17/2023 10:58
