@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dADEHeYCmtWd7pTEcjnXsifoK-_cyJT0h2xe_a3AI3tx4g1UpdWmcrffAE5EAHZe1T2Ly3Xl-s2nF9w">](https://music.youtube.com/watch?v=Z8Ei7OQXkKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=oc6qyUQTMFA)
 
-Billlie (빌리) - lionheart (the real me)
+Bebe Rexha(비비 렉사) - Ferrari
 
-**Albums**: the Billage of perception: chapter three
+**Albums**: Expectations
 
-Last updated at 05/17/2023 12:00
+Last updated at 05/17/2023 12:02
