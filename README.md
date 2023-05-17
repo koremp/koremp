@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GvH5XosavVVtAhcsxClhWtnXdp1IitLGsfAP_2pAWLBVC6DJQNe3UIHbf74qLvOz-_zLXzW-MUkC4PSv">](https://music.youtube.com/watch?v=Y_UlQ-5Da9s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZcnJhSXDTqbuTYCoA3ihBXbfam_Amz0x1pNEb7-WVTULELuSf7Rp_tY0XzPAQPRQnKllBNG72fApNJI">](https://music.youtube.com/watch?v=x9HenizT9Xg)
 
-Red Velvet - Sunny Side Up!
+iKON - U
 
-**Albums**: The ReVe Festival: Finale
+**Albums**: TAKE OFF
 
-Last updated at 05/17/2023 11:44
+Last updated at 05/17/2023 11:48
