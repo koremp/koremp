@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/T0aL1fFaI3KJ9cCA464TVKijD7QL_7Ay_qMekoRqSmnY_xW4b1pbbCMtpa54Z_1y1Dtd0Dz52N5cVvA">](https://music.youtube.com/watch?v=4u4d4GWdpo8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sdZsughX6QPQ9J8SvcFxiSTwKvbzOPs9jHEXgYUD0zuS_ZS1_fhJ6YjOlyr7NOWEvFjsGRRHoWxmh3PMTQ">](https://music.youtube.com/watch?v=cU36WSG-XjI)
 
-Martin Garrix(마틴 개릭스) 및 Bebe Rexha(비비 렉사) - In the Name of Love
+Bebe Rexha(비비 렉사) - Meant to Be(feat. Florida Georgia Line)
 
-**Albums**: In the Name of Love
+**Albums**: All Your Fault: Pt. 2
 
-Last updated at 05/17/2023 12:06
+Last updated at 05/17/2023 12:10
