@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Usf6DMmQWh5JBXmbD7ZmybEQn4qHNPVs7g1tQ39JYR0Soa5QqmfG2Ga_PTsgmRhJlbJ90v07b1kygPy0">](https://music.youtube.com/watch?v=pIxvqjpezcw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/udSFAPIjy0BG97aZRWfrZ9MPxi0_Pq7FVP5RHEe0wVKd3lLVoaoHOyuy8_lsuOrumMqrG1S_FDNbDa38">](https://music.youtube.com/watch?v=TZAukN4oqsM)
 
-NCT DOJAEJUNG - Perfume
+이채연 - KNOCK
 
-**Albums**: Perfume - The 1st Mini Album
+**Albums**: Over The Moon
 
-Last updated at 05/17/2023 10:48
+Last updated at 05/17/2023 10:52
