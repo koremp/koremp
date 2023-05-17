@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=5DhAts7WcPk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/b_2740Ur9y69cJXFGnR3yk5d7BaMgO89SQxDjJbG3P9rd1SiBf4eTXgqh0DtOM6ltKfg9qZkZ4OI1ldnoA">](https://music.youtube.com/watch?v=bAcNqTPa2T4)
 
-aespa - 자각몽 Lucid Dream
+FIFTY FIFTY - Higher
 
-**Albums**: Savage - The 1st Mini Album
+**Albums**: THE FIFTY
 
-Last updated at 05/17/2023 11:04
+Last updated at 05/17/2023 11:08
