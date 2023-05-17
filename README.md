@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=oc6qyUQTMFA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zhcm3n4Spt2RdYQL1SQeplqPqDVYbRxlqxqWuT2ijIAtb1N0bdX66ZRBpJDspmk4ZXVqb2W8wl2FfPkc">](https://music.youtube.com/watch?v=pIb7QoXdP_k)
 
-Bebe Rexha(비비 렉사) - Ferrari
+David Guetta 및 Bebe Rexha - I'm Good (Blue)
 
-**Albums**: Expectations
+**Albums**: Bebe
 
-Last updated at 05/17/2023 12:02
+Last updated at 05/17/2023 12:04
