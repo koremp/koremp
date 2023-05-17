@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WVm938cCHuYeJyYRz0a8NHrvTXnEM6_aPiZOyv8ZzPVWt-wFqM1Fnkko68jgNPhhwI5ub_8z8n1OyhA">](https://music.youtube.com/watch?v=REmUidcJt5I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/b_2740Ur9y69cJXFGnR3yk5d7BaMgO89SQxDjJbG3P9rd1SiBf4eTXgqh0DtOM6ltKfg9qZkZ4OI1ldnoA">](https://music.youtube.com/watch?v=pJRejTYMXSY)
 
-aespa - Savage
+FIFTY FIFTY - Lovin' Me
 
-**Albums**: Savage - The 1st Mini Album
+**Albums**: THE FIFTY
 
-Last updated at 05/17/2023 11:28
+Last updated at 05/17/2023 11:32
