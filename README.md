@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7EDpjB20vq5S4-HQRqAhvGdR-cEMM7lKJX-eVlga34IoEv5JmjCV2RfuQ46hGV86h_Gx0N76RsWei-E">](https://music.youtube.com/watch?v=f1DREmBxfQI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dADEHeYCmtWd7pTEcjnXsifoK-_cyJT0h2xe_a3AI3tx4g1UpdWmcrffAE5EAHZe1T2Ly3Xl-s2nF9w">](https://music.youtube.com/watch?v=Z8Ei7OQXkKQ)
 
-NCT 127 - gimme gimme
+Billlie (빌리) - lionheart (the real me)
 
-**Albums**: LOVEHOLIC
+**Albums**: the Billage of perception: chapter three
 
-Last updated at 05/17/2023 11:56
+Last updated at 05/17/2023 12:00
