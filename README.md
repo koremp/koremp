@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jEvwTQrVffHdh1JygyUJoyBUeB6H2jHIwABwcawKB1gP2s8KCa7Hk9z2W_YaF68gp23Ei7XwRQd2WQs">](https://music.youtube.com/watch?v=3kqqMNzvUSg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Usf6DMmQWh5JBXmbD7ZmybEQn4qHNPVs7g1tQ39JYR0Soa5QqmfG2Ga_PTsgmRhJlbJ90v07b1kygPy0">](https://music.youtube.com/watch?v=_yHWG_wrh7w)
 
-f(x) - 4 Walls
+NCT DOJAEJUNG - 후유증 Can We Go Back
 
-**Albums**: 4 Walls - The 4th Album
+**Albums**: Perfume - The 1st Mini Album
 
-Last updated at 05/17/2023 11:12
+Last updated at 05/17/2023 11:14
