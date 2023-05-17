@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jUmNvbsuZuEZzVvGTt7jPjeJYR0xA7Kcwfe7MsHO8CoSv_4rzIK8iMunsCdkuHh442cuRVqkoguZzzQ">](https://music.youtube.com/watch?v=vCxxSUWzZRI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tFl_ArksBIRW0Q64sMS9l5RwsQYwrSdSmQO5qYhZ4KWqqkPb8YXsyGJ9vEVYm0y7hVLLrsuBzb__emSX">](https://music.youtube.com/watch?v=jDM4Y7pZaDk)
 
-David Guetta 및 Bebe Rexha - I'm Good (Blue) [Oliver Heldens Remix]
+Bebe Rexha(비비 렉사) - I Got You
 
-**Albums**: I'm Good (Blue) (Oliver Heldens Remix)
+**Albums**: All Your Fault: Pt. 1
 
-Last updated at 05/17/2023 12:28
+Last updated at 05/17/2023 12:32
