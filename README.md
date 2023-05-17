@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tFl_ArksBIRW0Q64sMS9l5RwsQYwrSdSmQO5qYhZ4KWqqkPb8YXsyGJ9vEVYm0y7hVLLrsuBzb__emSX">](https://music.youtube.com/watch?v=jDM4Y7pZaDk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aje7-rq0XM3vi-jF6GHJ5ovmQF9VqPx-7fg2MT2IFOKVMaKd4KG9Oo-dpbP6bl1LUEKgmJ5y5CzITYs">](https://music.youtube.com/watch?v=UEXfbNbCQKY)
 
-Bebe Rexha(비비 렉사) - I Got You
+Bebe Rexha - Heart Wants What It Wants
 
-**Albums**: All Your Fault: Pt. 1
+**Albums**: Bebe
 
-Last updated at 05/17/2023 12:32
+Last updated at 05/17/2023 12:34
