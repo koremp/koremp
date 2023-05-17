@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CegaHZBAm9fvJJAimNB2jWSzFumJj4178ccnZsR2-7ukYHAoVUvRzmW4w72kbSv4t7ZIjFKOudT2ztTOcw">](https://music.youtube.com/watch?v=mrukuuMUu_s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aje7-rq0XM3vi-jF6GHJ5ovmQF9VqPx-7fg2MT2IFOKVMaKd4KG9Oo-dpbP6bl1LUEKgmJ5y5CzITYs">](https://music.youtube.com/watch?v=Fah9JLF9lms)
 
-Machine Gun Kelly, X Ambassadors 및 Bebe Rexha - Home
+Bebe Rexha 및 Dolly Parton - Seasons
 
-**Albums**: Home
+**Albums**: Bebe
 
-Last updated at 05/17/2023 12:16
+Last updated at 05/17/2023 12:18
