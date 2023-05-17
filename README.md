@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r5zB0jSp3-ll2Tdxdz3oR5Axg5hF2pufnpUOVZj4vGnhHFfdF_zjBXXteAkWR524-ZsdywUhoq7LYdXV">](https://music.youtube.com/watch?v=B0XRql8-ebI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUpjCQtgdhQYB4jsDu2rdQ9a48DBfyj8G4y13m-kTl39sRdNhvGEL81Z07_I4J4gDhD-8roE77m6AIQ">](https://music.youtube.com/watch?v=EKlyYkD-eLA)
 
-윤하 - 스무살 어느 날
+카라 - WHEN I MOVE
 
-**Albums**: MINDSET
+**Albums**: MOVE AGAIN
 
-Last updated at 05/17/2023 11:34
+Last updated at 05/17/2023 11:38
