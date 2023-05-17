@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zhcm3n4Spt2RdYQL1SQeplqPqDVYbRxlqxqWuT2ijIAtb1N0bdX66ZRBpJDspmk4ZXVqb2W8wl2FfPkc">](https://music.youtube.com/watch?v=pIb7QoXdP_k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/T0aL1fFaI3KJ9cCA464TVKijD7QL_7Ay_qMekoRqSmnY_xW4b1pbbCMtpa54Z_1y1Dtd0Dz52N5cVvA">](https://music.youtube.com/watch?v=4u4d4GWdpo8)
 
-David Guetta 및 Bebe Rexha - I'm Good (Blue)
+Martin Garrix(마틴 개릭스) 및 Bebe Rexha(비비 렉사) - In the Name of Love
 
-**Albums**: Bebe
+**Albums**: In the Name of Love
 
-Last updated at 05/17/2023 12:04
+Last updated at 05/17/2023 12:06
