@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9N_08w38RfHKgXqfmziaBPp_6UpHe9-6qyMk1-Rd12NRVXgxgIO4H940Mh8xqklygYsbwZPsBIPtW3RG">](https://music.youtube.com/watch?v=1tkdmY7sdUc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-a9CU8NyAfZ43xnGtLpeISl7MEajC54AmxHGwRCHjUgp6uE37CSfJdl5Kx82LLtDzTtU8aajSTuvJ8w">](https://music.youtube.com/watch?v=oZb3w3mbBC4)
 
-아이즈원 - Panorama
+민니 - PINK YOUR MOMENT
 
-**Albums**: One-reeler / Act IV
+**Albums**: PINK YOUR MOMENT
 
-Last updated at 05/17/2023 11:20
+Last updated at 05/17/2023 11:24
