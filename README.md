@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H78q6zL9AETQNIS8IIfT_94q6_O7AZ8yQfxuAySHwATKkJiILlnnVytdHDCNJcHFrHU-aNzttoRvPBU">](https://music.youtube.com/watch?v=Fmiu0L9XSVg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wO1e34ZIcA1kJp5IXYqt2JGE2IxrajoiHM_04M9Pgk8RqSxVBsAw1EK4DOuzb_r6NG1d8f9LHN4pcTLo">](https://music.youtube.com/watch?v=SZiwpL62to8)
 
-NMIXX - Young, Dumb, Stupid
+LE SSERAFIM - ANTIFRAGILE
 
-**Albums**: expérgo
+**Albums**: ANTIFRAGILE
 
-Last updated at 05/17/2023 09:42
+Last updated at 05/17/2023 09:46
