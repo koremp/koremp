@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J02TXeYxE-_PH9tXhyQUwS8Dgc0x5iGPNydzJe67M1958cOXaOp0UNVU2EL7xy6KX4qoO8qPH4KC6ViM3w">](https://music.youtube.com/watch?v=HjDNZX6ymSA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tFl_ArksBIRW0Q64sMS9l5RwsQYwrSdSmQO5qYhZ4KWqqkPb8YXsyGJ9vEVYm0y7hVLLrsuBzb__emSX">](https://music.youtube.com/watch?v=GhATpFG3l88)
 
-Bebe Rexha(비비 렉사) - I'm Gonna Show You Crazy
+Bebe Rexha(비비 렉사) - Bad Bitch(feat. Ty Dolla $ign)
 
-**Albums**: I Don't Wanna Grow Up
+**Albums**: All Your Fault: Pt. 1
 
-Last updated at 05/17/2023 12:38
+Last updated at 05/17/2023 12:40
