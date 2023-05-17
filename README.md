@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wO1e34ZIcA1kJp5IXYqt2JGE2IxrajoiHM_04M9Pgk8RqSxVBsAw1EK4DOuzb_r6NG1d8f9LHN4pcTLo">](https://music.youtube.com/watch?v=SZiwpL62to8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=MBbqqWqLPlI)
 
-LE SSERAFIM - ANTIFRAGILE
+aespa - Girls
 
-**Albums**: ANTIFRAGILE
+**Albums**: Girls - The 2nd Mini Album
 
-Last updated at 05/17/2023 09:46
+Last updated at 05/17/2023 09:50
