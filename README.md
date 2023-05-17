@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zhcm3n4Spt2RdYQL1SQeplqPqDVYbRxlqxqWuT2ijIAtb1N0bdX66ZRBpJDspmk4ZXVqb2W8wl2FfPkc">](https://music.youtube.com/watch?v=O2AdA4DoKv0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nqYyL2UZsTjC-giQ99M9rE0iKaXVJoH1HE9mr-AOq5ycgpZtmyaVkWPraWnxOHAgVwTp0KsMx2cK7ucf">](https://music.youtube.com/watch?v=S0XFQcslcVA)
 
-Bebe Rexha 및 Snoop Dogg - Satellite
+Bebe Rexha - Break My Heart Myself(feat. Travis Barker)
 
-**Albums**: Bebe
+**Albums**: Better Mistakes
 
-Last updated at 05/17/2023 12:22
+Last updated at 05/17/2023 12:26
