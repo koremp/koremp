@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LByf0mMLcFCMrgzQe6adcPHZusdCRCxaD7WIjesH93TCnvrJzKUpqFzznB9W3h8mW6zG4RXRSeLhtCwK">](https://music.youtube.com/watch?v=tIk0GK9TbAE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GvH5XosavVVtAhcsxClhWtnXdp1IitLGsfAP_2pAWLBVC6DJQNe3UIHbf74qLvOz-_zLXzW-MUkC4PSv">](https://music.youtube.com/watch?v=Y_UlQ-5Da9s)
 
-tripleS (트리플에스) - The Baddest
+Red Velvet - Sunny Side Up!
 
-**Albums**: ASSEMBLE
+**Albums**: The ReVe Festival: Finale
 
-Last updated at 05/17/2023 11:42
+Last updated at 05/17/2023 11:44
