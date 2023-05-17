@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/udSFAPIjy0BG97aZRWfrZ9MPxi0_Pq7FVP5RHEe0wVKd3lLVoaoHOyuy8_lsuOrumMqrG1S_FDNbDa38">](https://music.youtube.com/watch?v=TZAukN4oqsM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ApFBPzKKqMmGr8aMHN73n0DwgTIVj9Pp2wtMEmZSRqrPf_HWtr3R7D_Zc4ySRrH43Uh6b7ac60-0G6-_5w">](https://music.youtube.com/watch?v=l_da1tdGs6Y)
 
-이채연 - KNOCK
+WOODZ - Journey
 
-**Albums**: Over The Moon
+**Albums**: OO-LI
 
-Last updated at 05/17/2023 10:52
+Last updated at 05/17/2023 10:54
