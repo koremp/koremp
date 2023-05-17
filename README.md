@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUpjCQtgdhQYB4jsDu2rdQ9a48DBfyj8G4y13m-kTl39sRdNhvGEL81Z07_I4J4gDhD-8roE77m6AIQ">](https://music.youtube.com/watch?v=EKlyYkD-eLA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LByf0mMLcFCMrgzQe6adcPHZusdCRCxaD7WIjesH93TCnvrJzKUpqFzznB9W3h8mW6zG4RXRSeLhtCwK">](https://music.youtube.com/watch?v=tIk0GK9TbAE)
 
-카라 - WHEN I MOVE
+tripleS (트리플에스) - The Baddest
 
-**Albums**: MOVE AGAIN
+**Albums**: ASSEMBLE
 
-Last updated at 05/17/2023 11:38
+Last updated at 05/17/2023 11:42
