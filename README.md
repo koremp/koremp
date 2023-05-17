@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Wv2stMD4szjwVvdle5LlQw6DSFkVsIIn2m_lHRgW-ARdxZnsSqoh2KvyUCorsW6Q4Zv-9jlvA-vaObw">](https://music.youtube.com/watch?v=Gcp87-ZegRA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Usf6DMmQWh5JBXmbD7ZmybEQn4qHNPVs7g1tQ39JYR0Soa5QqmfG2Ga_PTsgmRhJlbJ90v07b1kygPy0">](https://music.youtube.com/watch?v=pIxvqjpezcw)
 
-(여자)아이들 - Allergy
+NCT DOJAEJUNG - Perfume
 
-**Albums**: I feel
+**Albums**: Perfume - The 1st Mini Album
 
-Last updated at 05/17/2023 10:00
+Last updated at 05/17/2023 10:48
