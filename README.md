@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@johnkvevo8636)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC11RplprGRVVtT2tgtcYzWg)
 
 
   
-    John K
+    Troye Sivan
   
   
   
-    John K
+    Troye Sivan
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - John K - cheap sunglasses (Official Audio)
+ - Strawberries & Cigarettes
 
 **Albums**: Not supported
 
-Last updated at 05/18/2023 10:08
+Last updated at 05/18/2023 10:10
