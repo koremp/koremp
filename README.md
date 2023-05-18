@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC11RplprGRVVtT2tgtcYzWg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCWT2ZfW7d8YI-HinHEVhyCA)
 
 
   
-    Troye Sivan
+    (G)I-DLE (여자)아이들 (Official YouTube Channel)
   
   
   
-    Troye Sivan
+    (G)I-DLE (여자)아이들 (Official YouTube Channel)
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Strawberries & Cigarettes
+ - Allergy (Allergy)
 
 **Albums**: Not supported
 
-Last updated at 05/18/2023 10:10
+Last updated at 05/18/2023 10:14
