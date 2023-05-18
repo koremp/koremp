@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sdZsughX6QPQ9J8SvcFxiSTwKvbzOPs9jHEXgYUD0zuS_ZS1_fhJ6YjOlyr7NOWEvFjsGRRHoWxmh3PMTQ">](https://music.youtube.com/watch?v=22XsZ0bKmiU)
+[<img align="left" width="100" src="">](https://www.youtube.com/@triplescosmos)
 
-Bebe Rexha(비비 렉사) - The Way I Are (Dance with Somebody)(feat. Lil Wayne(릴 웨인))
 
-**Albums**: All Your Fault: Pt. 2
+  
+    tripleS official
+  
+  
+  
+    tripleS official
+  
 
-Last updated at 05/17/2023 12:46
+
+
+
+  공식 아티스트 채널
+
+
+ - 트리플에스(tripleS) 'Rising' MV
+
+**Albums**: Not supported
+
+Last updated at 05/18/2023 09:58
