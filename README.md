@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UClzStbpZu06rziK336VUxNg)
+[<img align="left" width="100" src="">](https://www.youtube.com/@triplescosmos)
 
 
   
-    Will Jay
+    tripleS official
   
   
   
-    Will Jay
+    tripleS official
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Off The Record
+ - 트리플에스(tripleS) 'Rising' MV
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:26
+Last updated at 05/19/2023 09:28
