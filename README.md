@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@WE_FIFTYFIFTY)
+[<img align="left" width="100" src="">](https://www.youtube.com/@lauvsongs)
 
 
   
-    FIFTY FIFTY Official
+    Lauv
   
   
   
-    FIFTY FIFTY Official
+    Lauv
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - FIFTY FIFTY (피프티피프티) - 'Cupid' (TwinVer.) Official Lyric Video
+ - Lauv - ****, i'm lonely (with Anne-Marie) [Official Video]
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:10
+Last updated at 05/19/2023 09:12
