@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@lauvsongs)
+[<img align="left" width="100" src="">](https://www.youtube.com/@brunomars)
 
 
   
-    Lauv
+    Bruno Mars
   
   
   
-    Lauv
+    Bruno Mars
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Lauv - ****, i'm lonely (with Anne-Marie) [Official Video]
+ - Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:12
+Last updated at 05/19/2023 09:16
