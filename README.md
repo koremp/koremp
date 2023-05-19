@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@TaylorSwiftVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
 
 
   
-    Taylor Swift
+    YOUNHA OFFICIAL
   
   
   
-    Taylor Swift
+    YOUNHA OFFICIAL
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Taylor Swift - Anti-Hero (Official Lyric Video)
+ - Oort Cloud (오르트구름)
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:02
+Last updated at 05/19/2023 09:06
