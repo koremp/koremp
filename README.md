@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/@WE_FIFTYFIFTY)
 
 
   
-    YOUNHA OFFICIAL
+    FIFTY FIFTY Official
   
   
   
-    YOUNHA OFFICIAL
+    FIFTY FIFTY Official
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Oort Cloud (오르트구름)
+ - FIFTY FIFTY (피프티피프티) - 'Cupid' (TwinVer.) Official Lyric Video
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:06
+Last updated at 05/19/2023 09:10
