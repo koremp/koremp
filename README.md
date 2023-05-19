@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Official髭男dism - Pretender (Cover by 하현상 Ha Hyunsang)
+ - 하현상 (Ha Hyunsang) - 등대 (Lighthouse) M/V
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:47
+Last updated at 05/19/2023 09:51
