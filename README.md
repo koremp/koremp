@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@brunomars)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCa5b_7ImijW-GNEt4hNUzWg)
 
 
   
-    Bruno Mars
+    Yerin Baek
   
   
   
-    Bruno Mars
+    Yerin Baek
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]
+ - I am not your ocean anymore
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:16
+Last updated at 05/19/2023 09:20
