@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="">](https://www.youtube.com/@official_LCY)
 
 
   
-    하현상 HA HYUN SANG
+    LEE CHAE YEON
   
   
   
-    하현상 HA HYUN SANG
+    LEE CHAE YEON
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 하현상 (Ha Hyunsang) - 등대 (Lighthouse) M/V
+ - (MV)LEE CHAE YEON(이채연)_KNOCK
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:51
+Last updated at 05/19/2023 09:55
