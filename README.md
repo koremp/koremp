@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@CalvinHarrisVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UClzStbpZu06rziK336VUxNg)
 
 
   
-    Calvin Harris
+    Will Jay
   
   
   
-    Calvin Harris
+    Will Jay
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Calvin Harris - Feels (Official Video) ft. Pharrell Williams, Katy Perry, Big Sean
+ - Off The Record
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:24
+Last updated at 05/19/2023 09:26
