@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@official_LCY)
+[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
 
 
   
-    LEE CHAE YEON
+    하현상 HA HYUN SANG
   
   
   
-    LEE CHAE YEON
+    하현상 HA HYUN SANG
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - (MV)LEE CHAE YEON(이채연)_KNOCK
+ - Official髭男dism - Pretender (Cover by 하현상 Ha Hyunsang)
 
 **Albums**: Not supported
 
-Last updated at 05/19/2023 09:32
+Last updated at 05/19/2023 09:47
