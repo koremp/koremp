@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@triplescosmos)
+[<img align="left" width="100" src="">](https://www.youtube.com/@official_LCY)
 
 
   
-    tripleS official
+    LEE CHAE YEON
   
   
   
-    tripleS official
+    LEE CHAE YEON
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 트리플에스(tripleS) 'Rising' MV
+ - (MV)LEE CHAE YEON(이채연)_KNOCK
 
 **Albums**: Not supported
 
-Last updated at 05/21/2023 08:00
+Last updated at 05/21/2023 08:04
