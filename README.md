@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Official髭男dism - Pretender (Cover by 하현상 Ha Hyunsang)
+ - [Playlist] Cover by 하현상 모음 | 2020.05 ~ 2021.12
 
 **Albums**: Not supported
 
-Last updated at 05/21/2023 08:06
+Last updated at 05/21/2023 08:12
