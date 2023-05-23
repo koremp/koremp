@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 하현상 (Ha Hyun Sang) - 시간과 흔적 (Time and Trace) M/V (BAND LIVE Ver.)
+ - John K - Cheap Sunglasses (Cover by 하현상 Ha Hyunsang)
 
 **Albums**: Not supported
 
-Last updated at 05/23/2023 13:49
+Last updated at 05/23/2023 13:53
