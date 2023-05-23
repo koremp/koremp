@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@redvelvet)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=l4Z9kkYAggc)
 
+aespa - Salty & Sweet
 
-  
-    Red Velvet
-  
-  
-  
-    Red Velvet
-  
+**Albums**: MY WORLD - The 3rd Mini Album
 
-
-
-
-  공식 아티스트 채널
-
-
- - ‘Red Velvet 4th Concert : R to V’ Recap Video
-
-**Albums**: Not supported
-
-Last updated at 05/22/2023 21:38
+Last updated at 05/23/2023 11:29
