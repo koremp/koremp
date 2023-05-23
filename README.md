@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EjuB2PuG_IrW2lphUbqbfiRa7hxh9jMOGSELjPSWP7ys2RSDN0JPPCUc5WgWu3kxIPgvp-mcSjWeIwmxjg">](https://music.youtube.com/watch?v=WdiSosDz4ss)
+[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
 
-LE SSERAFIM - UNFORGIVEN(feat. Nile Rodgers)
 
-**Albums**: UNFORGIVEN
+  
+    하현상 HA HYUN SANG
+  
+  
+  
+    하현상 HA HYUN SANG
+  
 
-Last updated at 05/23/2023 11:47
+
+
+
+  공식 아티스트 채널
+
+
+ - Official髭男dism - Pretender (Cover by 하현상 Ha Hyunsang)
+
+**Albums**: Not supported
+
+Last updated at 05/23/2023 13:35
