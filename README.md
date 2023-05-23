@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - John K - Cheap Sunglasses (Cover by 하현상 Ha Hyunsang)
+ - 우효(OOHYO) - 민들레 (Cover by 하현상 Ha Hyunsang)
 
 **Albums**: Not supported
 
-Last updated at 05/23/2023 13:53
+Last updated at 05/23/2023 13:55
