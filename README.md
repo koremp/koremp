@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_jsTTVoECQRRQRMGrQR2oQ)
 
 
   
-    하현상 HA HYUN SANG
+    WOODZ
   
   
   
-    하현상 HA HYUN SANG
+    WOODZ
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 넬(NELL) -기억을 걷는 시간 (Cover by 하현상 Ha Hyunsang)
+ - Journey (Journey)
 
 **Albums**: Not supported
 
-Last updated at 05/23/2023 13:41
+Last updated at 05/23/2023 13:45
