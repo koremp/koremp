@@ -122,7 +122,7 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCcd0t-9ZY10egXxpTTROaPw)
 
 
   
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Tones and I - Ur So F**kInG cOoL (Cover by 하현상 Ha Hyunsang)
+ - Bring Me Back
 
 **Albums**: Not supported
 
-Last updated at 05/23/2023 14:13
+Last updated at 05/23/2023 14:15
