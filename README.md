@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@aespa)
+[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
 
 
   
-    aespa
+    하현상 HA HYUN SANG
   
   
   
-    aespa
+    하현상 HA HYUN SANG
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - aespa 에스파 'I'm Unhappy' Track Video
+ - 하현상 (Ha Hyun Sang) - 하루가 (One Day) Live Clip #2
 
 **Albums**: Not supported
 
-Last updated at 05/23/2023 14:07
+Last updated at 05/23/2023 14:09
