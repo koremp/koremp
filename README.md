@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="">](https://www.youtube.com/@johnkvevo8636)
 
 
   
-    하현상 HA HYUN SANG
+    John K
   
   
   
-    하현상 HA HYUN SANG
+    John K
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 하현상 (Ha Hyunsang) - 등대 (Lighthouse) M/V
+ - John K - cheap sunglasses (Official Audio)
 
 **Albums**: Not supported
 
-Last updated at 05/23/2023 14:45
+Last updated at 05/24/2023 11:49
