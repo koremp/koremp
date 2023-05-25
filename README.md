@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=w_ag2o8Br2Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3LV6GoLom0Vb_oNFTXI_e2NIua0D-WocCifEFnSQattWpLfswpayWPzZ2BeClAB5QxR2EnGZkgh7QI7j">](https://music.youtube.com/watch?v=XZ868t23Pb4)
 
-Bebe Rexha(비비 렉사) - Meant to Be(feat. Florida Georgia Line)
+Ariana Grande(아리아나 그란데) - 7 rings
 
-**Albums**: Expectations
+**Albums**: thank u, next
 
-Last updated at 05/25/2023 13:55
+Last updated at 05/25/2023 13:57
