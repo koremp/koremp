@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@johnkvevo8636)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c5Va84tnsd7rVl1Of2DhWlyPtBhDT6mFOqAGtSyqTDt21TZ4Qx5gLCKeVqdiZguPSPTpc9WSh-3VYZDx">](https://music.youtube.com/watch?v=7DK8Acq81t4)
 
+드림캐쳐 - DEMIAN
 
-  
-    John K
-  
-  
-  
-    John K
-  
+**Albums**: [Apocalypse : From us]
 
-
-
-
-  공식 아티스트 채널
-
-
- - John K - cheap sunglasses (Official Audio)
-
-**Albums**: Not supported
-
-Last updated at 05/25/2023 06:00
+Last updated at 05/25/2023 11:43
