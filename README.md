@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg)
 
 
   
-    LE SSERAFIM
+    SEVENTEEN
   
   
   
-    LE SSERAFIM
+    SEVENTEEN
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - UNFORGIVEN (feat. Nile Rodgers)
+ - 손오공
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 07:09
+Last updated at 05/26/2023 07:13
