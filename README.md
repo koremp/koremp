@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@LUCYISLAND)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
 
 
   
-    LUCY ISLAND
+    YOUNHA OFFICIAL
   
   
   
-    LUCY ISLAND
+    YOUNHA OFFICIAL
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - LUCY LIVE CLIP : 충분히(Enough) /ENG sub
+ - Oort Cloud (오르트구름)
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 08:41
+Last updated at 05/26/2023 08:49
