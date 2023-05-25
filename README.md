@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@aespa)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCMca81qQN9V3jOe7wyfbvDQ)
 
 
   
-    aespa
+    FIFTY FIFTY Official
   
   
   
-    aespa
+    FIFTY FIFTY Official
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - aespa 에스파 'I'm Unhappy' Track Video
+ - Cupid
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 07:17
+Last updated at 05/26/2023 07:19
