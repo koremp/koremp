@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCMca81qQN9V3jOe7wyfbvDQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_jsTTVoECQRRQRMGrQR2oQ)
 
 
   
-    FIFTY FIFTY Official
+    WOODZ
   
   
   
-    FIFTY FIFTY Official
+    WOODZ
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Cupid
+ - Journey (Journey)
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 07:19
+Last updated at 05/26/2023 07:21
