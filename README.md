@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGLkHQhItLSV_RHmAV3ZIAmRAvG-hFhePudTmIBDDmpVaIjbXgDk0ret57oVhwGM72q7YoHcn-WiWMV4sg">](https://music.youtube.com/watch?v=4mUPy84mdb0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mkL9IhDIiqFBdaOyAESbM_R5yMD0baUUvpSkuzu9PbPPiO0XO35dHivQvQ8FQvcJWHu5s2CkPV0DFzM">](https://music.youtube.com/watch?v=poJxFtBFV6I)
 
-LSD - Audio(feat. Sia, Diplo, Labrinth)
+Anne-Marie - Alarm
 
-**Albums**: Audio
+**Albums**: Speak Your Mind (Deluxe)
 
-Last updated at 05/25/2023 14:13
+Last updated at 05/25/2023 14:17
