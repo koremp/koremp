@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCa5b_7ImijW-GNEt4hNUzWg)
 
 
   
-    YOUNHA OFFICIAL
+    Yerin Baek
   
   
   
-    YOUNHA OFFICIAL
+    Yerin Baek
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Oort Cloud (오르트구름)
+ - That’s Why
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 08:49
+Last updated at 05/26/2023 08:51
