@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=TiZYRRPZpaU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=UcyalEPX1Tk)
 
-Bebe Rexha(비비 렉사) - Knees
+Bebe Rexha(비비 렉사) - I Got You
 
 **Albums**: Expectations
 
-Last updated at 05/25/2023 11:59
+Last updated at 05/25/2023 12:03
