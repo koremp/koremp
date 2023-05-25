@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@STAYC)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA)
 
 
   
-    STAYC
+    aespa
   
   
   
-    STAYC
+    aespa
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - STAYC(스테이씨) 'Teddy Bear' MV
+ - Lingo
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 08:19
+Last updated at 05/26/2023 08:23
