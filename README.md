@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_XwAL54oPW1027oqFz2kog)
 
 
   
-    aespa
+    LUCY ISLAND
   
   
   
-    aespa
+    LUCY ISLAND
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Lingo
+ - Flowering (개화 (Flowering))
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 08:23
+Last updated at 05/26/2023 08:29
