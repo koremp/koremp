@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCn33sVkKks4vU4CbOXXmjQA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
 
   
-    tripleS official
+    LE SSERAFIM
   
   
   
-    tripleS official
+    LE SSERAFIM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Colorful (Colorful)
+ - 이브, 프시케 그리고 푸른 수염의 아내
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 08:01
+Last updated at 05/26/2023 08:03
