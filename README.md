@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@triplescosmos)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxOqS3cYg4FaHbobICo7nFQ)
 
 
   
-    tripleS official
+    NewJeans
   
   
   
-    tripleS official
+    NewJeans
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 트리플에스(tripleS AAA) ‘Generation’ MV
+ - Attention
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 06:57
+Last updated at 05/26/2023 07:01
