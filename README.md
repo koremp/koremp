@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xy3KoIfXgwX1zSWADUZRtnvxM2r1zjnXU9-fqqxJMT3Ms2VQ10_R8XsKAHScsaXPA9fClXVvfacs5xEKSA">](https://music.youtube.com/watch?v=-SttFgyRNCI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zhcm3n4Spt2RdYQL1SQeplqPqDVYbRxlqxqWuT2ijIAtb1N0bdX66ZRBpJDspmk4ZXVqb2W8wl2FfPkc">](https://music.youtube.com/watch?v=O2AdA4DoKv0)
 
-Clean Bandit(클린 밴딧) - Symphony(feat. Zara Larsson(자라 라슨))
+Bebe Rexha 및 Snoop Dogg - Satellite
 
-**Albums**: What Is Love? (Deluxe Edition)
+**Albums**: Bebe
 
-Last updated at 05/25/2023 13:59
+Last updated at 05/25/2023 14:03
