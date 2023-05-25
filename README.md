@@ -122,7 +122,7 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_XwAL54oPW1027oqFz2kog)
+[<img align="left" width="100" src="">](https://www.youtube.com/@LUCYISLAND)
 
 
   
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Flowering (개화 (Flowering))
+ - LUCY LIVE CLIP : 충분히(Enough) /ENG sub
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 08:29
+Last updated at 05/26/2023 08:41
