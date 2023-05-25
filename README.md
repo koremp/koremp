@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@LUCYISLAND)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCn33sVkKks4vU4CbOXXmjQA)
 
 
   
-    LUCY ISLAND
+    tripleS official
   
   
   
-    LUCY ISLAND
+    tripleS official
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - [MV] LUCY - 히어로(Hero) / Eng Sub
+ - Colorful (Colorful)
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 07:53
+Last updated at 05/26/2023 08:01
