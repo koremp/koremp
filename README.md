@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mkL9IhDIiqFBdaOyAESbM_R5yMD0baUUvpSkuzu9PbPPiO0XO35dHivQvQ8FQvcJWHu5s2CkPV0DFzM">](https://music.youtube.com/watch?v=poJxFtBFV6I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/watch?v=CpTr4USXjQw)
 
-Anne-Marie - Alarm
+The Chainsmokers(체인스모커스) - Don't Let Me Down(feat. Daya)
 
-**Albums**: Speak Your Mind (Deluxe)
+**Albums**: Collage
 
-Last updated at 05/25/2023 14:17
+Last updated at 05/25/2023 14:21
