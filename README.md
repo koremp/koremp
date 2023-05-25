@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - [MV] LUCY - 놀이 (PLAY) / ENG, JPN sub
+ - [MV] LUCY - 히어로(Hero) / Eng Sub
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 07:47
+Last updated at 05/26/2023 07:53
