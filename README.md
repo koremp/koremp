@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xqJAeRci9zpq_ZwxwLIotA_fBXictfeohbZWFcgV5EeU2SWAUnqs6d5wwkz40t2KTgJtPAMQsF2dJGI">](https://music.youtube.com/watch?v=jxB5L5WkWxs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ho0VJAPakwjTyXGj3OSv-CmwvaaB9I8jgRW7k9rmsH-ceV8ev2DmDQeaSi670AFQtlJ3B5ypMdGN41Ft">](https://music.youtube.com/watch?v=Tk7WFyHUr1E)
 
-Rosie Darling 및 Boy In Space - Nail In The Coffin
+Halsey(할시) - Without Me
 
-**Albums**: Nail In The Coffin
+**Albums**: Manic
 
-Last updated at 05/25/2023 14:29
+Last updated at 05/25/2023 14:33
