@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCFEVXX0YX4eT6tdNkXi40vg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCn33sVkKks4vU4CbOXXmjQA)
 
 
   
-    DAY6
+    tripleS official
   
   
   
-    DAY6
+    tripleS official
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Love me or Leave me
+ - Deja-Vu (Deja-Vu)
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 08:07
+Last updated at 05/26/2023 08:13
