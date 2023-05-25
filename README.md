@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YoQ-A-GOpgeE8tgdF3Rcf5z9V8NIIKjLH6_7X3QphIQUwVHioLu7Ik2wQzU0oCkyNm1TeLDLDYvomJ8">](https://music.youtube.com/watch?v=z9VMaLxg9Ok)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xqJAeRci9zpq_ZwxwLIotA_fBXictfeohbZWFcgV5EeU2SWAUnqs6d5wwkz40t2KTgJtPAMQsF2dJGI">](https://music.youtube.com/watch?v=jxB5L5WkWxs)
 
-Post Malone(포스트 말론) - Sunflower (From "Spider-Man: Into the Spider-Verse")
+Rosie Darling 및 Boy In Space - Nail In The Coffin
 
-**Albums**: Hollywood's Bleeding
+**Albums**: Nail In The Coffin
 
-Last updated at 05/25/2023 14:27
+Last updated at 05/25/2023 14:29
