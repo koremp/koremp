@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/watch?v=CpTr4USXjQw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mbgqnoyYjPxmy9kN7KLqPDaW1ZJNlEgpgYbJmGz2kjIpjXxemvPFhbbGVG5f03Qr2GAPx_0zKNPNVbAS">](https://music.youtube.com/watch?v=7ecu7DJwgYA)
 
-The Chainsmokers(체인스모커스) - Don't Let Me Down(feat. Daya)
+테이트 맥레이 - you broke me first
 
-**Albums**: Collage
+**Albums**: you broke me first
 
-Last updated at 05/25/2023 14:21
+Last updated at 05/25/2023 14:25
