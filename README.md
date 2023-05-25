@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@LUCYISLAND)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC-clMkTZa7k-FxmNgMjoCgQ)
 
 
   
-    LUCY ISLAND
+    LE SSERAFIM
   
   
   
-    LUCY ISLAND
+    LE SSERAFIM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - LUCY - 봄인지 여름인지 (Official Lyrics Video) / ENG sub
+ - UNFORGIVEN (feat. Nile Rodgers)
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 07:07
+Last updated at 05/26/2023 07:09
