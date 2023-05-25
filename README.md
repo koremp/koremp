@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4RAA8DTjbTlmZy561mmq4Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCFEVXX0YX4eT6tdNkXi40vg)
 
 
   
-    Dreamcatcher official
+    DAY6
   
   
   
-    Dreamcatcher official
+    DAY6
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Propose (Propose)
+ - 한 페이지가 될 수 있게 Time of Our Life
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 07:25
+Last updated at 05/26/2023 07:29
