@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c5Va84tnsd7rVl1Of2DhWlyPtBhDT6mFOqAGtSyqTDt21TZ4Qx5gLCKeVqdiZguPSPTpc9WSh-3VYZDx">](https://music.youtube.com/watch?v=7DK8Acq81t4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=oc6qyUQTMFA)
 
-드림캐쳐 - DEMIAN
+Bebe Rexha(비비 렉사) - Ferrari
 
-**Albums**: [Apocalypse : From us]
+**Albums**: Expectations
 
-Last updated at 05/25/2023 11:43
+Last updated at 05/25/2023 11:47
