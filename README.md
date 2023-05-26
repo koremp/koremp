@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC4RAA8DTjbTlmZy561mmq4Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCn33sVkKks4vU4CbOXXmjQA)
 
 
   
-    Dreamcatcher official
+    tripleS official
   
   
   
-    Dreamcatcher official
+    tripleS official
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Daybreak (새벽)
+ - New Look (New Look)
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 09:05
+Last updated at 05/26/2023 09:09
