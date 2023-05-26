@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=U_h1NScp1_o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K2IXFZyXsC1bAzf66c8OWVCvB08Sd3htOJBSCJV_5AKrdNgqiwNMGwwNt3GmL_La3S1cihoLcNMaFhh3">](https://music.youtube.com/watch?v=51v4w_MH-zg)
 
-Jack Ü - Mind(feat. 카이(Kai))
+NCT DREAM - ANL
 
-**Albums**: Skrillex and Diplo present Jack Ü
+**Albums**: Hot Sauce - The 1st Album
 
-Last updated at 05/26/2023 11:02
+Last updated at 05/26/2023 11:06
