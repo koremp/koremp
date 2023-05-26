@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tFl_ArksBIRW0Q64sMS9l5RwsQYwrSdSmQO5qYhZ4KWqqkPb8YXsyGJ9vEVYm0y7hVLLrsuBzb__emSX">](https://music.youtube.com/watch?v=BLBiktl3MSc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n">](https://music.youtube.com/watch?v=U_h1NScp1_o)
 
-Bebe Rexha(비비 렉사) - Atmosphere
+Jack Ü - Mind(feat. 카이(Kai))
 
-**Albums**: All Your Fault: Pt. 1
+**Albums**: Skrillex and Diplo present Jack Ü
 
-Last updated at 05/26/2023 10:58
+Last updated at 05/26/2023 11:02
