@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c5Va84tnsd7rVl1Of2DhWlyPtBhDT6mFOqAGtSyqTDt21TZ4Qx5gLCKeVqdiZguPSPTpc9WSh-3VYZDx">](https://music.youtube.com/watch?v=ttK_mfVmsWE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tFl_ArksBIRW0Q64sMS9l5RwsQYwrSdSmQO5qYhZ4KWqqkPb8YXsyGJ9vEVYm0y7hVLLrsuBzb__emSX">](https://music.youtube.com/watch?v=BLBiktl3MSc)
 
-드림캐쳐 - To. You
+Bebe Rexha(비비 렉사) - Atmosphere
 
-**Albums**: [Apocalypse : From us]
+**Albums**: All Your Fault: Pt. 1
 
-Last updated at 05/26/2023 10:54
+Last updated at 05/26/2023 10:58
