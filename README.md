@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCn33sVkKks4vU4CbOXXmjQA)
+[<img align="left" width="100" src="">](https://www.youtube.com/@LESSERAFIM_official)
 
 
   
-    tripleS official
+    LE SSERAFIM
   
   
   
-    tripleS official
+    LE SSERAFIM
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - New Look (New Look)
+ - LE SSERAFIM 르세라핌 Blue Flame @ LE SSERAFIM DEBUT SHOWCASE FEARLESS
 
 **Albums**: Not supported
 
-Last updated at 05/26/2023 09:09
+Last updated at 05/26/2023 09:11
