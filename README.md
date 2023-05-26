@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC_4Y1QqJr60C5Z7-eQWy-mw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c5Va84tnsd7rVl1Of2DhWlyPtBhDT6mFOqAGtSyqTDt21TZ4Qx5gLCKeVqdiZguPSPTpc9WSh-3VYZDx">](https://music.youtube.com/watch?v=S80eJh2YIPM)
 
+드림캐쳐 - BONVOYAGE
 
-  
-    IVE
-  
-  
-  
-    IVE
-  
+**Albums**: [Apocalypse : From us]
 
-
-
-
-  공식 아티스트 채널
-
-
- - I AM (I AM)
-
-**Albums**: Not supported
-
-Last updated at 05/26/2023 09:15
+Last updated at 05/26/2023 10:44
