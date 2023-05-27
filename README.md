@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZpZzX4EUtn99T7mx7GIVQQjY3O7ysaRmdtgfbkanxgiM6v43vddimMkcRiIohs6_gcEeASBerBD09cW3">](https://music.youtube.com/watch?v=j1uXcHwLhHM)
+[<img align="left" width="100" src="">](https://www.youtube.com/@NCTsmtown)
 
-윤하 - 사건의 지평선
 
-**Albums**: YOUNHA 6th Album Repackage 'END THEORY : Final Edition'
+  
+    NCT
+  
+  
+  
+    NCT
+  
 
-Last updated at 05/26/2023 11:10
+
+
+
+  공식 아티스트 채널
+
+
+ - NCT DOJAEJUNG 엔시티 도재정 'Perfume' Performance Video
+
+**Albums**: Not supported
+
+Last updated at 05/27/2023 17:07
