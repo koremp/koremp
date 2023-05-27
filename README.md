@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Official髭男dism - Pretender (Cover by 하현상 Ha Hyunsang)
+ - 넬(NELL) -기억을 걷는 시간 (Cover by 하현상 Ha Hyunsang)
 
 **Albums**: Not supported
 
-Last updated at 05/27/2023 20:21
+Last updated at 05/27/2023 20:27
