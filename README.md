@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
+[<img align="left" width="100" src="">](https://www.youtube.com/@ScorpionsVEVO)
 
 
   
-    하현상 HA HYUN SANG
+    Scorpions
   
   
   
-    하현상 HA HYUN SANG
+    Scorpions
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 하현상 (Ha Hyunsang) - Love Me Now (demo)
+ - Scorpions - Rock You Like A Hurricane (Official Music Video)
 
 **Albums**: Not supported
 
-Last updated at 05/27/2023 20:35
+Last updated at 05/27/2023 21:47
