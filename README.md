@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=oc6qyUQTMFA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xHpX9HBzAszwqyQ_jD8TbsPxT7VjcbaQD1F8a8KzRYhc9iDtoZh82W9x93at3QPa43kiwrvKC12evxo">](https://music.youtube.com/watch?v=ACDf9fhpuqo)
 
-Bebe Rexha(비비 렉사) - Ferrari
+Alexander Jean - Whiskey and Morphine
 
-**Albums**: Expectations
+**Albums**: Head High
 
-Last updated at 05/30/2023 07:44
+Last updated at 05/30/2023 07:48
