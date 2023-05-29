@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/84X_IOcpfWZuGpw-8X4j15T3Z7qRRyke6CTnm6V4tyADTXaxuxVEp3SmIgGNdBds3N1EQAF9qWFQ6-lIPg">](https://music.youtube.com/watch?v=aQBJP51UgHs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EjuB2PuG_IrW2lphUbqbfiRa7hxh9jMOGSELjPSWP7ys2RSDN0JPPCUc5WgWu3kxIPgvp-mcSjWeIwmxjg">](https://music.youtube.com/watch?v=eS-NAO3zmn4)
 
-신해철 - 일상으로의 초대 (Extended Mix)
+LE SSERAFIM - 이브, 프시케 그리고 푸른 수염의 아내
 
-**Albums**: Crom's Techno Works
+**Albums**: UNFORGIVEN
 
-Last updated at 05/29/2023 21:45
+Last updated at 05/29/2023 21:55
