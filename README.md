@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qT5NtfEJvHhPKL0Cp3ef3LaosF0Pn19NJZZoLmg73R3_qpMXl3d2dkJq9g5FYMyEMK2o4P3qomcWJDl0">](https://music.youtube.com/watch?v=2XMnkRsW1Gs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H78q6zL9AETQNIS8IIfT_94q6_O7AZ8yQfxuAySHwATKkJiILlnnVytdHDCNJcHFrHU-aNzttoRvPBU">](https://music.youtube.com/watch?v=Fmiu0L9XSVg)
 
-NCT 127 - Ay-Yo
+NMIXX - Young, Dumb, Stupid
 
-**Albums**: Ay-Yo - The 4th Album Repackage
+**Albums**: expérgo
 
-Last updated at 05/29/2023 17:34
+Last updated at 05/29/2023 17:38
