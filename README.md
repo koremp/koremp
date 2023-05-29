@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/m0J572dI6UeLa4L0qRXW9IQSLFNyWiA3iYMRj9P66GUIac9kwAToS2AAeGDOM0NIE-3sSXCSj9TNtjPPpw">](https://music.youtube.com/watch?v=3PgGuUP8_jI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/84X_IOcpfWZuGpw-8X4j15T3Z7qRRyke6CTnm6V4tyADTXaxuxVEp3SmIgGNdBds3N1EQAF9qWFQ6-lIPg">](https://music.youtube.com/watch?v=aQBJP51UgHs)
 
-Red Velvet - Oh Boy
+신해철 - 일상으로의 초대 (Extended Mix)
 
-**Albums**: The Red - The 1st Album
+**Albums**: Crom's Techno Works
 
-Last updated at 05/29/2023 21:43
+Last updated at 05/29/2023 21:45
