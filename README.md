@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/liKrw5t_WphMbkiYKDHQj1rf8S8GSwxgMRUmB7tkHhPF862BRcqIYxFEj9QwKr51ge2ma6u0C_wI4jNo">](https://music.youtube.com/watch?v=AySMGpXQ1Mo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gcTmzbGY2jzZN_UPn5bAFDJLu0i6FP2sJbzh-8G0erQQLfRhUU3pvmEQxYFWq2qkFG08czZN-9J0g_Wi">](https://music.youtube.com/watch?v=KkawxCGFhck)
 
-The Weeknd 및 Ariana Grande - Die For You (Remix)
+Dreamcatcher - BOCA
 
-**Albums**: Starboy (Deluxe)
+**Albums**: [Dystopia : Lose Myself]
 
-Last updated at 05/29/2023 18:24
+Last updated at 05/29/2023 18:26
