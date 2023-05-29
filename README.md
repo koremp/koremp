@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PP3qnnu4EFU9qLr0o5gpKrC1dhNQbxE5JjzS80s4X41rbSGSlo5bNeVsuvbnZzeOyG_Q3DafGlxUUANXQ">](https://music.youtube.com/watch?v=5idPf5Irfxk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/liKrw5t_WphMbkiYKDHQj1rf8S8GSwxgMRUmB7tkHhPF862BRcqIYxFEj9QwKr51ge2ma6u0C_wI4jNo">](https://music.youtube.com/watch?v=AySMGpXQ1Mo)
 
-로열 블러드 - Figure It Out
+The Weeknd 및 Ariana Grande - Die For You (Remix)
 
-**Albums**: Royal Blood
+**Albums**: Starboy (Deluxe)
 
-Last updated at 05/29/2023 18:20
+Last updated at 05/29/2023 18:24
