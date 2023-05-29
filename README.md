@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Cwu_6ZFCpWxd3nCp8J3DWEzMlZWR0PSLrpY-DESYcw5ZAyhE5EW_rNp4YNGG6B0WpXEANiKUD5eSoiO1RA">](https://music.youtube.com/watch?v=_TR2Nv34Lxk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=GhL8GUjXEfk)
 
-자우림 - Beautiful Girl
+Bebe Rexha(비비 렉사) - I'm a Mess
 
-**Albums**: Ashes To Ashes
+**Albums**: Expectations
 
-Last updated at 05/29/2023 18:30
+Last updated at 05/29/2023 18:46
