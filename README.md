@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2N2DLmEvPGVRxEFqL6JAn7UyC_moZeO1LB2l_UebDz8zxrGFws22DbGPbSWZl3b4Wz6z0bPR5QxsMl4">](https://music.youtube.com/watch?v=0lacdwPbX9E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3OfnIsfuRMDKkJVCaChvion1DJn7_OUVr6MGJc5vs_aPxa0bWJPvYfZI3Pl6eT7TBwSUKDJxSHNEaR8m">](https://music.youtube.com/watch?v=KY6Plvi9y8I)
 
-The Birthday - LOVE ROCKETS
+SuperM - Jopping
 
-**Albums**: 月夜の残響 ep.
+**Albums**: SuperM - The 1st Mini Album
 
-Last updated at 05/29/2023 18:08
+Last updated at 05/29/2023 18:12
