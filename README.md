@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xpDEOr2TeqEn1QpXosXhqtj149FzNnTgAG3oqPnpTxTbQk-oceO90Sz4Axq0s4Jp_QLGQha_um6_EG3WGQ">](https://music.youtube.com/watch?v=RCu_OEquSEk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGLkHQhItLSV_RHmAV3ZIAmRAvG-hFhePudTmIBDDmpVaIjbXgDk0ret57oVhwGM72q7YoHcn-WiWMV4sg">](https://music.youtube.com/watch?v=4mUPy84mdb0)
 
-Ed Sheeran(에드 시런) - Barcelona
+LSD - Audio(feat. Sia, Diplo, Labrinth)
 
-**Albums**: ÷ (Deluxe)
+**Albums**: Audio
 
-Last updated at 05/29/2023 21:57
+Last updated at 05/29/2023 22:01
