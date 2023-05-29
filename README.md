@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=MDo6ILld8zM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0uRMEcB2JG3C9pT2k9rI4ZRZlPgtQzlM-Ju8vMIP91IsTsbhtOHT07-GsRTAy29AzYvWNFPsdmh5uWE9">](https://music.youtube.com/watch?v=hMJo19DmKw0)
 
-NCT 127 - 2 Baddies
+KAI - 음 Mmmh
 
-**Albums**: 2 Baddies - The 4th Album
+**Albums**: KAI - The 1st Mini Album
 
-Last updated at 05/30/2023 08:14
+Last updated at 05/30/2023 08:16
