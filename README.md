@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI">](https://music.youtube.com/watch?v=YcJaYkamg5Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=MDo6ILld8zM)
 
-Skrillex(스크릴렉스) - First of the Year (Equinox)
+NCT 127 - 2 Baddies
 
-**Albums**: More Monsters and Sprites
+**Albums**: 2 Baddies - The 4th Album
 
-Last updated at 05/29/2023 21:27
+Last updated at 05/29/2023 21:31
