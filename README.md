@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z9eRe-9--V-57CN6RPJ_bhHYCwZCW1Wn6L22hLVUOEr-d6NQqjyKx8WsfZxOA8CX3FubX6VC5Blwy_CB">](https://music.youtube.com/watch?v=EoO2MTDkpJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TgX2Kf1bK-oasRMnLSSeu9_JBYFrWEFm3iQHa3ddK45vXd1V5v-BHk-KSAg30CD7YkySVEwBiFdgjEk3">](https://music.youtube.com/watch?v=mjb9iChNPuk)
 
-STAYC(스테이씨) - Teddy Bear
+Nothing But Thieves - Welcome to the DCC
 
-**Albums**: Teddy Bear
+**Albums**: Welcome to the DCC
 
-Last updated at 05/29/2023 17:44
+Last updated at 05/29/2023 17:48
