@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwLoJUUVpdk7QU0BKzjHAoMiDxX1hadM9idh6MBKPTgJJoqFBPI1IXEofWtyCssl01XlUG9jPCIq1Dc">](https://music.youtube.com/watch?v=qWvVSBUfLfE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2N2DLmEvPGVRxEFqL6JAn7UyC_moZeO1LB2l_UebDz8zxrGFws22DbGPbSWZl3b4Wz6z0bPR5QxsMl4">](https://music.youtube.com/watch?v=0lacdwPbX9E)
 
-EXO - 으르렁 Growl
+The Birthday - LOVE ROCKETS
 
-**Albums**: The 1st Album 'XOXO (Kiss&Hug)' Repackage
+**Albums**: 月夜の残響 ep.
 
-Last updated at 05/29/2023 18:04
+Last updated at 05/29/2023 18:08
