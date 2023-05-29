@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGLkHQhItLSV_RHmAV3ZIAmRAvG-hFhePudTmIBDDmpVaIjbXgDk0ret57oVhwGM72q7YoHcn-WiWMV4sg">](https://music.youtube.com/watch?v=4mUPy84mdb0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VDTaB1cUS5AlooaG7UF2jmneDeceGIQgmyHIbJXoVXDzjI6A6CdOG5GIXx1WVeTBaoxrIlniwvIBPo4">](https://music.youtube.com/watch?v=RWDj4_A1hyQ)
 
-LSD - Audio(feat. Sia, Diplo, Labrinth)
+EVERGLOW (에버글로우) - DUN DUN
 
-**Albums**: Audio
+**Albums**: reminiscence
 
-Last updated at 05/29/2023 22:01
+Last updated at 05/29/2023 22:03
