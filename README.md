@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=Ucrv2cOapb0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/m0J572dI6UeLa4L0qRXW9IQSLFNyWiA3iYMRj9P66GUIac9kwAToS2AAeGDOM0NIE-3sSXCSj9TNtjPPpw">](https://music.youtube.com/watch?v=3PgGuUP8_jI)
 
-aespa - I'm Unhappy
+Red Velvet - Oh Boy
 
-**Albums**: MY WORLD - The 3rd Mini Album
+**Albums**: The Red - The 1st Album
 
-Last updated at 05/29/2023 21:39
+Last updated at 05/29/2023 21:43
