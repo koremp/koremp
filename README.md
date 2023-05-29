@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cwJUlOPNvE63q6JxQgIMHjF03yf6NQIBWB4i0hY6l8U125A16HwbJ7tnQqz74CAxtU_9CwY8IAxOz3ku">](https://music.youtube.com/watch?v=_tJM74eZy04)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZEMnetU_N5fOqdXbYVD1JGtng1N-5u1cOpLf-bO-PJK4_gy0CtWWfhe2ZnJtGZXUr0Z9ExOK-vFM_ukD">](https://music.youtube.com/watch?v=B2j6RNC6zgo)
 
-Ariana Grande(아리아나 그란데) - Honeymoon Avenue
+보아 (BoA) 및 빈지노 - No Matter What
 
-**Albums**: Yours Truly
+**Albums**: No Matter What
 
-Last updated at 05/30/2023 08:00
+Last updated at 05/30/2023 08:04
