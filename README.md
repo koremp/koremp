@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M1wO9OhnG_tmmhuxNaKXdvKqUJdkjD8xKZpshXpSjogNGU7nA0_OI5roPpQbQ6JOBQz8mK_oxk3BavHDQA">](https://music.youtube.com/watch?v=Ex2BKaNX8xA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cwJUlOPNvE63q6JxQgIMHjF03yf6NQIBWB4i0hY6l8U125A16HwbJ7tnQqz74CAxtU_9CwY8IAxOz3ku">](https://music.youtube.com/watch?v=_tJM74eZy04)
 
-SEVENTEEN - 손오공
+Ariana Grande(아리아나 그란데) - Honeymoon Avenue
 
-**Albums**: SEVENTEEN 10th Mini Album ‘FML’
+**Albums**: Yours Truly
 
-Last updated at 05/30/2023 07:56
+Last updated at 05/30/2023 08:00
