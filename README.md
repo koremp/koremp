@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PP3qnnu4EFU9qLr0o5gpKrC1dhNQbxE5JjzS80s4X41rbSGSlo5bNeVsuvbnZzeOyG_Q3DafGlxUUANXQ">](https://music.youtube.com/watch?v=5idPf5Irfxk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=MDo6ILld8zM)
 
-로열 블러드 - Figure It Out
+NCT 127 - 2 Baddies
 
-**Albums**: Royal Blood
+**Albums**: 2 Baddies - The 4th Album
 
-Last updated at 05/30/2023 08:12
+Last updated at 05/30/2023 08:14
