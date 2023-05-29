@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XNNyx_OEkrkpWd4BNnKt155v3u_Xel-ojrSZGPNTW0XJ_1WAz2TIppGT4jyuOwZ9wZQwgiz0fNZQtsZw">](https://music.youtube.com/watch?v=-4ZL1La4Hb4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M1wO9OhnG_tmmhuxNaKXdvKqUJdkjD8xKZpshXpSjogNGU7nA0_OI5roPpQbQ6JOBQz8mK_oxk3BavHDQA">](https://music.youtube.com/watch?v=Ex2BKaNX8xA)
 
-태연(TAEYEON) - 스트레스 (Stress)
+SEVENTEEN - 손오공
 
-**Albums**: I - The 1st Mini Album
+**Albums**: SEVENTEEN 10th Mini Album ‘FML’
 
-Last updated at 05/30/2023 07:52
+Last updated at 05/30/2023 07:56
