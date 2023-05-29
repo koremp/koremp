@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/W5eFbCfnH3dQpjEskQe4gSW_7MaKD_jvqLcmvRKcRR8BYKU4EwLoGyLJDhVzR89LIxkzV7xSOxvZYQ_zSQ">](https://music.youtube.com/watch?v=VG4lpTHuytc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PP3qnnu4EFU9qLr0o5gpKrC1dhNQbxE5JjzS80s4X41rbSGSlo5bNeVsuvbnZzeOyG_Q3DafGlxUUANXQ">](https://music.youtube.com/watch?v=5idPf5Irfxk)
 
-Stray Kids - MANIAC
+로열 블러드 - Figure It Out
 
-**Albums**: ODDINARY
+**Albums**: Royal Blood
 
-Last updated at 05/29/2023 18:16
+Last updated at 05/29/2023 18:20
