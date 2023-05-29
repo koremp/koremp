@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xHpX9HBzAszwqyQ_jD8TbsPxT7VjcbaQD1F8a8KzRYhc9iDtoZh82W9x93at3QPa43kiwrvKC12evxo">](https://music.youtube.com/watch?v=ACDf9fhpuqo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4ppfset2oXwGJa4oLQRpDIg8oNuIqopgTFKrS1dZ70SHDgkw3h7rswNyi8v22GEBlTv8xXRM_ZNvQuPMcA">](https://music.youtube.com/watch?v=128GQkc76VY)
 
-Alexander Jean - Whiskey and Morphine
+키라라 - ct22031
 
-**Albums**: Head High
+**Albums**: cts7
 
-Last updated at 05/29/2023 17:54
+Last updated at 05/29/2023 17:58
