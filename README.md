@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/raYmhH77U_wfarPC8fIYADdVplBuxnI8E44GvxhtMN0-IxVQ0IpNMoM6WkSwVwiUNrWbDgImBwgu5A">](https://music.youtube.com/watch?v=gVGiqcNZgjQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNYwueKXyXRauPqG7yd2m7ORbu18oJfE41tjt4mk6YkKrgtTlTl_dtD-9Jncl4MSg8xVG5IjAzcoSwI">](https://music.youtube.com/watch?v=RxPF0WqjVP0)
 
-SuperM - 호랑이
+FIFTY FIFTY - Cupid (Twin Ver.)
 
-**Albums**: Super One
+**Albums**: The Beginning: Cupid
 
-Last updated at 05/29/2023 22:19
+Last updated at 05/29/2023 22:22
