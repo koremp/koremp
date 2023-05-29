@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aNsixCyjU6GqGc_kAlzDpRofFmSM70-JL3WVvzVCm7ViUM9tzvZGXpNLwEiwVQNJ_Q9RZ5ZEIEMw5a8z">](https://music.youtube.com/watch?v=MDo6ILld8zM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H78q6zL9AETQNIS8IIfT_94q6_O7AZ8yQfxuAySHwATKkJiILlnnVytdHDCNJcHFrHU-aNzttoRvPBU">](https://music.youtube.com/watch?v=FxuVJeeKK_4)
 
-NCT 127 - 2 Baddies
+NMIXX - Love Me Like This
 
-**Albums**: 2 Baddies - The 4th Album
+**Albums**: expérgo
 
-Last updated at 05/29/2023 21:31
+Last updated at 05/29/2023 21:35
