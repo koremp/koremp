@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OysERxGkcqcX9lNmn49DjCeexZMX7bAoonmLdvxbyk4K5cngTWRpovVhGx4sZG_KxJDX841Fg52NS54EkA">](https://music.youtube.com/watch?v=GlTs90aUivw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jiq-5qO-KBWYZLy72MgE-c_iZBbyBsIQcZPmuthiMsLpTWOxD_yNlrsyjeblNmuhphc1g6EXZtOZQ6JY">](https://music.youtube.com/watch?v=DG31M410TYA)
 
-NCT DREAM - BOOM
+LSD - Heaven Can Wait(feat. Sia(시아), Diplo, Labrinth)
 
-**Albums**: We Boom - The 3rd Mini Album
+**Albums**: LABRINTH, SIA & DIPLO PRESENT... LSD
 
-Last updated at 05/29/2023 22:26
+Last updated at 05/30/2023 07:38
