@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EjuB2PuG_IrW2lphUbqbfiRa7hxh9jMOGSELjPSWP7ys2RSDN0JPPCUc5WgWu3kxIPgvp-mcSjWeIwmxjg">](https://music.youtube.com/watch?v=WdiSosDz4ss)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xHpX9HBzAszwqyQ_jD8TbsPxT7VjcbaQD1F8a8KzRYhc9iDtoZh82W9x93at3QPa43kiwrvKC12evxo">](https://music.youtube.com/watch?v=ACDf9fhpuqo)
 
-LE SSERAFIM - UNFORGIVEN(feat. Nile Rodgers)
+Alexander Jean - Whiskey and Morphine
 
-**Albums**: UNFORGIVEN
+**Albums**: Head High
 
-Last updated at 05/29/2023 17:50
+Last updated at 05/29/2023 17:54
