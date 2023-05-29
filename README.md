@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=l4Z9kkYAggc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z9eRe-9--V-57CN6RPJ_bhHYCwZCW1Wn6L22hLVUOEr-d6NQqjyKx8WsfZxOA8CX3FubX6VC5Blwy_CB">](https://music.youtube.com/watch?v=EoO2MTDkpJA)
 
-aespa - Salty & Sweet
+STAYC(스테이씨) - Teddy Bear
 
-**Albums**: MY WORLD - The 3rd Mini Album
+**Albums**: Teddy Bear
 
-Last updated at 05/29/2023 17:40
+Last updated at 05/29/2023 17:44
