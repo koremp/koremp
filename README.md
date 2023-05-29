@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw">](https://music.youtube.com/watch?v=gqnogTUiQm4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qT5NtfEJvHhPKL0Cp3ef3LaosF0Pn19NJZZoLmg73R3_qpMXl3d2dkJq9g5FYMyEMK2o4P3qomcWJDl0">](https://music.youtube.com/watch?v=2XMnkRsW1Gs)
 
-Skrillex 및 Nai Barghouti - XENA
+NCT 127 - Ay-Yo
 
-**Albums**: Quest For Fire
+**Albums**: Ay-Yo - The 4th Album Repackage
 
-Last updated at 05/29/2023 17:30
+Last updated at 05/29/2023 17:34
