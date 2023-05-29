@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H78q6zL9AETQNIS8IIfT_94q6_O7AZ8yQfxuAySHwATKkJiILlnnVytdHDCNJcHFrHU-aNzttoRvPBU">](https://music.youtube.com/watch?v=Fmiu0L9XSVg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PP3qnnu4EFU9qLr0o5gpKrC1dhNQbxE5JjzS80s4X41rbSGSlo5bNeVsuvbnZzeOyG_Q3DafGlxUUANXQ">](https://music.youtube.com/watch?v=5idPf5Irfxk)
 
-NMIXX - Young, Dumb, Stupid
+로열 블러드 - Figure It Out
 
-**Albums**: expérgo
+**Albums**: Royal Blood
 
-Last updated at 05/30/2023 08:08
+Last updated at 05/30/2023 08:12
