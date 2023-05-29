@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TgX2Kf1bK-oasRMnLSSeu9_JBYFrWEFm3iQHa3ddK45vXd1V5v-BHk-KSAg30CD7YkySVEwBiFdgjEk3">](https://music.youtube.com/watch?v=mjb9iChNPuk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EjuB2PuG_IrW2lphUbqbfiRa7hxh9jMOGSELjPSWP7ys2RSDN0JPPCUc5WgWu3kxIPgvp-mcSjWeIwmxjg">](https://music.youtube.com/watch?v=WdiSosDz4ss)
 
-Nothing But Thieves - Welcome to the DCC
+LE SSERAFIM - UNFORGIVEN(feat. Nile Rodgers)
 
-**Albums**: Welcome to the DCC
+**Albums**: UNFORGIVEN
 
-Last updated at 05/29/2023 17:48
+Last updated at 05/29/2023 17:50
