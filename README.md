@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EjuB2PuG_IrW2lphUbqbfiRa7hxh9jMOGSELjPSWP7ys2RSDN0JPPCUc5WgWu3kxIPgvp-mcSjWeIwmxjg">](https://music.youtube.com/watch?v=WdiSosDz4ss)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zhcm3n4Spt2RdYQL1SQeplqPqDVYbRxlqxqWuT2ijIAtb1N0bdX66ZRBpJDspmk4ZXVqb2W8wl2FfPkc">](https://music.youtube.com/watch?v=O2AdA4DoKv0)
 
-LE SSERAFIM - UNFORGIVEN(feat. Nile Rodgers)
+Bebe Rexha 및 Snoop Dogg - Satellite
 
-**Albums**: UNFORGIVEN
+**Albums**: Bebe
 
-Last updated at 05/30/2023 09:03
+Last updated at 05/30/2023 09:05
