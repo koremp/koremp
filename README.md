@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zhcm3n4Spt2RdYQL1SQeplqPqDVYbRxlqxqWuT2ijIAtb1N0bdX66ZRBpJDspmk4ZXVqb2W8wl2FfPkc">](https://music.youtube.com/watch?v=O2AdA4DoKv0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PP3qnnu4EFU9qLr0o5gpKrC1dhNQbxE5JjzS80s4X41rbSGSlo5bNeVsuvbnZzeOyG_Q3DafGlxUUANXQ">](https://music.youtube.com/watch?v=5idPf5Irfxk)
 
-Bebe Rexha 및 Snoop Dogg - Satellite
+로열 블러드 - Figure It Out
 
-**Albums**: Bebe
+**Albums**: Royal Blood
 
-Last updated at 05/30/2023 09:05
+Last updated at 05/30/2023 09:07
