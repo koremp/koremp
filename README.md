@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=O5qOB4cDr7s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=oc6qyUQTMFA)
 
-aespa - Thirsty
+Bebe Rexha(비비 렉사) - Ferrari
 
-**Albums**: MY WORLD - The 3rd Mini Album
+**Albums**: Expectations
 
-Last updated at 05/30/2023 09:15
+Last updated at 05/30/2023 09:17
