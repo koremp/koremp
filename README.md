@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PP3qnnu4EFU9qLr0o5gpKrC1dhNQbxE5JjzS80s4X41rbSGSlo5bNeVsuvbnZzeOyG_Q3DafGlxUUANXQ">](https://music.youtube.com/watch?v=5idPf5Irfxk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jiq-5qO-KBWYZLy72MgE-c_iZBbyBsIQcZPmuthiMsLpTWOxD_yNlrsyjeblNmuhphc1g6EXZtOZQ6JY">](https://music.youtube.com/watch?v=DG31M410TYA)
 
-로열 블러드 - Figure It Out
+LSD - Heaven Can Wait(feat. Sia(시아), Diplo, Labrinth)
 
-**Albums**: Royal Blood
+**Albums**: LABRINTH, SIA & DIPLO PRESENT... LSD
 
-Last updated at 05/30/2023 09:07
+Last updated at 05/30/2023 09:11
