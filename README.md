@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0uRMEcB2JG3C9pT2k9rI4ZRZlPgtQzlM-Ju8vMIP91IsTsbhtOHT07-GsRTAy29AzYvWNFPsdmh5uWE9">](https://music.youtube.com/watch?v=hMJo19DmKw0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EjuB2PuG_IrW2lphUbqbfiRa7hxh9jMOGSELjPSWP7ys2RSDN0JPPCUc5WgWu3kxIPgvp-mcSjWeIwmxjg">](https://music.youtube.com/watch?v=WdiSosDz4ss)
 
-KAI - 음 Mmmh
+LE SSERAFIM - UNFORGIVEN(feat. Nile Rodgers)
 
-**Albums**: KAI - The 1st Mini Album
+**Albums**: UNFORGIVEN
 
-Last updated at 05/30/2023 08:16
+Last updated at 05/30/2023 09:03
