@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5yt4V8iXtagoeqzdoPGiDXSsWTW2DFidlUPwBVXyBXvG3sLUOstj2M8E_w9AXJbqYzlqYeuakseyNQPS">](https://music.youtube.com/watch?v=OdoZSC97W-c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/R6_7eglKZh3ieUfPS8Sa3xW_9LDoPfQfRuqkoxStBRRfyBY1jOa6MFNl3r5iZcbCXes9o0_Jiz6dN0CZ">](https://music.youtube.com/watch?v=kAC2QwmiiRw)
 
-카드 (KARD) - ICKY
+선미 - 6분의1
 
-**Albums**: KARD 6th Mini Album 'ICKY'
+**Albums**: 6분의1
 
-Last updated at 05/31/2023 15:27
+Last updated at 06/01/2023 06:28
