@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R6_7eglKZh3ieUfPS8Sa3xW_9LDoPfQfRuqkoxStBRRfyBY1jOa6MFNl3r5iZcbCXes9o0_Jiz6dN0CZ">](https://music.youtube.com/watch?v=kAC2QwmiiRw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-3IdXBi6l7XFQ-mS1b5FjoBfXFtdWk8SRV_v2sS5d65C8AazYWpty4YErY8c8qt4cySn9cZLFudYwkA">](https://music.youtube.com/watch?v=pZ_zeodlRRY)
 
-선미 - 6분의1
+Fred again.. 및 The Blessed Madonna - Marea (we’ve lost dancing)
 
-**Albums**: 6분의1
+**Albums**: Actual Life (April 14 - December 17 2020)
 
-Last updated at 06/01/2023 06:28
+Last updated at 06/01/2023 06:32
