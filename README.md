@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XhwVPtFLC5ox7uGVlMhdhepxmA5FcpMeiwaommCPuXOHNwZJLh7X638vrnmETnHKSFmnzSwo8Hde83Ozng">](https://music.youtube.com/watch?v=D7HpQ1x9vFg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fzxg0hzSyGAXZfVqSnjCCSmfo9fIpAudMQYpnxT3mJ3OSB0qCA_6uUUDREe6QKUGcmUU3cI-zZGJHQqgJg">](https://music.youtube.com/watch?v=_Lw9uprrz7k)
 
-Troye Sivan(트로이 시반) - TALK ME DOWN
+주니엘(JUNIEL) - 나쁜 사람
 
-**Albums**: Blue Neighbourhood (Deluxe)
+**Albums**: 원앤원 (1&1)
 
-Last updated at 06/01/2023 06:46
+Last updated at 06/01/2023 06:50
