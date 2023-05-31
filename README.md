@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0xR7uI3JpG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0xR7uI3JpG8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XhwVPtFLC5ox7uGVlMhdhepxmA5FcpMeiwaommCPuXOHNwZJLh7X638vrnmETnHKSFmnzSwo8Hde83Ozng">](https://music.youtube.com/watch?v=D7HpQ1x9vFg)
 
-하현상 - 헤이즈 (Heize) - 작사가 (Cover by 하현상 Ha Hyunsang)
+Troye Sivan(트로이 시반) - TALK ME DOWN
 
-**Albums**: 조회수 24만회
+**Albums**: Blue Neighbourhood (Deluxe)
 
-Last updated at 06/01/2023 06:44
+Last updated at 06/01/2023 06:46
