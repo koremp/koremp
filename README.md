@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-3IdXBi6l7XFQ-mS1b5FjoBfXFtdWk8SRV_v2sS5d65C8AazYWpty4YErY8c8qt4cySn9cZLFudYwkA">](https://music.youtube.com/watch?v=pZ_zeodlRRY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1c1x7TSo-1_XMweh-KJlCkgtiUneeMtBVQDRhCWPzr4DOQ3LwHS-9VKSj_cQAsTwzn9Ip1TxyaQ63NGPyg">](https://music.youtube.com/watch?v=XmxRRcJtlyY)
 
-Fred again.. 및 The Blessed Madonna - Marea (we’ve lost dancing)
+언니네 이발관 - 애도 Condolences
 
-**Albums**: Actual Life (April 14 - December 17 2020)
+**Albums**: 혼자 추는 춤 Dancing alone
 
-Last updated at 06/01/2023 06:32
+Last updated at 06/01/2023 06:38
