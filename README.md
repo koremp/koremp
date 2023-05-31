@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1c1x7TSo-1_XMweh-KJlCkgtiUneeMtBVQDRhCWPzr4DOQ3LwHS-9VKSj_cQAsTwzn9Ip1TxyaQ63NGPyg">](https://music.youtube.com/watch?v=XmxRRcJtlyY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0xR7uI3JpG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0xR7uI3JpG8)
 
-언니네 이발관 - 애도 Condolences
+하현상 - 헤이즈 (Heize) - 작사가 (Cover by 하현상 Ha Hyunsang)
 
-**Albums**: 혼자 추는 춤 Dancing alone
+**Albums**: 조회수 24만회
 
-Last updated at 06/01/2023 06:38
+Last updated at 06/01/2023 06:44
