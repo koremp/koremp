@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MxdDM-IYeaAJdNMPi-6dyeOXlIO8qzdNM0hqOEa5DX9LP_A60kAUJuRHabc8FYKSpUlQqZMK8FKqHq9Z">](https://music.youtube.com/watch?v=fl8dUYThW2w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4SUquN0dBQexdGvW-ula7Yl602eYFTftSt-tWP6cAFCCiU5UqnUDlxkM6ob7-S2Iv9XG6xdbmytmN3Qo">](https://music.youtube.com/watch?v=es1-ui7O6vI)
 
-HA:TFELT - Summertime(feat. Keem Hyoeun)
+JAOORIMM - 일탈
 
-**Albums**: Summertime
+**Albums**: Purple Heart
 
-Last updated at 06/01/2023 06:54
+Last updated at 06/01/2023 12:51
