@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jiq-5qO-KBWYZLy72MgE-c_iZBbyBsIQcZPmuthiMsLpTWOxD_yNlrsyjeblNmuhphc1g6EXZtOZQ6JY">](https://music.youtube.com/watch?v=jU0u8WhOGbM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_wv8AcuL5VdOHAblkYID3WIakfAM4OqkPiUrdnTT6P1XdQF8Hk3kMh6DEJeyb-f9pu51GE3AaZxGuw0">](https://music.youtube.com/watch?v=_GX3D32b3TI)
 
-LSD - Angel in Your Eyes(feat. Sia(시아), Diplo, Labrinth)
+Lil Nas X - STAR WALKIN' (League of Legends Worlds Anthem)
 
-**Albums**: LABRINTH, SIA & DIPLO PRESENT... LSD
+**Albums**: STAR WALKIN' (League of Legends Worlds Anthem)
 
-Last updated at 06/01/2023 13:23
+Last updated at 06/01/2023 13:27
