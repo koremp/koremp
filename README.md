@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/T2NQF5x39J6fflVu9y0ePZdh9p4eYDHRWRrsElHTvHggDhdNs_WCOnFN1jyho3bHWFG6otDa-h24OrnBtA">](https://music.youtube.com/watch?v=pIP3qgFj1J4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gb4YFk3Efb-HXOQw_MMDY2aTUgcDJAV9l1koas1TxBhF3_zKTAgE7JcY3pbcTdPtSZrmT_ZHD6ZcIcaJUQ">](https://music.youtube.com/watch?v=HbrX49BZd30)
 
-소녀시대-태티서 (Girls` Generation-TTS) - 아드레날린 Adrenaline
+Ellie Goulding(엘리 굴딩) - Lights (Single Version)
 
-**Albums**: Holler (The 2nd Mini Album)
+**Albums**: Bright Lights (Lights Re-pack / Bonus Version)
 
-Last updated at 06/01/2023 13:41
+Last updated at 06/01/2023 13:45
