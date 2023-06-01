@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_tLSf37u7UPBIfBjZuLf2aGWDYHEqVYEapgF9z3GmrKDsrS-edVMnmNQV2Nv2NAU0tg5tB9GaOHCkmyQ">](https://music.youtube.com/watch?v=S8gYErP4ZDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0rAe6Z7YzT-gFO1IE1hsuPG8mvkaT-SNF0o2uveh5QwHpX9-X8CX7GE8j_N1WmV4KpnAZdp7JP4vb0f4">](https://music.youtube.com/watch?v=Z4aCprJtBLU)
 
-Troye Sivan(트로이 시반) - Bloom
+Charlie Puth - Charlie Be Quiet!
 
-**Albums**: Bloom
+**Albums**: CHARLIE
 
-Last updated at 06/01/2023 14:15
+Last updated at 06/01/2023 14:19
