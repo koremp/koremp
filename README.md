@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7a03Ybk8vbe8c4dl4E8l77Y4e9aEWjQvTfOAdLdXxsnjZ57gYQ8FsKra9SgXAHT-jtiwuq6lukCfbRKL">](https://music.youtube.com/watch?v=giLpYG11qxQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KC1wVA375fpaMjdfrcMojKy5v3guMuFNzFh2a_CyWnxCn4lWWWuKRDDNDPs0Gc0yeIdTvbiVPtra8mSQ">](https://music.youtube.com/watch?v=nThFdI4VbgA)
 
-Arctic Monkeys - R U Mine?
+샤이니 - View
 
-**Albums**: AM
+**Albums**: Odd - The 4th Album
 
-Last updated at 06/01/2023 14:21
+Last updated at 06/01/2023 14:25
