@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/watch?v=IDyQO0QuvKY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GLS1o7Vh-LFGBBkq1y9Ooadrvji-6ql0j1yOQT2-zqJIW1aLGdEfJA9JY56E3A71qgNJfHAsEQCrdaHiWg">](https://music.youtube.com/watch?v=BfRBYmRrhYg)
 
-The Chainsmokers(체인스모커스) - Hope(feat. 위노나 오크)
+Muse(뮤즈) - Time is Running Out
 
-**Albums**: Sick Boy
+**Albums**: Absolution
 
-Last updated at 06/01/2023 13:55
+Last updated at 06/01/2023 13:57
