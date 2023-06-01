@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3LV6GoLom0Vb_oNFTXI_e2NIua0D-WocCifEFnSQattWpLfswpayWPzZ2BeClAB5QxR2EnGZkgh7QI7j">](https://music.youtube.com/watch?v=ZSFHOIuUl7E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/b_2740Ur9y69cJXFGnR3yk5d7BaMgO89SQxDjJbG3P9rd1SiBf4eTXgqh0DtOM6ltKfg9qZkZ4OI1ldnoA">](https://music.youtube.com/watch?v=pJRejTYMXSY)
 
-Ariana Grande(아리아나 그란데) - imagine
+FIFTY FIFTY - Lovin' Me
 
-**Albums**: thank u, next
+**Albums**: THE FIFTY
 
-Last updated at 06/01/2023 13:31
+Last updated at 06/01/2023 13:33
