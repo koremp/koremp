@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=w4hKSZnKqdc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=vx7-mBCUFnk)
 
-Bebe Rexha(비비 렉사) - Pillow
+이랑 - 늑대가 나타났다
 
-**Albums**: Expectations
+**Albums**: 늑대가 나타났다
 
-Last updated at 06/01/2023 14:01
+Last updated at 06/01/2023 14:05
