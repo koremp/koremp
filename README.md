@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JAgRmPaAvWo3jlLFLxQYeiCgciUYX_sUh3jwx0u7klHju3Ur4w3PTYT8qlzS3IW4r07dBSDxvSWypLY">](https://music.youtube.com/watch?v=gLgUesz8444)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_tLSf37u7UPBIfBjZuLf2aGWDYHEqVYEapgF9z3GmrKDsrS-edVMnmNQV2Nv2NAU0tg5tB9GaOHCkmyQ">](https://music.youtube.com/watch?v=S8gYErP4ZDQ)
 
-Toby Fox - An Ending
+Troye Sivan(트로이 시반) - Bloom
 
-**Albums**: UNDERTALE Soundtrack
+**Albums**: Bloom
 
-Last updated at 06/01/2023 14:11
+Last updated at 06/01/2023 14:15
