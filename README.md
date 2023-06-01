@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_wv8AcuL5VdOHAblkYID3WIakfAM4OqkPiUrdnTT6P1XdQF8Hk3kMh6DEJeyb-f9pu51GE3AaZxGuw0">](https://music.youtube.com/watch?v=_GX3D32b3TI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3LV6GoLom0Vb_oNFTXI_e2NIua0D-WocCifEFnSQattWpLfswpayWPzZ2BeClAB5QxR2EnGZkgh7QI7j">](https://music.youtube.com/watch?v=ZSFHOIuUl7E)
 
-Lil Nas X - STAR WALKIN' (League of Legends Worlds Anthem)
+Ariana Grande(아리아나 그란데) - imagine
 
-**Albums**: STAR WALKIN' (League of Legends Worlds Anthem)
+**Albums**: thank u, next
 
-Last updated at 06/01/2023 13:27
+Last updated at 06/01/2023 13:31
