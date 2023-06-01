@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/twOhjT3jWPtfM9sESMBDpCpXMK-PTZJOh6hbq1fS3PmgAuQrWePrdrYDpJauRNq_ZlSIvKVuwl3_Dl84">](https://music.youtube.com/watch?v=NgLWF2XJyKA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=k-U9sQpCfeI)
 
-Arctic Monkeys - Old Yellow Bricks
+이랑 - 환란의 세대
 
-**Albums**: Favourite Worst Nightmare
+**Albums**: 늑대가 나타났다
 
-Last updated at 06/01/2023 12:53
+Last updated at 06/01/2023 12:57
