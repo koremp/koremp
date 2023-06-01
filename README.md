@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DFuB0dnkBI2v-qbqAxpRB2a6EWagBm5u0RyeV35n5-U7C8AchzD1bdtkri8O3yPGBTmCwmo_rIC5XlA4">](https://music.youtube.com/watch?v=Ww7B7UVi0Ls)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PsWhG1ooN3R6y_i7XG5hoQp1tMAxXVdnfAAm69c4kFx-XvgxIgz75mrMlAnXFliSj0tKoaA0mpaA8H08">](https://music.youtube.com/watch?v=BdckJ0WAxGY)
 
-하현상 - 시간과 흔적
+카이 (Kai) - 신이여(Korean Ver.)
 
-**Albums**: Time and Trace
+**Albums**: 뮤지컬 레베카 2019 카이(Kai)
 
-Last updated at 06/01/2023 13:07
+Last updated at 06/01/2023 13:11
