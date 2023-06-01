@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gb4YFk3Efb-HXOQw_MMDY2aTUgcDJAV9l1koas1TxBhF3_zKTAgE7JcY3pbcTdPtSZrmT_ZHD6ZcIcaJUQ">](https://music.youtube.com/watch?v=HbrX49BZd30)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KL6AE4YxBPwjyPYGlmObFc_JFVUIwIsh9DFb5zQtQVLztesvxDPz2vRlVjZ-keIijuY1W_A0atKBbaFe">](https://music.youtube.com/watch?v=fSzLmXV9pIo)
 
-Ellie Goulding(엘리 굴딩) - Lights (Single Version)
+에담 - 12:45 (Stripped)
 
-**Albums**: Bright Lights (Lights Re-pack / Bonus Version)
+**Albums**: 12:45 (Stripped)
 
-Last updated at 06/01/2023 13:45
+Last updated at 06/01/2023 13:47
