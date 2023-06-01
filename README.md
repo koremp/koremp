@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=vx7-mBCUFnk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=xUV9pcwhY0U)
 
-이랑 - 늑대가 나타났다
+aespa - Spicy
 
-**Albums**: 늑대가 나타났다
+**Albums**: MY WORLD - The 3rd Mini Album
 
-Last updated at 06/01/2023 14:05
+Last updated at 06/01/2023 14:09
