@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Rzo7MlYMHVyj5z8vOE0W3BisK4ky2llEzP5KioNmEsTlgY5BfGmbROC_TpNbsh7RNn7wug1PlwkwIv7zQ">](https://music.youtube.com/watch?v=bH5rlpk70Ro)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jiq-5qO-KBWYZLy72MgE-c_iZBbyBsIQcZPmuthiMsLpTWOxD_yNlrsyjeblNmuhphc1g6EXZtOZQ6JY">](https://music.youtube.com/watch?v=jU0u8WhOGbM)
 
-Red Velvet - Blue Lemonade
+LSD - Angel in Your Eyes(feat. Sia(시아), Diplo, Labrinth)
 
-**Albums**: Summer Magic
+**Albums**: LABRINTH, SIA & DIPLO PRESENT... LSD
 
-Last updated at 06/01/2023 13:21
+Last updated at 06/01/2023 13:23
