@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/b_2740Ur9y69cJXFGnR3yk5d7BaMgO89SQxDjJbG3P9rd1SiBf4eTXgqh0DtOM6ltKfg9qZkZ4OI1ldnoA">](https://music.youtube.com/watch?v=pJRejTYMXSY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7sMjbNSjtNC2vVrXNtXT1m2bD6vxtIF2CceQIFBn2Dq-PcUbkcA0prNgWAREezxeHAaHrzO9-_xd-FM">](https://music.youtube.com/watch?v=67ibXO8viXE)
 
-FIFTY FIFTY - Lovin' Me
+Sam Smith(샘 스미스) - I'm Not The Only One
 
-**Albums**: THE FIFTY
+**Albums**: In The Lonely Hour
 
-Last updated at 06/01/2023 13:33
+Last updated at 06/01/2023 13:37
