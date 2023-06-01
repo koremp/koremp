@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0rAe6Z7YzT-gFO1IE1hsuPG8mvkaT-SNF0o2uveh5QwHpX9-X8CX7GE8j_N1WmV4KpnAZdp7JP4vb0f4">](https://music.youtube.com/watch?v=Z4aCprJtBLU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7a03Ybk8vbe8c4dl4E8l77Y4e9aEWjQvTfOAdLdXxsnjZ57gYQ8FsKra9SgXAHT-jtiwuq6lukCfbRKL">](https://music.youtube.com/watch?v=giLpYG11qxQ)
 
-Charlie Puth - Charlie Be Quiet!
+Arctic Monkeys - R U Mine?
 
-**Albums**: CHARLIE
+**Albums**: AM
 
-Last updated at 06/01/2023 14:19
+Last updated at 06/01/2023 14:21
