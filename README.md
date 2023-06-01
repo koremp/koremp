@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PsWhG1ooN3R6y_i7XG5hoQp1tMAxXVdnfAAm69c4kFx-XvgxIgz75mrMlAnXFliSj0tKoaA0mpaA8H08">](https://music.youtube.com/watch?v=BdckJ0WAxGY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qT5NtfEJvHhPKL0Cp3ef3LaosF0Pn19NJZZoLmg73R3_qpMXl3d2dkJq9g5FYMyEMK2o4P3qomcWJDl0">](https://music.youtube.com/watch?v=2XMnkRsW1Gs)
 
-카이 (Kai) - 신이여(Korean Ver.)
+NCT 127 - Ay-Yo
 
-**Albums**: 뮤지컬 레베카 2019 카이(Kai)
+**Albums**: Ay-Yo - The 4th Album Repackage
 
-Last updated at 06/01/2023 13:11
+Last updated at 06/01/2023 13:13
