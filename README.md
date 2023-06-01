@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M1wO9OhnG_tmmhuxNaKXdvKqUJdkjD8xKZpshXpSjogNGU7nA0_OI5roPpQbQ6JOBQz8mK_oxk3BavHDQA">](https://music.youtube.com/watch?v=Ex2BKaNX8xA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Rzo7MlYMHVyj5z8vOE0W3BisK4ky2llEzP5KioNmEsTlgY5BfGmbROC_TpNbsh7RNn7wug1PlwkwIv7zQ">](https://music.youtube.com/watch?v=bH5rlpk70Ro)
 
-SEVENTEEN - 손오공
+Red Velvet - Blue Lemonade
 
-**Albums**: SEVENTEEN 10th Mini Album ‘FML’
+**Albums**: Summer Magic
 
-Last updated at 06/01/2023 13:17
+Last updated at 06/01/2023 13:21
