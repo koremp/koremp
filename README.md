@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KL6AE4YxBPwjyPYGlmObFc_JFVUIwIsh9DFb5zQtQVLztesvxDPz2vRlVjZ-keIijuY1W_A0atKBbaFe">](https://music.youtube.com/watch?v=fSzLmXV9pIo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xaeVsAl7mw0vVfeUsNAgP3au3HbUzGdDROIfF4seqJk2kjWXFtTfTt_J6KnDHb_hxanyASCACRTL3VeX">](https://music.youtube.com/watch?v=KLozldjxyu4)
 
-에담 - 12:45 (Stripped)
+드림캐쳐 - Whistle
 
-**Albums**: 12:45 (Stripped)
+**Albums**: [Summer Holiday]
 
-Last updated at 06/01/2023 13:47
+Last updated at 06/01/2023 13:51
