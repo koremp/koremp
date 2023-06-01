@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=VTAHyBYSE28)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=l4Z9kkYAggc)
 
-Bebe Rexha(비비 렉사) - 2 Souls on Fire(feat. 퀘이보)
+aespa - Salty & Sweet
 
-**Albums**: Expectations
+**Albums**: MY WORLD - The 3rd Mini Album
 
-Last updated at 06/01/2023 13:01
+Last updated at 06/01/2023 13:03
