@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7sMjbNSjtNC2vVrXNtXT1m2bD6vxtIF2CceQIFBn2Dq-PcUbkcA0prNgWAREezxeHAaHrzO9-_xd-FM">](https://music.youtube.com/watch?v=67ibXO8viXE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/T2NQF5x39J6fflVu9y0ePZdh9p4eYDHRWRrsElHTvHggDhdNs_WCOnFN1jyho3bHWFG6otDa-h24OrnBtA">](https://music.youtube.com/watch?v=pIP3qgFj1J4)
 
-Sam Smith(샘 스미스) - I'm Not The Only One
+소녀시대-태티서 (Girls` Generation-TTS) - 아드레날린 Adrenaline
 
-**Albums**: In The Lonely Hour
+**Albums**: Holler (The 2nd Mini Album)
 
-Last updated at 06/01/2023 13:37
+Last updated at 06/01/2023 13:41
