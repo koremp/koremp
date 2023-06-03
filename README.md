@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/m0gfslJci6TX-1rBL9c7CncaL_KIaJt-KWzxdoKlzoyi0yzPcD7Gc5OLsPPmOSa2uJPU-a4GtUhBYR4k">](https://music.youtube.com/watch?v=PHINkx2So0s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5Hb0OUwkQU0ibFm9dg642mDAmoV1VFYaohbPEl7OfuUh-KYSHpa-QWprPutA6JXIceB2AGcqvtLFvVc">](https://music.youtube.com/watch?v=16tl29m18Oo)
 
-Red Velvet - Knock On Wood
+키라라 - HRT
 
-**Albums**: Queendom: The 6th Mini Album
+**Albums**: 4-1
 
-Last updated at 06/01/2023 14:27
+Last updated at 06/03/2023 13:47
