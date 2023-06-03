@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5Hb0OUwkQU0ibFm9dg642mDAmoV1VFYaohbPEl7OfuUh-KYSHpa-QWprPutA6JXIceB2AGcqvtLFvVc">](https://music.youtube.com/watch?v=16tl29m18Oo)
+[<img align="left" width="100" src="">](https://www.youtube.com/@WOODZ_dnwm)
 
-키라라 - HRT
 
-**Albums**: 4-1
+  
+    WOODZ
+  
+  
+  
+    WOODZ
+  
 
-Last updated at 06/03/2023 13:47
+
+
+
+  공식 아티스트 채널
+
+
+ - [WOODZ] 'Drowning' Live Clip
+
+**Albums**: Not supported
+
+Last updated at 06/03/2023 17:07
