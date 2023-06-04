@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/F9AkJYtGIvnimXbt92d7uLMlF2HRW2uINOATUQLHQmxNgrR_9Rb3PpZj0baQidHMz_wpEe14H40uS28">](https://music.youtube.com/watch?v=i274mYouDRY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OjY8-5Aigvy4lAhq0hglQGjqdigy94ae4xSClmbrpsOcBgGlmnpoFoyQK-EsCEtZ6wnAZXYe05YQPfWX">](https://music.youtube.com/watch?v=5gZl0PYC2Ho)
 
-ATEEZ - WONDERLAND
+TWICE(트와이스) - Likey
 
-**Albums**: TREASURE EP.FIN : All To Action
+**Albums**: Twicetagram
 
-Last updated at 06/04/2023 15:38
+Last updated at 06/04/2023 15:42
