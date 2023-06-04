@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@WOODZ_dnwm)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwUHpK3TK3KBpnb2NhAZjaMtBH6Y56u4Aq0K-nAKGd8gvJrfMeWsdY26n99IE84GF9MDpW9KybAAFW2QFQ">](https://music.youtube.com/watch?v=ELLlMCX5-Zs)
 
+Fred again.. - Jungle (Rico Nasty Remix)
 
-  
-    WOODZ
-  
-  
-  
-    WOODZ
-  
+**Albums**: USB
 
-
-
-
-  공식 아티스트 채널
-
-
- - [WOODZ] 'Drowning' Live Clip
-
-**Albums**: Not supported
-
-Last updated at 06/03/2023 17:07
+Last updated at 06/04/2023 13:28
