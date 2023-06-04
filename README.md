@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/83WfS0R2swcWGVwlCXzaYQ0y79y-2uoDGHeq0RSaGEQ9lUGpgmYMfaCOMNaoNDgn3TUWbz4h5Hiv8QUJ5g">](https://music.youtube.com/watch?v=6tmY3y88HOo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ApFBPzKKqMmGr8aMHN73n0DwgTIVj9Pp2wtMEmZSRqrPf_HWtr3R7D_Zc4ySRrH43Uh6b7ac60-0G6-_5w">](https://music.youtube.com/watch?v=NbKH4iZqq1Y)
 
-Biffy Clyro - Bubbles
+WOODZ - Drowning
 
-**Albums**: Only Revolutions
+**Albums**: OO-LI
 
-Last updated at 06/04/2023 13:40
+Last updated at 06/04/2023 15:22
