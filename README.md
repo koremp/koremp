@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=LP9sF1v-vz4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LAdgPgskgL1xUTO9OaygHSjDQmg08WU_cQEdPzSUybS2BeGryCaKgfL_u4cpD7HmJvcCRlduxg6TeCxLIQ">](https://music.youtube.com/watch?v=hQ9GAir4Smo)
 
-aespa - 도깨비불 Illusion
+NCT U - Make A Wish (Birthday Song)
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: RESONANCE, Pt. 1
 
-Last updated at 06/04/2023 15:30
+Last updated at 06/04/2023 15:34
