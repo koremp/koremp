@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uD-3cJbrA3BpcbxcMF3bF4LFJ80MMK_eIGYQhRom5MGp2u_j1pQDogNA8o_AePgV0iUGWPDQzwOMs_M4">](https://music.youtube.com/watch?v=AmBH5Undj0Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uXUcQwZ7-V4CzLtCK2HwbEOy589iKlfsH5FN5MhvCBr8xkAH1LP8rc49rVIKyFohrkTj53pdeOMKdFxPIQ">](https://music.youtube.com/watch?v=l4Z9kkYAggc)
 
-KARD - YOU IN ME
+aespa - Salty & Sweet
 
-**Albums**: KARD 2nd Mini Album 'YOU & ME'
+**Albums**: MY WORLD - The 3rd Mini Album
 
-Last updated at 06/04/2023 15:52
+Last updated at 06/04/2023 15:54
