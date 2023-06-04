@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LAdgPgskgL1xUTO9OaygHSjDQmg08WU_cQEdPzSUybS2BeGryCaKgfL_u4cpD7HmJvcCRlduxg6TeCxLIQ">](https://music.youtube.com/watch?v=hQ9GAir4Smo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/F9AkJYtGIvnimXbt92d7uLMlF2HRW2uINOATUQLHQmxNgrR_9Rb3PpZj0baQidHMz_wpEe14H40uS28">](https://music.youtube.com/watch?v=i274mYouDRY)
 
-NCT U - Make A Wish (Birthday Song)
+ATEEZ - WONDERLAND
 
-**Albums**: RESONANCE, Pt. 1
+**Albums**: TREASURE EP.FIN : All To Action
 
-Last updated at 06/04/2023 15:34
+Last updated at 06/04/2023 15:38
