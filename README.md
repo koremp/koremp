@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OjY8-5Aigvy4lAhq0hglQGjqdigy94ae4xSClmbrpsOcBgGlmnpoFoyQK-EsCEtZ6wnAZXYe05YQPfWX">](https://music.youtube.com/watch?v=5gZl0PYC2Ho)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fJpZe3zvFu7-O3MKX177yrv1_y80VHyIERS0dQr4-D_pXSg9d-iWoIoCAGyieSda7eers0As66ITuaRE">](https://music.youtube.com/watch?v=5AXkPJvvM6w)
 
-TWICE(트와이스) - Likey
+EVERGLOW - FIRST
 
-**Albums**: Twicetagram
+**Albums**: Last Melody
 
-Last updated at 06/04/2023 15:42
+Last updated at 06/04/2023 15:44
