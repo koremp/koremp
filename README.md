@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwUHpK3TK3KBpnb2NhAZjaMtBH6Y56u4Aq0K-nAKGd8gvJrfMeWsdY26n99IE84GF9MDpW9KybAAFW2QFQ">](https://music.youtube.com/watch?v=ELLlMCX5-Zs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/h9MeqIR47vj0_Xlpdb8mv_uLNFXCJY7RVtxtjShrPT8dbkllmf8mbMDk3M-rF8t_NS_adXngE2cCwe-c">](https://music.youtube.com/watch?v=zmOONagpEBU)
 
-Fred again.. - Jungle (Rico Nasty Remix)
+Halsey(할시) - Colors
 
-**Albums**: USB
+**Albums**: BADLANDS
 
-Last updated at 06/04/2023 13:28
+Last updated at 06/04/2023 13:30
