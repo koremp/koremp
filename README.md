@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h9MeqIR47vj0_Xlpdb8mv_uLNFXCJY7RVtxtjShrPT8dbkllmf8mbMDk3M-rF8t_NS_adXngE2cCwe-c">](https://music.youtube.com/watch?v=zmOONagpEBU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/t9cdOnt85ATKz8E9FkA-6hZoiZGNbks7_e1iS17oFtH5AR2NkHLeaq7DeBHNrIute0pZ-Izb3yO0mwA">](https://music.youtube.com/watch?v=sf2s8US-Pfw)
 
-Halsey(할시) - Colors
+Regard - Ride It
 
-**Albums**: BADLANDS
+**Albums**: Ride It
 
-Last updated at 06/04/2023 13:30
+Last updated at 06/04/2023 13:34
