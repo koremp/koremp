@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BUmE1C4T5pJvj0hk5F-Zs0-70dlHB8gZ2XB6TjiE3hIftYKa5LtOrVRaN9qxCwqyB3Ht8xhp4tzs_nM0">](https://music.youtube.com/watch?v=kQTe5W-Xobk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5yt4V8iXtagoeqzdoPGiDXSsWTW2DFidlUPwBVXyBXvG3sLUOstj2M8E_w9AXJbqYzlqYeuakseyNQPS">](https://music.youtube.com/watch?v=OdoZSC97W-c)
 
-MONKEY MAJIK - S.O.S
+카드 (KARD) - ICKY
 
-**Albums**: curtain call
+**Albums**: KARD 6th Mini Album 'ICKY'
 
-Last updated at 06/04/2023 15:26
+Last updated at 06/04/2023 15:28
