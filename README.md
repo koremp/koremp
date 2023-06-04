@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvjaEL_h0fOHl8ssUHspQNmR7AmgHWHnBo1MjHS5GRxubKz7rDL8aZSYIBwabn2Y7r8mtx816yHAZ1A">](https://music.youtube.com/watch?v=TqcvGnI2XXA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uD-3cJbrA3BpcbxcMF3bF4LFJ80MMK_eIGYQhRom5MGp2u_j1pQDogNA8o_AePgV0iUGWPDQzwOMs_M4">](https://music.youtube.com/watch?v=AmBH5Undj0Q)
 
-Red Velvet - Attaboy
+KARD - YOU IN ME
 
-**Albums**: Perfect Velvet
+**Albums**: KARD 2nd Mini Album 'YOU & ME'
 
-Last updated at 06/04/2023 15:48
+Last updated at 06/04/2023 15:52
