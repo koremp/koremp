@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bsPieoSMF402F_05hHOq7FITGDPllsNcBnjPE0WUi6T2a4A130z6qqjJLCEV10kE1pCSGBxKt0Bdgfkc">](https://music.youtube.com/watch?v=wDuoOapZ9Z0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/watch?v=Pu6ontPJjHI)
 
-Avicii(아비치) - Levels
+Avicii(아비치) - Sunset Jesus
 
-**Albums**: Levels
+**Albums**: Stories
 
-Last updated at 06/07/2023 14:14
+Last updated at 06/07/2023 14:20
