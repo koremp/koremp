@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/watch?v=nSmCe__DcEc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XincHWEjkXhpbavoQEHWRbTcVdvHsujjr7OAw-73KUCILFgjLdevPW8vkoaRMibnwkTtGWkEDyKbuNeK">](https://music.youtube.com/watch?v=2NiyrtYegso)
 
-Avicii(아비치) - Hold The Line(feat. A R I Z O N A)
+Avicii(아비치) - Wake Me Up
 
-**Albums**: TIM
+**Albums**: True (Bonus Edition)
 
-Last updated at 06/07/2023 15:02
+Last updated at 06/07/2023 15:06
