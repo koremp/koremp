@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/watch?v=Q6j4IK0eDzc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/watch?v=xSGaVeTfhS4)
 
-Avicii(아비치) - Fades Away(feat. Noonie Bao)
+Avicii(아비치) - City Lights
 
-**Albums**: TIM
+**Albums**: Stories
 
-Last updated at 06/07/2023 14:46
+Last updated at 06/07/2023 14:50
