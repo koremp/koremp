@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XincHWEjkXhpbavoQEHWRbTcVdvHsujjr7OAw-73KUCILFgjLdevPW8vkoaRMibnwkTtGWkEDyKbuNeK">](https://music.youtube.com/watch?v=2NiyrtYegso)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-vuvm0Tc6AARIZ3okh_6ZuYHXwN8Qb0GtBbEQfX8OdGZ2inHw2WqR5F-Vo0dg5iGNBLLpFy4l9YkaXq1kQ">](https://music.youtube.com/watch?v=yKcNdXO4l4w)
 
-Avicii(아비치) - Wake Me Up
+Avicii(아비치) - Fade Into Darkness (Vocal Radio Mix)
 
-**Albums**: True (Bonus Edition)
+**Albums**: Fade Into Darkness
 
-Last updated at 06/07/2023 15:06
+Last updated at 06/07/2023 15:10
