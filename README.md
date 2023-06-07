@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/watch?v=VrQWjIf55RA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XincHWEjkXhpbavoQEHWRbTcVdvHsujjr7OAw-73KUCILFgjLdevPW8vkoaRMibnwkTtGWkEDyKbuNeK">](https://music.youtube.com/watch?v=-puFz08QiQc)
 
-Avicii(아비치) - Tough Love(feat. 아그네스 칼슨, Vargas & Lagola)
+Avicii(아비치) - Dear Boy
 
-**Albums**: TIM
+**Albums**: True (Bonus Edition)
 
-Last updated at 06/07/2023 14:28
+Last updated at 06/07/2023 14:30
