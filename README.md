@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WGscL4slLo4ahnwq-WjUa_Pi0OtUkc8fQQPGBTl5Rkem1No3e7NiqGyFCV3ItdBZ3uGWolMWsqeRkEbg">](https://music.youtube.com/watch?v=ythA128geTE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/G6OE_TLmTgbyG-8WQp48f_Z_MFb_ERcIfpTQJXV3_wKcTzx4VxiXCYIwSAvkBV4CRHOjBb56hTQrRu23">](https://music.youtube.com/watch?v=3eUfPNLdz_w)
 
-DAY6(데이식스) - 겨울이 간다 Goodbye winter
+원필 - Like A Fire
 
-**Albums**: Every DAY6 January
+**Albums**: 일진에게 반했을 때 (Original Television Soundtrack) Pt. 2
 
-Last updated at 06/07/2023 13:34
+Last updated at 06/07/2023 13:36
