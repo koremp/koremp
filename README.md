@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Yybwbw5EvIfqmeirSo4_gbMB5iq5VtrErXXPKmxmXmV2pRfGPjzJY9mhFbop2geT0fXrj4GCa1h6tuzk">](https://music.youtube.com/watch?v=WvIaKOaolxg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8qNnyaSudaj-cSQ5tlh4pJ_K6gLH86O-swxa6qGn_KWy0ie5x9gzbG0yR_CWuTzzVPqdFDfOzNdiMq8">](https://music.youtube.com/watch?v=E2cBtNBNdBk)
 
-실리카겔 - Mercurial
+윤종신 - Wait
 
-**Albums**: Mercurial
+**Albums**: LISTEN 021 Wait
 
-Last updated at 06/07/2023 13:48
+Last updated at 06/07/2023 13:52
