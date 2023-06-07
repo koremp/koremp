@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/watch?v=8TmSE2LOfiU)
+[<img align="left" width="100" src="">](https://www.youtube.com/@WOODZ_dnwm)
 
-Avicii(아비치) - You Be Love(feat. 빌리 래폴)
 
-**Albums**: AVĪCI (01)
+  
+    WOODZ
+  
+  
+  
+    WOODZ
+  
 
-Last updated at 06/07/2023 15:57
+
+
+
+  공식 아티스트 채널
+
+
+ - [WOODZ] 'Drowning' Live Clip
+
+**Albums**: Not supported
+
+Last updated at 06/07/2023 20:21
