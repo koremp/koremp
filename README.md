@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mGJO80fqFdVqB9mdsSaxxGnDg63yceKK27RFb8OhqkICLwGiK1eQi9aGojVC6pbnNGvbaFfCDT_7lcsl">](https://music.youtube.com/watch?v=39TZ1DA1nKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-K4oTBJtyVHLFL7lZmNZgCFLNk9Gva58HAXROSBc2Y9wGEuwSOJJy5zxYyRp9hLQhASIdVxr7_xx_cc">](https://music.youtube.com/watch?v=-TZaUPHAwsI)
 
-넬(NELL) - 환생의 밤
+Moxy The Band - Asking God for Cigarettes
 
-**Albums**: Newton’s Apple
+**Albums**: Dream Feeling
 
-Last updated at 06/07/2023 13:26
+Last updated at 06/07/2023 13:30
