@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h9MeqIR47vj0_Xlpdb8mv_uLNFXCJY7RVtxtjShrPT8dbkllmf8mbMDk3M-rF8t_NS_adXngE2cCwe-c">](https://music.youtube.com/watch?v=zmOONagpEBU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bsPieoSMF402F_05hHOq7FITGDPllsNcBnjPE0WUi6T2a4A130z6qqjJLCEV10kE1pCSGBxKt0Bdgfkc">](https://music.youtube.com/watch?v=wDuoOapZ9Z0)
 
-Halsey(할시) - Colors
+Avicii(아비치) - Levels
 
-**Albums**: BADLANDS
+**Albums**: Levels
 
-Last updated at 06/07/2023 14:12
+Last updated at 06/07/2023 14:14
