@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/watch?v=V-5Q9wAktz0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/watch?v=Q6j4IK0eDzc)
 
-Avicii(아비치) - Heart Upon My Sleeve
+Avicii(아비치) - Fades Away(feat. Noonie Bao)
 
 **Albums**: TIM
 
-Last updated at 06/07/2023 14:42
+Last updated at 06/07/2023 14:46
