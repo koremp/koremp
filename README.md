@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/G6OE_TLmTgbyG-8WQp48f_Z_MFb_ERcIfpTQJXV3_wKcTzx4VxiXCYIwSAvkBV4CRHOjBb56hTQrRu23">](https://music.youtube.com/watch?v=3eUfPNLdz_w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/srpMIFzqF1LBvXdzwSKZEWLqWvi58MjOb1eJDtjwps7_IBPB4UarjNIzzxR4VAy6C3jeY8I3mjoaiBDb">](https://music.youtube.com/watch?v=J6HSSchvIbA)
 
-원필 - Like A Fire
+WOODZ (조승연) - About You
 
-**Albums**: 일진에게 반했을 때 (Original Television Soundtrack) Pt. 2
+**Albums**: 유미의 세포들 시즌2 OST Part 1
 
-Last updated at 06/07/2023 13:36
+Last updated at 06/07/2023 13:40
