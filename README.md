@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-K4oTBJtyVHLFL7lZmNZgCFLNk9Gva58HAXROSBc2Y9wGEuwSOJJy5zxYyRp9hLQhASIdVxr7_xx_cc">](https://music.youtube.com/watch?v=-TZaUPHAwsI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WGscL4slLo4ahnwq-WjUa_Pi0OtUkc8fQQPGBTl5Rkem1No3e7NiqGyFCV3ItdBZ3uGWolMWsqeRkEbg">](https://music.youtube.com/watch?v=ythA128geTE)
 
-Moxy The Band - Asking God for Cigarettes
+DAY6(데이식스) - 겨울이 간다 Goodbye winter
 
-**Albums**: Dream Feeling
+**Albums**: Every DAY6 January
 
-Last updated at 06/07/2023 13:30
+Last updated at 06/07/2023 13:34
