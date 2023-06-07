@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8gSWeUpkCr19sRPB7kvpJpLUXWSW9JJw-EIronlf2xR360Lx8dp6YkNNiCkvcYdpOvOHosylG_mJ_Fb3">](https://music.youtube.com/watch?v=_7WfAlU8jbA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/watch?v=VrQWjIf55RA)
 
-Avicii(아비치) - Seek Bromance (Avicii Vocal Edit)
+Avicii(아비치) - Tough Love(feat. 아그네스 칼슨, Vargas & Lagola)
 
-**Albums**: Seek Bromance
+**Albums**: TIM
 
-Last updated at 06/07/2023 14:24
+Last updated at 06/07/2023 14:28
