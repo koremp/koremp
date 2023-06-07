@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XincHWEjkXhpbavoQEHWRbTcVdvHsujjr7OAw-73KUCILFgjLdevPW8vkoaRMibnwkTtGWkEDyKbuNeK">](https://music.youtube.com/watch?v=-puFz08QiQc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YKgOgUB2EXCsUKh52OPrpHPv4OvuTYRTce_kkK4pGcMLSVPqNfzXpAlnYsEmxSRXeETerp5ytObjdn4w9g">](https://music.youtube.com/watch?v=cyBnI9lP45I)
 
-Avicii(아비치) - Dear Boy
+Avicii(아비치) - Feeling Good
 
-**Albums**: True (Bonus Edition)
+**Albums**: Feeling Good
 
-Last updated at 06/07/2023 14:30
+Last updated at 06/07/2023 14:38
