@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8qNnyaSudaj-cSQ5tlh4pJ_K6gLH86O-swxa6qGn_KWy0ie5x9gzbG0yR_CWuTzzVPqdFDfOzNdiMq8">](https://music.youtube.com/watch?v=E2cBtNBNdBk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rlKxfX9spQY88XPU868zxVOGrjBqoW1bbiYdxqii8gMJGJ7jBPLk0j0ZOJlBra0cb3aemvE8O8MeQS4">](https://music.youtube.com/watch?v=aWlzCSMNZgY)
 
-윤종신 - Wait
+데이식스 - Chocolate
 
-**Albums**: LISTEN 021 Wait
+**Albums**: 하지 말라면 더 하고 19 Part.1
 
-Last updated at 06/07/2023 13:52
+Last updated at 06/07/2023 13:56
