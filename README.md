@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/watch?v=Pu6ontPJjHI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8gSWeUpkCr19sRPB7kvpJpLUXWSW9JJw-EIronlf2xR360Lx8dp6YkNNiCkvcYdpOvOHosylG_mJ_Fb3">](https://music.youtube.com/watch?v=_7WfAlU8jbA)
 
-Avicii(아비치) - Sunset Jesus
+Avicii(아비치) - Seek Bromance (Avicii Vocal Edit)
 
-**Albums**: Stories
+**Albums**: Seek Bromance
 
-Last updated at 06/07/2023 14:20
+Last updated at 06/07/2023 14:24
