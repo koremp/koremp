@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-vuvm0Tc6AARIZ3okh_6ZuYHXwN8Qb0GtBbEQfX8OdGZ2inHw2WqR5F-Vo0dg5iGNBLLpFy4l9YkaXq1kQ">](https://music.youtube.com/watch?v=yKcNdXO4l4w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/watch?v=8TmSE2LOfiU)
 
-Avicii(아비치) - Fade Into Darkness (Vocal Radio Mix)
+Avicii(아비치) - You Be Love(feat. 빌리 래폴)
 
-**Albums**: Fade Into Darkness
+**Albums**: AVĪCI (01)
 
-Last updated at 06/07/2023 15:10
+Last updated at 06/07/2023 15:57
