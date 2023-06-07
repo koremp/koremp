@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rlKxfX9spQY88XPU868zxVOGrjBqoW1bbiYdxqii8gMJGJ7jBPLk0j0ZOJlBra0cb3aemvE8O8MeQS4">](https://music.youtube.com/watch?v=aWlzCSMNZgY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/watch?v=iR1sAex__VA)
 
-데이식스 - Chocolate
+Avicii(아비치) - Waiting For Love
 
-**Albums**: 하지 말라면 더 하고 19 Part.1
+**Albums**: Stories
 
-Last updated at 06/07/2023 13:56
+Last updated at 06/07/2023 14:00
