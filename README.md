@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=X59TlszGtfM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mGJO80fqFdVqB9mdsSaxxGnDg63yceKK27RFb8OhqkICLwGiK1eQi9aGojVC6pbnNGvbaFfCDT_7lcsl">](https://music.youtube.com/watch?v=39TZ1DA1nKQ)
 
-Oasis(오아시스) - Don't Look Back in Anger
+넬(NELL) - 환생의 밤
 
-**Albums**: (What's The Story) Morning Glory? (Remastered)
+**Albums**: Newton’s Apple
 
-Last updated at 06/07/2023 13:20
+Last updated at 06/07/2023 13:26
