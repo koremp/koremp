@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8hi_v1lMPkjF5MKixWjf-OEQPB-Fos24iun1ZZQ6KKcdXaH4N0r4fwD1Dv6iei_NVgwH4ITFwhtMTX_0">](https://music.youtube.com/watch?v=h5-i99FZod4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8hi_v1lMPkjF5MKixWjf-OEQPB-Fos24iun1ZZQ6KKcdXaH4N0r4fwD1Dv6iei_NVgwH4ITFwhtMTX_0">](https://music.youtube.com/watch?v=ot2p0CzNF4k)
 
-리암 갤러거 - Wall of Glass
+리암 갤러거 - For What It's Worth
 
 **Albums**: As You Were (Deluxe Edition)
 
-Last updated at 06/08/2023 13:24
+Last updated at 06/08/2023 13:28
