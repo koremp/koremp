@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n0u-_1CQAmyvvPmx21t4rrl8cOZuH8PhWRaeQfihYkS1JZkoWGsO_uOTZAsNjjBrnC4x9qctdM0r574">](https://music.youtube.com/watch?v=dvVkOUqiJEY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vcFqDB_kVvYflgMDChvqgkVAywGbNgelXnbm7ugz06zFOtPjfrzf9S--0Jn6X0OSnj_RCC0eayxEqbWh">](https://music.youtube.com/watch?v=Rcq8MflwFP0)
 
-NCT 127 - Sticker
+WayV - Take Off 无翼而飞
 
-**Albums**: Sticker - The 3rd Album
+**Albums**: Take Off – The 1st Mini Album
 
-Last updated at 06/10/2023 18:44
+Last updated at 06/10/2023 18:48
