@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9muKMNCXm-Q-3-AXyEt0AO2P9mNJNioTYjLqYn64P6kn7wEffdPr6-g-0lZRAabsA9bRtvkhz1zEcEib">](https://music.youtube.com/watch?v=7MpjicZ6lR8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9muKMNCXm-Q-3-AXyEt0AO2P9mNJNioTYjLqYn64P6kn7wEffdPr6-g-0lZRAabsA9bRtvkhz1zEcEib">](https://music.youtube.com/watch?v=GTdtep1dqMY)
 
-위수 - 하필이면 사랑이 왜 거기에 있었을까?
+위수 - 컴퍼스(feat. 박소은)
 
 **Albums**: 하필이면 사랑이 왜 거기에 있었을까?
 
-Last updated at 06/10/2023 19:53
+Last updated at 06/10/2023 19:55
