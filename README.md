@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8hi_v1lMPkjF5MKixWjf-OEQPB-Fos24iun1ZZQ6KKcdXaH4N0r4fwD1Dv6iei_NVgwH4ITFwhtMTX_0">](https://music.youtube.com/watch?v=ot2p0CzNF4k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-7awqTa5wxoDl3f-qY5r_lMwy1K_i5vDpQ9boewVyST9juf403pZdk6XOhrBq1Hcxo-03umipccPSH_9lA">](https://music.youtube.com/watch?v=ilFgPoUFR4I)
 
-리암 갤러거 - For What It's Worth
+TAEYONG - 샤랄라 SHALALA
 
-**Albums**: As You Were (Deluxe Edition)
+**Albums**: SHALALA - The 1st Mini Album
 
-Last updated at 06/08/2023 13:28
+Last updated at 06/10/2023 18:42
