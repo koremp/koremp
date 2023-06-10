@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GriPb4nuy0ykhBVO0s1K0aYQBrbosi_ML1F0HYOCrHouOFTpUIm1zijUz7cZVNoVfd_XPWm_DEEhGVk">](https://music.youtube.com/watch?v=qCDPprTDkJE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwV6S2f90kOF0caKQgyuK1F2p6P7babqdsVV0ewpyVoOsmS0YAcwPT-PkVYPovkmtMEmBPAcutux4ZiM">](https://music.youtube.com/watch?v=lpGLSOVYMto)
 
-BLACKPINK - Pink Venom
+TAEYONG 및 Wonstein - Love Theory
 
-**Albums**: BORN PINK
+**Albums**: Love Theory: SM STATION
 
-Last updated at 06/10/2023 18:52
+Last updated at 06/10/2023 18:56
