@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vcFqDB_kVvYflgMDChvqgkVAywGbNgelXnbm7ugz06zFOtPjfrzf9S--0Jn6X0OSnj_RCC0eayxEqbWh">](https://music.youtube.com/watch?v=Rcq8MflwFP0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GriPb4nuy0ykhBVO0s1K0aYQBrbosi_ML1F0HYOCrHouOFTpUIm1zijUz7cZVNoVfd_XPWm_DEEhGVk">](https://music.youtube.com/watch?v=qCDPprTDkJE)
 
-WayV - Take Off 无翼而飞
+BLACKPINK - Pink Venom
 
-**Albums**: Take Off – The 1st Mini Album
+**Albums**: BORN PINK
 
-Last updated at 06/10/2023 18:48
+Last updated at 06/10/2023 18:52
