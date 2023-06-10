@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K2IXFZyXsC1bAzf66c8OWVCvB08Sd3htOJBSCJV_5AKrdNgqiwNMGwwNt3GmL_La3S1cihoLcNMaFhh3">](https://music.youtube.com/watch?v=U3XsXjDK8yk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jx9UXUQ3Df_sn0lKCFxCeWicGHGXj1tJkTBMyot0j_n3UlTyaWJjbKHL17oB4n7T5BlmxgQl3oGfnXI-">](https://music.youtube.com/watch?v=c4ri23Pn0-o)
 
-NCT DREAM - 맛 Hot Sauce
+NCT U - Baby Don’t Stop
 
-**Albums**: Hot Sauce - The 1st Album
+**Albums**: NCT 2018 EMPATHY
 
-Last updated at 06/10/2023 18:58
+Last updated at 06/10/2023 19:02
