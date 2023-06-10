@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-7awqTa5wxoDl3f-qY5r_lMwy1K_i5vDpQ9boewVyST9juf403pZdk6XOhrBq1Hcxo-03umipccPSH_9lA">](https://music.youtube.com/watch?v=ilFgPoUFR4I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n0u-_1CQAmyvvPmx21t4rrl8cOZuH8PhWRaeQfihYkS1JZkoWGsO_uOTZAsNjjBrnC4x9qctdM0r574">](https://music.youtube.com/watch?v=dvVkOUqiJEY)
 
-TAEYONG - 샤랄라 SHALALA
+NCT 127 - Sticker
 
-**Albums**: SHALALA - The 1st Mini Album
+**Albums**: Sticker - The 3rd Album
 
-Last updated at 06/10/2023 18:42
+Last updated at 06/10/2023 18:44
