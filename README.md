@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwV6S2f90kOF0caKQgyuK1F2p6P7babqdsVV0ewpyVoOsmS0YAcwPT-PkVYPovkmtMEmBPAcutux4ZiM">](https://music.youtube.com/watch?v=lpGLSOVYMto)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K2IXFZyXsC1bAzf66c8OWVCvB08Sd3htOJBSCJV_5AKrdNgqiwNMGwwNt3GmL_La3S1cihoLcNMaFhh3">](https://music.youtube.com/watch?v=U3XsXjDK8yk)
 
-TAEYONG 및 Wonstein - Love Theory
+NCT DREAM - 맛 Hot Sauce
 
-**Albums**: Love Theory: SM STATION
+**Albums**: Hot Sauce - The 1st Album
 
-Last updated at 06/10/2023 18:56
+Last updated at 06/10/2023 18:58
