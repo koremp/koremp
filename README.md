@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jx9UXUQ3Df_sn0lKCFxCeWicGHGXj1tJkTBMyot0j_n3UlTyaWJjbKHL17oB4n7T5BlmxgQl3oGfnXI-">](https://music.youtube.com/watch?v=c4ri23Pn0-o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xET0f3EcxfNII0k7urx5bMwnmEjVQ3hLZT5eaTYW4I1rCvypOitKr9Jn9WEIFZ_lkqI3WGYlLjlGWr3R">](https://music.youtube.com/watch?v=QTSfan8rmSo)
 
-NCT U - Baby Don’t Stop
+george - Boat
 
-**Albums**: NCT 2018 EMPATHY
+**Albums**: Boat
 
-Last updated at 06/10/2023 19:02
+Last updated at 06/10/2023 19:06
