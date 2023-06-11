@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/U5pDajt-YjmVWGMwSoVVd9V7qAxnL7qKyqIlHYD3BInII0BlzKqApsCw_v_PJna5rEcYi04jIorKcNAYow">](https://music.youtube.com/watch?v=wSsQmJmydrI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXQx9L-SB2UT1YvZ6HvlwzyZrdqPVZDoaU9sR9g2ZLAoUmjsrxjuYqV82OY8J0Ip6B_7jnki5E4-Fj7x">](https://music.youtube.com/watch?v=cifL0yT2IOg)
 
-SHINee - Don't Call Me
+NCT 127 - Chain
 
-**Albums**: Don't Call Me: The 7th Album
+**Albums**: Chain
 
-Last updated at 06/11/2023 16:36
+Last updated at 06/11/2023 16:40
