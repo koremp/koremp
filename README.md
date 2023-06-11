@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-7awqTa5wxoDl3f-qY5r_lMwy1K_i5vDpQ9boewVyST9juf403pZdk6XOhrBq1Hcxo-03umipccPSH_9lA">](https://music.youtube.com/watch?v=ilFgPoUFR4I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=LP9sF1v-vz4)
 
-TAEYONG - 샤랄라 SHALALA
+aespa - 도깨비불 Illusion
 
-**Albums**: SHALALA - The 1st Mini Album
+**Albums**: Girls - The 2nd Mini Album
 
-Last updated at 06/11/2023 16:30
+Last updated at 06/11/2023 16:34
