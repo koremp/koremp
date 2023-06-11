@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JYOTl7neLJLMUEVjdg_qIqz7XjUZB2AQAx_sRDlNVd5jSYiv1xA0v68ZN8Kn0KKf1fSfQnTaeakGeQgI">](https://music.youtube.com/watch?v=LP9sF1v-vz4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/U5pDajt-YjmVWGMwSoVVd9V7qAxnL7qKyqIlHYD3BInII0BlzKqApsCw_v_PJna5rEcYi04jIorKcNAYow">](https://music.youtube.com/watch?v=wSsQmJmydrI)
 
-aespa - 도깨비불 Illusion
+SHINee - Don't Call Me
 
-**Albums**: Girls - The 2nd Mini Album
+**Albums**: Don't Call Me: The 7th Album
 
-Last updated at 06/11/2023 16:34
+Last updated at 06/11/2023 16:36
