@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r5hsIeIFhTvIfAmI7IdBqsUCj_iDI57g1m2O8Sh8LniQKg-iMbs1b50liCGF6OGEFvk6D9krdRruuuuucA">](https://music.youtube.com/watch?v=Rq65VlRhvMs)
+[<img align="left" width="100" src="">](https://www.youtube.com/@systemofadownVEVO)
 
-back number - Happy End
 
-**Albums**: Happy End
+  
+    System Of A Down
+  
+  
+  
+    System Of A Down
+  
 
-Last updated at 06/14/2023 08:10
+
+
+
+  공식 아티스트 채널
+
+
+ - System Of A Down - Chop Suey! (Official HD Video)
+
+**Albums**: Not supported
+
+Last updated at 06/15/2023 22:03
