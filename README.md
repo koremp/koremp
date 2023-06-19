@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/W7YWcMqTUODZf_S_10reZDmYPIjTIYOdljFidYubSeKAuE_7MX6uP54ufi565Fz0AXmY7fMDby2gv7UT">](https://music.youtube.com/watch?v=e-2251_at-k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TB-SKXxMag8Jx_INiTfwKqTPJVXT5KwbrBbJ3Yi_16qgdtAk7YYMVMkdicoT1X1DIS20rm5AfOrpU_Y">](https://music.youtube.com/watch?v=OMtq6JzREcA)
 
-System Of A Down - Aerials
+System Of A Down - B.Y.O.B.
 
-**Albums**: Toxicity
+**Albums**: Mezmerize
 
-Last updated at 06/19/2023 17:39
+Last updated at 06/19/2023 17:43
