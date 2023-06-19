@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@WOODZ_dnwm)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H-Zd0IC85VkJXOlDXiuuaiYNLKPtQuWdwgE2c2Mg3309UrxnfAcWIqSBLXyfmf8uviS6q4Y7VdI2574">](https://music.youtube.com/watch?v=GTwu-YsMvyo)
 
+Lauv - Steal The Show (From "Elemental")
 
-  
-    WOODZ
-  
-  
-  
-    WOODZ
-  
+**Albums**: Steal The Show (From "Elemental")
 
-
-
-
-  공식 아티스트 채널
-
-
- - [WOODZ] 'Drowning' Live Clip
-
-**Albums**: Not supported
-
-Last updated at 06/19/2023 16:17
+Last updated at 06/19/2023 16:55
