@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H-Zd0IC85VkJXOlDXiuuaiYNLKPtQuWdwgE2c2Mg3309UrxnfAcWIqSBLXyfmf8uviS6q4Y7VdI2574">](https://music.youtube.com/watch?v=GTwu-YsMvyo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Uc4b_MErpdeG4TSFLKddvfDiXeOEliaII_NTIADIO66TY8f4WxP9qJaP58IT0S0baTZamdkYRn71fsg">](https://music.youtube.com/watch?v=noEKafRiMuA)
 
-Lauv - Steal The Show (From "Elemental")
+NEAR I GO - NIGHTWALKER
 
-**Albums**: Steal The Show (From "Elemental")
+**Albums**: Not supported
 
-Last updated at 06/19/2023 16:55
+Last updated at 06/19/2023 17:05
