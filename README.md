@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@systemofadownVEVO)
+[<img align="left" width="100" src="">](https://www.youtube.com/@WOODZ_dnwm)
 
 
   
-    System Of A Down
+    WOODZ
   
   
   
-    System Of A Down
+    WOODZ
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - System Of A Down - B.Y.O.B. (Official HD Video)
+ - [WOODZ] 'Drowning' Live Clip
 
 **Albums**: Not supported
 
-Last updated at 06/15/2023 22:11
+Last updated at 06/19/2023 16:17
