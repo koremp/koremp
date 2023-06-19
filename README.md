@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TdS-t8CRplU0ZfXROwD6DwYb6AZjjusixuYX2D7f-TohA1TQKcbQB6Z9QqTnNPnXsQoMoVzPbOlXFlKF">](https://music.youtube.com/watch?v=mDL8YGG-bJk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XLVJNg0MlKj6ttdVgDHHriwB9d5NqunPC9sV7Q-Z-Z-N_v9299Crl78qfVV2rV4db2Cwd64Vjbg-y9XV">](https://music.youtube.com/watch?v=GLS27M6J0ZI)
 
-Lauv - Adrenaline
+Charlie Puth(찰리 푸스) - LA Girls
 
-**Albums**: I met you when I was 18. (the playlist)
+**Albums**: Voicenotes
 
-Last updated at 06/19/2023 17:55
+Last updated at 06/19/2023 17:59
