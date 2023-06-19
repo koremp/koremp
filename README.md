@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/W7YWcMqTUODZf_S_10reZDmYPIjTIYOdljFidYubSeKAuE_7MX6uP54ufi565Fz0AXmY7fMDby2gv7UT">](https://music.youtube.com/watch?v=mUEsqQpact0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/W7YWcMqTUODZf_S_10reZDmYPIjTIYOdljFidYubSeKAuE_7MX6uP54ufi565Fz0AXmY7fMDby2gv7UT">](https://music.youtube.com/watch?v=MlcJQYON2Go)
 
-System Of A Down - Toxicity
+System Of A Down - Chop Suey!
 
 **Albums**: Toxicity
 
-Last updated at 06/19/2023 17:07
+Last updated at 06/19/2023 17:35
