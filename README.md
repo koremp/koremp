@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_IE9MiIan1udRb4looyfHaZawaCnlOsaQcJ59bk7eaAZRtm92fq0HXul7WZ0uYa8kO6otN_UHsJaJGUNbw">](https://music.youtube.com/watch?v=nMaXwi2onSk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sYW_-5IL0IVSc4tZEaw1b4X9XpFeqkE5J8bfjvWoqtEKe70TKRCxZRrPds3pwMxP-EZdTccsRKot8TM">](https://music.youtube.com/watch?v=SYtm7uEUsDM)
 
-Blake Rose - Lost
+Griff Clawson - Chasing Highs
 
-**Albums**: Lost
+**Albums**: Chasing Highs
 
-Last updated at 06/19/2023 18:03
+Last updated at 06/19/2023 18:07
