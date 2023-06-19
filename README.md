@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XLVJNg0MlKj6ttdVgDHHriwB9d5NqunPC9sV7Q-Z-Z-N_v9299Crl78qfVV2rV4db2Cwd64Vjbg-y9XV">](https://music.youtube.com/watch?v=GLS27M6J0ZI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_IE9MiIan1udRb4looyfHaZawaCnlOsaQcJ59bk7eaAZRtm92fq0HXul7WZ0uYa8kO6otN_UHsJaJGUNbw">](https://music.youtube.com/watch?v=nMaXwi2onSk)
 
-Charlie Puth(찰리 푸스) - LA Girls
+Blake Rose - Lost
 
-**Albums**: Voicenotes
+**Albums**: Lost
 
-Last updated at 06/19/2023 17:59
+Last updated at 06/19/2023 18:03
