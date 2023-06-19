@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H-Zd0IC85VkJXOlDXiuuaiYNLKPtQuWdwgE2c2Mg3309UrxnfAcWIqSBLXyfmf8uviS6q4Y7VdI2574">](https://music.youtube.com/watch?v=GTwu-YsMvyo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TdS-t8CRplU0ZfXROwD6DwYb6AZjjusixuYX2D7f-TohA1TQKcbQB6Z9QqTnNPnXsQoMoVzPbOlXFlKF">](https://music.youtube.com/watch?v=mDL8YGG-bJk)
 
-Lauv - Steal The Show (From "Elemental")
+Lauv - Adrenaline
 
-**Albums**: Steal The Show (From "Elemental")
+**Albums**: I met you when I was 18. (the playlist)
 
-Last updated at 06/19/2023 17:53
+Last updated at 06/19/2023 17:55
