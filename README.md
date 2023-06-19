@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TB-SKXxMag8Jx_INiTfwKqTPJVXT5KwbrBbJ3Yi_16qgdtAk7YYMVMkdicoT1X1DIS20rm5AfOrpU_Y">](https://music.youtube.com/watch?v=OMtq6JzREcA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kKahzWpu6VFspuISatdGt_P3mhmSfP-urYS9mtBVYuP4kehZVp4GBiY3xkUCwgcW-OPVO5PBQQNdS4fm">](https://music.youtube.com/watch?v=Jc6-WXt5iKA)
 
-System Of A Down - B.Y.O.B.
+System Of A Down - Lonely Day
 
-**Albums**: Mezmerize
+**Albums**: Lonely Day
 
-Last updated at 06/19/2023 17:43
+Last updated at 06/19/2023 17:47
