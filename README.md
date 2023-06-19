@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sYW_-5IL0IVSc4tZEaw1b4X9XpFeqkE5J8bfjvWoqtEKe70TKRCxZRrPds3pwMxP-EZdTccsRKot8TM">](https://music.youtube.com/watch?v=SYtm7uEUsDM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LDjFD-70y9c3aYL3-2zTUXkmlWfNlryJllQpHZLxZgi0i73pGx9JaJkNzDTo2LO9cGBDJx7E4eWdytMA">](https://music.youtube.com/watch?v=G1ej5up7JG0)
 
-Griff Clawson - Chasing Highs
+Ed Sheeran - Shivers
 
-**Albums**: Chasing Highs
+**Albums**: Shivers
 
-Last updated at 06/19/2023 18:07
+Last updated at 06/19/2023 18:09
