@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fxuDmNcsUhRzv5VFezXs7EgnQ_pHABD_ZD3KZ3yZyFI66_VpqGpgbYzAyNig9XYsgGpHy2VWWS1O3JcqyA">](https://music.youtube.com/watch?v=BYC6kTfG1Wo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZhYgyWr7yAk6XgcAkSUEOk1R6M7WSQfQFD8QHkdoaJVRsYCEgWlxrzxdUCpM29qkiDdn2nVrrkb39ZaHXA">](https://music.youtube.com/watch?v=lDjVkJr3Hk8)
 
-밍기뉴 - 너만
+Mingginyu 및 Jaw - 넌 못나지 않았고, 천박하지 않아
 
-**Albums**: 사랑하지
+**Albums**: 요즘
 
-Last updated at 06/20/2023 18:16
+Last updated at 06/20/2023 18:20
