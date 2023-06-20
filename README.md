@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XWn3QelOD_e4LN38oOUC818aWc3vDO7qTKk-K5owemk842OfLRyGDABpXqPgIWJgnjq1BuQbO9_MrC_K">](https://music.youtube.com/watch?v=-JWfVVpEOII)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xZb80eEo3wEhcktCm7q0rvMHymomBsligthpslo2IRAPRPMU9tRMfRck9M0730e9XExBv1pg3YAjxrI">](https://music.youtube.com/watch?v=HY8imFPUNUU)
 
-밍기뉴 - 개화
+밍기뉴 - 나 같은 거랑 함께 하느라 고생했어
 
-**Albums**: 개화
+**Albums**: 나 같은 거랑 함께 하느라 고생했어
 
-Last updated at 06/20/2023 18:10
+Last updated at 06/20/2023 18:12
