@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZhYgyWr7yAk6XgcAkSUEOk1R6M7WSQfQFD8QHkdoaJVRsYCEgWlxrzxdUCpM29qkiDdn2nVrrkb39ZaHXA">](https://music.youtube.com/watch?v=lDjVkJr3Hk8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M4tkwcaofJe-x8YPwzOGItVWL-pEl_6-ssejMrnukuPw84AEDvE0Nq8pymjOsFdV1KXI54DeCjUJvkY">](https://music.youtube.com/watch?v=MK_Su-gQ7SQ)
 
-Mingginyu 및 Jaw - 넌 못나지 않았고, 천박하지 않아
+보수동쿨러 - Kill Me 죽여줘
 
-**Albums**: 요즘
+**Albums**: Kill Me 죽여줘
 
-Last updated at 06/20/2023 18:20
+Last updated at 06/20/2023 18:22
