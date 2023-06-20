@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BS9JJbDUKR9I4LQE78xBIbp0gSgohcS4C3jCv3A0wQ3x3wSvr6NqBdeaCIu5NFQUYRMu20n8NEFov9U">](https://music.youtube.com/watch?v=i7CZePsDirI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/L2CFEX5yKk2ZQhrdN4zLBfuVu8hbM8DKqT3gTIjV9wkY-870jJ4NrQdJDl_xhTQ1ZONdKVsWv5NcXOh_Yg">](https://music.youtube.com/watch?v=DPvg538XCvs)
 
-밍기뉴 - 나아지지 않는 날 데리고 산다는 건
+알레프 및 밍기뉴 - 그럼에도 불구하고
 
-**Albums**: 나아지지 않는 날 데리고 산다는 건
+**Albums**: 그럼에도 불구하고
 
-Last updated at 06/20/2023 17:36
+Last updated at 06/20/2023 17:40
