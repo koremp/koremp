@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@mingginyu_official)
+[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
 
 
   
-    밍기뉴 mingginyu
+    하현상 HA HYUN SANG
   
   
   
-    밍기뉴 mingginyu
+    하현상 HA HYUN SANG
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Come on,
+ - 하현상 (Ha Hyunsang) - 불꽃놀이 (Burning Sunset) LIVE CLIP
 
 **Albums**: Not supported
 
-Last updated at 06/20/2023 15:24
+Last updated at 06/20/2023 15:36
