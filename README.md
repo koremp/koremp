@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@WOODZ_dnwm)
+[<img align="left" width="100" src="">](https://www.youtube.com/@mingginyu_official)
 
 
   
-    WOODZ
+    밍기뉴 mingginyu
   
   
   
-    WOODZ
+    밍기뉴 mingginyu
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - [WOODZ] 'Drowning' Live Clip
+ - 너하고 나하고 오직 우리 둘만
 
 **Albums**: Not supported
 
-Last updated at 06/20/2023 15:18
+Last updated at 06/20/2023 15:22
