@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M4tkwcaofJe-x8YPwzOGItVWL-pEl_6-ssejMrnukuPw84AEDvE0Nq8pymjOsFdV1KXI54DeCjUJvkY">](https://music.youtube.com/watch?v=MK_Su-gQ7SQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCWjoDY2SXJ5dvcdunWI6mjQ)
 
-보수동쿨러 - Kill Me 죽여줘
 
-**Albums**: Kill Me 죽여줘
+  
+    Lauv
+  
+  
+  
+    Lauv
+  
 
-Last updated at 06/20/2023 18:28
+
+
+
+  공식 아티스트 채널
+
+
+ - Steal The Show (From "Elemental")
+
+**Albums**: Not supported
+
+Last updated at 06/20/2023 20:15
