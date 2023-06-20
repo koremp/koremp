@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M4tkwcaofJe-x8YPwzOGItVWL-pEl_6-ssejMrnukuPw84AEDvE0Nq8pymjOsFdV1KXI54DeCjUJvkY">](https://music.youtube.com/watch?v=MK_Su-gQ7SQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JQiS5FtAORCae2DdNm2cdQSrrxlu9SpaxqDPRkN_kqUeMvJJ__myfoA0VDqRWTNmh6gvd_YDj27ys5_0RQ">](https://music.youtube.com/watch?v=k-U9sQpCfeI)
 
-보수동쿨러 - Kill Me 죽여줘
+이랑 - 환란의 세대
 
-**Albums**: Kill Me 죽여줘
+**Albums**: 늑대가 나타났다
 
-Last updated at 06/20/2023 18:22
+Last updated at 06/20/2023 18:24
