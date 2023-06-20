@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/L2CFEX5yKk2ZQhrdN4zLBfuVu8hbM8DKqT3gTIjV9wkY-870jJ4NrQdJDl_xhTQ1ZONdKVsWv5NcXOh_Yg">](https://music.youtube.com/watch?v=DPvg538XCvs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pl2gVA86KPv-XDj2JzW5ovYmehQfvFDbq3FAca99CkUudFN1HNZwckZCVuSL82NhrQy9PThMwccrhHU">](https://music.youtube.com/watch?v=rp_BqG0khRE)
 
-알레프 및 밍기뉴 - 그럼에도 불구하고
+밍기뉴 - Meaningless
 
-**Albums**: 그럼에도 불구하고
+**Albums**: Meaningless
 
-Last updated at 06/20/2023 17:40
+Last updated at 06/20/2023 17:44
