@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pl2gVA86KPv-XDj2JzW5ovYmehQfvFDbq3FAca99CkUudFN1HNZwckZCVuSL82NhrQy9PThMwccrhHU">](https://music.youtube.com/watch?v=rp_BqG0khRE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XWn3QelOD_e4LN38oOUC818aWc3vDO7qTKk-K5owemk842OfLRyGDABpXqPgIWJgnjq1BuQbO9_MrC_K">](https://music.youtube.com/watch?v=b71TsWRSmAg)
 
-밍기뉴 - Meaningless
+밍기뉴 - 라일락 꽃: 첫 사랑, 젊은 날의 추억
 
-**Albums**: Meaningless
+**Albums**: 개화
 
-Last updated at 06/20/2023 17:44
+Last updated at 06/20/2023 17:46
