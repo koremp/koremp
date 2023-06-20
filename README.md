@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HRhP7W5y2nEvaDM2O6FM7NaX9DAmuOqAzEpAVvU0NEAiV7apPrBRdhflWEdIcJ3waOWw8pi_RqiFB65k">](https://music.youtube.com/watch?v=Ynv5Hav56bg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fU8NQCyuWmd-MgGh7dhbngNvxu-jiTFblWguX0qO5hQThJB7akMmbpXWhavUxWk-okXd6NvaouPXte3xcg">](https://music.youtube.com/watch?v=ubBdPw0ROX0)
 
-밍기뉴 - 봄날은 간다
+밍기뉴 - 별
 
-**Albums**: 춘몽
+**Albums**: 별
 
-Last updated at 06/20/2023 17:50
+Last updated at 06/20/2023 17:54
