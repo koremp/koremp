@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCPkh5Z0tfpPpNFi5qybgG_w)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCIMmuidNJdncfMEelOU08Fg)
 
 
   
-    LANY
+    Stray Kids
   
   
   
-    LANY
+    Stray Kids
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - ex i never had
+ - 특 S-Class
 
 **Albums**: Not supported
 
-Last updated at 06/20/2023 20:29
+Last updated at 06/20/2023 20:31
