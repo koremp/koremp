@@ -120,27 +120,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/@pledis17)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BS9JJbDUKR9I4LQE78xBIbp0gSgohcS4C3jCv3A0wQ3x3wSvr6NqBdeaCIu5NFQUYRMu20n8NEFov9U">](https://music.youtube.com/watch?v=i7CZePsDirI)
 
+밍기뉴 - 나아지지 않는 날 데리고 산다는 건
 
-  
-    SEVENTEEN
-  
-  
-  
-    SEVENTEEN
-  
+**Albums**: 나아지지 않는 날 데리고 산다는 건
 
-
-
-
-  공식 아티스트 채널
-
-
- - [COVER] 도겸 - 행운을 빌어 줘 (원곡 : 원필)
-
-**Albums**: Not supported
-
-Last updated at 06/20/2023 15:50
+Last updated at 06/20/2023 17:36
