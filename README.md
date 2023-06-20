@@ -120,12 +120,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LDjFD-70y9c3aYL3-2zTUXkmlWfNlryJllQpHZLxZgi0i73pGx9JaJkNzDTo2LO9cGBDJx7E4eWdytMA">](https://music.youtube.com/watch?v=G1ej5up7JG0)
+[<img align="left" width="100" src="">](https://www.youtube.com/@HyunSangHA_OFFICIAL)
 
-Ed Sheeran - Shivers
 
-**Albums**: Shivers
+  
+    하현상 HA HYUN SANG
+  
+  
+  
+    하현상 HA HYUN SANG
+  
 
-Last updated at 06/19/2023 18:09
+
+
+
+  공식 아티스트 채널
+
+
+ - Official髭男dism - Pretender (Cover by 하현상 Ha Hyunsang)
+
+**Albums**: Not supported
+
+Last updated at 06/20/2023 15:12
