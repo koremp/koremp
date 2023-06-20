@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - 너하고 나하고 오직 우리 둘만
+ - Come on,
 
 **Albums**: Not supported
 
-Last updated at 06/20/2023 15:22
+Last updated at 06/20/2023 15:24
