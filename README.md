@@ -122,15 +122,15 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCWjoDY2SXJ5dvcdunWI6mjQ)
 
 
   
-    aespa
+    Lauv
   
   
   
-    aespa
+    Lauv
   
 
 
@@ -139,8 +139,8 @@ PyCon 2019 KR Volunteer - 2019.08
   공식 아티스트 채널
 
 
- - Spicy
+ - Feelings
 
 **Albums**: Not supported
 
-Last updated at 06/20/2023 21:03
+Last updated at 06/20/2023 21:05
