@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XWn3QelOD_e4LN38oOUC818aWc3vDO7qTKk-K5owemk842OfLRyGDABpXqPgIWJgnjq1BuQbO9_MrC_K">](https://music.youtube.com/watch?v=b71TsWRSmAg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HRhP7W5y2nEvaDM2O6FM7NaX9DAmuOqAzEpAVvU0NEAiV7apPrBRdhflWEdIcJ3waOWw8pi_RqiFB65k">](https://music.youtube.com/watch?v=Ynv5Hav56bg)
 
-밍기뉴 - 라일락 꽃: 첫 사랑, 젊은 날의 추억
+밍기뉴 - 봄날은 간다
 
-**Albums**: 개화
+**Albums**: 춘몽
 
-Last updated at 06/20/2023 17:46
+Last updated at 06/20/2023 17:50
