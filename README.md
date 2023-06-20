@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aOGZHkGCWN_DzkVffc4O4sIRVMwiNBcYbsk9K9IKIu7crqeTJg2DgM7DobwlB6KHKViGjkLBOjFX0pE">](https://music.youtube.com/watch?v=xo6_FvcWuFA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BSe1xUX6TX4BRJpl1T3nVRlSd1tbQMknxvb2NROSk8DPVnd3FPEnoSymUwMP279snZsa1J_5SZ6I86w4">](https://music.youtube.com/watch?v=jCSSX2UWeHM)
 
-밍기뉴 - 돌 아 오 지 마 (feat. 최엘비)
+밍기뉴 - 사랑의 정석 같은 노래
 
-**Albums**: 돌 아 오 지 마
+**Albums**: Dreaming
 
-Last updated at 06/20/2023 17:56
+Last updated at 06/20/2023 18:06
