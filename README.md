@@ -122,10 +122,10 @@ PyCon 2019 KR Volunteer - 2019.08
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BSe1xUX6TX4BRJpl1T3nVRlSd1tbQMknxvb2NROSk8DPVnd3FPEnoSymUwMP279snZsa1J_5SZ6I86w4">](https://music.youtube.com/watch?v=jCSSX2UWeHM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XWn3QelOD_e4LN38oOUC818aWc3vDO7qTKk-K5owemk842OfLRyGDABpXqPgIWJgnjq1BuQbO9_MrC_K">](https://music.youtube.com/watch?v=-JWfVVpEOII)
 
-밍기뉴 - 사랑의 정석 같은 노래
+밍기뉴 - 개화
 
-**Albums**: Dreaming
+**Albums**: 개화
 
-Last updated at 06/20/2023 18:06
+Last updated at 06/20/2023 18:10
