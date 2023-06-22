@@ -1,8 +1,8 @@
-# Dokyun - Claire -  Lim
+# Dokyun Lim (Clair)
 
 ## Links
 
-* <im.koremp@gmail.com>
+* <fried.pride.fry@gmail.com>
 * <https://www.linkedin.com/in/koremp/>
 
 ## Informations
@@ -10,7 +10,6 @@
 ### About Programming
 
 * Junior Web Front-end Software Engineer
-* Interested in Test 
 
 ### Skills
 
@@ -35,73 +34,66 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 
 * 2021.03~2021.06 (4 months)
 * Development Team - Internship
-* **Developing Desktop App Client**
-  * React.js, TypeScript, Redux-Toolkit, Electron, Ant Design, Jest, Canvas, gRPC, Protocol Buffer
-  * MS Azure DevOps/Pipelines, Git, Yarn / MS Azure, Notion, Zeplin
-  * Core Function: Ability to **learn video images** of national institutions and import **labeled images**, function to **edit image labels**
-  * Other functions: login/logout, page view processing according to the user's authority, etc.
-  * During my internship, I learned TypeScript, Ant Design, Redux Toolkit, and gRPC/Protocol Buffer.
-  * **Collaborated with more than 8 development and research team members** including planners, designers, backend engineers, and ML engineers.
-  * It communicated with the backend built with Armeria through **gRPC** and **Protocol Buffer**.
-  * The state was managed by **Redux**, and asynchronous communication was handled using **Redux-ToolKit**.
-  * I routed per page using **React Router**.
-  * Built **CI/CD** process with **Azure Pipelines** to deploy **Electron**.
-  * Code was managed through **Git** and **Azure DevOps**. Code was reviewed by **Pull Request**.
-  * For reference in development, I requested and referenced the source code of other projects.
-* Non-Project Activities
-  * **Adopted the Git commit message convention** to improve non-uniform Git commit messages.
-  * **Improved the onboarding process** on the development team based on my onboarding experience.
-  * **Improved the recruitment process** based on my recruitment experience.
+* React.js, TypeScript, Redux-Toolkit, Electron, Ant Design, Jest, Canvas, gRPC, Protocol Buffer
+* MS Azure DevOps/Pipelines, Git, Yarn / MS Azure, Notion, Zeplin
 
 ### Vision Semicon, Daejeon
 
 * 2018.10~2019.01(3 months)
 * Institute of Technology - Staff
-* Industry-HighSchool Cooperation Employment Linkage Course
-* **Development of ROS CAN Communication Library**
+* Industry-HighSchool Cooperation Employment
 * ROS1, Ubuntu 16.04, ROS Turtle Bot, C++, Python3, CAN hardware device
-* Understood the concepts of Topic, Node, and Publisher-Subscriber in ROS1.
-* Developed using **ROS TurtleBot** and **CAN communication** standard open source library.
-* **Developed and documented** a library that links ROS TurtleBot, CAN equipment, and digital/analog equipment.
 
 ### Amis Technology, Seoul
 
 * 2018.01(1 months)
 * Internship of Industry - HighSchool Cooperation Employment
 * Institute of Technology - Internship
-* **Development of Hospital Admin DBMS**
 * C#, Windows Form, Design Library, SQL, DB, Visual Studio, Windows
-* Developed mainly in charge of **UI development**, and **linked the SQL code with UI components of Windows Form** that linked DB created by another intern.
 
 ## Personal Projects
 
+### Pride Profile
+
+* https://github.com/fride-pride/pride-profile
+
+### FanCheer v2
+
+* https://github.com/fride-pride/fancheer-ts-2
+* 2021.6 ~ 2022.4
+* Street Woman Fighter Fan Page
+
 ### FanCheer
 
+* https://github.com/fride-pride/fancheer
 * 2020.12~2021.2
 * (G)-IDLE Fan Page
-* Personal project after CodeSoom Web Front-end Development with React.js
-* React.js, Webpack, JavaScript, Jest, CSS-in-JS(emotion), GitHub Actions, GitHub Page, npm
-* Implemented component and router tests using Jest.
-* Built CI/CD with GitHub Actions, Deployed with GitHub Pages.
-
 
 ## Courses
+
+### JavaScript for Front-end Develop (feat. VanillaJS)
+
+* 2022.9
+* Programmers, 17th Course
+* https://school.programmers.co.kr/learn/courses/17620
 
 ### Web Front-end Development with React.js, Online
 
 * 2020.09~2020.12 (3 months)
 * CodeSoom, 2nd Course
+* https://www.codesoom.com/courses/react
 * Learned React.js, Webpack, TDD, JavaScript, Redux, Git, GitHub(PR, Actions - CI/CD)
 
 ### Smart Data Expert Course, Daejeon, Off-Line
 
 * 2019.06~2019.08 (3 months)
-* Korea productivity center
+* Korea Productivity Center
 * Learned R, Python, MySQL, Data Analysis, Statistics Analysis, etc.
 
 ## Educations
 
 ### KNOU - Korea National Open University, Computer Science Major
+
 * 2020.07~(current leave of absence)
 
 ### Daedeok Software Meister HighSchool, Daejeon, Republic of Korea
@@ -120,12 +112,27 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 PyCon 2019 KR Volunteer - 2019.08
 
 
-## Now Playing on {CURRENT_PLAYING_SOURCE}
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="{CURRENT_PLAYING_ALBUM_SRC}">]({CURRENT_PLAYING_URL})
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC3BBS0-pODIeS8QGX_qtrCg)
 
-{CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}
 
-**Albums**: {CURRENT_PLAYING_ALBUM}
+  
+    Halsey
+  
+  
+  
+    Halsey
+  
 
-Last updated at {CURRENT_PLAYING_LAST_UPDATED}
+
+
+
+  공식 아티스트 채널
+
+
+ - Lilith (Diablo IV Anthem)
+
+**Albums**: Not supported
+
+Last updated at 06/20/2023 21:09
