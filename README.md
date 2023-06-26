@@ -53,6 +53,8 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 
 ## Personal Projects
 
+todo-fix this
+
 ### Pride Profile
 
 * https://github.com/fride-pride/pride-profile
