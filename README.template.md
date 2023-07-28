@@ -3,7 +3,7 @@
 ## Links
 
 * <fried.pride.fry@gmail.com>
-* <https://www.linkedin.com/in/koremp/>
+* <www.linkedin.com/in/friedpride>
 
 ## Informations
 
@@ -53,11 +53,12 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 
 ## Personal Projects
 
-todo-fix this
+### BDSM Profile
 
-### Pride Profile
-
-* https://github.com/fride-pride/pride-profile
+- <https://github.com/fried-pride/bdsm-profile>
+- 2023.3 ~ current
+- React.js, TypeScript, GitHub, Next.js, Material UI, Supabase, Yarn, ESLint, GH Actions(Deploy)
+- User Profile, BDSM Profile
 
 ### FanCheer v2
 
