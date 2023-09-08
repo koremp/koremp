@@ -1,9 +1,9 @@
-# Dokyun Lim (Clair)
+# Clair - Dokyun Lim
 
 ## Links
 
-* <fried.pride.fry@gmail.com>
-* <www.linkedin.com/in/friedpride>
+* <koremp@gmail.com>
+* <www.linkedin.com/in/koremp>
 
 ## Informations
 
@@ -55,22 +55,23 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 
 ### BDSM Profile
 
-- <https://github.com/fried-pride/bdsm-profile>
+- <https://github.com/koremp/bdsm-profile>
 - 2023.3 ~ current
 - React.js, TypeScript, GitHub, Next.js, Material UI, Supabase, Yarn, ESLint, GH Actions(Deploy)
 - User Profile, BDSM Profile
 
 ### FanCheer v2
 
-* https://github.com/fride-pride/fancheer-ts-2
-* 2021.6 ~ 2022.4
+* https://github.com/koremp/fancheer-ts-2
+* 2021.6~2022.4
 * Street Woman Fighter Fan Page
 
 ### FanCheer
 
-* https://github.com/fride-pride/fancheer
+* https://github.com/koremp/fancheer
 * 2020.12~2021.2
 * (G)-IDLE Fan Page
+* Assignment for Codesoom React.js Course
 
 ## Courses
 
@@ -113,29 +114,3 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 ## Et cetera
 
 PyCon 2019 KR Volunteer - 2019.08
-
-
-## Now Playing on YouTube
-
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UC3BBS0-pODIeS8QGX_qtrCg)
-
-
-  
-    Halsey
-  
-  
-  
-    Halsey
-  
-
-
-
-
-  공식 아티스트 채널
-
-
- - Lilith (Diablo IV Anthem)
-
-**Albums**: Not supported
-
-Last updated at 06/20/2023 21:09
