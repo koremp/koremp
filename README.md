@@ -3,7 +3,7 @@
 ## Links
 
 * <koremp@gmail.com>
-* <www.linkedin.com/in/koremp>
+* www.linkedin.com/in/koremp
 
 ## Informations
 
@@ -75,20 +75,20 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 
 ## Courses
 
-### JavaScript for Front-end Develop (feat. VanillaJS)
+### JavaScript for Front-end Develop (feat. VanillaJS), Online
 
-* 2022.9
-* Programmers, 17th Course
-* https://school.programmers.co.kr/learn/courses/17620
+* 2022.09 (4 weeks)
+* Programmers
+* Vanilla JavaScript, ES6+
+* Learned basic web development by using vanilla JavaScript
 
 ### Web Front-end Development with React.js, Online
 
 * 2020.09~2020.12 (3 months)
-* CodeSoom, 2nd Course
-* https://www.codesoom.com/courses/react
+* CodeSoom
 * Learned React.js, Webpack, TDD, JavaScript, Redux, Git, GitHub(PR, Actions - CI/CD)
 
-### Smart Data Expert Course, Daejeon, Off-Line
+### Smart Data Expert Course, Daejeon
 
 * 2019.06~2019.08 (3 months)
 * Korea Productivity Center
