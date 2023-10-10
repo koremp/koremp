@@ -94,11 +94,7 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 * Korea Productivity Center
 * Learned R, Python, MySQL, Data Analysis, Statistics Analysis, etc.
 
-## Educations
-
-### KNOU - Korea National Open University, Computer Science Major
-
-* 2020.07~(current leave of absence)
+## Education
 
 ### Daedeok Software Meister HighSchool, Daejeon, Republic of Korea
 
