@@ -1,4 +1,4 @@
-# Clair - Dokyun Lim
+# Dokyun - Clair - Lim
 
 ## Links
 
