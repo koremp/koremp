@@ -24,9 +24,7 @@
 
 ### Army Duty
 
-Want to work on army duty(Industrial Technical Personnel), reservist
-
-산업기능요원 보충역으로 신규 편입이 가능합니다. 특성화고인 대덕소프트웨어마이스터고를 졸업(2019.01) 했고, 정보처리기능사와 전자캐드기능사를 보유하고 있습니다
+will work on army duty(Industrial Technical Personnel), reservist
 
 ## Career
 
@@ -52,13 +50,6 @@ Want to work on army duty(Industrial Technical Personnel), reservist
 * C#, Windows Form, Design Library, SQL, DB, Visual Studio, Windows
 
 ## Personal Projects
-
-### BDSM Profile
-
-- <https://github.com/koremp/bdsm-profile>
-- 2023.3 ~ current
-- React.js, TypeScript, GitHub, Next.js, Material UI, Supabase, Yarn, ESLint, GH Actions(Deploy)
-- User Profile, BDSM Profile
 
 ### FanCheer v2
 
