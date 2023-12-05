@@ -2,7 +2,7 @@
 
 ## Links
 
-* <koremp@gmail.com>
+* <im.koremp@gmail.com>
 * www.linkedin.com/in/koremp
 
 ## Informations
