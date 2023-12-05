@@ -24,7 +24,7 @@
 
 ### Army Duty
 
-will work on army duty(Industrial Technical Personnel), reservist
+will work on army duty as Social Service Personnel
 
 ## Career
 
